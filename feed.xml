@@ -24,6 +24,18 @@
 
     <!-- EPISODES_START -->
     <item>
+      <title>Daily Briefing — Saturday Mid-Morning Update, March 28, 2026</title>
+      <description>Houthis enter Iran war. 3,100+ No Kings protests planned. Warhorse Studios fires translator for AI. Apple turns 50 Wednesday. Cherry blossoms in Tacoma.</description>
+      <content:encoded><![CDATA[<h2>Weather</h2><p>Jefferson City: frost at dawn (31°F), climbing to 83°F with full sun. Tacoma: 56°F, partly cloudy, rain tomorrow.</p><h2>Texts</h2><p>Katelyn asking about bird sightings — you two have been trading all week. Alex sent The Verge's Apple 50th anniversary product ranking at 11 PM Friday.</p><h2>Iran War Escalation</h2><p>Houthis launched their first military operation in support of Iran — a ballistic missile at Israel. Debris caused fires at a UAE industrial hub. Drone hit Kuwait airport radar. The 10-day Hormuz extension is the framework but the situation is more fragile.</p><h2>No Kings Protests</h2><p>3,100+ demonstrations planned nationwide, organizers expecting millions. Two-thirds of RSVPs from outside major cities, up 40% from June 2025.</p><h2>DHS Shutdown Day 43</h2><p>Congress left for two-week recess without a deal. 61,000 TSA workers have missed three paychecks.</p><h2>AI Replacement Watch</h2><p>Warhorse Studios (Kingdom Come Deliverance 2) fired their Czech-to-English translator and replaced him with AI. No warning. 12K upvotes, 1,500 comments on Reddit.</p><h2>Apple</h2><p>Turns 50 Wednesday. iPhone Air C1X modem matches Qualcomm on speed, wins on latency. 15+ new products expected this year. No iPhone in Lockdown Mode has ever been hacked.</p><h2>From Your Inbox</h2><p>Claude Team: Claude Code can now keep working while you're away. 404 Media: Earth's magnetic field creating cosmic ray void. The Atlantic: America sliding toward illiteracy.</p><h2>Tacoma</h2><p>Cherry blossoms blooming at Wapato Hills — gorgeous photos on r/Tacoma.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-midmorning-audio.mp3" length="1589760" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-midmorning.jpg"/>
+      <guid isPermaLink="false">briefing-2026-03-28-midmorning</guid>
+      <pubDate>Sat, 28 Mar 2026 10:30:00 -0500</pubDate>
+      <itunes:duration>4:30</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Daily Briefing — Saturday Evening Update, March 28, 2026</title>
       <description>Trump extends Hormuz deadline 10 days. Dubai crude hits $126. Iranian Red Crescent reports 1,900 killed. TSA paychecks may arrive Monday. Bank of America settles Epstein lawsuit for $72.5M. Anthropic nears $19B annualized revenue. Apple partners with Google Gemini for Siri overhaul.</description>
       <content:encoded><![CDATA[<h2>Iran War — Evening Update</h2><p>Trump extended the Strait of Hormuz deadline by 10 days — Iran now has until ~April 7 to reopen the strait. Dubai crude benchmark at $126/barrel, up 76% since the war started. Pakistan now acting as intermediary. Iranian Red Crescent: 1,900 killed since Feb 28. In Lebanon, 1,142 killed including 122 children.</p><h2>DHS Shutdown</h2><p>TSA workers should start seeing paychecks as early as Monday, March 30.</p><h2>Financial</h2><p>Bank of America agreed to pay $72.5M to settle Epstein-related lawsuit. Anthropic approaching $19B annualized revenue.</p><h2>Apple</h2><p>Apple partnering with Google to use 1.2T parameter Gemini model for reimagined Siri in iOS 26.4.</p>]]></content:encoded>
