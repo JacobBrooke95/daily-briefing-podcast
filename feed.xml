@@ -24,6 +24,42 @@
 
     <!-- EPISODES_START -->
 
+<item>
+      <title>Deep Dive — AI 2027 Report: Reality Check</title>
+      <description>Deep dive into the AI 2027 forecasting report by Daniel Kokotajlo. How well have its predictions held up? What did the authors revise? And what has 2026 reality actually looked like compared to the forecast?
+
+00:00:00 Introduction &amp; Report Overview
+00:01:30 The Core Thesis
+00:03:15 The Authors' Own Revision
+00:05:00 What They Got Right
+00:07:30 Mixed Results
+00:09:00 Where They Missed
+00:10:00 The DeepSeek Surprise
+00:11:30 Overall Grade &amp; Opinion
+</description>
+      <content:encoded><![CDATA[<h2>AI 2027 Report: Reality Check</h2>
+<p>A deep analysis of the AI 2027 forecasting report, examining predictions vs. 2026 reality.</p>
+
+<h3>What They Got Right</h3>
+<p>Agent development trajectory, coding AI as leading indicator, government remaining behind the curve, and safety risks becoming visible — all largely validated. <a href="https://ai2027.org">Read the original report →</a></p>
+
+<h3>What They Got Wrong</h3>
+<p>Timeline (authors revised from 2027 to ~2030), competitive dynamics (DeepSeek undermined compute-concentration thesis), China prediction (private enterprise, not nationalization), smooth scaling thesis.</p>
+
+<h3>The DeepSeek Surprise</h3>
+<p>An under-resourced Chinese startup training frontier models for ~$6M was not in anyone's scenario planning. <a href="https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/">Latest: Anthropic Mythos leak →</a></p>
+
+<h3>Overall Grade</h3>
+<p>B- for direction, D for timing. The <em>what</em> is right even if the <em>when</em> is wrong.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/ai2027-deep-dive-2026-03-28.mp3" length="4065816" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-ai2027.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-ai2027.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-03-28-ai2027</guid>
+      <pubDate>Sat, 28 Mar 2026 13:56:14 -0500</pubDate>
+      <itunes:duration>10:29</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
 <item>
       <title>Week in Review — March 28, 2026</title>
@@ -47,6 +83,7 @@
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
 <item>
   <title>Saturday Afternoon Roundup — March 28, 2026</title>
   <description>Quick Saturday roundup: Claude subscriptions skyrocketing, Mac Pro discontinued, SoftBank's $40B OpenAI signal, YC Demo Day highlights, and Whoop's health monitoring pivot.</description>
@@ -72,6 +109,7 @@
   <itunes:episode>6</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
 <item>
       <title>Deep Dive — Claude Mythos: Anthropic's Biggest Leak and IPO Plans</title>
       <description>A deep dive into the Claude Mythos leak — Anthropic's new Capybara-tier model with unprecedented cybersecurity capabilities, the Wall Street selloff it triggered, and the October 2026 IPO plans revealed the same day.</description>
@@ -84,6 +122,7 @@
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
 <item>
   <title>Apple TV+ 2026: The Complete Lineup</title>
   <description>A deep dive into everything coming to Apple TV+ in 2026 — returning favorites like Ted Lasso, Silo, and Slow Horses, plus new star-studded originals from Cape Fear to Lucky.</description>
@@ -121,6 +160,7 @@
   <itunes:episode>4</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
 <item>
       <title>Daily Briefing — Saturday Evening Update, March 28, 2026</title>
       <description>Trump extends Hormuz deadline 10 days. Dubai crude hits $126. Iranian Red Crescent reports 1,900 killed. TSA paychecks may arrive Monday. Bank of America settles Epstein lawsuit for $72.5M. Anthropic nears $19B annualized revenue. Apple partners with Google Gemini for Siri overhaul.</description>
@@ -133,6 +173,7 @@
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
 <item>
       <title>Daily Briefing — Saturday Mid-Morning Update, March 28, 2026</title>
       <description>Houthis enter Iran war. 3,100+ No Kings protests planned. Warhorse Studios fires translator for AI. Apple turns 50 Wednesday. Cherry blossoms in Tacoma.</description>
@@ -145,6 +186,7 @@
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
 <item>
       <title>Daily Briefing — Saturday, March 28, 2026</title>
       <description>Houthis enter the Iran war with missile strikes on Israel. Ten US service members injured at Prince Sultan Air Base. Brent crude hits $112.57. DHS shutdown day 43 — Congress leaves on recess. Anthropic appeal deadline Thursday. WA bans non-competes. Apple turns 50 Wednesday. Your week ahead.</description>
@@ -157,6 +199,8 @@
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
+
 <!-- EPISODES_END -->
 
   </channel>

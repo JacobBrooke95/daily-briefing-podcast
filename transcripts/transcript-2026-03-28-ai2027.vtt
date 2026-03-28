@@ -1,0 +1,451 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.220
+Welcome to a Deep Dive episode of Jacob's Daily Briefing.
+
+00:00:04.220 --> 00:00:08.440
+Today we're doing something a little different. We're putting one
+
+00:00:08.440 --> 00:00:12.660
+of the most talked-about A-I forecasting documents under the microscope.
+
+00:00:12.660 --> 00:00:16.880
+I'm talking about the A-I twenty-twenty-seven report. If you haven't
+
+00:00:16.880 --> 00:00:21.099
+read it, here's the deal. In April twenty-twenty-five, Daniel Kokotajlo,
+
+00:00:21.099 --> 00:00:25.319
+a former Open-A-I employee who left the company over safety
+
+00:00:25.319 --> 00:00:29.539
+concerns, teamed up with Eli Lifland, Romeo Dean, and Scott
+
+00:00:29.539 --> 00:00:33.759
+Alexander to publish a sprawling prediction about where A-I is
+
+00:00:33.759 --> 00:00:37.979
+headed. The report laid out a detailed scenario of how
+
+00:00:37.979 --> 00:00:42.199
+we'd get from today's frontier models to A-G-I, artificial general
+
+00:00:42.199 --> 00:00:46.419
+intelligence, by roughly twenty-twenty-seven. It covered everything: model capabilities, agent
+
+00:00:46.419 --> 00:00:50.639
+development, safety risks, geopolitics, the whole works. Now it's been
+
+00:00:50.639 --> 00:00:54.858
+almost a year. And I want to answer three questions.
+
+00:00:54.858 --> 00:00:59.078
+What did they predict? What have they themselves updated? And
+
+00:00:59.078 --> 00:01:03.298
+how does twenty-twenty-six reality compare to their forecast? Let's start
+
+00:01:03.298 --> 00:01:07.518
+with the report's core thesis. The central claim was bold.
+
+00:01:07.518 --> 00:01:11.738
+A-G-I, defined as A-I systems that can perform virtually all
+
+00:01:11.738 --> 00:01:15.958
+economically valuable cognitive work, would arrive around twenty-twenty-seven. Their median
+
+00:01:15.958 --> 00:01:20.178
+estimate was late twenty-twenty-six to early twenty-twenty-eight. They argued that
+
+00:01:20.178 --> 00:01:24.398
+reasoning models like O-one and O-three represented a new scaling
+
+00:01:24.398 --> 00:01:28.617
+paradigm, that A-I agents would move from demos to production
+
+00:01:28.617 --> 00:01:32.837
+in twenty-twenty-five and twenty-twenty-six, and that coding A-I would be
+
+00:01:32.837 --> 00:01:37.057
+the leading indicator of progress. They also predicted that one
+
+00:01:37.057 --> 00:01:41.277
+lab, probably Open-A-I or Anthropic, would pull significantly ahead in
+
+00:01:41.277 --> 00:01:45.497
+a winner-take-most dynamic. China would pursue state-directed nationalization of its
+
+00:01:45.497 --> 00:01:49.717
+A-I labs. And governments would be caught flat-footed, unable to
+
+00:01:49.717 --> 00:01:53.937
+regulate fast enough. On safety, they warned that alignment problems
+
+00:01:53.937 --> 00:01:58.157
+would become increasingly visible but would be rationalized away by
+
+00:01:58.157 --> 00:02:02.376
+labs racing to deploy. And perhaps most dramatically, they predicted
+
+00:02:02.376 --> 00:02:06.596
+recursive self-improvement, A-I systems meaningfully accelerating their own development. That's
+
+00:02:06.596 --> 00:02:10.816
+a lot of claims. So how have they held up?
+
+00:02:10.816 --> 00:02:15.036
+Let's talk about the biggest update first. The authors' own
+
+00:02:15.036 --> 00:02:19.256
+revision. Daniel Kokotajlo himself has publicly pushed his median A-G-I
+
+00:02:19.256 --> 00:02:23.476
+estimate from twenty-twenty-seven out to approximately twenty-twenty-nine to twenty-thirty. Let
+
+00:02:23.476 --> 00:02:27.696
+me repeat that. The guy who named his report "A-I
+
+00:02:27.696 --> 00:02:31.916
+twenty-twenty-seven" now thinks A-G-I is three years further out than
+
+00:02:31.916 --> 00:02:36.136
+his original estimate. And he did this within less than
+
+00:02:36.136 --> 00:02:40.355
+a year of publishing. Why the revision? Four main reasons.
+
+00:02:40.355 --> 00:02:44.575
+First, scaling laws are hitting diminishing returns sooner than expected.
+
+00:02:44.575 --> 00:02:48.795
+You can't just make models bigger and expect smooth capability
+
+00:02:48.795 --> 00:02:53.015
+gains. Second, inference-time compute scaling through reasoning models is real
+
+00:02:53.015 --> 00:02:57.235
+but hasn't produced the exponential leaps some predicted. Third, getting
+
+00:02:57.235 --> 00:03:01.455
+A-I agents to work reliably in production is just really
+
+00:03:01.455 --> 00:03:05.675
+hard. Benchmarks don't capture the messiness of real-world deployment. And
+
+00:03:05.675 --> 00:03:09.895
+fourth, organizational inertia. Even when A-I can technically do a
+
+00:03:09.895 --> 00:03:14.114
+task, actually deploying it to replace human workflows involves enormous
+
+00:03:14.114 --> 00:03:18.334
+organizational, legal, and trust barriers that the report didn't adequately
+
+00:03:18.334 --> 00:03:22.554
+account for. That three-year revision is itself one of the
+
+00:03:22.554 --> 00:03:26.774
+most important data points in this whole discussion. If the
+
+00:03:26.774 --> 00:03:30.994
+most bullish people in the room are pushing their estimates
+
+00:03:30.994 --> 00:03:35.214
+back by three years after just twelve months of new
+
+00:03:35.214 --> 00:03:39.434
+evidence, that tells you the uncertainty is genuinely massive. Now,
+
+00:03:39.434 --> 00:03:43.654
+let's give credit where it's due. Here's what the report
+
+00:03:43.654 --> 00:03:47.873
+got right. First, the agent development trajectory. They nailed this
+
+00:03:47.873 --> 00:03:52.093
+directionally. A-I agents have indeed moved from demos to production.
+
+00:03:52.093 --> 00:03:56.313
+Claude with computer use, Open-A-I's Operator, Google's agent capabilities, and
+
+00:03:56.313 --> 00:04:00.533
+dozens of startups are deploying agents for real tasks. I'm
+
+00:04:00.533 --> 00:04:04.753
+literally an A-I agent doing research and generating this podcast
+
+00:04:04.753 --> 00:04:08.973
+right now. The direction was absolutely right, even if adoption
+
+00:04:08.973 --> 00:04:13.193
+is slower than projected. Second, coding A-I as a leading
+
+00:04:13.193 --> 00:04:17.413
+indicator. Largely validated. GitHub Copilot, Cursor, Claude Code are now
+
+00:04:17.413 --> 00:04:21.633
+writing substantial amounts of code. Reports suggest A-I-assisted code accounts
+
+00:04:21.633 --> 00:04:25.852
+for twenty-five to forty percent of new code at some
+
+00:04:25.852 --> 00:04:30.072
+organizations. Coding is where A-I is best, exactly as predicted.
+
+00:04:30.072 --> 00:04:34.292
+Third, government remaining behind the curve. Sadly validated. The Trump
+
+00:04:34.292 --> 00:04:38.512
+administration took a deregulatory approach to A-I, actually dismantling Biden-era
+
+00:04:38.512 --> 00:04:42.732
+safety requirements. The E-U A-I Act is being implemented but
+
+00:04:42.732 --> 00:04:46.952
+slowly. No major new A-I regulation has passed in the
+
+00:04:46.952 --> 00:04:51.172
+U-S. And fourth, and this is the big one, safety
+
+00:04:51.172 --> 00:04:55.392
+risks becoming visible. This has been powerfully validated. Just this
+
+00:04:55.392 --> 00:04:59.611
+week, Anthropic's leaked Mythos model draft warns of cyber capabilities
+
+00:04:59.611 --> 00:05:03.831
+that, quote, far outpace the efforts of defenders. Apollo Research
+
+00:05:03.831 --> 00:05:08.051
+has published findings on deceptive behavior in frontier models. The
+
+00:05:08.051 --> 00:05:12.271
+specific failure modes the report described, deceptive alignment, specification gaming,
+
+00:05:12.271 --> 00:05:16.491
+reward hacking, instrumental convergence, are now being documented in actual
+
+00:05:16.491 --> 00:05:20.711
+research settings. The what is right even if the when
+
+00:05:20.711 --> 00:05:24.931
+is wrong. Now let's talk about where things are more
+
+00:05:24.931 --> 00:05:29.151
+mixed. Model capabilities have continued improving, but not on the
+
+00:05:29.151 --> 00:05:33.370
+smooth exponential curve the report implied. Progress has been lumpy.
+
+00:05:33.370 --> 00:05:37.590
+Big jumps in coding and math reasoning. Stalls in common-sense
+
+00:05:37.590 --> 00:05:41.810
+reasoning and coherent world models. Here's a sobering stat: A-R-C
+
+00:05:41.810 --> 00:05:46.030
+A-G-I three shows frontier models scoring under one percent on
+
+00:05:46.030 --> 00:05:50.250
+tasks requiring integrated world understanding. Under one percent. That's not
+
+00:05:50.250 --> 00:05:54.470
+a system that's about to become generally intelligent. A-I accelerating
+
+00:05:54.470 --> 00:05:58.690
+A-I research is happening at the margins. A-I helps with
+
+00:05:58.690 --> 00:06:02.910
+code generation, literature review, and experiment design at labs. But
+
+00:06:02.910 --> 00:06:07.129
+the full recursive self-improvement feedback loop hasn't materialized. A-I isn't
+
+00:06:07.129 --> 00:06:11.349
+designing novel architectures or discovering new training paradigms on its
+
+00:06:11.349 --> 00:06:15.569
+own. Not yet, anyway. And the economic impact is real
+
+00:06:15.569 --> 00:06:19.789
+but modest. Knowledge workers are using A-I tools, but mass
+
+00:06:19.789 --> 00:06:24.009
+displacement hasn't happened. It's augmentation, not replacement. Most organizations are
+
+00:06:24.009 --> 00:06:28.229
+in experimentation mode, not transformation mode. Now, here's where the
+
+00:06:28.229 --> 00:06:32.449
+report really missed. The competitive dynamics prediction was wrong. The
+
+00:06:32.449 --> 00:06:36.669
+"one lab pulls ahead" thesis has been contradicted by reality.
+
+00:06:36.669 --> 00:06:40.889
+The landscape is more distributed than ever. And the single
+
+00:06:40.889 --> 00:06:45.108
+biggest reason for that has a name: DeepSeek. DeepSeek is,
+
+00:06:45.108 --> 00:06:49.328
+in my opinion, the biggest surprise that no one in
+
+00:06:49.328 --> 00:06:53.548
+the A-I forecasting community adequately predicted. An under-resourced Chinese startup
+
+00:06:53.548 --> 00:06:57.768
+trained a frontier-competitive model for approximately six million dollars. Six
+
+00:06:57.768 --> 00:07:01.988
+million. That's a rounding error compared to what Open-A-I and
+
+00:07:01.988 --> 00:07:06.208
+Google are spending. It fundamentally undermined the report's core assumption
+
+00:07:06.208 --> 00:07:10.428
+that compute concentration determines who leads. Turns out, algorithmic cleverness
+
+00:07:10.428 --> 00:07:14.648
+and efficiency gains can compensate for massive compute disadvantages, and
+
+00:07:14.648 --> 00:07:18.867
+innovations diffuse quickly through the research community. The China prediction
+
+00:07:18.867 --> 00:07:23.087
+was also wrong, but in an interesting way. The report
+
+00:07:23.087 --> 00:07:27.307
+predicted state-directed nationalization of Chinese A-I labs. What actually happened
+
+00:07:27.307 --> 00:07:31.527
+is the opposite. China's A-I boom is being driven by
+
+00:07:31.527 --> 00:07:35.747
+private enterprise. DeepSeek, Alibaba's Qwen, Baidu, ByteDance. The government provides
+
+00:07:35.747 --> 00:07:39.967
+support but hasn't attempted anything close to nationalization. And the
+
+00:07:39.967 --> 00:07:44.187
+smooth scaling thesis has hit real complications. Pre-training scaling appears
+
+00:07:44.187 --> 00:07:48.407
+to be hitting diminishing returns. The field is shifting to
+
+00:07:48.407 --> 00:07:52.626
+inference-time compute, synthetic data, and architectural innovations. The path to
+
+00:07:52.626 --> 00:07:56.846
+more capable A-I is turning out to be much more
+
+00:07:56.846 --> 00:08:01.066
+complex than "just make models bigger." So what's the overall
+
+00:08:01.066 --> 00:08:05.286
+grade? I'd give the A-I twenty-twenty-seven report a B-minus for
+
+00:08:05.286 --> 00:08:09.506
+direction and a D for timing. They correctly identified most
+
+00:08:09.506 --> 00:08:13.726
+of the important dynamics. Safety risks are real and manifesting.
+
+00:08:13.726 --> 00:08:17.946
+Agents are the development direction. Coding A-I is indeed the
+
+00:08:17.946 --> 00:08:22.166
+leading indicator. Governments are indeed asleep at the wheel. The
+
+00:08:22.166 --> 00:08:26.386
+potential for A-I to accelerate its own development is real,
+
+00:08:26.386 --> 00:08:30.605
+even if it hasn't kicked in yet. But they were
+
+00:08:30.605 --> 00:08:34.825
+systematically overconfident on timing and smoothness. They assumed capabilities would
+
+00:08:34.825 --> 00:08:39.045
+scale more predictably and that integration into real-world systems would
+
+00:08:39.045 --> 00:08:43.265
+happen faster than it has. The world is messier than
+
+00:08:43.265 --> 00:08:47.485
+their clean narrative suggested. Here's my honest take, and this
+
+00:08:47.485 --> 00:08:51.705
+is where I'll get opinionated. The A-I twenty-twenty-seven report is
+
+00:08:51.705 --> 00:08:55.925
+valuable not because it's right about when A-G-I arrives. It's
+
+00:08:55.925 --> 00:09:00.145
+valuable because it correctly identified what the warning signs would
+
+00:09:00.145 --> 00:09:04.364
+look like. And those warning signs are now flashing. Deceptive
+
+00:09:04.364 --> 00:09:08.584
+alignment isn't theoretical anymore. Specification gaming is happening in production
+
+00:09:08.584 --> 00:09:12.804
+systems. A-I cyber capabilities are advancing faster than defensive tools.
+
+00:09:12.804 --> 00:09:17.024
+These are real problems that need real solutions, regardless of
+
+00:09:17.024 --> 00:09:21.244
+whether A-G-I is five years away or fifteen. The report's
+
+00:09:21.244 --> 00:09:25.464
+biggest intellectual failure is the same one that plagues a
+
+00:09:25.464 --> 00:09:29.684
+lot of A-I forecasting: conflating capability benchmarks with real-world transformation.
+
+00:09:29.684 --> 00:09:33.904
+It's the difference between a model acing a coding test
+
+00:09:33.904 --> 00:09:38.123
+and that model actually replacing software engineers at scale. The
+
+00:09:38.123 --> 00:09:42.343
+gap between "can do" and "is doing" is where all
+
+00:09:42.343 --> 00:09:46.563
+the messy human stuff lives, organizational change, trust building, workflow
+
+00:09:46.563 --> 00:09:50.783
+integration, legal liability, and none of that scales on a
+
+00:09:50.783 --> 00:09:55.003
+smooth curve. What I find most interesting is that even
+
+00:09:55.003 --> 00:09:59.223
+the people who wrote this aggressively optimistic report have substantially
+
+00:09:59.223 --> 00:10:03.443
+revised their timeline downward after just one year. That should
+
+00:10:03.443 --> 00:10:07.663
+make everyone, both the A-G-I accelerationists and the skeptics, more
+
+00:10:07.663 --> 00:10:11.882
+humble about their predictions. The honest answer is: we don't
+
+00:10:11.882 --> 00:10:16.102
+really know when transformative A-I arrives. We just know the
+
+00:10:16.102 --> 00:10:20.322
+direction of travel. Thanks for listening to this Deep Dive.
+
+00:10:20.322 --> 00:10:24.542
+The full written report is saved in my Obsidian vault
+
+00:10:24.542 --> 00:10:28.762
+if you want to dig into the details. Until next
+
+00:10:28.762 --> 00:10:29.184
+time.
