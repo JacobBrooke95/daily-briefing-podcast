@@ -23,6 +23,43 @@
     <itunes:type>episodic</itunes:type>
 
     <!-- EPISODES_START -->
+<item>
+  <title>Apple TV+ 2026: The Complete Lineup</title>
+  <description>A deep dive into everything coming to Apple TV+ in 2026 — returning favorites like Ted Lasso, Silo, and Slow Horses, plus new star-studded originals from Cape Fear to Lucky.</description>
+  <content:encoded><![CDATA[
+<h2>Returning Series</h2>
+<p><strong>Already premiered:</strong> Hijack S2, Drops of God S2, Tehran S3, Shrinking S3, The Last Thing He Told Me S2, Monarch: Legacy of Monsters S2</p>
+<p><strong>Spring/Summer:</strong> For All Mankind S5 (Mar 27), Your Friends &amp; Neighbors S2 (Apr 3), Criminal Record S2 (Apr 22), Sugar S2 (Jun 19), Ted Lasso S4 (Summer), Silo S3 (Summer)</p>
+<p><strong>Fall:</strong> Slow Horses S6, The Morning Show S5</p>
+
+<h2>New Original Series</h2>
+<p><strong>Eternity</strong> (Feb 13) — Elizabeth Olsen, Miles Teller. Afterlife romantic comedy. <a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/">Read more →</a></p>
+<p><strong>Imperfect Women</strong> (Mar 18) — Elisabeth Moss, Kerry Washington, Kate Mara. Psychological thriller. <a href="https://collider.com/most-anticipated-apple-tv-shows-2026-ranked/">Read more →</a></p>
+<p><strong>Margo's Got Money Troubles</strong> (Apr 15) — Elle Fanning, Michelle Pfeiffer, Nicole Kidman. David E. Kelley comedy-drama. <a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/">Read more →</a></p>
+<p><strong>Widow's Bay</strong> (Apr 29) — Matthew Rhys. Horror-comedy. <a href="https://www.thewrap.com/creative-content/tv-shows/apple-tv-film-series-slate-2026/">Read more →</a></p>
+<p><strong>Maximum Pleasure Guaranteed</strong> (May 20) — Tatiana Maslany. Dark comedy thriller. <a href="https://www.thewrap.com/creative-content/tv-shows/apple-tv-film-series-slate-2026/">Read more →</a></p>
+<p><strong>Cape Fear</strong> (Jun 5) — Javier Bardem, Amy Adams. Scorsese reimagining. <a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/">Read more →</a></p>
+<p><strong>Lucky</strong> (Jul 15) — Anya Taylor-Joy, Annette Bening, Timothy Olyphant. Limited series. <a href="https://collider.com/most-anticipated-apple-tv-shows-2026-ranked/">Read more →</a></p>
+
+<h2>Notable Films</h2>
+<p>Outcome (Apr 10) — Keanu Reeves, Cameron Diaz, Martin Scorsese</p>
+<p>The Dink (Jul 24) — Pickleball comedy with Ben Stiller</p>
+<p>Mayday (Sep 4) — Ryan Reynolds, Kenneth Branagh</p>
+<p>Matchbox The Movie (Oct 9) — John Cena</p>
+<p>Way of the Warrior Kid (Nov 20) — Chris Pratt</p>
+
+<h2>What's NOT Coming in 2026</h2>
+<p>Severance S3 — Filming starts spring 2026, likely mid-2027 premiere</p>
+<p>Bad Sisters S3 — Not renewed; creator says S2 was a natural endpoint</p>
+  ]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/apple-tv-2026.mp3" length="2246400" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28.jpg"/>
+  <guid isPermaLink="false">custom-2026-03-28-apple-tv-lineup</guid>
+  <pubDate>Sat, 28 Mar 2026 18:00:00 -0500</pubDate>
+  <itunes:duration>5:55</itunes:duration>
+  <itunes:episode>5</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
     <item>
       <title>Deep Dive — Claude Mythos: Anthropic's Biggest Leak and IPO Plans</title>
       <description>A deep dive into the Claude Mythos leak — Anthropic's new Capybara-tier model with unprecedented cybersecurity capabilities, the Wall Street selloff it triggered, and the October 2026 IPO plans revealed the same day.</description>
