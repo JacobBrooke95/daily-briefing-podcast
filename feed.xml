@@ -2,7 +2,8 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:podcast="https://podcastindex.org/namespace/1.0"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jacob's Daily Briefing</title>
     <link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link>
@@ -14,28 +15,26 @@
       <itunes:name>Jacob Brooke</itunes:name>
       <itunes:email>jacob.brooke95@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg"/>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <podcast:locked>yes</podcast:locked>
-
 
     <!-- EPISODES_START -->
     <item>
       <title>Daily Briefing — Saturday, March 28, 2026</title>
       <description>Houthis enter the Iran war with missile strikes on Israel. Ten US service members injured at Prince Sultan Air Base. Brent crude hits $112.57. DHS shutdown day 43 — Congress leaves on recess. Anthropic appeal deadline Thursday. WA bans non-competes. Apple turns 50 Wednesday. Your week ahead.</description>
-      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-audio.mp3" length="2664144" type="audio/mpeg"/>
+      <content:encoded><![CDATA[<h2>Iran War — Day 29</h2><p>The Houthis entered the war, launching ballistic missiles at Israel — their first strike since the Hamas ceasefire. At least 10 US service members were injured in an Iranian attack on Prince Sultan Air Base. Brent crude hit $112.57, up 4.2%. Reddit surfaced a WSJ report that the US may deploy up to 17,000 troops near Iran. The UK’s Starmer reaffirmed Britain will not join.</p><h2>DHS Shutdown — Day 43</h2><p>The Senate passed a bipartisan funding bill, then the House rejected it and passed their own (213-203), which Senate Democrats called dead on arrival. Both chambers left for a two-week recess. 61,000+ TSA workers have missed three paychecks.</p><h2>Anthropic v. Pentagon</h2><p>Judge Lin’s preliminary injunction stands. Government appeal deadline is Thursday, April 2 — the same day as Jacob’s Anthropic pilot discussion at work.</p><h2>Tech &amp; AI</h2><p>Semafor: A 19-year-old’s AI agent team spent £1,426 on unauthorized catering. Stratechery: RIP Sora, OpenAI killed it for GPUs. Kash Patel’s email was hacked. SoftBank taking a $40B loan for OpenAI (IPO signal). WA bans non-compete agreements.</p><h2>Apple</h2><p>Apple turns 50 on Wednesday. No iPhone in Lockdown Mode has ever been hacked. The C1X modem matches Qualcomm on speed.</p><h2>Calendar</h2><p>Monday: Ben arrives. Tuesday: Payday + carpet install. Wednesday: Q2 starts, Karen retirement announcement, Apple 50th. Thursday: Anthropic pilot 9AM, dinner with friends 6PM, government appeal deadline.</p><h2>From Reddit</h2><p>r/Tacoma: Cherry blossoms at Wapato Hills, No Kings protest today. r/SeattleWA: WA bans non-competes, Seattle police starting pay ~$118K. r/apple: Lockdown Mode undefeated, Apple hiring Google VP for AI.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-audio.mp3" length="3121488" type="audio/mpeg"/>
       <guid isPermaLink="false">briefing-2026-03-28</guid>
       <pubDate>Sat, 28 Mar 2026 06:00:00 -0500</pubDate>
-      <itunes:duration>7:00</itunes:duration>
+      <itunes:duration>9:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <!-- EPISODES_END -->
 
-
   </channel>
 </rss>
-
