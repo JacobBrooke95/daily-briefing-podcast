@@ -24,6 +24,54 @@
 
     <!-- EPISODES_START -->
 
+
+<item>
+      <title>Week in Review — March 28, 2026</title>
+      <description>Weekly briefing covering the week of March 22–28, 2026. Anthropic wins its landmark court case, Iran war escalates with Houthi entry, DHS shutdown worsens, and the week ahead is loaded.
+
+00:00:00 Opening — The Week That Was
+00:02:00 Highlights and Wins
+00:03:15 Stories That Evolved
+00:07:30 Vault Activity
+00:08:30 Relationship Check
+00:09:45 The Week Ahead
+00:11:00 What to Watch
+00:12:00 Closing</description>
+      <content:encoded><![CDATA[<h2>The Week That Was</h2><p>This was Anthropic's week — a 43-page federal injunction, a leaked next-gen model (Claude Mythos), iOS 27 Siri integration, and $19B ARR. Meanwhile, the Iran war escalated: Houthis entered the conflict, oil hit $112.57, and Congress left for recess while 61,000 TSA workers remain unpaid.</p><h2>Anthropic v. Pentagon</h2><p>Judge Rita Lin issued a preliminary injunction calling the Pentagon's designation "classic illegal First Amendment retaliation" and "Orwellian." Federal agencies can resume using Claude. The government has until April 2 to appeal. <a href="https://www.cnbc.com/2026/03/26/anthropic-wins-preliminary-injunction-pentagon.html">CNBC coverage →</a></p><h2>Iran War — Days 23–29</h2><p>The week opened with a 48-hour ultimatum and ended with Houthis firing on Israel. Oil surged from ~$102 to $112.57. Goldman Sachs says prices could stay elevated through 2027. The IEA called it worse than the 1970s oil shocks. <a href="https://www.axios.com/2026/03/27/vance-iran-peace-talks">Axios: Vance takes lead →</a></p><h2>DHS Shutdown — Days 40–43</h2><p>Senate passed bipartisan funding at 2:20 AM Friday. House rejected it, passed their own bill, then both chambers left for two-week recess. No resolution before mid-April.</p><h2>Apple</h2><p>iOS 26.4 dropped with Playlist Playground and new emoji. AirPods Max 2 pre-orders opened. WWDC confirmed June 8. Bloomberg: iOS 27 will open Siri to Claude, Gemini via Extensions system. Apple turns 50 on Wednesday.</p><h2>The Week Ahead</h2><p>Ben arrives Monday for carpet install Tuesday. Karen's retirement announcement Wednesday (Q2 starts). Anthropic pilot discussion Thursday morning — same day as the government's appeal deadline and dinner with friends.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/weekly-briefing-2026-03-28.mp3" length="5027051" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-weekly-2026-03-28.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-weekly-2026-03-28.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">weekly-2026-03-28</guid>
+      <pubDate>Sat, 28 Mar 2026 12:15:00 -0500</pubDate>
+      <itunes:duration>13:08</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+<item>
+  <title>Saturday Afternoon Roundup — March 28, 2026</title>
+  <description>Quick Saturday roundup: Claude subscriptions skyrocketing, Mac Pro discontinued, SoftBank's $40B OpenAI signal, YC Demo Day highlights, and Whoop's health monitoring pivot.</description>
+  <content:encoded><![CDATA[<h2>Claude's Paying Users Have More Than Doubled</h2>
+<p>Anthropic reports explosive consumer growth in 2026, driven by Claude Code and smart marketing. <a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/">Read more →</a></p>
+
+<h2>Apple Discontinues the Mac Pro</h2>
+<p>The Mac Pro has been pulled from Apple's website with no replacement announced. The Mac Studio effectively ate its market. <a href="https://www.macstories.net/linked/apple-discontinues-the-mac-pro/">Read more →</a></p>
+
+<h2>SoftBank's $40B Loan Signals OpenAI IPO</h2>
+<p>A 12-month unsecured loan to fund OpenAI investment suggests lenders expect a public offering within the year. <a href="https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/">Read more →</a></p>
+
+<h2>YC Demo Day Highlights</h2>
+<p>From moon hotels to cattle herding — the Winter 2026 batch covered a wild range. <a href="https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/">Read more →</a></p>
+
+<h2>Whoop Pivots to Health Monitoring</h2>
+<p>The wearable company wants to move beyond elite athletes to become a life-saving health monitor for everyone. <a href="https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/">Read more →</a></p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/saturday-afternoon-2026-03-28.mp3" length="925409" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-afternoon.jpg"/>
+  <guid isPermaLink="false">briefing-2026-03-28-afternoon</guid>
+  <pubDate>Sat, 28 Mar 2026 11:00:00 -0500</pubDate>
+  <itunes:duration>1:58</itunes:duration>
+  <itunes:episode>6</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
       <title>Deep Dive — Claude Mythos: Anthropic's Biggest Leak and IPO Plans</title>
       <description>A deep dive into the Claude Mythos leak — Anthropic's new Capybara-tier model with unprecedented cybersecurity capabilities, the Wall Street selloff it triggered, and the October 2026 IPO plans revealed the same day.</description>
@@ -31,12 +79,11 @@
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/mythos-deep-dive-2026-03-28.mp3" length="1504800" type="audio/mpeg"/>
       <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-mythos-2026-03-28.jpg"/>
       <guid isPermaLink="false">custom-2026-03-28-mythos-deep-dive</guid>
-      <pubDate>Sat, 28 Mar 2026 20:00:00 -0500</pubDate>
+      <pubDate>Sat, 28 Mar 2026 09:45:00 -0500</pubDate>
       <itunes:duration>4:00</itunes:duration>
-      <itunes:episode>7</itunes:episode>
+      <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <item>
   <title>Apple TV+ 2026: The Complete Lineup</title>
   <description>A deep dive into everything coming to Apple TV+ in 2026 — returning favorites like Ted Lasso, Silo, and Slow Horses, plus new star-studded originals from Cape Fear to Lucky.</description>
@@ -69,12 +116,11 @@
   <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/apple-tv-2026.mp3" length="2246400" type="audio/mpeg"/>
   <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28.jpg"/>
   <guid isPermaLink="false">custom-2026-03-28-apple-tv-lineup</guid>
-  <pubDate>Sat, 28 Mar 2026 18:00:00 -0500</pubDate>
+  <pubDate>Sat, 28 Mar 2026 09:30:00 -0500</pubDate>
   <itunes:duration>5:55</itunes:duration>
-  <itunes:episode>6</itunes:episode>
+  <itunes:episode>4</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
-
 <item>
       <title>Daily Briefing — Saturday Evening Update, March 28, 2026</title>
       <description>Trump extends Hormuz deadline 10 days. Dubai crude hits $126. Iranian Red Crescent reports 1,900 killed. TSA paychecks may arrive Monday. Bank of America settles Epstein lawsuit for $72.5M. Anthropic nears $19B annualized revenue. Apple partners with Google Gemini for Siri overhaul.</description>
@@ -82,38 +128,11 @@
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-evening-audio.mp3" length="841536" type="audio/mpeg"/>
       <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg"/>
       <guid isPermaLink="false">briefing-2026-03-28-evening</guid>
-      <pubDate>Sat, 28 Mar 2026 18:00:00 -0500</pubDate>
+      <pubDate>Sat, 28 Mar 2026 09:15:00 -0500</pubDate>
       <itunes:duration>2:24</itunes:duration>
-      <itunes:episode>5</itunes:episode>
+      <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
-<item>
-  <title>Saturday Afternoon Roundup — March 28, 2026</title>
-  <description>Quick Saturday roundup: Claude subscriptions skyrocketing, Mac Pro discontinued, SoftBank's $40B OpenAI signal, YC Demo Day highlights, and Whoop's health monitoring pivot.</description>
-  <content:encoded><![CDATA[<h2>Claude's Paying Users Have More Than Doubled</h2>
-<p>Anthropic reports explosive consumer growth in 2026, driven by Claude Code and smart marketing. <a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/">Read more →</a></p>
-
-<h2>Apple Discontinues the Mac Pro</h2>
-<p>The Mac Pro has been pulled from Apple's website with no replacement announced. The Mac Studio effectively ate its market. <a href="https://www.macstories.net/linked/apple-discontinues-the-mac-pro/">Read more →</a></p>
-
-<h2>SoftBank's $40B Loan Signals OpenAI IPO</h2>
-<p>A 12-month unsecured loan to fund OpenAI investment suggests lenders expect a public offering within the year. <a href="https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/">Read more →</a></p>
-
-<h2>YC Demo Day Highlights</h2>
-<p>From moon hotels to cattle herding — the Winter 2026 batch covered a wild range. <a href="https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/">Read more →</a></p>
-
-<h2>Whoop Pivots to Health Monitoring</h2>
-<p>The wearable company wants to move beyond elite athletes to become a life-saving health monitor for everyone. <a href="https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/">Read more →</a></p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/saturday-afternoon-2026-03-28.mp3" length="925409" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-afternoon.jpg"/>
-  <guid isPermaLink="false">briefing-2026-03-28-afternoon</guid>
-  <pubDate>Sat, 28 Mar 2026 14:00:00 -0500</pubDate>
-  <itunes:duration>1:58</itunes:duration>
-  <itunes:episode>4</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-
 <item>
       <title>Daily Briefing — Saturday Mid-Morning Update, March 28, 2026</title>
       <description>Houthis enter Iran war. 3,100+ No Kings protests planned. Warhorse Studios fires translator for AI. Apple turns 50 Wednesday. Cherry blossoms in Tacoma.</description>
@@ -121,35 +140,11 @@
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-midmorning-audio.mp3" length="1589760" type="audio/mpeg"/>
       <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-midmorning.jpg"/>
       <guid isPermaLink="false">briefing-2026-03-28-midmorning</guid>
-      <pubDate>Sat, 28 Mar 2026 10:30:00 -0500</pubDate>
+      <pubDate>Sat, 28 Mar 2026 08:45:00 -0500</pubDate>
       <itunes:duration>4:30</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-<item>
-      <title>Week in Review — March 28, 2026</title>
-      <description>Weekly briefing covering the week of March 22–28, 2026. Anthropic wins its landmark court case, Iran war escalates with Houthi entry, DHS shutdown worsens, and the week ahead is loaded.
-
-00:00:00 Opening — The Week That Was
-00:02:00 Highlights and Wins
-00:03:15 Stories That Evolved
-00:07:30 Vault Activity
-00:08:30 Relationship Check
-00:09:45 The Week Ahead
-00:11:00 What to Watch
-00:12:00 Closing</description>
-      <content:encoded><![CDATA[<h2>The Week That Was</h2><p>This was Anthropic's week — a 43-page federal injunction, a leaked next-gen model (Claude Mythos), iOS 27 Siri integration, and $19B ARR. Meanwhile, the Iran war escalated: Houthis entered the conflict, oil hit $112.57, and Congress left for recess while 61,000 TSA workers remain unpaid.</p><h2>Anthropic v. Pentagon</h2><p>Judge Rita Lin issued a preliminary injunction calling the Pentagon's designation "classic illegal First Amendment retaliation" and "Orwellian." Federal agencies can resume using Claude. The government has until April 2 to appeal. <a href="https://www.cnbc.com/2026/03/26/anthropic-wins-preliminary-injunction-pentagon.html">CNBC coverage →</a></p><h2>Iran War — Days 23–29</h2><p>The week opened with a 48-hour ultimatum and ended with Houthis firing on Israel. Oil surged from ~$102 to $112.57. Goldman Sachs says prices could stay elevated through 2027. The IEA called it worse than the 1970s oil shocks. <a href="https://www.axios.com/2026/03/27/vance-iran-peace-talks">Axios: Vance takes lead →</a></p><h2>DHS Shutdown — Days 40–43</h2><p>Senate passed bipartisan funding at 2:20 AM Friday. House rejected it, passed their own bill, then both chambers left for two-week recess. No resolution before mid-April.</p><h2>Apple</h2><p>iOS 26.4 dropped with Playlist Playground and new emoji. AirPods Max 2 pre-orders opened. WWDC confirmed June 8. Bloomberg: iOS 27 will open Siri to Claude, Gemini via Extensions system. Apple turns 50 on Wednesday.</p><h2>The Week Ahead</h2><p>Ben arrives Monday for carpet install Tuesday. Karen's retirement announcement Wednesday (Q2 starts). Anthropic pilot discussion Thursday morning — same day as the government's appeal deadline and dinner with friends.</p>]]></content:encoded>
-      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/weekly-briefing-2026-03-28.mp3" length="5027051" type="audio/mpeg"/>
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-weekly-2026-03-28.jpg"/>
-      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-weekly-2026-03-28.vtt" type="text/vtt" language="en"/>
-      <guid isPermaLink="false">weekly-2026-03-28</guid>
-      <pubDate>Sat, 28 Mar 2026 07:00:00 -0500</pubDate>
-      <itunes:duration>13:08</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <item>
       <title>Daily Briefing — Saturday, March 28, 2026</title>
       <description>Houthis enter the Iran war with missile strikes on Israel. Ten US service members injured at Prince Sultan Air Base. Brent crude hits $112.57. DHS shutdown day 43 — Congress leaves on recess. Anthropic appeal deadline Thursday. WA bans non-competes. Apple turns 50 Wednesday. Your week ahead.</description>
@@ -157,12 +152,11 @@
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-audio.mp3" length="3121488" type="audio/mpeg"/>
       <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg"/>
       <guid isPermaLink="false">briefing-2026-03-28</guid>
-      <pubDate>Sat, 28 Mar 2026 06:00:00 -0500</pubDate>
+      <pubDate>Sat, 28 Mar 2026 06:01:00 -0500</pubDate>
       <itunes:duration>9:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <!-- EPISODES_END -->
 
   </channel>
