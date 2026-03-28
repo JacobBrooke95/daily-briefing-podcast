@@ -25,6 +25,47 @@
     <!-- EPISODES_START -->
 
 <item>
+      <title>Deep Dive — AI 2027 Report: Reality Check (Kokoro TTS Version)</title>
+      <description>Same deep dive into the AI 2027 forecasting report — re-rendered with Kokoro TTS for A/B voice comparison. How well have Daniel Kokotajlo's predictions held up? What did the authors revise? What has 2026 reality looked like compared to the forecast?
+
+00:00:00 Introduction &amp; Report Overview
+00:01:30 The Core Thesis
+00:03:15 The Authors' Own Revision
+00:05:00 What They Got Right
+00:07:30 Mixed Results
+00:09:00 Where They Missed
+00:10:00 The DeepSeek Surprise
+00:11:30 Overall Grade &amp; Opinion
+
+Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" re-rendered using Kokoro TTS for voice quality comparison.
+</description>
+      <content:encoded><![CDATA[<h2>AI 2027 Report: Reality Check (Kokoro TTS Version)</h2>
+<p>A deep analysis of the AI 2027 forecasting report, examining predictions vs. 2026 reality. This version rendered with Kokoro TTS for A/B voice comparison against the original.</p>
+
+<h3>What They Got Right</h3>
+<p>Agent development trajectory, coding AI as leading indicator, government remaining behind the curve, and safety risks becoming visible — all largely validated. <a href="https://ai2027.org">Read the original report →</a></p>
+
+<h3>What They Got Wrong</h3>
+<p>Timeline (authors revised from 2027 to ~2030), competitive dynamics (DeepSeek undermined compute-concentration thesis), China prediction (private enterprise, not nationalization), smooth scaling thesis.</p>
+
+<h3>The DeepSeek Surprise</h3>
+<p>An under-resourced Chinese startup training frontier models for ~$6M was not in anyone's scenario planning.</p>
+
+<h3>Overall Grade</h3>
+<p>B- for direction, D for timing. The <em>what</em> is right even if the <em>when</em> is wrong.</p>
+
+<p><em>Kokoro TTS re-render — bonus episode for voice quality A/B comparison.</em></p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/ai2027-kokoro-deepdive-2026-03-28.m4a" length="10466432" type="audio/mp4"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-ai2027.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-ai2027-kokoro.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-03-28-ai2027-kokoro</guid>
+      <pubDate>Sat, 28 Mar 2026 14:30:00 -0500</pubDate>
+      <itunes:duration>10:37</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+
+<item>
       <title>Deep Dive — AI 2027 Report: Reality Check</title>
       <description>Deep dive into the AI 2027 forecasting report by Daniel Kokotajlo. How well have its predictions held up? What did the authors revise? And what has 2026 reality actually looked like compared to the forecast?
 
