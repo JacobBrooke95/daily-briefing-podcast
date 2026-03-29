@@ -23,6 +23,41 @@
     <itunes:type>episodic</itunes:type>
 
     <!-- EPISODES_START -->
+<item>
+  <title>Daily Briefing — Sunday, March 29, 2026</title>
+  <description>Morning daily briefing: Pentagon plans ground operations in Iran (Day 30), DHS shutdown Day 44, Anthropic Mythos reverberations, Apple turns 50 Wednesday, carpet install week.
+
+00:00:00 Opening &amp; Weather
+00:00:55 Calendar
+00:02:00 Text Messages
+00:04:30 Iran War — Day 30
+00:06:30 DHS Shutdown
+00:07:10 Quick Status Board
+00:08:30 Tech &amp; Apple
+00:09:50 Reddit
+00:10:40 Jobs &amp; Action Items
+00:12:00 Closing</description>
+  <content:encoded><![CDATA[<h2>Iran War — Day 30: Pentagon Plans Ground Operations</h2>
+<p>The Washington Post reports the Pentagon is preparing for weeks of ground operations in Iran, including raids on Kharg Island. The 82nd Airborne has been directed to deploy. <a href="https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/">Read more →</a></p>
+<h2>Russia Provided Satellite Intel Before Saudi Base Attack</h2>
+<p>Zelenskyy revealed Russia took satellite images of the US airbase at Prince Sultan before Iran's attack. <a href="https://www.nbcnews.com/world/ukraine/russia-us-base-american-troops-zelenskyy-rcna265612">Read more →</a></p>
+<h2>US Has Destroyed Only a Third of Iran's Missiles</h2>
+<p>Intelligence suggests the US has eliminated only about a third of Iran's missile arsenal after 30 days. <a href="https://www.theguardian.com/world/2026/mar/28/us-destroyed-third-iran-missiles-intelligence-suggests-trump">Read more →</a></p>
+<h2>DHS Shutdown Day 44</h2>
+<p>Congress on recess. Trump signed EO for TSA pay. No resolution before mid-April. <a href="https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-42/">Read more →</a></p>
+<h2>Anthropic: Mythos Leak + Consumer Surge</h2>
+<p>Claude Mythos leak continues reverberating. Paid subscribers doubled this year. <a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/">Read more →</a></p>
+<h2>Apple Turns 50 Wednesday</h2>
+<p>Global celebrations underway. Tim Cook's letter. Two new iPhone apps this year. <a href="https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/">Read more →</a></p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-29-audio.mp3" length="3531756" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-29.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-29.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-03-29</guid>
+  <pubDate>Sun, 29 Mar 2026 06:11:20 -0500</pubDate>
+  <itunes:duration>8:51</itunes:duration>
+  <itunes:episode>10</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 
 <item>
       <title>Deep Dive — AI 2027 Report: Reality Check (Kokoro TTS Version)</title>
