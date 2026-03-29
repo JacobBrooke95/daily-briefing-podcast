@@ -24,6 +24,31 @@
 
     <!-- EPISODES_START -->
 <item>
+  <title>Chapter One — The Letter (The Keeping House)</title>
+  <description>Chapter One of The Keeping House — an original novel written one chapter at a time. Margot Ainsley arrives at a mysterious rural estate to begin a year-long residency at an institution whose purpose no one can explain.
+
+00:00:00 Chapter One: The Letter
+00:01:10 The House
+00:03:39 The Library
+00:05:07 Meeting June
+00:07:01 The Cottage
+00:08:47 The Hilltop
+00:11:08 Evening
+00:13:11 Night</description>
+  <content:encoded><![CDATA[<h2>The Keeping House — Chapter One: The Letter</h2>
+<p>Margot Ainsley arrives a day early at The Keeping House, a rural estate turned residential retreat endowed by the late Eleanora Voss. She explores the house, meets the caretaker June, settles into her cottage, and watches the light move across a river valley from a hilltop bench. In the night, she wakes to the sound of another car on the gravel drive.</p>
+<h3>About the Novel</h3>
+<p>The Keeping House is an original literary novel being written one chapter per session. It follows six people who arrive at a mysterious rural retreat and must learn — against their own resistance — to stop performing and start being present.</p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-chapter-01.mp3" length="5496424" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-keeping-house-ch01.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-keeping-house-ch01.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">deepdive-2026-03-29-keeping-house-ch01</guid>
+  <pubDate>Sun, 29 Mar 2026 13:33:11 -0500</pubDate>
+  <itunes:duration>14:39</itunes:duration>
+  <itunes:episode>11</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
   <title>Daily Briefing — Sunday, March 29, 2026</title>
   <description>Morning daily briefing: Pentagon plans ground operations in Iran (Day 30), DHS shutdown Day 44, Anthropic Mythos reverberations, Apple turns 50 Wednesday, carpet install week.
 
@@ -58,7 +83,6 @@
   <itunes:episode>10</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
-
 <item>
       <title>Deep Dive — AI 2027 Report: Reality Check (Kokoro TTS Version)</title>
       <description>Same deep dive into the AI 2027 forecasting report — re-rendered with Kokoro TTS for A/B voice comparison. How well have Daniel Kokotajlo's predictions held up? What did the authors revise? What has 2026 reality looked like compared to the forecast?
@@ -99,7 +123,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>bonus</itunes:episodeType>
     </item>
-
 <item>
       <title>Deep Dive — AI 2027 Report: Reality Check</title>
       <description>Deep dive into the AI 2027 forecasting report by Daniel Kokotajlo. How well have its predictions held up? What did the authors revise? And what has 2026 reality actually looked like compared to the forecast?
@@ -136,7 +159,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <item>
       <title>Week in Review — March 28, 2026</title>
       <description>Weekly briefing covering the week of March 22–28, 2026. Anthropic wins its landmark court case, Iran war escalates with Houthi entry, DHS shutdown worsens, and the week ahead is loaded.
@@ -159,7 +181,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <item>
   <title>Saturday Afternoon Roundup — March 28, 2026</title>
   <description>Quick Saturday roundup: Claude subscriptions skyrocketing, Mac Pro discontinued, SoftBank's $40B OpenAI signal, YC Demo Day highlights, and Whoop's health monitoring pivot.</description>
@@ -185,7 +206,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
   <itunes:episode>6</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
-
 <item>
       <title>Deep Dive — Claude Mythos: Anthropic's Biggest Leak and IPO Plans</title>
       <description>A deep dive into the Claude Mythos leak — Anthropic's new Capybara-tier model with unprecedented cybersecurity capabilities, the Wall Street selloff it triggered, and the October 2026 IPO plans revealed the same day.</description>
@@ -198,7 +218,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <item>
   <title>Apple TV+ 2026: The Complete Lineup</title>
   <description>A deep dive into everything coming to Apple TV+ in 2026 — returning favorites like Ted Lasso, Silo, and Slow Horses, plus new star-studded originals from Cape Fear to Lucky.</description>
@@ -236,7 +255,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
   <itunes:episode>4</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
-
 <item>
       <title>Daily Briefing — Saturday Evening Update, March 28, 2026</title>
       <description>Trump extends Hormuz deadline 10 days. Dubai crude hits $126. Iranian Red Crescent reports 1,900 killed. TSA paychecks may arrive Monday. Bank of America settles Epstein lawsuit for $72.5M. Anthropic nears $19B annualized revenue. Apple partners with Google Gemini for Siri overhaul.</description>
@@ -249,7 +267,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <item>
       <title>Daily Briefing — Saturday Mid-Morning Update, March 28, 2026</title>
       <description>Houthis enter Iran war. 3,100+ No Kings protests planned. Warhorse Studios fires translator for AI. Apple turns 50 Wednesday. Cherry blossoms in Tacoma.</description>
@@ -262,7 +279,6 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
 <item>
       <title>Daily Briefing — Saturday, March 28, 2026</title>
       <description>Houthis enter the Iran war with missile strikes on Israel. Ten US service members injured at Prince Sultan Air Base. Brent crude hits $112.57. DHS shutdown day 43 — Congress leaves on recess. Anthropic appeal deadline Thursday. WA bans non-competes. Apple turns 50 Wednesday. Your week ahead.</description>
@@ -275,6 +291,26 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- EPISODES_END -->
