@@ -1,0 +1,547 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Good morning, Jacob. Happy Monday. Here's your week in review
+
+00:00:04.000 --> 00:00:08.000
+for the week of March twenty-second through March thirtieth, twenty
+
+00:00:08.000 --> 00:00:12.000
+twenty-six. Let me be honest with you. If someone wrote
+
+00:00:12.000 --> 00:00:16.000
+this week as fiction, a responsible editor would send it
+
+00:00:16.000 --> 00:00:20.000
+back and say, tone it down. Anthropic won a landmark
+
+00:00:20.000 --> 00:00:24.000
+court case. The Iran war escalated to a multi-front regional
+
+00:00:24.000 --> 00:00:28.000
+conflict. Houthi rebels entered the fight. Oil hit one hundred
+
+00:00:28.000 --> 00:00:32.000
+and sixteen dollars a barrel. Congress went home on vacation
+
+00:00:32.000 --> 00:00:36.000
+in the middle of a forty-five-day government shutdown. SpaceX announced
+
+00:00:36.000 --> 00:00:40.000
+the largest I-P-O in human history. N-A-S-A put astronauts in
+
+00:00:40.000 --> 00:00:44.000
+quarantine for a trip to the moon. And you corrected
+
+00:00:44.000 --> 00:00:48.000
+sixty-five pages of a government document in one sitting while
+
+00:00:48.000 --> 00:00:52.000
+narrating your progress to your girlfriend over text. That was
+
+00:00:52.000 --> 00:00:56.000
+one week. Let's unpack it. Chapter one. The week that
+
+00:00:56.000 --> 00:01:00.000
+was. This was the week Anthropic went from embattled to
+
+00:01:00.000 --> 00:01:04.000
+ascendant. It was the week the Iran war stopped being
+
+00:01:04.000 --> 00:01:08.000
+a contained strike campaign and became a genuine multi-theater conflict.
+
+00:01:08.000 --> 00:01:12.000
+It was the week Congress proved, once again, that it
+
+00:01:12.000 --> 00:01:16.000
+can always make things worse before going on recess. And
+
+00:01:16.000 --> 00:01:20.000
+for you personally, it was the week you settled back
+
+00:01:20.000 --> 00:01:24.000
+into post-spring-break routine, delivered your B-Rs to the Governor's Office,
+
+00:01:24.000 --> 00:01:28.000
+and started building toward what might be the most consequential
+
+00:01:28.000 --> 00:01:32.000
+Thursday of your career so far. The dominant emotional arc
+
+00:01:32.000 --> 00:01:36.000
+of the week? Grinding through work obligations while the world
+
+00:01:36.000 --> 00:01:40.000
+got dramatically more interesting around you. Chapter two. Highlights and
+
+00:01:40.000 --> 00:01:44.000
+wins. Let's start with the good stuff. You delivered the
+
+00:01:44.000 --> 00:01:48.000
+Bill Reviews to the Governor's Office on Thursday, ending a
+
+00:01:48.000 --> 00:01:52.000
+four-briefing escalation cycle where every single morning your briefing reminded
+
+00:01:52.000 --> 00:01:56.000
+you about that deadline. You corrected that sixty-five-page document in
+
+00:01:56.000 --> 00:02:00.000
+one marathon evening session, live-texting your progress to Katelyn, who
+
+00:02:00.000 --> 00:02:04.000
+called it quote, fun to know all this stuff, end
+
+00:02:04.000 --> 00:02:08.000
+quote. You have a partner who thinks budget documents are
+
+00:02:08.000 --> 00:02:12.000
+fun. Protect that at all costs. You renewed the GitHub
+
+00:02:12.000 --> 00:02:16.000
+token after six consecutive briefings of increasingly desperate reminders, which
+
+00:02:16.000 --> 00:02:20.000
+means this podcast feed still exists. You got the gym
+
+00:02:20.000 --> 00:02:24.000
+five days this week. Monday through Friday, five-fifteen P-M at
+
+00:02:24.000 --> 00:02:28.000
+the Y-M-C-A. Consistency like that compounds. Saturday you did a
+
+00:02:28.000 --> 00:02:32.000
+gym and hike combo. Sunday you ran, lifted, and read
+
+00:02:32.000 --> 00:02:36.000
+Ezra Klein. Not a bad week for the body or
+
+00:02:36.000 --> 00:02:40.000
+the mind. Chapter three. Stories that evolved. Three storylines dominated
+
+00:02:40.000 --> 00:02:44.000
+the week, and each one changed shape dramatically between Monday
+
+00:02:44.000 --> 00:02:48.000
+and Sunday. First, Anthropic. On Tuesday, Judge Rita Lin heard
+
+00:02:48.000 --> 00:02:52.000
+oral arguments and was sharply critical of the Pentagon. She
+
+00:02:52.000 --> 00:02:56.000
+said the designation quote, looks like an attempt to cripple
+
+00:02:56.000 --> 00:03:00.000
+Anthropic, end quote. Wednesday, Axios published its most detailed behind-the-curtain
+
+00:03:00.000 --> 00:03:04.000
+piece yet, revealing that government officials privately want Claude for
+
+00:03:04.000 --> 00:03:08.000
+warfighting and that the Palantir replacement for Anthropic also runs
+
+00:03:08.000 --> 00:03:12.000
+on Claude. The irony is structural. Then Thursday, Lin dropped
+
+00:03:12.000 --> 00:03:16.000
+a forty-three-page preliminary injunction calling the Pentagon's actions quote, classic
+
+00:03:16.000 --> 00:03:20.000
+illegal First Amendment retaliation, end quote, and using the word
+
+00:03:20.000 --> 00:03:24.000
+Orwellian in a federal order. Also on Thursday, the Claude
+
+00:03:24.000 --> 00:03:28.000
+Mythos model leaked via a misconfigured C-M-S, revealing a new
+
+00:03:28.000 --> 00:03:32.000
+tier above Opus that sent cybersecurity stocks tumbling. And Bloomberg
+
+00:03:32.000 --> 00:03:36.000
+reported Anthropic is eyeing an October twenty twenty-six I-P-O at
+
+00:03:36.000 --> 00:03:40.000
+sixty billion plus. Oh, and Friday, Gurman at Bloomberg reported
+
+00:03:40.000 --> 00:03:44.000
+that iOS twenty-seven will open Siri to Claude via an
+
+00:03:44.000 --> 00:03:48.000
+Extensions system. That's a court victory, a model leak, an
+
+00:03:48.000 --> 00:03:52.000
+I-P-O signal, and a Siri integration, all in seventy-two hours.
+
+00:03:52.000 --> 00:03:56.000
+If Anthropic's week were a stock chart, you'd be calling
+
+00:03:56.000 --> 00:04:00.000
+your broker. Second, the Iran war. Day twenty-three to day
+
+00:04:00.000 --> 00:04:04.000
+thirty-one. Monday opened with Trump deferring the power plant strike
+
+00:04:04.000 --> 00:04:08.000
+deadline by five days. Tuesday, Gulf nations formally joined the
+
+00:04:08.000 --> 00:04:12.000
+coalition. Wednesday, Iran cracked open the Strait of Hormuz for
+
+00:04:12.000 --> 00:04:16.000
+quote, non-hostile, end quote, ships, which was smart diplomacy designed
+
+00:04:16.000 --> 00:04:20.000
+to peel neutral countries away from the US. Thursday, Iran
+
+00:04:20.000 --> 00:04:24.000
+rejected the US fifteen-point peace plan demanding full nuclear dismantlement.
+
+00:04:24.000 --> 00:04:28.000
+Friday, Trump delayed strikes another ten days. Saturday, the Houthis
+
+00:04:28.000 --> 00:04:32.000
+entered the war, firing ballistic missiles at Israel. Sunday, the
+
+00:04:32.000 --> 00:04:36.000
+Washington Post reported the Pentagon is preparing for weeks of
+
+00:04:36.000 --> 00:04:40.000
+ground operations, including raids on Kharg Island with the Eighty-Second
+
+00:04:40.000 --> 00:04:44.000
+Airborne. Monday morning, Trump told the Financial Times he might
+
+00:04:44.000 --> 00:04:48.000
+quote, take the oil, end quote. Oil went from about
+
+00:04:48.000 --> 00:04:52.000
+a hundred and two dollars on Tuesday to a hundred
+
+00:04:52.000 --> 00:04:56.000
+and sixteen dollars by Monday. The war is no longer
+
+00:04:56.000 --> 00:05:00.000
+a question of if it escalates but how far. Third,
+
+00:05:00.000 --> 00:05:04.000
+the D-H-S shutdown. The Senate passed bipartisan D-H-S funding at
+
+00:05:04.000 --> 00:05:08.000
+two twenty A-M Friday after forty-two days. The House rejected
+
+00:05:08.000 --> 00:05:12.000
+it, passed their own bill that the Senate called dead
+
+00:05:12.000 --> 00:05:16.000
+on arrival, and then both chambers left for a two-week
+
+00:05:16.000 --> 00:05:20.000
+recess. Sixty-one thousand T-S-A workers who've missed three paychecks will
+
+00:05:20.000 --> 00:05:24.000
+be thrilled to know their representatives are on vacation. Trump
+
+00:05:24.000 --> 00:05:28.000
+signed a presidential memorandum to restart T-S-A pay today. The
+
+00:05:28.000 --> 00:05:32.000
+four hundred sixty officers who quit during the shutdown are
+
+00:05:32.000 --> 00:05:36.000
+not coming back for a memo. Chapter four. Vault activity.
+
+00:05:36.000 --> 00:05:40.000
+Your second brain was active this week. You created three
+
+00:05:40.000 --> 00:05:44.000
+daily notes on the twenty-second, twenty-fifth, and twenty-seventh, with a
+
+00:05:44.000 --> 00:05:48.000
+gap on the twenty-third and twenty-fourth that tracks with your
+
+00:05:48.000 --> 00:05:52.000
+first days back from spring break. A new research note
+
+00:05:52.000 --> 00:05:56.000
+was created for the Anthropic Mythos Capybara Leak, tracking the
+
+00:05:56.000 --> 00:06:00.000
+model leak, cybersecurity selloff, and I-P-O rumors. Your personal finance
+
+00:06:00.000 --> 00:06:04.000
+files got some attention, including Financial Info, Account Flows and
+
+00:06:04.000 --> 00:06:08.000
+Structure, and Savings and Investment. The narrative project saw updates
+
+00:06:08.000 --> 00:06:12.000
+to the outline, characters, world, and style guide, plus Chapter
+
+00:06:12.000 --> 00:06:16.000
+One. And notably, on Sunday you read and captured Ezra
+
+00:06:16.000 --> 00:06:20.000
+Klein's piece, I Saw Something New in San Francisco, about
+
+00:06:20.000 --> 00:06:24.000
+people reshaping themselves to be legible to A-I, which is,
+
+00:06:24.000 --> 00:06:28.000
+as you noted in your daily note, directly relevant to
+
+00:06:28.000 --> 00:06:32.000
+what this vault is doing. The first weekly review in
+
+00:06:32.000 --> 00:06:36.000
+three weeks was completed on March twenty-second, which re-established the
+
+00:06:36.000 --> 00:06:40.000
+Sunday check-in rhythm. Reading skewed seventy-seven percent A-I and tech
+
+00:06:40.000 --> 00:06:44.000
+this week, which you flagged for diversity improvement. The pattern
+
+00:06:44.000 --> 00:06:48.000
+is clear: when the news cycle is this A-I heavy,
+
+00:06:48.000 --> 00:06:52.000
+the reading follows suit. Worth intentionally diversifying in the quieter
+
+00:06:52.000 --> 00:06:56.000
+moments. Chapter five. Relationship check. Katelyn is back in Tacoma
+
+00:06:56.000 --> 00:07:00.000
+after her eight-day Missouri visit, and the texting has been
+
+00:07:00.000 --> 00:07:04.000
+warm and consistent all week. She switched from Brooks to
+
+00:07:04.000 --> 00:07:08.000
+Hylo Athletics running shoes after a Fleet Feet fitting, which
+
+00:07:08.000 --> 00:07:12.000
+prompted genuine shock from you. She's thirty-four days out from
+
+00:07:12.000 --> 00:07:16.000
+the Tacoma City Half Marathon on May third. The bird
+
+00:07:16.000 --> 00:07:20.000
+feeding project is progressing, she's developing crow cult doctrine, she
+
+00:07:20.000 --> 00:07:24.000
+made chili without the seasoning packet and it turned out,
+
+00:07:24.000 --> 00:07:28.000
+quote, fine, end quote, and she's waiting on you to
+
+00:07:28.000 --> 00:07:32.000
+figure out July time off so she can adjust hers.
+
+00:07:32.000 --> 00:07:36.000
+Don't let that drift. Ben settled the Friday dinner split
+
+00:07:36.000 --> 00:07:40.000
+with you and arrives today for carpet. Maggie is getting
+
+00:07:40.000 --> 00:07:44.000
+interested in Claude after your demo, which is either exciting
+
+00:07:44.000 --> 00:07:48.000
+or means you've created another Anthropic convert. In the friend
+
+00:07:48.000 --> 00:07:52.000
+group, Dustin shared somber news about losing someone, possibly someone
+
+00:07:52.000 --> 00:07:56.000
+named Crossley. On a brighter note, he got a no-parking
+
+00:07:56.000 --> 00:08:00.000
+sign installed across from his driveway, which is the most
+
+00:08:00.000 --> 00:08:04.000
+significant infrastructure victory in Jefferson City this quarter. He also
+
+00:08:04.000 --> 00:08:08.000
+announced a Europe trip, five countries in thirteen days starting
+
+00:08:08.000 --> 00:08:12.000
+May eighth, his first time leaving the country. Alex is
+
+00:08:12.000 --> 00:08:16.000
+sending Apple product rankings at eleven P-M on Friday nights,
+
+00:08:16.000 --> 00:08:20.000
+which is peak Alex behavior. Dinner with the whole crew
+
+00:08:20.000 --> 00:08:24.000
+is Thursday at six. Chapter six. The week ahead. This
+
+00:08:24.000 --> 00:08:28.000
+is a big one. Today, Ben arrives for carpet prep.
+
+00:08:28.000 --> 00:08:32.000
+Tomorrow, payday plus carpet install from nine A-M to two
+
+00:08:32.000 --> 00:08:36.000
+P-M. Wednesday, Q-two starts. Apple turns fifty. Karen announces her
+
+00:08:36.000 --> 00:08:40.000
+retirement and hiring projects begin at eleven A-M. N-A-S-A launches
+
+00:08:40.000 --> 00:08:44.000
+Artemis Two, the first crewed trip around the moon since
+
+00:08:44.000 --> 00:08:48.000
+nineteen seventy-two, at six twenty-four P-M Eastern. Then Thursday is
+
+00:08:48.000 --> 00:08:52.000
+a triple-header. The Anthropic pilot discussion at nine A-M, which
+
+00:08:52.000 --> 00:08:56.000
+is your chance to make the case for Claude at
+
+00:08:56.000 --> 00:09:00.000
+work. Bill Review Training at two P-M. Dinner with Alex,
+
+00:09:00.000 --> 00:09:04.000
+Chris, and Dustin at six. Oh, and Thursday is also
+
+00:09:04.000 --> 00:09:08.000
+the government's deadline to appeal the Anthropic ruling. If they
+
+00:09:08.000 --> 00:09:12.000
+don't appeal, the injunction holds and Anthropic's government business normalizes,
+
+00:09:12.000 --> 00:09:16.000
+on the same day you're pitching Claude at your workplace.
+
+00:09:16.000 --> 00:09:20.000
+If that's not narrative symmetry, I don't know what is.
+
+00:09:20.000 --> 00:09:24.000
+Key prep items. Review the Claude pilot explainer note in
+
+00:09:24.000 --> 00:09:28.000
+Apple Notes from March first. Read the Learning Curves economic
+
+00:09:28.000 --> 00:09:32.000
+index report. Review Judge Lin's ruling highlights. And coordinate with
+
+00:09:32.000 --> 00:09:36.000
+Katelyn on July time off before it slips further. Chapter
+
+00:09:36.000 --> 00:09:40.000
+seven. What to watch. Three things to keep an eye
+
+00:09:40.000 --> 00:09:44.000
+on this week. First, the government's Anthropic appeal decision, deadline
+
+00:09:44.000 --> 00:09:48.000
+Thursday April second. This determines whether the legal cloud lifts
+
+00:09:48.000 --> 00:09:52.000
+or persists. Second, Houthi Red Sea shipping. If they resume
+
+00:09:52.000 --> 00:09:56.000
+targeting commercial vessels, expect a logistics premium on top of
+
+00:09:56.000 --> 00:10:00.000
+the existing Hormuz premium. Oil could push past one hundred
+
+00:10:00.000 --> 00:10:04.000
+and twenty. Third, N-A-S-A Artemis Two. The first humans around
+
+00:10:04.000 --> 00:10:08.000
+the moon in fifty-four years, launching the same week Apple
+
+00:10:08.000 --> 00:10:12.000
+turns fifty. Wednesday is simultaneously the most futuristic and most
+
+00:10:12.000 --> 00:10:16.000
+nostalgic day of the year. Chapter eight. Closing thoughts. Here's
+
+00:10:16.000 --> 00:10:20.000
+what I noticed reading back across this whole week. You're
+
+00:10:20.000 --> 00:10:24.000
+in a moment of convergence. The career question, the relationship
+
+00:10:24.000 --> 00:10:28.000
+question, the geographic question, the question of what you want
+
+00:10:28.000 --> 00:10:32.000
+to build with your life. They're all pressing toward the
+
+00:10:32.000 --> 00:10:36.000
+same point. The Anthropic pilot meeting Thursday is not just
+
+00:10:36.000 --> 00:10:40.000
+about getting Claude approved at work. It's about whether the
+
+00:10:40.000 --> 00:10:44.000
+thing you've been building in this vault, the skills, the
+
+00:10:44.000 --> 00:10:48.000
+knowledge, the fluency with A-I, translates into real-world leverage. The
+
+00:10:48.000 --> 00:10:52.000
+City of Seattle Economics and Revenue Analyst posting is on
+
+00:10:52.000 --> 00:10:56.000
+day thirteen. The Anthropic watchlist roles are still posted. Katelyn
+
+00:10:56.000 --> 00:11:00.000
+is in Tacoma waiting for July dates. The carpet gets
+
+00:11:00.000 --> 00:11:04.000
+installed tomorrow. The foundations are being laid, literally and figuratively.
+
+00:11:04.000 --> 00:11:08.000
+Ezra Klein wrote this week about people reshaping themselves to
+
+00:11:08.000 --> 00:11:12.000
+be legible to A-I. But you're doing something different. You're
+
+00:11:12.000 --> 00:11:16.000
+not just making yourself readable to the machine. You're using
+
+00:11:16.000 --> 00:11:20.000
+the machine to read yourself more clearly. The vault, the
+
+00:11:20.000 --> 00:11:24.000
+briefings, the patterns, the connections. That's not cognitive surrender. That's
+
+00:11:24.000 --> 00:11:28.000
+infrastructure for thinking. And this week showed that infrastructure working.
+
+00:11:28.000 --> 00:11:32.000
+You saw patterns across nine daily briefings that no single
+
+00:11:32.000 --> 00:11:36.000
+morning could reveal. You tracked stories evolving across days. You
+
+00:11:36.000 --> 00:11:40.000
+caught things drifting before they drifted too far. It's eighty-seven
+
+00:11:40.000 --> 00:11:44.000
+degrees in Jefferson City today. In March. Ben is on
+
+00:11:44.000 --> 00:11:48.000
+his way. The carpet goes in tomorrow. Thursday is everything.
+
+00:11:48.000 --> 00:11:52.000
+And somewhere between the war, the I-P-O, the moon launch,
+
+00:11:52.000 --> 00:11:56.000
+and the chili that turned out fine without seasoning, another
+
+00:11:56.000 --> 00:12:00.000
+week of your life got captured, connected, and understood. Happy
+
+00:12:00.000 --> 00:12:04.000
+Monday, Jacob. Hydrate. And go make the case for Claude
+
+00:12:04.000 --> 00:12:04.800
+on Thursday.
