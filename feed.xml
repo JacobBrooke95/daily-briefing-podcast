@@ -21,8 +21,58 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
     <!-- EPISODES_START -->
+<item>
+  <title>Deep Dive — Know Your City: Jefferson City &amp; Cole County Local Government</title>
+  <description>A comprehensive guide to local government in Jefferson City and Cole County, Missouri. Covers city council, county commission, school district, budgets, housing crisis, infrastructure challenges, economic development, upcoming elections, and how to stay civically engaged — all focused exclusively on local government, not state politics.
+
+00:00:00 Introduction
+00:01:00 The City at a Glance
+00:02:52 How the City Government Works
+00:05:35 How Cole County Government Works
+00:07:46 Jefferson City Public Schools
+00:09:49 The Big Issues
+00:14:02 Policy Shifts &amp; What's Changing
+00:15:17 The Big Projects Coming
+00:17:08 How to Stay Informed
+00:18:38 The Interconnected Picture</description>
+  <content:encoded><![CDATA[<h2>Know Your City: Jefferson City & Cole County Local Government</h2>
+<p>A deep dive into the local government, economy, and civic life of Jefferson City and Cole County. This episode covers everything you need to know as a resident — from who sits on city council to how the county budget works to what major projects are coming in the next five years.</p>
+
+<h3>City Government</h3>
+<p>Mayor Ron Fitzwater leads a 10-member city council (2 per ward, 5 wards) with City Administrator Brian Crane managing day-to-day operations. City budget: $86.8M. Council meets 1st and 3rd Monday at 6 PM. <a href="https://www.jeffersoncitymo.gov/government/council_members.php">City Council Members →</a></p>
+
+<h3>Cole County</h3>
+<p>Three-member commission: Presiding Commissioner Sam Bushman, Jeff Hoelscher (East), Harry Otto (West). Operating budget: $64.4M plus $32.8M capital. Meets Tuesdays at 9 AM. <a href="https://colecounty.org/324/County-Commission">County Commission →</a></p>
+
+<h3>Schools</h3>
+<p>JCPS serves 8,560 students across 18 schools. Academic scores improving three consecutive years. $20M athletic facilities expansion underway. <a href="https://www.jcschools.us/">JCPS Website →</a></p>
+
+<h3>Key Issues</h3>
+<p><strong>Housing Crisis:</strong> Ranked 12th tightest market nationally post-tornado. Mayor targeting 50,000 residents (needs 3,000-5,000 new units). <a href="https://krcgtv.com/news/local/jefferson-city-council-approves-housing-incentive-to-address-critical-housing-shortage">Housing Incentive →</a></p>
+<p><strong>High Street Viaduct:</strong> Emergency closure Feb 2026. $16-25M replacement planned, federal BUILD grant applied for. <a href="https://abc17news.com/news/jefferson-city/2026/02/19/jefferson-citys-high-street-viaduct-closed-for-emergency-repairs/">Viaduct Closure →</a></p>
+<p><strong>Downtown Conference Center:</strong> 189,420 sq ft mixed-use with 200-room hotel. Construction starting 2026, completion ~2028. $584M projected economic impact over a decade. <a href="https://jcrep.org/conference-center/">Conference Center →</a></p>
+<p><strong>Property Tax Assessment:</strong> Cole County assessor failed state compliance. New assessor Tim Theroff took over Sept 2025. <a href="https://krcgtv.com/news/local/cole-countys-property-valuation-fails-state-standards-sparking-local-worries">Assessment Issues →</a></p>
+
+<h3>Upcoming</h3>
+<p><strong>April 2026 Election:</strong> 5 city council seats, 3 school board seats, and Cole County capital improvement sales tax renewal (extending to 10-year) all on the ballot.</p>
+
+<h3>Stay Informed</h3>
+<ul>
+<li><a href="https://www.jeffersoncitymo.gov/meetings_and_agendas/city_council.php">City Council Agendas & Video</a></li>
+<li><a href="https://colecounty.org/AgendaCenter">County Commission Agenda Center</a></li>
+<li><a href="https://www.jcschools.us/about-jc-schools/board-of-education/board-meeting-schedule-information">School Board Schedule</a></li>
+<li><a href="https://www.newstribune.com/news/jefferson-city/">News Tribune - Local Coverage</a></li>
+</ul>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/jc-local-gov-deepdive.mp3" length="7553546" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-deepdive-jc-local-gov.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-jc-local-gov.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">deepdive-2026-03-29-jc-local-gov</guid>
+  <pubDate>Sun, 29 Mar 2026 20:31:52 -0500</pubDate>
+  <itunes:duration>20:02</itunes:duration>
+  <itunes:episode>12</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
   <title>Chapter One — The Letter (The Keeping House)</title>
   <description>Chapter One of The Keeping House — an original novel written one chapter at a time. Margot Ainsley arrives at a mysterious rural estate to begin a year-long residency at an institution whose purpose no one can explain.
@@ -291,29 +341,5 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- EPISODES_END -->
-
   </channel>
 </rss>
