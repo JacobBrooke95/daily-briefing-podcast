@@ -1,17 +1,5 @@
 <?xml version='1.0' en
 
-
-
-
-
-
-
-
-
-
-
-
-
 coding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
@@ -33,18 +21,53 @@ coding='UTF-8'?>
     <itunes:type>episodic</itunes:type>
     
 
-
-
-
-
-
-
-
-
-
-
-
   
+
+<item>
+  <title>Daily Briefing — Wednesday, April 1, 2026</title>
+  <description>Morning daily briefing covering Iran War Day 33 (Trump threatens NATO exit, claims war ends in 2-3 weeks), Apple turns 50, Artemis II launch today, Anthropic pilot prep, DHS Day 47, text messages, calendar, weather, and tech/AI news.
+
+00:00:00 Opening &amp; Weather
+00:00:40 Calendar
+00:01:20 Text Messages
+00:02:15 Iran War — Day 33
+00:03:20 Apple at 50 &amp; Artemis II
+00:03:55 Anthropic &amp; DHS
+00:04:25 Tech &amp; AI Roundup
+00:04:55 Reddit &amp; Jobs
+00:05:15 Closing</description>
+  <content:encoded><![CDATA[<h2>Iran War — Day 33: Trump Threatens NATO Exit</h2>
+<p>Trump told the Daily Telegraph he is "beyond reconsideration" on pulling the US out of NATO. France and Spain denied airspace to US warplanes. Italy blocked base access. Britain allows only defensive operations. Trump also claimed the war could end in "2-3 weeks" — his own advisers told Axios they have no idea what he's planning. Brent crude briefly dipped below $100. <a href="https://www.axios.com/2026/04/01/trump-nato-iran-war">Axios coverage →</a></p>
+
+<h2>Iran Cyber Threat</h2>
+<p>Iran threatening to cyberattack Apple, Google, Microsoft, and 15 other US companies starting today. <a href="https://www.reuters.com/technology/iran-cyber-threat-us-tech-2026-04-01">Reuters →</a></p>
+
+<h2>Apple Turns 50</h2>
+<p>Founded April 1, 1976. Apple updated its homepage with a rewind animation. Paul McCartney headlines the finale concert at Apple Park tonight. AirPods Max 2 reviewed by The Verge: incredible sound, still $549, still heavy. <a href="https://www.theverge.com/2026/4/1/apple-airpods-max-2-review">The Verge →</a></p>
+
+<h2>Artemis II — Launch Today</h2>
+<p>NASA's first crewed trip to the moon since 1972. Launch at 5:24 PM CDT. 80% favorable weather.</p>
+
+<h2>Anthropic v. Pentagon</h2>
+<p>Government appeal deadline tomorrow — same day as Jacob's pilot meeting at 9 AM. Claude Code source leak revealed persistent background assistant mode and a Tamagotchi virtual pet in the code.</p>
+
+<h2>DHS Shutdown — Day 47</h2>
+<p>TSA paychecks arrived Monday. Congress on recess. No fix before mid-April.</p>
+
+<h2>Tech & AI Roundup</h2>
+<p>Microsoft posted worst quarter since 2008. Oracle cutting 30,000 employees to fund AI data centers. SpaceX April investor briefings ahead of potential $1.75T IPO. Baidu robotaxis froze simultaneously on Wuhan highways — centralized AI failure. <a href="https://www.bloomberg.com/news/microsoft-q1-2026">Bloomberg →</a></p>
+
+<h2>Reddit & Local</h2>
+<p>Sound Transit considering cutting Tacoma light rail extension, ending at Fife instead of Tacoma Dome. City of Seattle Economics & Revenue Analyst posting may have closed — check directly. King County procurement specialist role at $108-137K.</p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-01-audio.mp3" length="2321230" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-01.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-01</guid>
+  <pubDate>Wed, 01 Apr 2026 07:06:24 -0500</pubDate>
+  <itunes:duration>5:31</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:episode>17</itunes:episode>
+</item>
 <item>
   <title>Daily Briefing — Tuesday, March 31, 2026</title>
   <description>Morning daily briefing covering Iran's desalination threat (Day 32), Apple at 50, Artemis II countdown, SpaceX IPO, DHS Day 46, text messages, calendar, weather, and tech/AI news.
@@ -85,6 +108,7 @@ coding='UTF-8'?>
   <pubDate>Tue, 31 Mar 2026 06:13:50 -0500</pubDate>
   <itunes:duration>6:59</itunes:duration>
   <itunes:episodeType>full</itunes:episodeType>
+  <itunes:episode>16</itunes:episode>
 </item>
 <item>
   <title>Chapter 2 — The Table (The Keeping House)</title>
