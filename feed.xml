@@ -21,6 +21,36 @@ coding='UTF-8'?>
     <itunes:type>episodic</itunes:type>
 
 <item>
+  <title>Daily Briefing — Friday, April 3, 2026</title>
+  <description>Morning daily briefing for Good Friday. Iran Day 35, Macron breaks with Trump, Bondi fired, Artemis II en route to moon, DOJ appeals Anthropic ruling, flood warnings, and new job postings.
+
+00:00:00 Opening &amp; Weather
+00:00:38 Calendar &amp; Messages
+00:01:45 Iran War — Day 35
+00:03:05 Domestic: Bondi Fired, DHS, Artemis
+00:04:00 Anthropic &amp; Your Pilot Meeting
+00:04:55 AI &amp; Tech News
+00:05:40 Jobs &amp; Local News
+00:06:30 Closing</description>
+  <content:encoded><![CDATA[<h2>Good Friday Briefing — April 3, 2026</h2>
+<p>Iran Day 35: Macron publicly criticizes Trump. Iran legislates permanent Hormuz tolls. Hegseth fires Army Chief.</p>
+<p>Trump fires AG Pam Bondi. Todd Blanche acting AG. <a href="https://abcnews.com">More →</a></p>
+<p>Artemis II left Earth orbit — TLI burn flawless. Lunar flyby Monday.</p>
+<p>DOJ appeals Anthropic blacklist ruling to Ninth Circuit. OpenAI investors pivoting to Anthropic.</p>
+<p>AI industry pouring $150M+ into 2026 midterms. <a href="https://abcnews.com/Politics/ai-industry-2026-midterms-government-regulations-looming/story?id=131610305">Read more →</a></p>
+<p>Google Gemini 3.1 ties GPT-5.4 at 1/3 cost. <a href="https://renovateqr.com/blog/ai-models-april-2026">Read more →</a></p>
+<p>New job postings: Gates Foundation Sr Strategy Officer ($190K-$295K), Google Comms Manager Policy ($171K-$248K).</p>
+<p>Flood warnings active across Mid-Missouri through April 4.</p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/episode-2026-04-03.mp3" length="2927009" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-03.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-03.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-03</guid>
+  <pubDate>Fri, 03 Apr 2026 06:47:26 -0500</pubDate>
+  <itunes:duration>7:02</itunes:duration>
+  <itunes:episode>22</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
   <title>Daily Briefing — Thursday, April 2, 2026</title>
   <description>Morning daily briefing. Today is THE BIG DAY — Anthropic pilot meeting at 9 AM, government appeal deadline on Anthropic v. Pentagon, Trump threatens Iran "back to the Stone Ages," Artemis II in lunar transit, SpaceX IPO filed.
 
@@ -639,5 +669,5 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-  </channel>
+</channel>
 </rss>
