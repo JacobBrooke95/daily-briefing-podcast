@@ -1,6 +1,4 @@
-<?xml version='1.0' en
-
-coding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Jacob's Daily Briefing</title>
@@ -19,199 +17,181 @@ coding='UTF-8'?>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 04 Apr 2026 06:13:07 -0500</lastBuildDate>
+    <podcast:locked>no</podcast:locked>
 
+    <item>
+      <title>Daily Briefing — Saturday, April 4, 2026</title>
+      <description>Morning daily briefing for Saturday, April 4, 2026. Easter weekend edition covering the F-15 shootdown over Iran, Trump's $1.5T defense budget, strong March jobs report, Anthropic's triple move (Coefficient Bio acquisition, AnthroPAC, OpenClaw competitor), SpaceX IPO filing, and local flood updates.
 
+      00:00:00 Opening &amp; Weather
+      00:00:28 Calendar &amp; Schedule
+      00:00:52 Messages
+      00:01:15 Top Stories: F-15 &amp; Defense Budget
+      00:02:10 Jobs Report &amp; Anthropic
+      00:02:55 Tech &amp; Science
+      00:03:15 Local News &amp; Vault
+      00:03:45 Closing</description>
+      <content:encoded><![CDATA[
+      <h2>F-15E Shot Down Over Iran</h2>
+      <p>First US aircraft lost to enemy fire since the war began on Day 36. One crew member rescued, pilot still missing. <a href="https://www.cnn.com/2026/04/03/world/live-news/iran-war-us-trump-oil">Read more →</a></p>
 
+      <h2>Trump's $1.5T Defense Budget</h2>
+      <p>Largest defense budget in US history — 44% increase paired with 10% domestic cuts. <a href="https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending">Read more →</a></p>
 
+      <h2>March Jobs: 178K Added</h2>
+      <p>Three times expected. Unemployment fell to 4.3%, but February revised to -133K. <a href="https://finance.yahoo.com/economy/article/march-jobs-report-us-economy-adds-178000-jobs-unemployment-rate-falls-to-43-in-surprise-turnaround-190000531.html">Read more →</a></p>
 
+      <h2>Anthropic Triple Move</h2>
+      <p>Acquired Coefficient Bio for $400M (healthcare AI), launched AnthroPAC for midterms, and CCO confirmed OpenClaw competitor coming. <a href="https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/">Read more →</a></p>
 
+      <h2>SpaceX IPO Filing</h2>
+      <p>Targeting $2T+ valuation. Starship V3 delayed to May. <a href="https://www.bloomberg.com/news/articles/2026-04-02/spacex-is-said-to-target-more-than-2-trillion-valuation-in-ipo">Read more →</a></p>
 
+      <h2>Local: Flood Warnings Expiring</h2>
+      <p>Missouri River was at 5.45 ft Wednesday and climbing. Warnings expire today. US 50 bridge demolition next weekend (April 10-12).</p>
+      ]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-04.mp3" length="1751487" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-04.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-04.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">briefing-2026-04-04</guid>
+      <pubDate>Sat, 04 Apr 2026 06:13:07 -0500</pubDate>
+      <itunes:duration>3:51</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
+    <item>
+      <title>Chapter 5 — The Cold (The Keeping House)</title>
+      <description>Chapter Five of The Keeping House. POV: Lena Solberg. A hard freeze bursts the pipes and Lena falls back into caretaking. A greenhouse conversation with Noor about mothers, need, and the weight of being useful.
 
+      00:00:00 Opening
+      00:00:16 The Pipe Bursts
+      00:01:54 Waking June and Callan
+      00:04:54 Making Beds at Four A.M.
+      00:07:21 Breakfast
+      00:08:59 The Morning After
+      00:11:10 Displacement Activity
+      00:13:37 The Greenhouse
+      00:17:10 Night in the Main House
+      </description>
+      <content:encoded><![CDATA[<h2>Chapter 5 — The Cold</h2>
+      <p><strong>POV:</strong> Lena Solberg | <strong>Season:</strong> Winter (Friction)</p>
+      <p>A pipe bursts at four in the morning. Lena responds the way she always responds — by taking charge. But in the aftermath, she confronts the pattern she named at the gathering: she does not know who she is without someone to care for. Noor mirrors this back through the story of her own mother. In the greenhouse, two women name their wounds and sit with the naming.</p>
+      <p><em>The Keeping House</em> is an original literary novel published chapter by chapter.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-ch05-2026-04-03.mp3" length="10804722" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-03-keeping-house-ch05.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-03-keeping-house-ch05.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-03-keeping-house-ch05</guid>
+      <pubDate>Fri, 03 Apr 2026 23:28:13 -0500</pubDate>
+      <itunes:duration>29:21</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
+    <item>
+      <title>Daily Briefing — Friday, April 3, 2026</title>
+      <description>Morning daily briefing for Good Friday. Iran Day 35, Macron breaks with Trump, Bondi fired, Artemis II en route to moon, DOJ appeals Anthropic ruling, flood warnings, and new job postings.
 
+      00:00:00 Opening &amp; Weather
+      00:00:38 Calendar &amp; Messages
+      00:01:45 Iran War — Day 35
+      00:03:05 Domestic: Bondi Fired, DHS, Artemis
+      00:04:00 Anthropic &amp; Your Pilot Meeting
+      00:04:55 AI &amp; Tech News
+      00:05:40 Jobs &amp; Local News
+      00:06:30 Closing</description>
+      <content:encoded><![CDATA[<h2>Good Friday Briefing — April 3, 2026</h2>
+      <p>Iran Day 35: Macron publicly criticizes Trump. Iran legislates permanent Hormuz tolls. Hegseth fires Army Chief.</p>
+      <p>Trump fires AG Pam Bondi. Todd Blanche acting AG. <a href="https://abcnews.com">More →</a></p>
+      <p>Artemis II left Earth orbit — TLI burn flawless. Lunar flyby Monday.</p>
+      <p>DOJ appeals Anthropic blacklist ruling to Ninth Circuit. OpenAI investors pivoting to Anthropic.</p>
+      <p>AI industry pouring $150M+ into 2026 midterms. <a href="https://abcnews.com/Politics/ai-industry-2026-midterms-government-regulations-looming/story?id=131610305">Read more →</a></p>
+      <p>Google Gemini 3.1 ties GPT-5.4 at 1/3 cost. <a href="https://renovateqr.com/blog/ai-models-april-2026">Read more →</a></p>
+      <p>New job postings: Gates Foundation Sr Strategy Officer ($190K-$295K), Google Comms Manager Policy ($171K-$248K).</p>
+      <p>Flood warnings active across Mid-Missouri through April 4.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/episode-2026-04-03.mp3" length="2927009" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-03.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-03.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">briefing-2026-04-03</guid>
+      <pubDate>Fri, 03 Apr 2026 06:47:26 -0500</pubDate>
+      <itunes:duration>7:02</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
+    <item>
+      <title>Daily Briefing — Thursday, April 2, 2026</title>
+      <description>Morning daily briefing. Today is THE BIG DAY — Anthropic pilot meeting at 9 AM, government appeal deadline on Anthropic v. Pentagon, Trump threatens Iran "back to the Stone Ages," Artemis II in lunar transit, SpaceX IPO filed.
 
+      00:00:00 Opening &amp; Weather
+      00:01:15 Calendar &amp; Messages
+      00:02:30 Anthropic Pilot &amp; Appeal Deadline
+      00:04:00 Iran War — Day 34
+      00:05:30 Quick Status Board
+      00:06:30 Tech &amp; AI
+      00:07:20 Spending &amp; Action Items
+      00:08:10 Closing</description>
+      <content:encoded><![CDATA[<h2>THE BIG DAY — Anthropic Pilot Meeting</h2>
+      <p>Jacob's Anthropic pilot discussion at 9 AM coincides with the government's appeal deadline on Judge Lin's preliminary injunction in <em>Anthropic v. Pentagon</em>. Overnight, Rep. Josh Gottheimer wrote to Dario Amodei calling Claude "critical to national security." Jamie Dimon was personally briefed on Anthropic's unreleased Mythos model. <a href="https://www.axios.com">Axios coverage →</a></p>
 
+      <h2>Iran War — Day 34</h2>
+      <p>Trump's prime-time address: US will hit Iran "extremely hard" over next 2-3 weeks, bringing them "back to the Stone Ages." April 6 deadline to reopen Strait of Hormuz. Oil spiked 6%. UK hosting 30+ foreign ministers for diplomacy. Europe's far-right breaking with Trump — Le Pen called strikes catastrophic. <a href="https://www.reuters.com">Reuters →</a></p>
 
+      <h2>Artemis II</h2>
+      <p>Launched successfully yesterday. Orion performing beautifully in transit. Lunar orbit in four days. Four astronauts orbiting the moon for the first time since Apollo. <a href="https://www.nasa.gov/artemis-ii">NASA Artemis II →</a></p>
 
+      <h2>Quick Status Board</h2>
+      <p>DHS shutdown: Day 48. GOP announced two-track plan but Congress on recess until April 13. SpaceX filed confidentially for IPO — $1.75T valuation, June listing, largest IPO in history.</p>
 
+      <h2>Tech &amp; AI</h2>
+      <p>Gottheimer letter demanding answers on Claude Code source leak. 47% of college students reconsidering majors due to AI (Gallup). Linear reinventing as agent-native business (Every newsletter). <a href="https://every.to">Every →</a></p>
 
+      <h2>Personal</h2>
+      <p>Dinner with Alex, Chris, and Dustin at 6:15 PM — respond to Dustin about venue. Katelyn is off today in Tacoma, misses you. Roborock Saros 10R shipped. Pick Pebble Index 01 ring size.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-02.mp3" length="2645281" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-02.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-02.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">briefing-2026-04-02</guid>
+      <pubDate>Thu, 02 Apr 2026 06:12:53 -0500</pubDate>
+      <itunes:duration>6:23</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
-
-
-
-
-
-
-<item>
-  <title>Daily Briefing — Saturday, April 4, 2026</title>
-  <description>Morning daily briefing for Saturday, April 4, 2026. Easter weekend edition covering the F-15 shootdown over Iran, Trump's $1.5T defense budget, strong March jobs report, Anthropic's triple move (Coefficient Bio acquisition, AnthroPAC, OpenClaw competitor), SpaceX IPO filing, and local flood updates.
-
-00:00:00 Opening &amp; Weather
-00:00:28 Calendar &amp; Schedule
-00:00:52 Messages
-00:01:15 Top Stories: F-15 &amp; Defense Budget
-00:02:10 Jobs Report &amp; Anthropic
-00:02:55 Tech &amp; Science
-00:03:15 Local News &amp; Vault
-00:03:45 Closing</description>
-  <content:encoded><![CDATA[
-<h2>F-15E Shot Down Over Iran</h2>
-<p>First US aircraft lost to enemy fire since the war began on Day 36. One crew member rescued, pilot still missing. <a href="https://www.cnn.com/2026/04/03/world/live-news/iran-war-us-trump-oil">Read more →</a></p>
-
-<h2>Trump's $1.5T Defense Budget</h2>
-<p>Largest defense budget in US history — 44% increase paired with 10% domestic cuts. <a href="https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending">Read more →</a></p>
-
-<h2>March Jobs: 178K Added</h2>
-<p>Three times expected. Unemployment fell to 4.3%, but February revised to -133K. <a href="https://finance.yahoo.com/economy/article/march-jobs-report-us-economy-adds-178000-jobs-unemployment-rate-falls-to-43-in-surprise-turnaround-190000531.html">Read more →</a></p>
-
-<h2>Anthropic Triple Move</h2>
-<p>Acquired Coefficient Bio for $400M (healthcare AI), launched AnthroPAC for midterms, and CCO confirmed OpenClaw competitor coming. <a href="https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/">Read more →</a></p>
-
-<h2>SpaceX IPO Filing</h2>
-<p>Targeting $2T+ valuation. Starship V3 delayed to May. <a href="https://www.bloomberg.com/news/articles/2026-04-02/spacex-is-said-to-target-more-than-2-trillion-valuation-in-ipo">Read more →</a></p>
-
-<h2>Local: Flood Warnings Expiring</h2>
-<p>Missouri River was at 5.45 ft Wednesday and climbing. Warnings expire today. US 50 bridge demolition next weekend (April 10-12).</p>
-]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-04.mp3" length="1751487" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-04.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-04.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">briefing-2026-04-04</guid>
-  <pubDate>Sat, 04 Apr 2026 06:13:07 -0500</pubDate>
-  <itunes:duration>3:51</itunes:duration>
-  <itunes:episode>24</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Chapter 5 — The Cold (The Keeping House)</title>
-  <description>Chapter Five of The Keeping House. POV: Lena Solberg. A hard freeze bursts the pipes and Lena falls back into caretaking. A greenhouse conversation with Noor about mothers, need, and the weight of being useful.
-
-00:00:00 Opening
-00:00:16 The Pipe Bursts
-00:01:54 Waking June and Callan
-00:04:54 Making Beds at Four A.M.
-00:07:21 Breakfast
-00:08:59 The Morning After
-00:11:10 Displacement Activity
-00:13:37 The Greenhouse
-00:17:10 Night in the Main House
-</description>
-  <content:encoded><![CDATA[<h2>Chapter 5 — The Cold</h2>
-<p><strong>POV:</strong> Lena Solberg | <strong>Season:</strong> Winter (Friction)</p>
-<p>A pipe bursts at four in the morning. Lena responds the way she always responds — by taking charge. But in the aftermath, she confronts the pattern she named at the gathering: she does not know who she is without someone to care for. Noor mirrors this back through the story of her own mother. In the greenhouse, two women name their wounds and sit with the naming.</p>
-<p><em>The Keeping House</em> is an original literary novel published chapter by chapter.</p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-ch05-2026-04-03.mp3" length="10804722" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-03-keeping-house-ch05.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-03-keeping-house-ch05.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">deepdive-2026-04-03-keeping-house-ch05</guid>
-  <pubDate>Fri, 03 Apr 2026 23:28:13 -0500</pubDate>
-  <itunes:duration>0:29:21</itunes:duration>
-  <itunes:episode>23</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Daily Briefing — Friday, April 3, 2026</title>
-  <description>Morning daily briefing for Good Friday. Iran Day 35, Macron breaks with Trump, Bondi fired, Artemis II en route to moon, DOJ appeals Anthropic ruling, flood warnings, and new job postings.
-
-00:00:00 Opening &amp; Weather
-00:00:38 Calendar &amp; Messages
-00:01:45 Iran War — Day 35
-00:03:05 Domestic: Bondi Fired, DHS, Artemis
-00:04:00 Anthropic &amp; Your Pilot Meeting
-00:04:55 AI &amp; Tech News
-00:05:40 Jobs &amp; Local News
-00:06:30 Closing</description>
-  <content:encoded><![CDATA[<h2>Good Friday Briefing — April 3, 2026</h2>
-<p>Iran Day 35: Macron publicly criticizes Trump. Iran legislates permanent Hormuz tolls. Hegseth fires Army Chief.</p>
-<p>Trump fires AG Pam Bondi. Todd Blanche acting AG. <a href="https://abcnews.com">More →</a></p>
-<p>Artemis II left Earth orbit — TLI burn flawless. Lunar flyby Monday.</p>
-<p>DOJ appeals Anthropic blacklist ruling to Ninth Circuit. OpenAI investors pivoting to Anthropic.</p>
-<p>AI industry pouring $150M+ into 2026 midterms. <a href="https://abcnews.com/Politics/ai-industry-2026-midterms-government-regulations-looming/story?id=131610305">Read more →</a></p>
-<p>Google Gemini 3.1 ties GPT-5.4 at 1/3 cost. <a href="https://renovateqr.com/blog/ai-models-april-2026">Read more →</a></p>
-<p>New job postings: Gates Foundation Sr Strategy Officer ($190K-$295K), Google Comms Manager Policy ($171K-$248K).</p>
-<p>Flood warnings active across Mid-Missouri through April 4.</p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/episode-2026-04-03.mp3" length="2927009" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-03.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-03.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">briefing-2026-04-03</guid>
-  <pubDate>Fri, 03 Apr 2026 06:47:26 -0500</pubDate>
-  <itunes:duration>7:02</itunes:duration>
-  <itunes:episode>22</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Daily Briefing — Thursday, April 2, 2026</title>
-  <description>Morning daily briefing. Today is THE BIG DAY — Anthropic pilot meeting at 9 AM, government appeal deadline on Anthropic v. Pentagon, Trump threatens Iran "back to the Stone Ages," Artemis II in lunar transit, SpaceX IPO filed.
-
-00:00:00 Opening &amp; Weather
-00:01:15 Calendar &amp; Messages
-00:02:30 Anthropic Pilot &amp; Appeal Deadline
-00:04:00 Iran War — Day 34
-00:05:30 Quick Status Board
-00:06:30 Tech &amp; AI
-00:07:20 Spending &amp; Action Items
-00:08:10 Closing</description>
-  <content:encoded><![CDATA[<h2>THE BIG DAY — Anthropic Pilot Meeting</h2>
-<p>Jacob's Anthropic pilot discussion at 9 AM coincides with the government's appeal deadline on Judge Lin's preliminary injunction in <em>Anthropic v. Pentagon</em>. Overnight, Rep. Josh Gottheimer wrote to Dario Amodei calling Claude "critical to national security." Jamie Dimon was personally briefed on Anthropic's unreleased Mythos model. <a href="https://www.axios.com">Axios coverage →</a></p>
-
-<h2>Iran War — Day 34</h2>
-<p>Trump's prime-time address: US will hit Iran "extremely hard" over next 2-3 weeks, bringing them "back to the Stone Ages." April 6 deadline to reopen Strait of Hormuz. Oil spiked 6%. UK hosting 30+ foreign ministers for diplomacy. Europe's far-right breaking with Trump — Le Pen called strikes catastrophic. <a href="https://www.reuters.com">Reuters →</a></p>
-
-<h2>Artemis II</h2>
-<p>Launched successfully yesterday. Orion performing beautifully in transit. Lunar orbit in four days. Four astronauts orbiting the moon for the first time since Apollo. <a href="https://www.nasa.gov/artemis-ii">NASA Artemis II →</a></p>
-
-<h2>Quick Status Board</h2>
-<p>DHS shutdown: Day 48. GOP announced two-track plan but Congress on recess until April 13. SpaceX filed confidentially for IPO — $1.75T valuation, June listing, largest IPO in history.</p>
-
-<h2>Tech &amp; AI</h2>
-<p>Gottheimer letter demanding answers on Claude Code source leak. 47% of college students reconsidering majors due to AI (Gallup). Linear reinventing as agent-native business (Every newsletter). <a href="https://every.to">Every →</a></p>
-
-<h2>Personal</h2>
-<p>Dinner with Alex, Chris, and Dustin at 6:15 PM — respond to Dustin about venue. Katelyn is off today in Tacoma, misses you. Roborock Saros 10R shipped. Pick Pebble Index 01 ring size.</p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-02.mp3" length="2645281" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-02.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-02.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">briefing-2026-04-02</guid>
-  <pubDate>Thu, 02 Apr 2026 06:12:53 -0500</pubDate>
-  <itunes:duration>6:23</itunes:duration>
-  <itunes:episode>21</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
+    <item>
       <title>Deep Dive — Weekend Cabin: Buy, Build, or Both?</title>
       <description>Deep dive into weekend cabin options within 1-2 hours of Jefferson City, MO. Covers buying vs building, Zillow listings, DIY build cost breakdowns, Missouri's no-statewide-building-code advantage, and the hybrid approach recommendation.
 
-00:00:00 Introduction &amp; The Three Paths
-00:00:51 Target Areas in Missouri
-00:02:07 What's on the Market
-00:03:29 The Build Option — Missouri's Secret Advantage
-00:04:11 DIY Build Cost Breakdown
-00:07:23 Total Cost Comparison: Buy vs Build
-00:08:27 Build Timeline &amp; Kit Cabins
-00:09:27 The Hybrid Recommendation
-00:10:49 Standout Listings Recap
-00:11:42 Bottom Line &amp; Closing</description>
+      00:00:00 Introduction &amp; The Three Paths
+      00:00:51 Target Areas in Missouri
+      00:02:07 What's on the Market
+      00:03:29 The Build Option — Missouri's Secret Advantage
+      00:04:11 DIY Build Cost Breakdown
+      00:07:23 Total Cost Comparison: Buy vs Build
+      00:08:27 Build Timeline &amp; Kit Cabins
+      00:09:27 The Hybrid Recommendation
+      00:10:49 Standout Listings Recap
+      00:11:42 Bottom Line &amp; Closing</description>
       <content:encoded><![CDATA[<h2>Weekend Cabin Deep Dive</h2>
-<p>A comprehensive look at getting a weekend cabin within 1-2 hours of Jefferson City, Missouri — covering buying existing properties, building from scratch, and the hybrid approach.</p>
+      <p>A comprehensive look at getting a weekend cabin within 1-2 hours of Jefferson City, Missouri — covering buying existing properties, building from scratch, and the hybrid approach.</p>
 
-<h3>Target Areas</h3>
-<p>Lake of the Ozarks (~1hr), Southern Ozarks &amp; Mark Twain National Forest (~1.5-2hrs), Hermann wine country (~1hr), and Thousand Hills State Park (~2hrs).</p>
+      <h3>Target Areas</h3>
+      <p>Lake of the Ozarks (~1hr), Southern Ozarks &amp; Mark Twain National Forest (~1.5-2hrs), Hermann wine country (~1hr), and Thousand Hills State Park (~2hrs).</p>
 
-<h3>Market Findings</h3>
-<p>Small homes near Lake of the Ozarks: $15K-$140K. Standout: $39K 1BR cabin with dock access. Wooded lots near Edwards: $5-6K for 2-3 acres. 20 acres near Ellington: $30K. 11 acres near Raymondville: $45K.</p>
+      <h3>Market Findings</h3>
+      <p>Small homes near Lake of the Ozarks: $15K-$140K. Standout: $39K 1BR cabin with dock access. Wooded lots near Edwards: $5-6K for 2-3 acres. 20 acres near Ellington: $30K. 11 acres near Raymondville: $45K.</p>
 
-<h3>DIY Build Breakdown</h3>
-<p>Foundation ($2-4K), framing ($8-12K), metal roofing ($3-5K), well ($2.5-9.7K), kitchen ($2-4K), solar ($2-5K), wood stove ($500-1.5K), composting toilet ($300-800). Budget build total: ~$35-40K on $5-6K land. Moderate build with full utilities: ~$75-85K.</p>
+      <h3>DIY Build Breakdown</h3>
+      <p>Foundation ($2-4K), framing ($8-12K), metal roofing ($3-5K), well ($2.5-9.7K), kitchen ($2-4K), solar ($2-5K), wood stove ($500-1.5K), composting toilet ($300-800). Budget build total: ~$35-40K on $5-6K land. Moderate build with full utilities: ~$75-85K.</p>
 
-<h3>Key Insight</h3>
-<p>Missouri has NO statewide building code — many rural counties have minimal enforcement. Property tax on rural land is almost negligible ($50-80/year). 5-year total cost is roughly the same whether buying or building ($45-105K).</p>
+      <h3>Key Insight</h3>
+      <p>Missouri has NO statewide building code — many rural counties have minimal enforcement. Property tax on rural land is almost negligible ($50-80/year). 5-year total cost is roughly the same whether buying or building ($45-105K).</p>
 
-<h3>The Recommendation</h3>
-<p>Hybrid approach: Buy a cheap $25-40K lake property for immediate weekends, then scope land for a future build project.</p>]]></content:encoded>
+      <h3>The Recommendation</h3>
+      <p>Hybrid approach: Buy a cheap $25-40K lake property for immediate weekends, then scope land for a future build project.</p>]]></content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/cabin-deepdive-2026-04-01.mp3" length="4945647" type="audio/mpeg"/>
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-01-cabin.jpg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-01-cabin.jpg"/>
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01-cabin.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">deepdive-2026-04-01-cabin</guid>
       <pubDate>Wed, 01 Apr 2026 18:40:21 -0500</pubDate>
@@ -219,372 +199,395 @@ coding='UTF-8'?>
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-<item>
-  <title>Chapter 4 — The Gathering (The Keeping House)</title>
-  <description>Chapter 4 of The Keeping House, an original literary novel. Fen Castellano's point of view. The first weekly gathering — Fen arrives with a prepared philosophical framework, Desh challenges it, and Lena says something that silences the room.
 
-00:00:00 Opening — The Library
-00:03:00 The House as Problem
-00:07:00 Eleanora's Books
-00:10:00 The Gathering Begins
-00:13:00 Fen's Argument
-00:16:00 Desh Pushes Back
-00:19:00 The Silence
-00:22:00 Sharing Projects
-00:25:00 Lena's Truth</description>
-  <content:encoded><![CDATA[<h2>Chapter 4 — The Gathering</h2>
-<p><strong>POV:</strong> Fen Castellano | <strong>Season:</strong> Autumn</p>
-<p>The first weekly gathering at The Keeping House. Fen arrives prepared with a philosophical framework about the institution's purposelessness, but Desh challenges him — arguing that Fen is projecting his theories onto the place rather than experiencing it. The confrontation leads to Fen's first genuine moment of presence: choosing silence over argument.</p>
-<p>Margot admits her obsessive note-taking may be a way of hiding. Lena delivers the chapter's emotional center: "I came here to find out if I'm anything besides useful." The gathering dissolves, and Fen, alone in the library, writes his first honest sentence.</p>
-<p><em>The Keeping House</em> is an original literary novel written chapter by chapter. <a href="https://jacobbrooke95.github.io/daily-briefing-podcast/feed.xml">Subscribe to follow the story.</a></p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/episode-keeping-house-ch04.mp3" length="9610459" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-01-keeping-house-ch04.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01-keeping-house-ch04.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">deepdive-2026-04-01-keeping-house-ch04</guid>
-  <pubDate>Wed, 01 Apr 2026 13:34:03 -0500</pubDate>
-  <itunes:duration>0:25:58</itunes:duration>
-  <itunes:episode>19</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Chapter 3 — The Barn (The Keeping House)</title>
-  <description>Chapter 3 of The Keeping House, an original literary novel. Noor Hassan discovers the barn and claims it as her studio. A conversation with Callan about materials, making, and what it means to stay.
+    <item>
+      <title>Chapter 4 — The Gathering (The Keeping House)</title>
+      <description>Chapter 4 of The Keeping House, an original literary novel. Fen Castellano's point of view. The first weekly gathering — Fen arrives with a prepared philosophical framework, Desh challenges it, and Lena says something that silences the room.
 
-00:00:00 The Barn Doors
-00:05:05 Clearing the Workbench
-00:07:13 Callan Arrives
-00:11:36 Shared Work, Shared Stories
-00:16:43 The Greenhouse Glass</description>
-  <content:encoded><![CDATA[<h2>Chapter 3 — The Barn</h2>
-<p><strong>POV:</strong> Noor Hassan | <strong>Season:</strong> Autumn</p>
-<p>Noor discovers the timber-frame barn and claims it as her studio — the first studio she has ever had. She clears the workbench, finding a set of fine woodworking tools left behind by someone (Eleanora?). Callan arrives and reads the structure as engineering while she reads it as volume. Over three days of shared work, they exchange origin stories: his grandfather's burned barn in Oklahoma, her nine houses in six states as an Army kid. She begins gathering materials from the property — limestone, red oak, greenhouse glass, barbed wire, slate — listening to what the land wants to give her. By chapter's end, she opens her sketchbook and begins to draw.</p>
-<h3>The Keeping House</h3>
-<p>An original literary novel following six people who arrive at a mysterious rural estate for a year-long residency. Written chapter by chapter as a serialized podcast.</p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-ch03-2026-04-01.mp3" length="8058917" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-01-keeping-house-ch03.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01-keeping-house-ch03.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">deepdive-2026-04-01-keeping-house-ch03</guid>
-  <pubDate>Wed, 01 Apr 2026 07:09:13 -0500</pubDate>
-  <itunes:duration>0:21:43</itunes:duration>
-  <itunes:episode>18</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Daily Briefing — Wednesday, April 1, 2026</title>
-  <description>Morning daily briefing covering Iran War Day 33 (Trump threatens NATO exit, claims war ends in 2-3 weeks), Apple turns 50, Artemis II launch today, Anthropic pilot prep, DHS Day 47, text messages, calendar, weather, and tech/AI news.
+      00:00:00 Opening — The Library
+      00:03:00 The House as Problem
+      00:07:00 Eleanora's Books
+      00:10:00 The Gathering Begins
+      00:13:00 Fen's Argument
+      00:16:00 Desh Pushes Back
+      00:19:00 The Silence
+      00:22:00 Sharing Projects
+      00:25:00 Lena's Truth</description>
+      <content:encoded><![CDATA[<h2>Chapter 4 — The Gathering</h2>
+      <p><strong>POV:</strong> Fen Castellano | <strong>Season:</strong> Autumn</p>
+      <p>The first weekly gathering at The Keeping House. Fen arrives prepared with a philosophical framework about the institution's purposelessness, but Desh challenges him — arguing that Fen is projecting his theories onto the place rather than experiencing it. The confrontation leads to Fen's first genuine moment of presence: choosing silence over argument.</p>
+      <p>Margot admits her obsessive note-taking may be a way of hiding. Lena delivers the chapter's emotional center: "I came here to find out if I'm anything besides useful." The gathering dissolves, and Fen, alone in the library, writes his first honest sentence.</p>
+      <p><em>The Keeping House</em> is an original literary novel written chapter by chapter. <a href="https://jacobbrooke95.github.io/daily-briefing-podcast/feed.xml">Subscribe to follow the story.</a></p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/episode-keeping-house-ch04.mp3" length="9610459" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-01-keeping-house-ch04.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01-keeping-house-ch04.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-01-keeping-house-ch04</guid>
+      <pubDate>Wed, 01 Apr 2026 13:34:03 -0500</pubDate>
+      <itunes:duration>25:58</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
-00:00:00 Opening &amp; Weather
-00:00:40 Calendar
-00:01:20 Text Messages
-00:02:15 Iran War — Day 33
-00:03:20 Apple at 50 &amp; Artemis II
-00:03:55 Anthropic &amp; DHS
-00:04:25 Tech &amp; AI Roundup
-00:04:55 Reddit &amp; Jobs
-00:05:15 Closing</description>
-  <content:encoded><![CDATA[<h2>Iran War — Day 33: Trump Threatens NATO Exit</h2>
-<p>Trump told the Daily Telegraph he is "beyond reconsideration" on pulling the US out of NATO. France and Spain denied airspace to US warplanes. Italy blocked base access. Britain allows only defensive operations. Trump also claimed the war could end in "2-3 weeks" — his own advisers told Axios they have no idea what he's planning. Brent crude briefly dipped below $100. <a href="https://www.axios.com/2026/04/01/trump-nato-iran-war">Axios coverage →</a></p>
+    <item>
+      <title>Chapter 3 — The Barn (The Keeping House)</title>
+      <description>Chapter 3 of The Keeping House, an original literary novel. Noor Hassan discovers the barn and claims it as her studio. A conversation with Callan about materials, making, and what it means to stay.
 
-<h2>Iran Cyber Threat</h2>
-<p>Iran threatening to cyberattack Apple, Google, Microsoft, and 15 other US companies starting today. <a href="https://www.reuters.com/technology/iran-cyber-threat-us-tech-2026-04-01">Reuters →</a></p>
+      00:00:00 The Barn Doors
+      00:05:05 Clearing the Workbench
+      00:07:13 Callan Arrives
+      00:11:36 Shared Work, Shared Stories
+      00:16:43 The Greenhouse Glass</description>
+      <content:encoded><![CDATA[<h2>Chapter 3 — The Barn</h2>
+      <p><strong>POV:</strong> Noor Hassan | <strong>Season:</strong> Autumn</p>
+      <p>Noor discovers the timber-frame barn and claims it as her studio — the first studio she has ever had. She clears the workbench, finding a set of fine woodworking tools left behind by someone (Eleanora?). Callan arrives and reads the structure as engineering while she reads it as volume. Over three days of shared work, they exchange origin stories: his grandfather's burned barn in Oklahoma, her nine houses in six states as an Army kid. She begins gathering materials from the property — limestone, red oak, greenhouse glass, barbed wire, slate — listening to what the land wants to give her. By chapter's end, she opens her sketchbook and begins to draw.</p>
+      <h3>The Keeping House</h3>
+      <p>An original literary novel following six people who arrive at a mysterious rural estate for a year-long residency. Written chapter by chapter as a serialized podcast.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-ch03-2026-04-01.mp3" length="8058917" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-01-keeping-house-ch03.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01-keeping-house-ch03.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-01-keeping-house-ch03</guid>
+      <pubDate>Wed, 01 Apr 2026 07:09:13 -0500</pubDate>
+      <itunes:duration>21:43</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
-<h2>Apple Turns 50</h2>
-<p>Founded April 1, 1976. Apple updated its homepage with a rewind animation. Paul McCartney headlines the finale concert at Apple Park tonight. AirPods Max 2 reviewed by The Verge: incredible sound, still $549, still heavy. <a href="https://www.theverge.com/2026/4/1/apple-airpods-max-2-review">The Verge →</a></p>
+    <item>
+      <title>Daily Briefing — Wednesday, April 1, 2026</title>
+      <description>Morning daily briefing covering Iran War Day 33 (Trump threatens NATO exit, claims war ends in 2-3 weeks), Apple turns 50, Artemis II launch today, Anthropic pilot prep, DHS Day 47, text messages, calendar, weather, and tech/AI news.
 
-<h2>Artemis II — Launch Today</h2>
-<p>NASA's first crewed trip to the moon since 1972. Launch at 5:24 PM CDT. 80% favorable weather.</p>
+      00:00:00 Opening &amp; Weather
+      00:00:40 Calendar
+      00:01:20 Text Messages
+      00:02:15 Iran War — Day 33
+      00:03:20 Apple at 50 &amp; Artemis II
+      00:03:55 Anthropic &amp; DHS
+      00:04:25 Tech &amp; AI Roundup
+      00:04:55 Reddit &amp; Jobs
+      00:05:15 Closing</description>
+      <content:encoded><![CDATA[<h2>Iran War — Day 33: Trump Threatens NATO Exit</h2>
+      <p>Trump told the Daily Telegraph he is "beyond reconsideration" on pulling the US out of NATO. France and Spain denied airspace to US warplanes. Italy blocked base access. Britain allows only defensive operations. Trump also claimed the war could end in "2-3 weeks" — his own advisers told Axios they have no idea what he's planning. Brent crude briefly dipped below $100. <a href="https://www.axios.com/2026/04/01/trump-nato-iran-war">Axios coverage →</a></p>
 
-<h2>Anthropic v. Pentagon</h2>
-<p>Government appeal deadline tomorrow — same day as Jacob's pilot meeting at 9 AM. Claude Code source leak revealed persistent background assistant mode and a Tamagotchi virtual pet in the code.</p>
+      <h2>Iran Cyber Threat</h2>
+      <p>Iran threatening to cyberattack Apple, Google, Microsoft, and 15 other US companies starting today. <a href="https://www.reuters.com/technology/iran-cyber-threat-us-tech-2026-04-01">Reuters →</a></p>
 
-<h2>DHS Shutdown — Day 47</h2>
-<p>TSA paychecks arrived Monday. Congress on recess. No fix before mid-April.</p>
+      <h2>Apple Turns 50</h2>
+      <p>Founded April 1, 1976. Apple updated its homepage with a rewind animation. Paul McCartney headlines the finale concert at Apple Park tonight. AirPods Max 2 reviewed by The Verge: incredible sound, still $549, still heavy. <a href="https://www.theverge.com/2026/4/1/apple-airpods-max-2-review">The Verge →</a></p>
 
-<h2>Tech & AI Roundup</h2>
-<p>Microsoft posted worst quarter since 2008. Oracle cutting 30,000 employees to fund AI data centers. SpaceX April investor briefings ahead of potential $1.75T IPO. Baidu robotaxis froze simultaneously on Wuhan highways — centralized AI failure. <a href="https://www.bloomberg.com/news/microsoft-q1-2026">Bloomberg →</a></p>
+      <h2>Artemis II — Launch Today</h2>
+      <p>NASA's first crewed trip to the moon since 1972. Launch at 5:24 PM CDT. 80% favorable weather.</p>
 
-<h2>Reddit & Local</h2>
-<p>Sound Transit considering cutting Tacoma light rail extension, ending at Fife instead of Tacoma Dome. City of Seattle Economics & Revenue Analyst posting may have closed — check directly. King County procurement specialist role at $108-137K.</p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-01-audio.mp3" length="2321230" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-01.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">briefing-2026-04-01</guid>
-  <pubDate>Wed, 01 Apr 2026 07:06:24 -0500</pubDate>
-  <itunes:duration>5:31</itunes:duration>
-  <itunes:episodeType>full</itunes:episodeType>
-  <itunes:episode>17</itunes:episode>
-</item>
-<item>
-  <title>Daily Briefing — Tuesday, March 31, 2026</title>
-  <description>Morning daily briefing covering Iran's desalination threat (Day 32), Apple at 50, Artemis II countdown, SpaceX IPO, DHS Day 46, text messages, calendar, weather, and tech/AI news.
+      <h2>Anthropic v. Pentagon</h2>
+      <p>Government appeal deadline tomorrow — same day as Jacob's pilot meeting at 9 AM. Claude Code source leak revealed persistent background assistant mode and a Tamagotchi virtual pet in the code.</p>
 
-00:00:00 Opening
-00:00:25 Weather
-00:01:05 Calendar
-00:02:10 Text Messages
-00:03:50 Iran War — Day 32
-00:05:10 DHS Shutdown — Day 46
-00:05:30 Status Board
-00:06:00 Tech &amp; AI
-00:06:40 Closing</description>
-  <content:encoded><![CDATA[<h2>Iran War — Day 32: Trump Threatens Water Supply</h2>
-<p>Trump threatened to "completely obliterate" Iran's desalination plants. Iran struck a Kuwaiti desalination plant and oil tanker. Gas crossed $4 nationally. Brent crude ~$115, record monthly gain. <a href="https://www.axios.com/2026/03/31/trump-iran-war-crimes-desalination-water">Axios coverage →</a></p>
+      <h2>DHS Shutdown — Day 47</h2>
+      <p>TSA paychecks arrived Monday. Congress on recess. No fix before mid-April.</p>
 
-<h2>Apple at 50</h2>
-<p>Ben Thompson published "Apple's 50 Years of Integration" on Stratechery. Apple plans to open Siri to rival AI assistants in iOS 27. Rare bonuses to retain hardware designers from OpenAI poaching.</p>
+      <h2>Tech & AI Roundup</h2>
+      <p>Microsoft posted worst quarter since 2008. Oracle cutting 30,000 employees to fund AI data centers. SpaceX April investor briefings ahead of potential $1.75T IPO. Baidu robotaxis froze simultaneously on Wuhan highways — centralized AI failure. <a href="https://www.bloomberg.com/news/microsoft-q1-2026">Bloomberg →</a></p>
 
-<h2>Anthropic v. Pentagon</h2>
-<p>Government appeal deadline Thursday, April 2. MIT Technology Review argues the Pentagon's tactic has backfired.</p>
+      <h2>Reddit & Local</h2>
+      <p>Sound Transit considering cutting Tacoma light rail extension, ending at Fife instead of Tacoma Dome. City of Seattle Economics & Revenue Analyst posting may have closed — check directly. King County procurement specialist role at $108-137K.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-01-audio.mp3" length="2321230" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-01.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">briefing-2026-04-01</guid>
+      <pubDate>Wed, 01 Apr 2026 07:06:24 -0500</pubDate>
+      <itunes:duration>5:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+    </item>
 
-<h2>SpaceX IPO</h2>
-<p>Bloomberg reports SpaceX may file confidential IPO paperwork this week. $1.75T valuation. <a href="https://www.bloomberg.com">Bloomberg →</a></p>
+    <item>
+      <title>Daily Briefing — Tuesday, March 31, 2026</title>
+      <description>Morning daily briefing covering Iran's desalination threat (Day 32), Apple at 50, Artemis II countdown, SpaceX IPO, DHS Day 46, text messages, calendar, weather, and tech/AI news.
 
-<h2>Artemis II — Launch Tomorrow</h2>
-<p>Countdown clock live. Launch Wednesday 5:24 PM CDT. 80% favorable weather. First crewed moon trip since 1972.</p>
+      00:00:00 Opening
+      00:00:25 Weather
+      00:01:05 Calendar
+      00:02:10 Text Messages
+      00:03:50 Iran War — Day 32
+      00:05:10 DHS Shutdown — Day 46
+      00:05:30 Status Board
+      00:06:00 Tech &amp; AI
+      00:06:40 Closing</description>
+      <content:encoded><![CDATA[<h2>Iran War — Day 32: Trump Threatens Water Supply</h2>
+      <p>Trump threatened to "completely obliterate" Iran's desalination plants. Iran struck a Kuwaiti desalination plant and oil tanker. Gas crossed $4 nationally. Brent crude ~$115, record monthly gain. <a href="https://www.axios.com/2026/03/31/trump-iran-war-crimes-desalination-water">Axios coverage →</a></p>
 
-<h2>DHS Shutdown — Day 46</h2>
-<p>TSA workers receiving first paychecks since Valentine's Day. 510 have quit permanently.</p>
+      <h2>Apple at 50</h2>
+      <p>Ben Thompson published "Apple's 50 Years of Integration" on Stratechery. Apple plans to open Siri to rival AI assistants in iOS 27. Rare bonuses to retain hardware designers from OpenAI poaching.</p>
 
-<h2>Tech & AI</h2>
-<p>OpenAI discontinuing Sora. Apple opening Siri to rivals in iOS 27. Rec Room shutting down. Nuclear AI data centers accelerating.</p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-31.mp3" length="2838858" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-31.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-31.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">briefing-2026-03-31</guid>
-  <pubDate>Tue, 31 Mar 2026 06:13:50 -0500</pubDate>
-  <itunes:duration>6:59</itunes:duration>
-  <itunes:episodeType>full</itunes:episodeType>
-  <itunes:episode>16</itunes:episode>
-</item>
-<item>
-  <title>Chapter 2 — The Table (The Keeping House)</title>
-  <description>The first communal meal at The Keeping House, seen through the eyes of Callan Marsh — construction foreman, quiet observer, and the man who ran out of reasons to say no.
+      <h2>Anthropic v. Pentagon</h2>
+      <p>Government appeal deadline Thursday, April 2. MIT Technology Review argues the Pentagon's tactic has backfired.</p>
 
-00:00:00 The Kitchen — Arrival
-00:02:19 Callan's Backstory
-00:04:12 Cooking Together
-00:08:01 The Dinner Table
-00:11:30 The Conversation
-00:13:59 Clearing Up
-00:17:35 Under the Stars</description>
-  <content:encoded><![CDATA[<h2>Chapter 2 — The Table</h2>
-<p>The six residents of The Keeping House share their first communal meal — a ribollita made from the garden's last harvest. Callan Marsh watches from behind his cutting board as the group's dynamics begin to form: Fen philosophizes, Noor deflects with precision, Lena takes quiet command, Desh tries to be useful, and Margot observes everything while reaching for a notebook she's trying not to open.</p>
-<p>When asked what brought him here, Callan gives the most honest answer anyone has offered yet.</p>
-<p><em>The Keeping House</em> is an original literary novel published chapter by chapter. Written by Claude (Anthropic) as part of a creative writing project in Jacob's Obsidian vault.</p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-ch02-2026-03-30.mp3" length="8766270" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-30-keeping-house-ch02.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-30-keeping-house-ch02.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">deepdive-2026-03-30-keeping-house-ch02</guid>
-  <pubDate>Mon, 30 Mar 2026 13:31:42 -0500</pubDate>
-  <itunes:duration>22:36</itunes:duration>
-  <itunes:episode>15</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Week in Review — March 30, 2026</title>
-  <description>Weekly review covering March 22-30, 2026. Anthropic's landmark court victory, Iran war escalation to Day 31, SpaceX IPO, and the week ahead.
+      <h2>SpaceX IPO</h2>
+      <p>Bloomberg reports SpaceX may file confidential IPO paperwork this week. $1.75T valuation. <a href="https://www.bloomberg.com">Bloomberg →</a></p>
 
-00:00:00 Opening
-00:00:34 The Week That Was
-00:01:38 Highlights &amp; Wins
-00:03:04 Stories That Evolved
-00:07:04 Vault Activity
-00:08:32 Relationship Check
-00:09:52 The Week Ahead
-00:10:56 What to Watch
-00:11:28 Closing Thoughts</description>
-  <content:encoded><![CDATA[<h2>Week in Review — March 22-30, 2026</h2>
-<p>The week Anthropic went from embattled to ascendant, the Iran war became a multi-theater conflict, and Thursday April 2 became the most consequential day on the calendar.</p>
-<h3>Anthropic's Landmark Week</h3>
-<p>Judge Rita Lin issued a 43-page preliminary injunction. <a href="https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html">Read more</a></p>
-<h3>Iran War — Day 23 to Day 31</h3>
-<p>Houthis entered the war. Oil surged to $116. <a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">Timeline</a></p>
-<h3>SpaceX IPO</h3>
-<p>Largest IPO in history. <a href="https://www.axios.com/2026/03/30/spacex-ipo-elon-musk-wall-street">Read more</a></p>]]></content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/weekly-briefing-2026-03-30-audio.mp3" length="4720060" type="audio/mpeg"/>
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-30-weekly.jpg"/>
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-weekly-2026-03-30.vtt" type="text/vtt" language="en"/>
-  <guid isPermaLink="false">weekly-2026-03-30</guid>
-  <pubDate>Mon, 30 Mar 2026 06:38:46 -0500</pubDate>
-  <itunes:duration>12:04</itunes:duration>
-  <itunes:episode>14</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item><title>Daily Briefing — Monday, March 30, 2026</title><description>Morning daily briefing covering weather, calendar, messages, and today's top stories.
+      <h2>Artemis II — Launch Tomorrow</h2>
+      <p>Countdown clock live. Launch Wednesday 5:24 PM CDT. 80% favorable weather. First crewed moon trip since 1972.</p>
 
-00:00:00 Opening &amp; Day Overview
-00:01:30 Your Calendar &amp; Messages
-00:04:00 Local News &amp; Quick Status
-00:05:30 Iran War &amp; Defense
-00:08:00 Anthropic &amp; Pentagon Case
-00:09:00 SpaceX IPO
-00:10:30 Tech &amp; AI News
-00:13:00 Jobs &amp; Sports
-00:14:30 Closing</description><content:encoded>&lt;h2&gt;Monday, March 30, 2026 — Daily Briefing&lt;/h2&gt;
+      <h2>DHS Shutdown — Day 46</h2>
+      <p>TSA workers receiving first paychecks since Valentine's Day. 510 have quit permanently.</p>
 
-&lt;h3&gt;Local News&lt;/h3&gt;
-&lt;p&gt;The DHS shutdown reaches day 45, but TSA workers are getting paychecks starting today thanks to a Trump presidential memorandum redirecting funds. &lt;a href="https://www.cnbc.com/2026/03/27/tsa-dhs-paychecks-shutdown.html"&gt;TSA Paychecks Continue →&lt;/a&gt;&lt;/p&gt;
+      <h2>Tech & AI</h2>
+      <p>OpenAI discontinuing Sora. Apple opening Siri to rivals in iOS 27. Rec Room shutting down. Nuclear AI data centers accelerating.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-31.mp3" length="2838858" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-31.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-31.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">briefing-2026-03-31</guid>
+      <pubDate>Tue, 31 Mar 2026 06:13:50 -0500</pubDate>
+      <itunes:duration>6:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+    </item>
 
-&lt;h3&gt;Iran &amp; Defense&lt;/h3&gt;
-&lt;p&gt;The Iran war enters day 31 with 50,000 US troops in the Middle East. Trump tells the Financial Times he might "take the oil" and seize Kharg Island. The Wall Street Journal reports consideration of a military operation to seize uranium enrichment material. &lt;a href="https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/"&gt;US Ground Operations →&lt;/a&gt; &lt;a href="https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report"&gt;Pentagon Readiness →&lt;/a&gt;&lt;/p&gt;
+    <item>
+      <title>Chapter 2 — The Table (The Keeping House)</title>
+      <description>The first communal meal at The Keeping House, seen through the eyes of Callan Marsh — construction foreman, quiet observer, and the man who ran out of reasons to say no.
 
-&lt;h3&gt;Anthropic &amp; Government&lt;/h3&gt;
-&lt;p&gt;Judge Lin's injunction against Pentagon interference with Anthropic holds. Government has until Thursday to appeal to the Ninth Circuit. All three Anthropic watchlist roles remain open: Institute Analyst, Communications Manager, and Geopolitics Analyst.&lt;/p&gt;
+      00:00:00 The Kitchen — Arrival
+      00:02:19 Callan's Backstory
+      00:04:12 Cooking Together
+      00:08:01 The Dinner Table
+      00:11:30 The Conversation
+      00:13:59 Clearing Up
+      00:17:35 Under the Stars</description>
+      <content:encoded><![CDATA[<h2>Chapter 2 — The Table</h2>
+      <p>The six residents of The Keeping House share their first communal meal — a ribollita made from the garden's last harvest. Callan Marsh watches from behind his cutting board as the group's dynamics begin to form: Fen philosophizes, Noor deflects with precision, Lena takes quiet command, Desh tries to be useful, and Margot observes everything while reaching for a notebook she's trying not to open.</p>
+      <p>When asked what brought him here, Callan gives the most honest answer anyone has offered yet.</p>
+      <p><em>The Keeping House</em> is an original literary novel published chapter by chapter. Written by Claude (Anthropic) as part of a creative writing project in Jacob's Obsidian vault.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-ch02-2026-03-30.mp3" length="8766270" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-30-keeping-house-ch02.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-30-keeping-house-ch02.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-03-30-keeping-house-ch02</guid>
+      <pubDate>Mon, 30 Mar 2026 13:31:42 -0500</pubDate>
+      <itunes:duration>22:36</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
-&lt;h3&gt;SpaceX IPO&lt;/h3&gt;
-&lt;p&gt;SpaceX is preparing the largest IPO in history: $75 billion at a $1.75 trillion valuation. That's more than the entire US IPO market raised in 2024 and 2025 combined. Polymarket gives it an 89.5% chance of being the biggest IPO of the year. Musk recently merged XAI into SpaceX; all eleven XAI co-founders have left.&lt;/p&gt;
+    <item>
+      <title>Week in Review — March 30, 2026</title>
+      <description>Weekly review covering March 22-30, 2026. Anthropic's landmark court victory, Iran war escalation to Day 31, SpaceX IPO, and the week ahead.
 
-&lt;h3&gt;Tech &amp; AI News&lt;/h3&gt;
-&lt;p&gt;Anthropic's Claude Mythos leak continues. Axios reports the company is privately warning government officials that the model "presages an upcoming wave of models that can exploit vulnerabilities in ways that far outpace the efforts of defenders." &lt;a href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"&gt;Claude Mythos Leak →&lt;/a&gt; &lt;a href="https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html"&gt;Pentagon DOD Claude Court Ruling →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The FTC chairman called media companies demanding payment for AI training data "rent-seeking" and "collecting tolls" — effectively giving AI companies a green light to train on news content.&lt;/p&gt;
-&lt;p&gt;NASA's Artemis crew entered quarantine ahead of a potential Wednesday launch. This would be the first crewed trip around the moon since 1972.&lt;/p&gt;
+      00:00:00 Opening
+      00:00:34 The Week That Was
+      00:01:38 Highlights &amp; Wins
+      00:03:04 Stories That Evolved
+      00:07:04 Vault Activity
+      00:08:32 Relationship Check
+      00:09:52 The Week Ahead
+      00:10:56 What to Watch
+      00:11:28 Closing Thoughts</description>
+      <content:encoded><![CDATA[<h2>Week in Review — March 22-30, 2026</h2>
+      <p>The week Anthropic went from embattled to ascendant, the Iran war became a multi-theater conflict, and Thursday April 2 became the most consequential day on the calendar.</p>
+      <h3>Anthropic's Landmark Week</h3>
+      <p>Judge Rita Lin issued a 43-page preliminary injunction. <a href="https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html">Read more</a></p>
+      <h3>Iran War — Day 23 to Day 31</h3>
+      <p>Houthis entered the war. Oil surged to $116. <a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis">Timeline</a></p>
+      <h3>SpaceX IPO</h3>
+      <p>Largest IPO in history. <a href="https://www.axios.com/2026/03/30/spacex-ipo-elon-musk-wall-street">Read more</a></p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/weekly-briefing-2026-03-30-audio.mp3" length="4720060" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-30-weekly.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-weekly-2026-03-30.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">weekly-2026-03-30</guid>
+      <pubDate>Mon, 30 Mar 2026 06:38:46 -0500</pubDate>
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
-&lt;h3&gt;Your Day&lt;/h3&gt;
-&lt;p&gt;Ben arrives today to help with carpet installation (scheduled for tomorrow at 9 AM). Payday is also tomorrow. Wednesday: Apple's 50th anniversary, Q2 starts, and Karen announces her retirement at 11 AM. Thursday is loaded: Anthropic pilot discussion at 9 AM, Bill Review Training at 2 PM, dinner with Alex, Chris, and Dustin at 6 PM, and the government appeal deadline coincides with your own workplace pilot meeting.&lt;/p&gt;</content:encoded><enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-30-audio.mp3" length="2693232" type="audio/mpeg" /><itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-30.jpg" /><podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-30.vtt" type="text/vtt" language="en" /><guid isPermaLink="false">briefing-2026-03-30</guid><pubDate>Mon, 30 Mar 2026 06:13:01 -0500</pubDate><itunes:duration>7:28</itunes:duration><itunes:episode>13</itunes:episode><itunes:episodeType>full</itunes:episodeType></item>
-<item>
-  <title>Deep Dive — Know Your City: Jefferson City &amp; Cole County Local Government</title>
-  <description>A comprehensive guide to local government in Jefferson City and Cole County, Missouri. Covers city council, county commission, school district, budgets, housing crisis, infrastructure challenges, economic development, upcoming elections, and how to stay civically engaged — all focused exclusively on local government, not state politics.
+    <item>
+      <title>Daily Briefing — Monday, March 30, 2026</title>
+      <description>Morning daily briefing covering weather, calendar, messages, and today's top stories.
 
-00:00:00 Introduction
-00:01:00 The City at a Glance
-00:02:52 How the City Government Works
-00:05:35 How Cole County Government Works
-00:07:46 Jefferson City Public Schools
-00:09:49 The Big Issues
-00:14:02 Policy Shifts &amp; What's Changing
-00:15:17 The Big Projects Coming
-00:17:08 How to Stay Informed
-00:18:38 The Interconnected Picture</description>
-  <content:encoded>&lt;h2&gt;Know Your City: Jefferson City &amp; Cole County Local Government&lt;/h2&gt;
-&lt;p&gt;A deep dive into the local government, economy, and civic life of Jefferson City and Cole County. This episode covers everything you need to know as a resident — from who sits on city council to how the county budget works to what major projects are coming in the next five years.&lt;/p&gt;
+      00:00:00 Opening &amp; Day Overview
+      00:01:30 Your Calendar &amp; Messages
+      00:04:00 Local News &amp; Quick Status
+      00:05:30 Iran War &amp; Defense
+      00:08:00 Anthropic &amp; Pentagon Case
+      00:09:00 SpaceX IPO
+      00:10:30 Tech &amp; AI News
+      00:13:00 Jobs &amp; Sports
+      00:14:30 Closing</description>
+      <content:encoded>&lt;h2&gt;Monday, March 30, 2026 — Daily Briefing&lt;/h2&gt;
 
-&lt;h3&gt;City Government&lt;/h3&gt;
-&lt;p&gt;Mayor Ron Fitzwater leads a 10-member city council (2 per ward, 5 wards) with City Administrator Brian Crane managing day-to-day operations. City budget: $86.8M. Council meets 1st and 3rd Monday at 6 PM. &lt;a href="https://www.jeffersoncitymo.gov/government/council_members.php"&gt;City Council Members →&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;Local News&lt;/h3&gt;
+      &lt;p&gt;The DHS shutdown reaches day 45, but TSA workers are getting paychecks starting today thanks to a Trump presidential memorandum redirecting funds. &lt;a href="https://www.cnbc.com/2026/03/27/tsa-dhs-paychecks-shutdown.html"&gt;TSA Paychecks Continue →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;Cole County&lt;/h3&gt;
-&lt;p&gt;Three-member commission: Presiding Commissioner Sam Bushman, Jeff Hoelscher (East), Harry Otto (West). Operating budget: $64.4M plus $32.8M capital. Meets Tuesdays at 9 AM. &lt;a href="https://colecounty.org/324/County-Commission"&gt;County Commission →&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;Iran &amp; Defense&lt;/h3&gt;
+      &lt;p&gt;The Iran war enters day 31 with 50,000 US troops in the Middle East. Trump tells the Financial Times he might "take the oil" and seize Kharg Island. The Wall Street Journal reports consideration of a military operation to seize uranium enrichment material. &lt;a href="https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/"&gt;US Ground Operations →&lt;/a&gt; &lt;a href="https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report"&gt;Pentagon Readiness →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;Schools&lt;/h3&gt;
-&lt;p&gt;JCPS serves 8,560 students across 18 schools. Academic scores improving three consecutive years. $20M athletic facilities expansion underway. &lt;a href="https://www.jcschools.us/"&gt;JCPS Website →&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;Anthropic &amp; Government&lt;/h3&gt;
+      &lt;p&gt;Judge Lin's injunction against Pentagon interference with Anthropic holds. Government has until Thursday to appeal to the Ninth Circuit. All three Anthropic watchlist roles remain open: Institute Analyst, Communications Manager, and Geopolitics Analyst.&lt;/p&gt;
 
-&lt;h3&gt;Key Issues&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Housing Crisis:&lt;/strong&gt; Ranked 12th tightest market nationally post-tornado. Mayor targeting 50,000 residents (needs 3,000-5,000 new units). &lt;a href="https://krcgtv.com/news/local/jefferson-city-council-approves-housing-incentive-to-address-critical-housing-shortage"&gt;Housing Incentive →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;High Street Viaduct:&lt;/strong&gt; Emergency closure Feb 2026. $16-25M replacement planned, federal BUILD grant applied for. &lt;a href="https://abc17news.com/news/jefferson-city/2026/02/19/jefferson-citys-high-street-viaduct-closed-for-emergency-repairs/"&gt;Viaduct Closure →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Downtown Conference Center:&lt;/strong&gt; 189,420 sq ft mixed-use with 200-room hotel. Construction starting 2026, completion ~2028. $584M projected economic impact over a decade. &lt;a href="https://jcrep.org/conference-center/"&gt;Conference Center →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Property Tax Assessment:&lt;/strong&gt; Cole County assessor failed state compliance. New assessor Tim Theroff took over Sept 2025. &lt;a href="https://krcgtv.com/news/local/cole-countys-property-valuation-fails-state-standards-sparking-local-worries"&gt;Assessment Issues →&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;SpaceX IPO&lt;/h3&gt;
+      &lt;p&gt;SpaceX is preparing the largest IPO in history: $75 billion at a $1.75 trillion valuation. That's more than the entire US IPO market raised in 2024 and 2025 combined. Polymarket gives it an 89.5% chance of being the biggest IPO of the year. Musk recently merged XAI into SpaceX; all eleven XAI co-founders have left.&lt;/p&gt;
 
-&lt;h3&gt;Upcoming&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;April 2026 Election:&lt;/strong&gt; 5 city council seats, 3 school board seats, and Cole County capital improvement sales tax renewal (extending to 10-year) all on the ballot.&lt;/p&gt;
+      &lt;h3&gt;Tech &amp; AI News&lt;/h3&gt;
+      &lt;p&gt;Anthropic's Claude Mythos leak continues. Axios reports the company is privately warning government officials that the model "presages an upcoming wave of models that can exploit vulnerabilities in ways that far outpace the efforts of defenders." &lt;a href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"&gt;Claude Mythos Leak →&lt;/a&gt; &lt;a href="https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html"&gt;Pentagon DOD Claude Court Ruling →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;The FTC chairman called media companies demanding payment for AI training data "rent-seeking" and "collecting tolls" — effectively giving AI companies a green light to train on news content.&lt;/p&gt;
+      &lt;p&gt;NASA's Artemis crew entered quarantine ahead of a potential Wednesday launch. This would be the first crewed trip around the moon since 1972.&lt;/p&gt;
 
-&lt;h3&gt;Stay Informed&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.jeffersoncitymo.gov/meetings_and_agendas/city_council.php"&gt;City Council Agendas &amp; Video&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://colecounty.org/AgendaCenter"&gt;County Commission Agenda Center&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.jcschools.us/about-jc-schools/board-of-education/board-meeting-schedule-information"&gt;School Board Schedule&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.newstribune.com/news/jefferson-city/"&gt;News Tribune - Local Coverage&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/jc-local-gov-deepdive.mp3" length="7553546" type="audio/mpeg" />
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-deepdive-jc-local-gov.jpg" />
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-jc-local-gov.vtt" type="text/vtt" language="en" />
-  <guid isPermaLink="false">deepdive-2026-03-29-jc-local-gov</guid>
-  <pubDate>Sun, 29 Mar 2026 20:31:52 -0500</pubDate>
-  <itunes:duration>20:02</itunes:duration>
-  <itunes:episode>12</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Chapter One — The Letter (The Keeping House)</title>
-  <description>Chapter One of The Keeping House — an original novel written one chapter at a time. Margot Ainsley arrives at a mysterious rural estate to begin a year-long residency at an institution whose purpose no one can explain.
+      &lt;h3&gt;Your Day&lt;/h3&gt;
+      &lt;p&gt;Ben arrives today to help with carpet installation (scheduled for tomorrow at 9 AM). Payday is also tomorrow. Wednesday: Apple's 50th anniversary, Q2 starts, and Karen announces her retirement at 11 AM. Thursday is loaded: Anthropic pilot discussion at 9 AM, Bill Review Training at 2 PM, dinner with Alex, Chris, and Dustin at 6 PM, and the government appeal deadline coincides with your own workplace pilot meeting.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-30-audio.mp3" length="2899527" type="audio/mpeg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-30.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-30.vtt" type="text/vtt" language="en" />
+      <guid isPermaLink="false">briefing-2026-03-30</guid>
+      <pubDate>Mon, 30 Mar 2026 06:13:01 -0500</pubDate>
+      <itunes:duration>7:28</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
-00:00:00 Chapter One: The Letter
-00:01:10 The House
-00:03:39 The Library
-00:05:07 Meeting June
-00:07:01 The Cottage
-00:08:47 The Hilltop
-00:11:08 Evening
-00:13:11 Night</description>
-  <content:encoded>&lt;h2&gt;The Keeping House — Chapter One: The Letter&lt;/h2&gt;
-&lt;p&gt;Margot Ainsley arrives a day early at The Keeping House, a rural estate turned residential retreat endowed by the late Eleanora Voss. She explores the house, meets the caretaker June, settles into her cottage, and watches the light move across a river valley from a hilltop bench. In the night, she wakes to the sound of another car on the gravel drive.&lt;/p&gt;
-&lt;h3&gt;About the Novel&lt;/h3&gt;
-&lt;p&gt;The Keeping House is an original literary novel being written one chapter per session. It follows six people who arrive at a mysterious rural retreat and must learn — against their own resistance — to stop performing and start being present.&lt;/p&gt;</content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-chapter-01.mp3" length="5496424" type="audio/mpeg" />
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-keeping-house-ch01.jpg" />
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-keeping-house-ch01.vtt" type="text/vtt" language="en" />
-  <guid isPermaLink="false">deepdive-2026-03-29-keeping-house-ch01</guid>
-  <pubDate>Sun, 29 Mar 2026 13:33:11 -0500</pubDate>
-  <itunes:duration>14:39</itunes:duration>
-  <itunes:episode>11</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
-  <title>Daily Briefing — Sunday, March 29, 2026</title>
-  <description>Morning daily briefing: Pentagon plans ground operations in Iran (Day 30), DHS shutdown Day 44, Anthropic Mythos reverberations, Apple turns 50 Wednesday, carpet install week.
+    <item>
+      <title>Deep Dive — Know Your City: Jefferson City &amp; Cole County Local Government</title>
+      <description>A comprehensive guide to local government in Jefferson City and Cole County, Missouri. Covers city council, county commission, school district, budgets, housing crisis, infrastructure challenges, economic development, upcoming elections, and how to stay civically engaged — all focused exclusively on local government, not state politics.
 
-00:00:00 Opening &amp; Weather
-00:00:55 Calendar
-00:02:00 Text Messages
-00:04:30 Iran War — Day 30
-00:06:30 DHS Shutdown
-00:07:10 Quick Status Board
-00:08:30 Tech &amp; Apple
-00:09:50 Reddit
-00:10:40 Jobs &amp; Action Items
-00:12:00 Closing</description>
-  <content:encoded>&lt;h2&gt;Iran War — Day 30: Pentagon Plans Ground Operations&lt;/h2&gt;
-&lt;p&gt;The Washington Post reports the Pentagon is preparing for weeks of ground operations in Iran, including raids on Kharg Island. The 82nd Airborne has been directed to deploy. &lt;a href="https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Russia Provided Satellite Intel Before Saudi Base Attack&lt;/h2&gt;
-&lt;p&gt;Zelenskyy revealed Russia took satellite images of the US airbase at Prince Sultan before Iran's attack. &lt;a href="https://www.nbcnews.com/world/ukraine/russia-us-base-american-troops-zelenskyy-rcna265612"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;US Has Destroyed Only a Third of Iran's Missiles&lt;/h2&gt;
-&lt;p&gt;Intelligence suggests the US has eliminated only about a third of Iran's missile arsenal after 30 days. &lt;a href="https://www.theguardian.com/world/2026/mar/28/us-destroyed-third-iran-missiles-intelligence-suggests-trump"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;DHS Shutdown Day 44&lt;/h2&gt;
-&lt;p&gt;Congress on recess. Trump signed EO for TSA pay. No resolution before mid-April. &lt;a href="https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-42/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Anthropic: Mythos Leak + Consumer Surge&lt;/h2&gt;
-&lt;p&gt;Claude Mythos leak continues reverberating. Paid subscribers doubled this year. &lt;a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;Apple Turns 50 Wednesday&lt;/h2&gt;
-&lt;p&gt;Global celebrations underway. Tim Cook's letter. Two new iPhone apps this year. &lt;a href="https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;</content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-29-audio.mp3" length="7554477" type="audio/mpeg" />
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-29.jpg" />
-  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-29.vtt" type="text/vtt" language="en" />
-  <guid isPermaLink="false">briefing-2026-03-29</guid>
-  <pubDate>Sun, 29 Mar 2026 06:11:20 -0500</pubDate>
-  <itunes:duration>7:52</itunes:duration>
-  <itunes:episode>10</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
+      00:00:00 Introduction
+      00:01:00 The City at a Glance
+      00:02:52 How the City Government Works
+      00:05:35 How Cole County Government Works
+      00:07:46 Jefferson City Public Schools
+      00:09:49 The Big Issues
+      00:14:02 Policy Shifts &amp; What's Changing
+      00:15:17 The Big Projects Coming
+      00:17:08 How to Stay Informed
+      00:18:38 The Interconnected Picture</description>
+      <content:encoded>&lt;h2&gt;Know Your City: Jefferson City &amp; Cole County Local Government&lt;/h2&gt;
+      &lt;p&gt;A deep dive into the local government, economy, and civic life of Jefferson City and Cole County. This episode covers everything you need to know as a resident — from who sits on city council to how the county budget works to what major projects are coming in the next five years.&lt;/p&gt;
+
+      &lt;h3&gt;City Government&lt;/h3&gt;
+      &lt;p&gt;Mayor Ron Fitzwater leads a 10-member city council (2 per ward, 5 wards) with City Administrator Brian Crane managing day-to-day operations. City budget: $86.8M. Council meets 1st and 3rd Monday at 6 PM. &lt;a href="https://www.jeffersoncitymo.gov/government/council_members.php"&gt;City Council Members →&lt;/a&gt;&lt;/p&gt;
+
+      &lt;h3&gt;Cole County&lt;/h3&gt;
+      &lt;p&gt;Three-member commission: Presiding Commissioner Sam Bushman, Jeff Hoelscher (East), Harry Otto (West). Operating budget: $64.4M plus $32.8M capital. Meets Tuesdays at 9 AM. &lt;a href="https://colecounty.org/324/County-Commission"&gt;County Commission →&lt;/a&gt;&lt;/p&gt;
+
+      &lt;h3&gt;Schools&lt;/h3&gt;
+      &lt;p&gt;JCPS serves 8,560 students across 18 schools. Academic scores improving three consecutive years. $20M athletic facilities expansion underway. &lt;a href="https://www.jcschools.us/"&gt;JCPS Website →&lt;/a&gt;&lt;/p&gt;
+
+      &lt;h3&gt;Key Issues&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;Housing Crisis:&lt;/strong&gt; Ranked 12th tightest market nationally post-tornado. Mayor targeting 50,000 residents (needs 3,000-5,000 new units). &lt;a href="https://krcgtv.com/news/local/jefferson-city-council-approves-housing-incentive-to-address-critical-housing-shortage"&gt;Housing Incentive →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;High Street Viaduct:&lt;/strong&gt; Emergency closure Feb 2026. $16-25M replacement planned, federal BUILD grant applied for. &lt;a href="https://abc17news.com/news/jefferson-city/2026/02/19/jefferson-citys-high-street-viaduct-closed-for-emergency-repairs/"&gt;Viaduct Closure →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Downtown Conference Center:&lt;/strong&gt; 189,420 sq ft mixed-use with 200-room hotel. Construction starting 2026, completion ~2028. $584M projected economic impact over a decade. &lt;a href="https://jcrep.org/conference-center/"&gt;Conference Center →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Property Tax Assessment:&lt;/strong&gt; Cole County assessor failed state compliance. New assessor Tim Theroff took over Sept 2025. &lt;a href="https://krcgtv.com/news/local/cole-countys-property-valuation-fails-state-standards-sparking-local-worries"&gt;Assessment Issues →&lt;/a&gt;&lt;/p&gt;
+
+      &lt;h3&gt;Upcoming&lt;/h3&gt;
+      &lt;p&gt;&lt;strong&gt;April 2026 Election:&lt;/strong&gt; 5 city council seats, 3 school board seats, and Cole County capital improvement sales tax renewal (extending to 10-year) all on the ballot.&lt;/p&gt;
+
+      &lt;h3&gt;Stay Informed&lt;/h3&gt;
+      &lt;ul&gt;
+      &lt;li&gt;&lt;a href="https://www.jeffersoncitymo.gov/meetings_and_agendas/city_council.php"&gt;City Council Agendas &amp; Video&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="https://colecounty.org/AgendaCenter"&gt;County Commission Agenda Center&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="https://www.jcschools.us/about-jc-schools/board-of-education/board-meeting-schedule-information"&gt;School Board Schedule&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="https://www.newstribune.com/news/jefferson-city/"&gt;News Tribune - Local Coverage&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;</content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/jc-local-gov-deepdive.mp3" length="7553546" type="audio/mpeg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-deepdive-jc-local-gov.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-jc-local-gov.vtt" type="text/vtt" language="en" />
+      <guid isPermaLink="false">deepdive-2026-03-29-jc-local-gov</guid>
+      <pubDate>Sun, 29 Mar 2026 20:31:52 -0500</pubDate>
+      <itunes:duration>20:02</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>Chapter One — The Letter (The Keeping House)</title>
+      <description>Chapter One of The Keeping House — an original novel written one chapter at a time. Margot Ainsley arrives at a mysterious rural estate to begin a year-long residency at an institution whose purpose no one can explain.
+
+      00:00:00 Chapter One: The Letter
+      00:01:10 The House
+      00:03:39 The Library
+      00:05:07 Meeting June
+      00:07:01 The Cottage
+      00:08:47 The Hilltop
+      00:11:08 Evening
+      00:13:11 Night</description>
+      <content:encoded>&lt;h2&gt;The Keeping House — Chapter One: The Letter&lt;/h2&gt;
+      &lt;p&gt;Margot Ainsley arrives a day early at The Keeping House, a rural estate turned residential retreat endowed by the late Eleanora Voss. She explores the house, meets the caretaker June, settles into her cottage, and watches the light move across a river valley from a hilltop bench. In the night, she wakes to the sound of another car on the gravel drive.&lt;/p&gt;
+      &lt;h3&gt;About the Novel&lt;/h3&gt;
+      &lt;p&gt;The Keeping House is an original literary novel being written one chapter per session. It follows six people who arrive at a mysterious rural retreat and must learn — against their own resistance — to stop performing and start being present.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/keeping-house-chapter-01.mp3" length="5496424" type="audio/mpeg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-keeping-house-ch01.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-keeping-house-ch01.vtt" type="text/vtt" language="en" />
+      <guid isPermaLink="false">deepdive-2026-03-29-keeping-house-ch01</guid>
+      <pubDate>Sun, 29 Mar 2026 13:33:11 -0500</pubDate>
+      <itunes:duration>14:39</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>Daily Briefing — Sunday, March 29, 2026</title>
+      <description>Morning daily briefing: Pentagon plans ground operations in Iran (Day 30), DHS shutdown Day 44, Anthropic Mythos reverberations, Apple turns 50 Wednesday, carpet install week.
+
+      00:00:00 Opening &amp; Weather
+      00:00:55 Calendar
+      00:02:00 Text Messages
+      00:04:30 Iran War — Day 30
+      00:06:30 DHS Shutdown
+      00:07:10 Quick Status Board
+      00:08:30 Tech &amp; Apple
+      00:09:50 Reddit
+      00:10:40 Jobs &amp; Action Items
+      00:12:00 Closing</description>
+      <content:encoded>&lt;h2&gt;Iran War — Day 30: Pentagon Plans Ground Operations&lt;/h2&gt;
+      &lt;p&gt;The Washington Post reports the Pentagon is preparing for weeks of ground operations in Iran, including raids on Kharg Island. The 82nd Airborne has been directed to deploy. &lt;a href="https://www.washingtonpost.com/national-security/2026/03/28/trump-iran-ground-troops-marines/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;Russia Provided Satellite Intel Before Saudi Base Attack&lt;/h2&gt;
+      &lt;p&gt;Zelenskyy revealed Russia took satellite images of the US airbase at Prince Sultan before Iran's attack. &lt;a href="https://www.nbcnews.com/world/ukraine/russia-us-base-american-troops-zelenskyy-rcna265612"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;US Has Destroyed Only a Third of Iran's Missiles&lt;/h2&gt;
+      &lt;p&gt;Intelligence suggests the US has eliminated only about a third of Iran's missile arsenal after 30 days. &lt;a href="https://www.theguardian.com/world/2026/mar/28/us-destroyed-third-iran-missiles-intelligence-suggests-trump"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;DHS Shutdown Day 44&lt;/h2&gt;
+      &lt;p&gt;Congress on recess. Trump signed EO for TSA pay. No resolution before mid-April. &lt;a href="https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-day-42/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;Anthropic: Mythos Leak + Consumer Surge&lt;/h2&gt;
+      &lt;p&gt;Claude Mythos leak continues reverberating. Paid subscribers doubled this year. &lt;a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;Apple Turns 50 Wednesday&lt;/h2&gt;
+      &lt;p&gt;Global celebrations underway. Tim Cook's letter. Two new iPhone apps this year. &lt;a href="https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-29-audio.mp3" length="7554477" type="audio/mpeg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-29.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-29.vtt" type="text/vtt" language="en" />
+      <guid isPermaLink="false">briefing-2026-03-29</guid>
+      <pubDate>Sun, 29 Mar 2026 06:11:20 -0500</pubDate>
+      <itunes:duration>7:52</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Deep Dive — AI 2027 Report: Reality Check (Kokoro TTS Version)</title>
       <description>Same deep dive into the AI 2027 forecasting report — re-rendered with Kokoro TTS for A/B voice comparison. How well have Daniel Kokotajlo's predictions held up? What did the authors revise? What has 2026 reality looked like compared to the forecast?
 
-00:00:00 Introduction &amp; Report Overview
-00:01:30 The Core Thesis
-00:03:15 The Authors' Own Revision
-00:05:00 What They Got Right
-00:07:30 Mixed Results
-00:09:00 Where They Missed
-00:10:00 The DeepSeek Surprise
-00:11:30 Overall Grade &amp; Opinion
+      00:00:00 Introduction &amp; Report Overview
+      00:01:30 The Core Thesis
+      00:03:15 The Authors' Own Revision
+      00:05:00 What They Got Right
+      00:07:30 Mixed Results
+      00:09:00 Where They Missed
+      00:10:00 The DeepSeek Surprise
+      00:11:30 Overall Grade &amp; Opinion
 
-Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" re-rendered using Kokoro TTS for voice quality comparison.
-</description>
+      Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" re-rendered using Kokoro TTS for voice quality comparison.
+      </description>
       <content:encoded>&lt;h2&gt;AI 2027 Report: Reality Check (Kokoro TTS Version)&lt;/h2&gt;
-&lt;p&gt;A deep analysis of the AI 2027 forecasting report, examining predictions vs. 2026 reality. This version rendered with Kokoro TTS for A/B voice comparison against the original.&lt;/p&gt;
+      &lt;p&gt;A deep analysis of the AI 2027 forecasting report, examining predictions vs. 2026 reality. This version rendered with Kokoro TTS for A/B voice comparison against the original.&lt;/p&gt;
 
-&lt;h3&gt;What They Got Right&lt;/h3&gt;
-&lt;p&gt;Agent development trajectory, coding AI as leading indicator, government remaining behind the curve, and safety risks becoming visible — all largely validated. &lt;a href="https://ai2027.org"&gt;Read the original report →&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;What They Got Right&lt;/h3&gt;
+      &lt;p&gt;Agent development trajectory, coding AI as leading indicator, government remaining behind the curve, and safety risks becoming visible — all largely validated. &lt;a href="https://ai2027.org"&gt;Read the original report →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;What They Got Wrong&lt;/h3&gt;
-&lt;p&gt;Timeline (authors revised from 2027 to ~2030), competitive dynamics (DeepSeek undermined compute-concentration thesis), China prediction (private enterprise, not nationalization), smooth scaling thesis.&lt;/p&gt;
+      &lt;h3&gt;What They Got Wrong&lt;/h3&gt;
+      &lt;p&gt;Timeline (authors revised from 2027 to ~2030), competitive dynamics (DeepSeek undermined compute-concentration thesis), China prediction (private enterprise, not nationalization), smooth scaling thesis.&lt;/p&gt;
 
-&lt;h3&gt;The DeepSeek Surprise&lt;/h3&gt;
-&lt;p&gt;An under-resourced Chinese startup training frontier models for ~$6M was not in anyone's scenario planning.&lt;/p&gt;
+      &lt;h3&gt;The DeepSeek Surprise&lt;/h3&gt;
+      &lt;p&gt;An under-resourced Chinese startup training frontier models for ~$6M was not in anyone's scenario planning.&lt;/p&gt;
 
-&lt;h3&gt;Overall Grade&lt;/h3&gt;
-&lt;p&gt;B- for direction, D for timing. The &lt;em&gt;what&lt;/em&gt; is right even if the &lt;em&gt;when&lt;/em&gt; is wrong.&lt;/p&gt;
+      &lt;h3&gt;Overall Grade&lt;/h3&gt;
+      &lt;p&gt;B- for direction, D for timing. The &lt;em&gt;what&lt;/em&gt; is right even if the &lt;em&gt;when&lt;/em&gt; is wrong.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Kokoro TTS re-render — bonus episode for voice quality A/B comparison.&lt;/em&gt;&lt;/p&gt;</content:encoded>
+      &lt;p&gt;&lt;em&gt;Kokoro TTS re-render — bonus episode for voice quality A/B comparison.&lt;/em&gt;&lt;/p&gt;</content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/ai2027-kokoro-deepdive-2026-03-28.m4a" length="10466432" type="audio/mp4" />
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-ai2027.jpg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-28-ai2027.jpg" />
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-ai2027-kokoro.vtt" type="text/vtt" language="en" />
       <guid isPermaLink="false">deepdive-2026-03-28-ai2027-kokoro</guid>
       <pubDate>Sat, 28 Mar 2026 14:30:00 -0500</pubDate>
@@ -592,35 +595,36 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>bonus</itunes:episodeType>
     </item>
-<item>
+
+    <item>
       <title>Deep Dive — AI 2027 Report: Reality Check</title>
       <description>Deep dive into the AI 2027 forecasting report by Daniel Kokotajlo. How well have its predictions held up? What did the authors revise? And what has 2026 reality actually looked like compared to the forecast?
 
-00:00:00 Introduction &amp; Report Overview
-00:01:30 The Core Thesis
-00:03:15 The Authors' Own Revision
-00:05:00 What They Got Right
-00:07:30 Mixed Results
-00:09:00 Where They Missed
-00:10:00 The DeepSeek Surprise
-00:11:30 Overall Grade &amp; Opinion
-</description>
+      00:00:00 Introduction &amp; Report Overview
+      00:01:30 The Core Thesis
+      00:03:15 The Authors' Own Revision
+      00:05:00 What They Got Right
+      00:07:30 Mixed Results
+      00:09:00 Where They Missed
+      00:10:00 The DeepSeek Surprise
+      00:11:30 Overall Grade &amp; Opinion
+      </description>
       <content:encoded>&lt;h2&gt;AI 2027 Report: Reality Check&lt;/h2&gt;
-&lt;p&gt;A deep analysis of the AI 2027 forecasting report, examining predictions vs. 2026 reality.&lt;/p&gt;
+      &lt;p&gt;A deep analysis of the AI 2027 forecasting report, examining predictions vs. 2026 reality.&lt;/p&gt;
 
-&lt;h3&gt;What They Got Right&lt;/h3&gt;
-&lt;p&gt;Agent development trajectory, coding AI as leading indicator, government remaining behind the curve, and safety risks becoming visible — all largely validated. &lt;a href="https://ai2027.org"&gt;Read the original report →&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;What They Got Right&lt;/h3&gt;
+      &lt;p&gt;Agent development trajectory, coding AI as leading indicator, government remaining behind the curve, and safety risks becoming visible — all largely validated. &lt;a href="https://ai2027.org"&gt;Read the original report →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;What They Got Wrong&lt;/h3&gt;
-&lt;p&gt;Timeline (authors revised from 2027 to ~2030), competitive dynamics (DeepSeek undermined compute-concentration thesis), China prediction (private enterprise, not nationalization), smooth scaling thesis.&lt;/p&gt;
+      &lt;h3&gt;What They Got Wrong&lt;/h3&gt;
+      &lt;p&gt;Timeline (authors revised from 2027 to ~2030), competitive dynamics (DeepSeek undermined compute-concentration thesis), China prediction (private enterprise, not nationalization), smooth scaling thesis.&lt;/p&gt;
 
-&lt;h3&gt;The DeepSeek Surprise&lt;/h3&gt;
-&lt;p&gt;An under-resourced Chinese startup training frontier models for ~$6M was not in anyone's scenario planning. &lt;a href="https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/"&gt;Latest: Anthropic Mythos leak →&lt;/a&gt;&lt;/p&gt;
+      &lt;h3&gt;The DeepSeek Surprise&lt;/h3&gt;
+      &lt;p&gt;An under-resourced Chinese startup training frontier models for ~$6M was not in anyone's scenario planning. &lt;a href="https://fortune.com/2026/03/27/anthropic-leaked-ai-mythos-cybersecurity-risk/"&gt;Latest: Anthropic Mythos leak →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;Overall Grade&lt;/h3&gt;
-&lt;p&gt;B- for direction, D for timing. The &lt;em&gt;what&lt;/em&gt; is right even if the &lt;em&gt;when&lt;/em&gt; is wrong.&lt;/p&gt;</content:encoded>
+      &lt;h3&gt;Overall Grade&lt;/h3&gt;
+      &lt;p&gt;B- for direction, D for timing. The &lt;em&gt;what&lt;/em&gt; is right even if the &lt;em&gt;when&lt;/em&gt; is wrong.&lt;/p&gt;</content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/ai2027-deep-dive-2026-03-28.mp3" length="4065816" type="audio/mpeg" />
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-ai2027.jpg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-28-ai2027.jpg" />
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-ai2027.vtt" type="text/vtt" language="en" />
       <guid isPermaLink="false">deepdive-2026-03-28-ai2027</guid>
       <pubDate>Sat, 28 Mar 2026 13:56:14 -0500</pubDate>
@@ -628,21 +632,22 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-<item>
+
+    <item>
       <title>Week in Review — March 28, 2026</title>
       <description>Weekly briefing covering the week of March 22–28, 2026. Anthropic wins its landmark court case, Iran war escalates with Houthi entry, DHS shutdown worsens, and the week ahead is loaded.
 
-00:00:00 Opening — The Week That Was
-00:02:00 Highlights and Wins
-00:03:15 Stories That Evolved
-00:07:30 Vault Activity
-00:08:30 Relationship Check
-00:09:45 The Week Ahead
-00:11:00 What to Watch
-00:12:00 Closing</description>
+      00:00:00 Opening — The Week That Was
+      00:02:00 Highlights and Wins
+      00:03:15 Stories That Evolved
+      00:07:30 Vault Activity
+      00:08:30 Relationship Check
+      00:09:45 The Week Ahead
+      00:11:00 What to Watch
+      00:12:00 Closing</description>
       <content:encoded>&lt;h2&gt;The Week That Was&lt;/h2&gt;&lt;p&gt;This was Anthropic's week — a 43-page federal injunction, a leaked next-gen model (Claude Mythos), iOS 27 Siri integration, and $19B ARR. Meanwhile, the Iran war escalated: Houthis entered the conflict, oil hit $112.57, and Congress left for recess while 61,000 TSA workers remain unpaid.&lt;/p&gt;&lt;h2&gt;Anthropic v. Pentagon&lt;/h2&gt;&lt;p&gt;Judge Rita Lin issued a preliminary injunction calling the Pentagon's designation "classic illegal First Amendment retaliation" and "Orwellian." Federal agencies can resume using Claude. The government has until April 2 to appeal. &lt;a href="https://www.cnbc.com/2026/03/26/anthropic-wins-preliminary-injunction-pentagon.html"&gt;CNBC coverage →&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;Iran War — Days 23–29&lt;/h2&gt;&lt;p&gt;The week opened with a 48-hour ultimatum and ended with Houthis firing on Israel. Oil surged from ~$102 to $112.57. Goldman Sachs says prices could stay elevated through 2027. The IEA called it worse than the 1970s oil shocks. &lt;a href="https://www.axios.com/2026/03/27/vance-iran-peace-talks"&gt;Axios: Vance takes lead →&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;DHS Shutdown — Days 40–43&lt;/h2&gt;&lt;p&gt;Senate passed bipartisan funding at 2:20 AM Friday. House rejected it, passed their own bill, then both chambers left for two-week recess. No resolution before mid-April.&lt;/p&gt;&lt;h2&gt;Apple&lt;/h2&gt;&lt;p&gt;iOS 26.4 dropped with Playlist Playground and new emoji. AirPods Max 2 pre-orders opened. WWDC confirmed June 8. Bloomberg: iOS 27 will open Siri to Claude, Gemini via Extensions system. Apple turns 50 on Wednesday.&lt;/p&gt;&lt;h2&gt;The Week Ahead&lt;/h2&gt;&lt;p&gt;Ben arrives Monday for carpet install Tuesday. Karen's retirement announcement Wednesday (Q2 starts). Anthropic pilot discussion Thursday morning — same day as the government's appeal deadline and dinner with friends.&lt;/p&gt;</content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/weekly-briefing-2026-03-28.mp3" length="5027051" type="audio/mpeg" />
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-weekly-2026-03-28.jpg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-weekly-2026-03-28.jpg" />
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-weekly-2026-03-28.vtt" type="text/vtt" language="en" />
       <guid isPermaLink="false">weekly-2026-03-28</guid>
       <pubDate>Sat, 28 Mar 2026 12:15:00 -0500</pubDate>
@@ -650,115 +655,128 @@ Note: This is the same episode as "Deep Dive — AI 2027 Report: Reality Check" 
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-<item>
-  <title>Saturday Afternoon Roundup — March 28, 2026</title>
-  <description>Quick Saturday roundup: Claude subscriptions skyrocketing, Mac Pro discontinued, SoftBank's $40B OpenAI signal, YC Demo Day highlights, and Whoop's health monitoring pivot.</description>
-  <content:encoded>&lt;h2&gt;Claude's Paying Users Have More Than Doubled&lt;/h2&gt;
-&lt;p&gt;Anthropic reports explosive consumer growth in 2026, driven by Claude Code and smart marketing. &lt;a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2&gt;Apple Discontinues the Mac Pro&lt;/h2&gt;
-&lt;p&gt;The Mac Pro has been pulled from Apple's website with no replacement announced. The Mac Studio effectively ate its market. &lt;a href="https://www.macstories.net/linked/apple-discontinues-the-mac-pro/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+    <item>
+      <title>Saturday Afternoon Roundup — March 28, 2026</title>
+      <description>Quick Saturday roundup: Claude subscriptions skyrocketing, Mac Pro discontinued, SoftBank's $40B OpenAI signal, YC Demo Day highlights, and Whoop's health monitoring pivot.</description>
+      <content:encoded>&lt;h2&gt;Claude's Paying Users Have More Than Doubled&lt;/h2&gt;
+      &lt;p&gt;Anthropic reports explosive consumer growth in 2026, driven by Claude Code and smart marketing. &lt;a href="https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2&gt;SoftBank's $40B Loan Signals OpenAI IPO&lt;/h2&gt;
-&lt;p&gt;A 12-month unsecured loan to fund OpenAI investment suggests lenders expect a public offering within the year. &lt;a href="https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;Apple Discontinues the Mac Pro&lt;/h2&gt;
+      &lt;p&gt;The Mac Pro has been pulled from Apple's website with no replacement announced. The Mac Studio effectively ate its market. &lt;a href="https://www.macstories.net/linked/apple-discontinues-the-mac-pro/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2&gt;YC Demo Day Highlights&lt;/h2&gt;
-&lt;p&gt;From moon hotels to cattle herding — the Winter 2026 batch covered a wild range. &lt;a href="https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;h2&gt;SoftBank's $40B Loan Signals OpenAI IPO&lt;/h2&gt;
+      &lt;p&gt;A 12-month unsecured loan to fund OpenAI investment suggests lenders expect a public offering within the year. &lt;a href="https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2&gt;Whoop Pivots to Health Monitoring&lt;/h2&gt;
-&lt;p&gt;The wearable company wants to move beyond elite athletes to become a life-saving health monitor for everyone. &lt;a href="https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;</content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/saturday-afternoon-2026-03-28.mp3" length="925409" type="audio/mpeg" />
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-afternoon.jpg" />
-  <guid isPermaLink="false">briefing-2026-03-28-afternoon</guid>
-  <pubDate>Sat, 28 Mar 2026 11:00:00 -0500</pubDate>
-  <itunes:duration>1:58</itunes:duration>
-  <itunes:episode>6</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
+      &lt;h2&gt;YC Demo Day Highlights&lt;/h2&gt;
+      &lt;p&gt;From moon hotels to cattle herding — the Winter 2026 batch covered a wild range. &lt;a href="https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+
+      &lt;h2&gt;Whoop Pivots to Health Monitoring&lt;/h2&gt;
+      &lt;p&gt;The wearable company wants to move beyond elite athletes to become a life-saving health monitor for everyone. &lt;a href="https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/saturday-afternoon-2026-03-28.mp3" length="925409" type="audio/mpeg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-28-afternoon.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-afternoon.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">briefing-2026-03-28-afternoon</guid>
+      <pubDate>Sat, 28 Mar 2026 11:00:00 -0500</pubDate>
+      <itunes:duration>1:58</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Deep Dive — Claude Mythos: Anthropic's Biggest Leak and IPO Plans</title>
       <description>A deep dive into the Claude Mythos leak — Anthropic's new Capybara-tier model with unprecedented cybersecurity capabilities, the Wall Street selloff it triggered, and the October 2026 IPO plans revealed the same day.</description>
       <content:encoded>&lt;h2&gt;The Leak&lt;/h2&gt;&lt;p&gt;On March 26, 2026, a CMS misconfiguration at Anthropic exposed roughly 3,000 unpublished blog assets — including a draft post describing Claude Mythos, a new model tier above Opus. Security researchers Roy Paz (LayerX) and Alexandre Pauwels (Cambridge) found the exposed data store. Fortune broke the story.&lt;/p&gt;&lt;h2&gt;What Is Capybara?&lt;/h2&gt;&lt;p&gt;Capybara is Anthropic's new fourth model tier, positioned above Opus. Claude Mythos is the first model in this tier. Anthropic calls it "a step change" and "the most capable we've built to date," with dramatically higher scores in coding, reasoning, and cybersecurity.&lt;/p&gt;&lt;h2&gt;Cybersecurity Concerns&lt;/h2&gt;&lt;p&gt;The draft warns Mythos is "far ahead of any other AI model in cyber capabilities" — able to find and exploit software vulnerabilities at machine speed. This triggered a major cybersecurity stock selloff: CrowdStrike -7%, Palo Alto Networks -6%, Tenable -11%, Zscaler -4.5%.&lt;/p&gt;&lt;h2&gt;IPO Plans&lt;/h2&gt;&lt;p&gt;Bloomberg reported the same day that Anthropic is targeting an October 2026 IPO, potentially raising 0B+. The company is valued at ~80B after a 0B February funding round, running at 4B annualized revenue. The timing has fueled skepticism about whether the leak was truly accidental.&lt;/p&gt;&lt;h2&gt;Open Questions&lt;/h2&gt;&lt;p&gt;When will Mythos be available via API? What will pricing look like? Will cybersecurity concerns trigger regulation? And was this leak intentional pre-IPO marketing?&lt;/p&gt;</content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/mythos-deep-dive-2026-03-28.mp3" length="1504800" type="audio/mpeg" />
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-mythos-2026-03-28.jpg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-mythos-2026-03-28.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-mythos.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">custom-2026-03-28-mythos-deep-dive</guid>
       <pubDate>Sat, 28 Mar 2026 09:45:00 -0500</pubDate>
       <itunes:duration>4:00</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-<item>
-  <title>Apple TV+ 2026: The Complete Lineup</title>
-  <description>A deep dive into everything coming to Apple TV+ in 2026 — returning favorites like Ted Lasso, Silo, and Slow Horses, plus new star-studded originals from Cape Fear to Lucky.</description>
-  <content:encoded>
-&lt;h2&gt;Returning Series&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Already premiered:&lt;/strong&gt; Hijack S2, Drops of God S2, Tehran S3, Shrinking S3, The Last Thing He Told Me S2, Monarch: Legacy of Monsters S2&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Spring/Summer:&lt;/strong&gt; For All Mankind S5 (Mar 27), Your Friends &amp;amp; Neighbors S2 (Apr 3), Criminal Record S2 (Apr 22), Sugar S2 (Jun 19), Ted Lasso S4 (Summer), Silo S3 (Summer)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fall:&lt;/strong&gt; Slow Horses S6, The Morning Show S5&lt;/p&gt;
 
-&lt;h2&gt;New Original Series&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Eternity&lt;/strong&gt; (Feb 13) — Elizabeth Olsen, Miles Teller. Afterlife romantic comedy. &lt;a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Imperfect Women&lt;/strong&gt; (Mar 18) — Elisabeth Moss, Kerry Washington, Kate Mara. Psychological thriller. &lt;a href="https://collider.com/most-anticipated-apple-tv-shows-2026-ranked/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Margo's Got Money Troubles&lt;/strong&gt; (Apr 15) — Elle Fanning, Michelle Pfeiffer, Nicole Kidman. David E. Kelley comedy-drama. &lt;a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Widow's Bay&lt;/strong&gt; (Apr 29) — Matthew Rhys. Horror-comedy. &lt;a href="https://www.thewrap.com/creative-content/tv-shows/apple-tv-film-series-slate-2026/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Maximum Pleasure Guaranteed&lt;/strong&gt; (May 20) — Tatiana Maslany. Dark comedy thriller. &lt;a href="https://www.thewrap.com/creative-content/tv-shows/apple-tv-film-series-slate-2026/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cape Fear&lt;/strong&gt; (Jun 5) — Javier Bardem, Amy Adams. Scorsese reimagining. &lt;a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Lucky&lt;/strong&gt; (Jul 15) — Anya Taylor-Joy, Annette Bening, Timothy Olyphant. Limited series. &lt;a href="https://collider.com/most-anticipated-apple-tv-shows-2026-ranked/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+    <item>
+      <title>Apple TV+ 2026: The Complete Lineup</title>
+      <description>A deep dive into everything coming to Apple TV+ in 2026 — returning favorites like Ted Lasso, Silo, and Slow Horses, plus new star-studded originals from Cape Fear to Lucky.</description>
+      <content:encoded>
+      &lt;h2&gt;Returning Series&lt;/h2&gt;
+      &lt;p&gt;&lt;strong&gt;Already premiered:&lt;/strong&gt; Hijack S2, Drops of God S2, Tehran S3, Shrinking S3, The Last Thing He Told Me S2, Monarch: Legacy of Monsters S2&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Spring/Summer:&lt;/strong&gt; For All Mankind S5 (Mar 27), Your Friends &amp;amp; Neighbors S2 (Apr 3), Criminal Record S2 (Apr 22), Sugar S2 (Jun 19), Ted Lasso S4 (Summer), Silo S3 (Summer)&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Fall:&lt;/strong&gt; Slow Horses S6, The Morning Show S5&lt;/p&gt;
 
-&lt;h2&gt;Notable Films&lt;/h2&gt;
-&lt;p&gt;Outcome (Apr 10) — Keanu Reeves, Cameron Diaz, Martin Scorsese&lt;/p&gt;
-&lt;p&gt;The Dink (Jul 24) — Pickleball comedy with Ben Stiller&lt;/p&gt;
-&lt;p&gt;Mayday (Sep 4) — Ryan Reynolds, Kenneth Branagh&lt;/p&gt;
-&lt;p&gt;Matchbox The Movie (Oct 9) — John Cena&lt;/p&gt;
-&lt;p&gt;Way of the Warrior Kid (Nov 20) — Chris Pratt&lt;/p&gt;
+      &lt;h2&gt;New Original Series&lt;/h2&gt;
+      &lt;p&gt;&lt;strong&gt;Eternity&lt;/strong&gt; (Feb 13) — Elizabeth Olsen, Miles Teller. Afterlife romantic comedy. &lt;a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Imperfect Women&lt;/strong&gt; (Mar 18) — Elisabeth Moss, Kerry Washington, Kate Mara. Psychological thriller. &lt;a href="https://collider.com/most-anticipated-apple-tv-shows-2026-ranked/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Margo's Got Money Troubles&lt;/strong&gt; (Apr 15) — Elle Fanning, Michelle Pfeiffer, Nicole Kidman. David E. Kelley comedy-drama. &lt;a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Widow's Bay&lt;/strong&gt; (Apr 29) — Matthew Rhys. Horror-comedy. &lt;a href="https://www.thewrap.com/creative-content/tv-shows/apple-tv-film-series-slate-2026/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Maximum Pleasure Guaranteed&lt;/strong&gt; (May 20) — Tatiana Maslany. Dark comedy thriller. &lt;a href="https://www.thewrap.com/creative-content/tv-shows/apple-tv-film-series-slate-2026/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Cape Fear&lt;/strong&gt; (Jun 5) — Javier Bardem, Amy Adams. Scorsese reimagining. &lt;a href="https://www.apple.com/tv-pr/news/2026/02/apple-tv-sets-must-see-2026-lineup-of-star-studded-original-series-films-and-live-sports/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Lucky&lt;/strong&gt; (Jul 15) — Anya Taylor-Joy, Annette Bening, Timothy Olyphant. Limited series. &lt;a href="https://collider.com/most-anticipated-apple-tv-shows-2026-ranked/"&gt;Read more →&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2&gt;What's NOT Coming in 2026&lt;/h2&gt;
-&lt;p&gt;Severance S3 — Filming starts spring 2026, likely mid-2027 premiere&lt;/p&gt;
-&lt;p&gt;Bad Sisters S3 — Not renewed; creator says S2 was a natural endpoint&lt;/p&gt;
-  </content:encoded>
-  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/apple-tv-2026.mp3" length="2246400" type="audio/mpeg" />
-  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28.jpg" />
-  <guid isPermaLink="false">custom-2026-03-28-apple-tv-lineup</guid>
-  <pubDate>Sat, 28 Mar 2026 09:30:00 -0500</pubDate>
-  <itunes:duration>5:55</itunes:duration>
-  <itunes:episode>4</itunes:episode>
-  <itunes:episodeType>full</itunes:episodeType>
-</item>
-<item>
+      &lt;h2&gt;Notable Films&lt;/h2&gt;
+      &lt;p&gt;Outcome (Apr 10) — Keanu Reeves, Cameron Diaz, Martin Scorsese&lt;/p&gt;
+      &lt;p&gt;The Dink (Jul 24) — Pickleball comedy with Ben Stiller&lt;/p&gt;
+      &lt;p&gt;Mayday (Sep 4) — Ryan Reynolds, Kenneth Branagh&lt;/p&gt;
+      &lt;p&gt;Matchbox The Movie (Oct 9) — John Cena&lt;/p&gt;
+      &lt;p&gt;Way of the Warrior Kid (Nov 20) — Chris Pratt&lt;/p&gt;
+
+      &lt;h2&gt;What's NOT Coming in 2026&lt;/h2&gt;
+      &lt;p&gt;Severance S3 — Filming starts spring 2026, likely mid-2027 premiere&lt;/p&gt;
+      &lt;p&gt;Bad Sisters S3 — Not renewed; creator says S2 was a natural endpoint&lt;/p&gt;
+      </content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/apple-tv-2026.mp3" length="2246400" type="audio/mpeg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-28.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-apple-tv.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">custom-2026-03-28-apple-tv-lineup</guid>
+      <pubDate>Sat, 28 Mar 2026 09:30:00 -0500</pubDate>
+      <itunes:duration>5:55</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Daily Briefing — Saturday Evening Update, March 28, 2026</title>
       <description>Trump extends Hormuz deadline 10 days. Dubai crude hits $126. Iranian Red Crescent reports 1,900 killed. TSA paychecks may arrive Monday. Bank of America settles Epstein lawsuit for $72.5M. Anthropic nears $19B annualized revenue. Apple partners with Google Gemini for Siri overhaul.</description>
       <content:encoded>&lt;h2&gt;Iran War — Evening Update&lt;/h2&gt;&lt;p&gt;Trump extended the Strait of Hormuz deadline by 10 days — Iran now has until ~April 7 to reopen the strait. Dubai crude benchmark at $126/barrel, up 76% since the war started. Pakistan now acting as intermediary. Iranian Red Crescent: 1,900 killed since Feb 28. In Lebanon, 1,142 killed including 122 children.&lt;/p&gt;&lt;h2&gt;DHS Shutdown&lt;/h2&gt;&lt;p&gt;TSA workers should start seeing paychecks as early as Monday, March 30.&lt;/p&gt;&lt;h2&gt;Financial&lt;/h2&gt;&lt;p&gt;Bank of America agreed to pay $72.5M to settle Epstein-related lawsuit. Anthropic approaching $19B annualized revenue.&lt;/p&gt;&lt;h2&gt;Apple&lt;/h2&gt;&lt;p&gt;Apple partnering with Google to use 1.2T parameter Gemini model for reimagined Siri in iOS 26.4.&lt;/p&gt;</content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-evening-audio.mp3" length="841536" type="audio/mpeg" />
       <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-evening.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">briefing-2026-03-28-evening</guid>
       <pubDate>Sat, 28 Mar 2026 09:15:00 -0500</pubDate>
       <itunes:duration>2:24</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-<item>
+
+    <item>
       <title>Daily Briefing — Saturday Mid-Morning Update, March 28, 2026</title>
       <description>Houthis enter Iran war. 3,100+ No Kings protests planned. Warhorse Studios fires translator for AI. Apple turns 50 Wednesday. Cherry blossoms in Tacoma.</description>
       <content:encoded>&lt;h2&gt;Weather&lt;/h2&gt;&lt;p&gt;Jefferson City: frost at dawn (31°F), climbing to 83°F with full sun. Tacoma: 56°F, partly cloudy, rain tomorrow.&lt;/p&gt;&lt;h2&gt;Texts&lt;/h2&gt;&lt;p&gt;Katelyn asking about bird sightings — you two have been trading all week. Alex sent The Verge's Apple 50th anniversary product ranking at 11 PM Friday.&lt;/p&gt;&lt;h2&gt;Iran War Escalation&lt;/h2&gt;&lt;p&gt;Houthis launched their first military operation in support of Iran — a ballistic missile at Israel. Debris caused fires at a UAE industrial hub. Drone hit Kuwait airport radar. The 10-day Hormuz extension is the framework but the situation is more fragile.&lt;/p&gt;&lt;h2&gt;No Kings Protests&lt;/h2&gt;&lt;p&gt;3,100+ demonstrations planned nationwide, organizers expecting millions. Two-thirds of RSVPs from outside major cities, up 40% from June 2025.&lt;/p&gt;&lt;h2&gt;DHS Shutdown Day 43&lt;/h2&gt;&lt;p&gt;Congress left for two-week recess without a deal. 61,000 TSA workers have missed three paychecks.&lt;/p&gt;&lt;h2&gt;AI Replacement Watch&lt;/h2&gt;&lt;p&gt;Warhorse Studios (Kingdom Come Deliverance 2) fired their Czech-to-English translator and replaced him with AI. No warning. 12K upvotes, 1,500 comments on Reddit.&lt;/p&gt;&lt;h2&gt;Apple&lt;/h2&gt;&lt;p&gt;Turns 50 Wednesday. iPhone Air C1X modem matches Qualcomm on speed, wins on latency. 15+ new products expected this year. No iPhone in Lockdown Mode has ever been hacked.&lt;/p&gt;&lt;h2&gt;From Your Inbox&lt;/h2&gt;&lt;p&gt;Claude Team: Claude Code can now keep working while you're away. 404 Media: Earth's magnetic field creating cosmic ray void. The Atlantic: America sliding toward illiteracy.&lt;/p&gt;&lt;h2&gt;Tacoma&lt;/h2&gt;&lt;p&gt;Cherry blossoms blooming at Wapato Hills — gorgeous photos on r/Tacoma.&lt;/p&gt;</content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-midmorning-audio.mp3" length="1589760" type="audio/mpeg" />
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-28-midmorning.jpg" />
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-03-28-midmorning.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28-midmorning.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">briefing-2026-03-28-midmorning</guid>
       <pubDate>Sat, 28 Mar 2026 08:45:00 -0500</pubDate>
       <itunes:duration>4:30</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-<item>
+
+    <item>
       <title>Daily Briefing — Saturday, March 28, 2026</title>
       <description>Houthis enter the Iran war with missile strikes on Israel. Ten US service members injured at Prince Sultan Air Base. Brent crude hits $112.57. DHS shutdown day 43 — Congress leaves on recess. Anthropic appeal deadline Thursday. WA bans non-competes. Apple turns 50 Wednesday. Your week ahead.</description>
       <content:encoded>&lt;h2&gt;Iran War — Day 29&lt;/h2&gt;&lt;p&gt;The Houthis entered the war, launching ballistic missiles at Israel — their first strike since the Hamas ceasefire. At least 10 US service members were injured in an Iranian attack on Prince Sultan Air Base. Brent crude hit $112.57, up 4.2%. Reddit surfaced a WSJ report that the US may deploy up to 17,000 troops near Iran. The UK’s Starmer reaffirmed Britain will not join.&lt;/p&gt;&lt;h2&gt;DHS Shutdown — Day 43&lt;/h2&gt;&lt;p&gt;The Senate passed a bipartisan funding bill, then the House rejected it and passed their own (213-203), which Senate Democrats called dead on arrival. Both chambers left for a two-week recess. 61,000+ TSA workers have missed three paychecks.&lt;/p&gt;&lt;h2&gt;Anthropic v. Pentagon&lt;/h2&gt;&lt;p&gt;Judge Lin’s preliminary injunction stands. Government appeal deadline is Thursday, April 2 — the same day as Jacob’s Anthropic pilot discussion at work.&lt;/p&gt;&lt;h2&gt;Tech &amp;amp; AI&lt;/h2&gt;&lt;p&gt;Semafor: A 19-year-old’s AI agent team spent £1,426 on unauthorized catering. Stratechery: RIP Sora, OpenAI killed it for GPUs. Kash Patel’s email was hacked. SoftBank taking a $40B loan for OpenAI (IPO signal). WA bans non-compete agreements.&lt;/p&gt;&lt;h2&gt;Apple&lt;/h2&gt;&lt;p&gt;Apple turns 50 on Wednesday. No iPhone in Lockdown Mode has ever been hacked. The C1X modem matches Qualcomm on speed.&lt;/p&gt;&lt;h2&gt;Calendar&lt;/h2&gt;&lt;p&gt;Monday: Ben arrives. Tuesday: Payday + carpet install. Wednesday: Q2 starts, Karen retirement announcement, Apple 50th. Thursday: Anthropic pilot 9AM, dinner with friends 6PM, government appeal deadline.&lt;/p&gt;&lt;h2&gt;From Reddit&lt;/h2&gt;&lt;p&gt;r/Tacoma: Cherry blossoms at Wapato Hills, No Kings protest today. r/SeattleWA: WA bans non-competes, Seattle police starting pay ~$118K. r/apple: Lockdown Mode undefeated, Apple hiring Google VP for AI.&lt;/p&gt;</content:encoded>
       <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-28-audio.mp3" length="3121488" type="audio/mpeg" />
       <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg" />
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-28.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">briefing-2026-03-28</guid>
       <pubDate>Sat, 28 Mar 2026 06:01:00 -0500</pubDate>
       <itunes:duration>9:00</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-</channel>
+
+  </channel>
 </rss>
