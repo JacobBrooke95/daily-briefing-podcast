@@ -1,0 +1,763 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+This is Jacob's Research Journal. I'm Jacob Brooke. Today's deep
+
+00:00:04.000 --> 00:00:08.000
+dive: When Will Claude Mythos Ship — an evidence-based prediction.
+
+00:00:08.000 --> 00:00:12.000
+On March twenty-sixth, a C-M-S misconfiguration exposed approximately three thousand
+
+00:00:12.000 --> 00:00:16.000
+unpublished Anthropic blog posts in a public data cache. Inside
+
+00:00:16.000 --> 00:00:20.000
+those drafts: detailed documentation for Claude Mythos, an internal codename
+
+00:00:20.000 --> 00:00:24.000
+Capybara — a fourth tier of Claude sitting above Opus
+
+00:00:24.000 --> 00:00:28.000
+with dramatically higher scores on coding, reasoning, and especially cybersecurity
+
+00:00:28.000 --> 00:00:32.000
+benchmarks. Anthropic confirmed it was real. Fortune got them on
+
+00:00:32.000 --> 00:00:36.000
+record calling Mythos "the most capable we've built to date"
+
+00:00:36.000 --> 00:00:40.000
+and "a step change in capabilities." Not a rumor. Not
+
+00:00:40.000 --> 00:00:44.000
+extrapolation. A company calling itself out on a leaked next-generation
+
+00:00:44.000 --> 00:00:48.000
+model. The question everyone's asking now: when does it actually
+
+00:00:48.000 --> 00:00:52.000
+ship? I spent the last week pulling every available signal
+
+00:00:52.000 --> 00:00:56.000
+— release history, marketing strategy, infrastructure timelines, competitive pressure, and
+
+00:00:56.000 --> 00:01:00.000
+some interesting Reddit signals — to build a falsifiable prediction.
+
+00:01:00.000 --> 00:01:04.000
+Here's what the data says. Let's separate fact from social
+
+00:01:04.000 --> 00:01:08.000
+media extrapolation. Confirmed from Fortune's reporting, sourced to the actual
+
+00:01:08.000 --> 00:01:12.000
+leaked drafts: There's a new fourth tier above Opus called
+
+00:01:12.000 --> 00:01:16.000
+Capybara. It's larger and more intelligent than the Opus models,
+
+00:01:16.000 --> 00:01:20.000
+and more expensive. The documentation shows dramatically higher scores on
+
+00:01:20.000 --> 00:01:24.000
+software coding, academic reasoning, and cybersecurity benchmarks. According to the
+
+00:01:24.000 --> 00:01:28.000
+leaked materials, Mythos is currently far ahead of any other
+
+00:01:28.000 --> 00:01:32.000
+A-I model in cyber capabilities — it can identify and
+
+00:01:32.000 --> 00:01:36.000
+exploit vulnerabilities faster than human defenders. The documents note it's
+
+00:01:36.000 --> 00:01:40.000
+very expensive for Anthropic to serve. And the company is
+
+00:01:40.000 --> 00:01:44.000
+starting with a small group of early-access customers focused on
+
+00:01:44.000 --> 00:01:48.000
+cybersecurity defense applications. Now, what's not confirmed — but went
+
+00:01:48.000 --> 00:01:52.000
+viral on social media and got recycled as apparent fact.
+
+00:01:52.000 --> 00:01:56.000
+The claim about approximately ten trillion parameters doesn't appear in
+
+00:01:56.000 --> 00:02:00.000
+Fortune's original reporting. That number went viral through an X
+
+00:02:00.000 --> 00:02:04.000
+post by a user called Star Knight One-Two and got
+
+00:02:04.000 --> 00:02:08.000
+recycled through secondary coverage. Same thing with the claim about
+
+00:02:08.000 --> 00:02:12.000
+ten billion dollars to train. That's likely a misattribution of
+
+00:02:12.000 --> 00:02:16.000
+Dario Amodei's public statements about a ten billion dollar compute
+
+00:02:16.000 --> 00:02:20.000
+infrastructure investment for twenty twenty-six clusters, not a single model's
+
+00:02:20.000 --> 00:02:24.000
+training cost. As of March twenty-eighth, Mythos is available only
+
+00:02:24.000 --> 00:02:28.000
+to select early-access customers for cybersecurity defense use cases. It's
+
+00:02:28.000 --> 00:02:32.000
+not on Claude dot A-I. It's not on the A-P-I.
+
+00:02:32.000 --> 00:02:36.000
+Now let's look at Anthropic's release cadence pattern. They show
+
+00:02:36.000 --> 00:02:40.000
+a reliable rhythm that helps narrow the prediction window. Looking
+
+00:02:40.000 --> 00:02:44.000
+at the timeline: Claude three launched with Opus, Sonnet, and
+
+00:02:44.000 --> 00:02:48.000
+Haiku on March fourth, twenty twenty-four. Claude three point five
+
+00:02:48.000 --> 00:02:52.000
+Sonnet came June twentieth, twenty twenty-four — three point five
+
+00:02:52.000 --> 00:02:56.000
+months later. Then Claude three point five Sonnet V-two plus
+
+00:02:56.000 --> 00:03:00.000
+Haiku on October twenty-second, twenty twenty-four — four months after
+
+00:03:00.000 --> 00:03:04.000
+that. Claude three point seven Sonnet launched February twenty-fourth, twenty
+
+00:03:04.000 --> 00:03:08.000
+twenty-five — four months after the previous release. Claude four,
+
+00:03:08.000 --> 00:03:12.000
+with Opus and Sonnet, launched May twenty-second, twenty twenty-five —
+
+00:03:12.000 --> 00:03:16.000
+three months later. Claude Sonnet four point five came September
+
+00:03:16.000 --> 00:03:20.000
+twenty-ninth, twenty twenty-five — four point three months after Claude
+
+00:03:20.000 --> 00:03:24.000
+four. Claude Opus four point five launched November twenty-fourth, twenty
+
+00:03:24.000 --> 00:03:28.000
+twenty-five — six months after Sonnet four point five. Then
+
+00:03:28.000 --> 00:03:32.000
+Claude Opus four point six on February fifth, twenty twenty-six
+
+00:03:32.000 --> 00:03:36.000
+— just two point five months later. And Claude Sonnet
+
+00:03:36.000 --> 00:03:40.000
+four point six on February seventeenth, twenty twenty-six — four
+
+00:03:40.000 --> 00:03:44.000
+point six months after Sonnet four point five. Here's what
+
+00:03:44.000 --> 00:03:48.000
+this tells us: Sonnet maintains a consistent four-month cadence. Opus
+
+00:03:48.000 --> 00:03:52.000
+has been accelerating. The gap between Opus four point five
+
+00:03:52.000 --> 00:03:56.000
+and four point six was only two point five months.
+
+00:03:56.000 --> 00:04:00.000
+In late twenty twenty-five and early twenty twenty-six, Anthropic released
+
+00:04:00.000 --> 00:04:04.000
+fourteen or more products in a single month. The pace
+
+00:04:04.000 --> 00:04:08.000
+has visibly accelerated. More importantly: Opus four point six was
+
+00:04:08.000 --> 00:04:12.000
+coordinated with the Super Bowl. It released on February fifth,
+
+00:04:12.000 --> 00:04:16.000
+twenty twenty-six — three days before Super Bowl L-X. Anthropic
+
+00:04:16.000 --> 00:04:20.000
+ran their first-ever Super Bowl ads — a sixty-second pregame
+
+00:04:20.000 --> 00:04:24.000
+spot created by the agency Mother with the tagline "Ads
+
+00:04:24.000 --> 00:04:28.000
+are coming to A-I. But not to Claude." The campaign
+
+00:04:28.000 --> 00:04:32.000
+was directly targeting OpenAI's decision to introduce ads to ChatGPT.
+
+00:04:32.000 --> 00:04:36.000
+The result: six point five percent jump in website visits,
+
+00:04:36.000 --> 00:04:40.000
+eleven percent increase in daily active users. This confirms something
+
+00:04:40.000 --> 00:04:44.000
+crucial: Anthropic now thinks about model releases in terms of
+
+00:04:44.000 --> 00:04:48.000
+marketing moments, not just technical readiness. The old "drop a
+
+00:04:48.000 --> 00:04:52.000
+blog post" playbook is gone. Now let's talk about Code
+
+00:04:52.000 --> 00:04:56.000
+with Claude twenty twenty-six — the key signal. On March
+
+00:04:56.000 --> 00:05:00.000
+twenty-eighth — the same day the Mythos leak broke global
+
+00:05:00.000 --> 00:05:04.000
+headlines — Anthropic announced Code with Claude twenty twenty-six. The
+
+00:05:04.000 --> 00:05:08.000
+event is happening in three cities. San Francisco on May
+
+00:05:08.000 --> 00:05:12.000
+sixth, twenty twenty-six. London on May nineteenth, twenty twenty-six. And
+
+00:05:12.000 --> 00:05:16.000
+Tokyo on June tenth, twenty twenty-six. Here's why this matters
+
+00:05:16.000 --> 00:05:20.000
+profoundly: Code with Claude twenty twenty-five was where Claude four
+
+00:05:20.000 --> 00:05:24.000
+launched. It's Anthropic's flagship announcement vehicle, held across three cities.
+
+00:05:24.000 --> 00:05:28.000
+The pattern is established. But here's the strategic detail nobody's
+
+00:05:28.000 --> 00:05:32.000
+talking about: the London event on May nineteenth directly counterprograms
+
+00:05:32.000 --> 00:05:36.000
+Google I slash O, which is May nineteenth through the
+
+00:05:36.000 --> 00:05:40.000
+twentieth. This is not accidental. You don't schedule your biggest
+
+00:05:40.000 --> 00:05:44.000
+developer event for the exact same day as Google's keynote
+
+00:05:44.000 --> 00:05:48.000
+unless you're making a statement. The leaked documents also mentioned
+
+00:05:48.000 --> 00:05:52.000
+an exclusive invite-only European C-E-O retreat at an eighteenth-century manor
+
+00:05:52.000 --> 00:05:56.000
+turned hotel-and-spa where Dario Amodei would demonstrate unreleased Claude capabilities
+
+00:05:56.000 --> 00:06:00.000
+to European business leaders. If Dario is already in London
+
+00:06:00.000 --> 00:06:04.000
+for Code with Claude on May nineteenth, scheduling that retreat
+
+00:06:04.000 --> 00:06:08.000
+for May twentieth through twenty-first — the days immediately after
+
+00:06:08.000 --> 00:06:12.000
+— would be logistically natural. European C-E-O attendees would get
+
+00:06:12.000 --> 00:06:16.000
+a private demo of Mythos capabilities that were just publicly
+
+00:06:16.000 --> 00:06:20.000
+announced hours before. Here's the key insight: May sixth for
+
+00:06:20.000 --> 00:06:24.000
+San Francisco announcement. May nineteenth for London to counterprogramming Google
+
+00:06:24.000 --> 00:06:28.000
+I slash O and maintain momentum. May twentieth through twenty-first
+
+00:06:28.000 --> 00:06:32.000
+for private European executive access. This is a three-week product
+
+00:06:32.000 --> 00:06:36.000
+rollout strategy, not a single announcement. When companies prepare to
+
+00:06:36.000 --> 00:06:40.000
+release major products, you see the go-to-market machinery spinning up
+
+00:06:40.000 --> 00:06:44.000
+months in advance. Here's what Anthropic has been doing since
+
+00:06:44.000 --> 00:06:48.000
+early March. The Claude Partner Network launched March twelfth with
+
+00:06:48.000 --> 00:06:52.000
+one hundred million dollars committed to partner training and sales
+
+00:06:52.000 --> 00:06:56.000
+enablement. The Claude Certified Architect certification went live March twelfth
+
+00:06:56.000 --> 00:07:00.000
+— their first technical certification program. This is a pre-launch
+
+00:07:00.000 --> 00:07:04.000
+pattern: you certify partners on the ecosystem before the flagship
+
+00:07:04.000 --> 00:07:08.000
+arrives. They're actively hiring for inference deployment engineers across A-W-S,
+
+00:07:08.000 --> 00:07:12.000
+Google Cloud, and Azure. They're hiring cloud inference staff and
+
+00:07:12.000 --> 00:07:16.000
+performance T-P-Ms — those are production readiness roles, not research.
+
+00:07:16.000 --> 00:07:20.000
+They've hired Strategic Account Executives across tech, cybersecurity, and federal
+
+00:07:20.000 --> 00:07:24.000
+verticals. And the Capybara tier appears in third-party A-P-I documentation,
+
+00:07:24.000 --> 00:07:28.000
+though no public endpoint exists yet. These aren't research hires.
+
+00:07:28.000 --> 00:07:32.000
+These are "we're launching a product" hiring patterns. You don't
+
+00:07:32.000 --> 00:07:36.000
+build certification programs and hire sales teams for something that's
+
+00:07:36.000 --> 00:07:40.000
+months away. Now let's look at the competitive calendar. This
+
+00:07:40.000 --> 00:07:44.000
+creates real urgency. OpenAI's next model, internally codenamed Spud, completed
+
+00:07:44.000 --> 00:07:48.000
+pre-training around March twenty-fourth. Sam Altman told employees to expect
+
+00:07:48.000 --> 00:07:52.000
+it in "a few weeks" with capabilities "very different from
+
+00:07:52.000 --> 00:07:56.000
+what we've seen before." Expected release: late March or April
+
+00:07:56.000 --> 00:08:00.000
+twenty twenty-six. Google I slash O is May nineteenth through
+
+00:08:00.000 --> 00:08:04.000
+twentieth. Expect significant Gemini announcements. The competitive calendar for Q-two
+
+00:08:04.000 --> 00:08:08.000
+twenty twenty-six is brutal. We've got late March slash April
+
+00:08:08.000 --> 00:08:12.000
+with OpenAI Spud. April twenty-second: Anthropic at Google Cloud Next
+
+00:08:12.000 --> 00:08:16.000
+and Healthcare Briefing. May sixth: Code with Claude San Francisco.
+
+00:08:16.000 --> 00:08:20.000
+May nineteenth through twentieth: Google I slash O plus Code
+
+00:08:20.000 --> 00:08:24.000
+with Claude London on the same day. June tenth: Code
+
+00:08:24.000 --> 00:08:28.000
+with Claude Tokyo. June fifteenth through eighteenth: Databricks Data plus
+
+00:08:28.000 --> 00:08:32.000
+A-I Summit. June seventeenth through twentieth: VivaTech Paris. If Anthropic
+
+00:08:32.000 --> 00:08:36.000
+waits past June, they cede momentum in the most competitive
+
+00:08:36.000 --> 00:08:40.000
+quarter the A-I industry has ever seen — right before
+
+00:08:40.000 --> 00:08:44.000
+an I-P-O they're targeting for Q-four twenty twenty-six. OpenAI is
+
+00:08:44.000 --> 00:08:48.000
+also pushing toward Q-four I-P-O. SoftBank's forty billion dollar loan
+
+00:08:48.000 --> 00:08:52.000
+to OpenAI on March twenty-seventh signals concrete preparation. Anthropic executives
+
+00:08:52.000 --> 00:08:56.000
+reportedly believe they "need revenue momentum" to win the I-P-O
+
+00:08:56.000 --> 00:09:00.000
+race. Waiting isn't a strategic option. Now here's an interesting
+
+00:09:00.000 --> 00:09:04.000
+signal from the safety and guardrail side. On March twenty-eighth,
+
+00:09:04.000 --> 00:09:08.000
+a highly upvoted post on r slash ClaudeA-I — fifty-three
+
+00:09:08.000 --> 00:09:12.000
+upvotes — reported that Opus four point six started blocking
+
+00:09:12.000 --> 00:09:16.000
+legitimate cybersecurity research approximately eight days earlier, around March twentieth.
+
+00:09:16.000 --> 00:09:20.000
+A user who'd been doing static analysis, decompilation, and vulnerability
+
+00:09:20.000 --> 00:09:24.000
+hunting for months suddenly couldn't do any of it. A
+
+00:09:24.000 --> 00:09:28.000
+commenter with eighteen upvotes directly connected this to Mythos: "They
+
+00:09:28.000 --> 00:09:32.000
+might be preparing for the release of a much more
+
+00:09:32.000 --> 00:09:36.000
+powerful model." This is a preparation signal, not a delay
+
+00:09:36.000 --> 00:09:40.000
+signal. If Anthropic is tightening cybersecurity guardrails across their entire
+
+00:09:40.000 --> 00:09:44.000
+model lineup and the timing coincides with when Mythos enters
+
+00:09:44.000 --> 00:09:48.000
+early-access testing, they're building the safety infrastructure they'll need for
+
+00:09:48.000 --> 00:09:52.000
+a model with far greater cyber capabilities. You don't harden
+
+00:09:52.000 --> 00:09:56.000
+your systems unless you're planning to need them soon. So
+
+00:09:56.000 --> 00:10:00.000
+here's my prediction. Central estimate: Formal announcement at Code with
+
+00:10:00.000 --> 00:10:04.000
+Claude San Francisco on May sixth, twenty twenty-six; phased public
+
+00:10:04.000 --> 00:10:08.000
+access through May through June twenty twenty-six. The specific timeline
+
+00:10:08.000 --> 00:10:12.000
+looks like this: May sixth, twenty twenty-six: Formal announcement and
+
+00:10:12.000 --> 00:10:16.000
+live demo at Code with Claude San Francisco. Limited A-P-I
+
+00:10:16.000 --> 00:10:20.000
+access for developers begins the same day or within forty-eight
+
+00:10:20.000 --> 00:10:24.000
+hours, following the Claude four launch pattern. May nineteenth, twenty
+
+00:10:24.000 --> 00:10:28.000
+twenty-six: Code with Claude London — expanded access, international availability.
+
+00:10:28.000 --> 00:10:32.000
+Direct counterprogramming of Google I slash O to keep the
+
+00:10:32.000 --> 00:10:36.000
+drumbeat going. May twentieth through twenty-first, estimated: European C-E-O retreat
+
+00:10:36.000 --> 00:10:40.000
+— private Mythos demo for enterprise leaders while Dario is
+
+00:10:40.000 --> 00:10:44.000
+in the region anyway. Late May through June twenty twenty-six:
+
+00:10:44.000 --> 00:10:48.000
+Broad Claude dot A-I access, full A-P-I general availability, Capybara
+
+00:10:48.000 --> 00:10:52.000
+tier pricing goes live. June tenth, twenty twenty-six: Code with
+
+00:10:52.000 --> 00:10:56.000
+Claude Tokyo — A-P-A-C launch. Why is May sixth the
+
+00:10:56.000 --> 00:11:00.000
+best guess? Let me walk through the logic. First: Code
+
+00:11:00.000 --> 00:11:04.000
+with Claude is the proven launch vehicle. Claude four debuted
+
+00:11:04.000 --> 00:11:08.000
+there in May twenty twenty-five. The pattern is established and
+
+00:11:08.000 --> 00:11:12.000
+the twenty twenty-six dates are already confirmed. Second: Event-driven launches
+
+00:11:12.000 --> 00:11:16.000
+are now strategy. The Super Bowl coordination with Opus four
+
+00:11:16.000 --> 00:11:20.000
+point six proves Anthropic thinks in terms of marketing moments.
+
+00:11:20.000 --> 00:11:24.000
+Code with Claude is their biggest owned event of the
+
+00:11:24.000 --> 00:11:28.000
+year. Third: The London slash Google I slash O counterprogramming
+
+00:11:28.000 --> 00:11:32.000
+is deliberate. You don't schedule your developer conference for the
+
+00:11:32.000 --> 00:11:36.000
+same day as Google's keynote without something substantial to announce.
+
+00:11:36.000 --> 00:11:40.000
+If San Francisco on May sixth introduces Mythos, London on
+
+00:11:40.000 --> 00:11:44.000
+May nineteenth keeps competitive pressure on through Google I slash
+
+00:11:44.000 --> 00:11:48.000
+O. Fourth: Infrastructure readiness is visible. The Partner Network, Certified
+
+00:11:48.000 --> 00:11:52.000
+Architect, and hiring are all happening now. The Capybara tier
+
+00:11:52.000 --> 00:11:56.000
+exists in planning but not yet in the A-P-I. You
+
+00:11:56.000 --> 00:12:00.000
+build the surrounding ecosystem before the product arrives. Fifth: Competitive
+
+00:12:00.000 --> 00:12:04.000
+pressure is intense. OpenAI's Spud dropping in April. Google I
+
+00:12:04.000 --> 00:12:08.000
+slash O in May. I-P-O targets in Q-four. If Anthropic
+
+00:12:08.000 --> 00:12:12.000
+waits past June, they lose momentum in the most important
+
+00:12:12.000 --> 00:12:16.000
+quarter. Sixth: The leak removes indefinite options. Everyone knows Mythos
+
+00:12:16.000 --> 00:12:20.000
+exists. Every week without a launch is a week where
+
+00:12:20.000 --> 00:12:24.000
+competitors can position against it and where the story moves
+
+00:12:24.000 --> 00:12:28.000
+out of Anthropic's control. Now let's look at scenario probabilities.
+
+00:12:28.000 --> 00:12:32.000
+There are four scenarios worth considering. The aggressive scenario: April
+
+00:12:32.000 --> 00:12:36.000
+fifteenth through thirtieth. Probability: ten percent. Key driver: pre-event teaser;
+
+00:12:36.000 --> 00:12:40.000
+unlikely for a full launch. The base case: May sixth
+
+00:12:40.000 --> 00:12:44.000
+announcement, May through June rollout. Probability: sixty percent. Key driver:
+
+00:12:44.000 --> 00:12:48.000
+Code with Claude plus infrastructure readiness. The cautious scenario: July
+
+00:12:48.000 --> 00:12:52.000
+through September twenty twenty-six. Probability: twenty percent. Key driver: Safety
+
+00:12:52.000 --> 00:12:56.000
+evaluation delays plus serving economics. The delayed or restructured scenario:
+
+00:12:56.000 --> 00:13:00.000
+Q-four twenty twenty-six and beyond. Probability: ten percent. Key driver:
+
+00:13:00.000 --> 00:13:04.000
+A-S-L-four classification; bundled with I-P-O. Now, what could be wrong
+
+00:13:04.000 --> 00:13:08.000
+with this analysis? There are several counterpoints worth exploring. First:
+
+00:13:08.000 --> 00:13:12.000
+Safety evaluation takes longer than expected. The cybersecurity capabilities are
+
+00:13:12.000 --> 00:13:16.000
+genuinely alarming. Anthropic's Responsible Scaling Policy V-three requires them to
+
+00:13:16.000 --> 00:13:20.000
+pause deployment if safety can't keep up. Red-teaming could trigger
+
+00:13:20.000 --> 00:13:24.000
+A-S-L-four classification, pushing the timeline months. However, the fact that
+
+00:13:24.000 --> 00:13:28.000
+early-access testing is already happening suggests the internal review is
+
+00:13:28.000 --> 00:13:32.000
+in progress, not stalled. Second: Code with Claude might focus
+
+00:13:32.000 --> 00:13:36.000
+on product, not models. Just because Claude four launched at
+
+00:13:36.000 --> 00:13:40.000
+Code with Claude twenty twenty-five doesn't guarantee Mythos launches at
+
+00:13:40.000 --> 00:13:44.000
+twenty twenty-six. The event might focus on I-D-E integrations, Claude
+
+00:13:44.000 --> 00:13:48.000
+Code improvements, or agent capabilities. Watch for the agenda preview,
+
+00:13:48.000 --> 00:13:52.000
+expected early April. If it mentions "new model tiers" or
+
+00:13:52.000 --> 00:13:56.000
+"frontier capabilities," confidence rises to eighty percent or higher. If
+
+00:13:56.000 --> 00:14:00.000
+it's purely about existing products, confidence drops to forty percent.
+
+00:14:00.000 --> 00:14:04.000
+Third: Serving economics aren't solved. The leaked materials said Mythos
+
+00:14:04.000 --> 00:14:08.000
+is "very expensive for us to serve." G-P-U costs are
+
+00:14:08.000 --> 00:14:12.000
+up nineteen percent in three months, which means potentially brutal
+
+00:14:12.000 --> 00:14:16.000
+unit economics. Anthropic may need months of optimization — distillation,
+
+00:14:16.000 --> 00:14:20.000
+quantization, mixture-of-experts routing — before broad access is viable. If
+
+00:14:20.000 --> 00:14:24.000
+Mythos launches with aggressive rate limits or ten times or
+
+00:14:24.000 --> 00:14:28.000
+more Opus pricing, this is why. Fourth: The ten trillion
+
+00:14:28.000 --> 00:14:32.000
+parameter claim is fragile. Much technical analysis depends on whether
+
+00:14:32.000 --> 00:14:36.000
+Mythos is a sparse Mixture-of-Experts, which is plausible and servable,
+
+00:14:36.000 --> 00:14:40.000
+versus a dense ten trillion model, which is implausible to
+
+00:14:40.000 --> 00:14:44.000
+serve at scale. We're building on social media extrapolation. The
+
+00:14:44.000 --> 00:14:48.000
+model card will clarify this. Here are the signals worth
+
+00:14:48.000 --> 00:14:52.000
+watching. High priority for the next two weeks: Code with
+
+00:14:52.000 --> 00:14:56.000
+Claude twenty twenty-six agenda preview — expected early April. If
+
+00:14:56.000 --> 00:15:00.000
+it mentions new model tiers, Mythos launch is near-certain. OpenAI
+
+00:15:00.000 --> 00:15:04.000
+Spud capability level and reception — directly affects Anthropic's urgency.
+
+00:15:04.000 --> 00:15:08.000
+Anthropic safety blog posts — a published risk report about
+
+00:15:08.000 --> 00:15:12.000
+Mythos signals either delay or completed review. Medium priority for
+
+00:15:12.000 --> 00:15:16.000
+the next four to six weeks: Early-access program expansion beyond
+
+00:15:16.000 --> 00:15:20.000
+cybersecurity organizations. Anthropic infrastructure announcements about serving optimization or cost
+
+00:15:20.000 --> 00:15:24.000
+reduction. Polymarket odds movement, currently thin at thirty-three thousand dollars
+
+00:15:24.000 --> 00:15:28.000
+volume. And some lower priority but interesting signals: Continued cybersecurity
+
+00:15:28.000 --> 00:15:32.000
+guardrail changes on existing models. Anthropic employee social media activity.
+
+00:15:32.000 --> 00:15:36.000
+Leaks from European C-E-O retreat invitees. Here's the bottom line:
+
+00:15:36.000 --> 00:15:40.000
+Anthropic has the established playbook — Code with Claude as
+
+00:15:40.000 --> 00:15:44.000
+launch vehicle. They have the marketing precedent — Super Bowl
+
+00:15:44.000 --> 00:15:48.000
+with Opus four point six. They have the infrastructure readiness
+
+00:15:48.000 --> 00:15:52.000
+— Partner Network, certifications, hiring. They have the competitive urgency
+
+00:15:52.000 --> 00:15:56.000
+— OpenAI, Google, I-P-O timeline. And they have the problem:
+
+00:15:56.000 --> 00:16:00.000
+everyone knows Mythos exists. May sixth is the most logical
+
+00:16:00.000 --> 00:16:04.000
+date because it's the most logical event, and Anthropic has
+
+00:16:04.000 --> 00:16:08.000
+demonstrated they now think about model releases strategically in terms
+
+00:16:08.000 --> 00:16:12.000
+of marketing moments and competitive position, not just technical readiness.
+
+00:16:12.000 --> 00:16:16.000
+My confidence level: sixty-five percent for a May sixth announcement.
+
+00:16:16.000 --> 00:16:20.000
+The convergence of Code with Claude, infrastructure signals, competitive calendar,
+
+00:16:20.000 --> 00:16:24.000
+and the European event all point to the same window.
+
+00:16:24.000 --> 00:16:28.000
+The main uncertainty is safety evaluation timing, which we have
+
+00:16:28.000 --> 00:16:32.000
+limited visibility into. If the Code with Claude agenda mentions
+
+00:16:32.000 --> 00:16:36.000
+anything about new model capabilities, that confidence rises to eighty
+
+00:16:36.000 --> 00:16:40.000
+percent. If it's purely about existing products, confidence drops to
+
+00:16:40.000 --> 00:16:44.000
+forty percent. Watch early April closely. That's when we'll get
+
+00:16:44.000 --> 00:16:48.000
+the confirmation signal we need. That's the Mythos prediction deep
+
+00:16:48.000 --> 00:16:52.000
+dive. Full post and sources at jacobbrooke95.github.io slash jacobs-research-journal. Thanks
+
+00:16:52.000 --> 00:16:52.800
+for listening.
