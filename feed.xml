@@ -59,33 +59,6 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
     </item>
 
     <item>
-      <title>Deep Dive — When Will Claude Mythos Ship?</title>
-      <description>Evidence-based prediction analyzing Code with Claude 2026 dates, infrastructure signals, and competitive pressure for when Anthropic ships Claude Mythos.
-
-Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-mythos-release-prediction.html
-
-00:00:00 Introduction
-00:03:25 Release Cadence Pattern
-00:07:10 Code with Claude 2026
-00:10:49 Competitive Calendar &amp; Safety Signals
-00:14:47 The Prediction &amp; Scenarios
-00:18:36 Counterpoints &amp; Signals to Watch
-      </description>
-      <content:encoded><![CDATA[
-<p>Evidence-based prediction for when Anthropic ships Claude Mythos, analyzing release history, Code with Claude 2026 event dates, infrastructure readiness signals, and competitive pressure.</p>
-<p><a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-mythos-release-prediction.html">Read the full post →</a></p>
-      ]]></content:encoded>
-      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-04-mythos-release-prediction.mp3" length="25339273" type="audio/mpeg"/>
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-04-mythos-release-prediction.jpg"/>
-      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-04-mythos-release-prediction.vtt" type="text/vtt" language="en"/>
-      <guid isPermaLink="false">deepdive-2026-04-04-mythos-release-prediction</guid>
-      <pubDate>Sat, 04 Apr 2026 18:26:36 -0500</pubDate>
-      <itunes:duration>20:51</itunes:duration>
-      <itunes:episode>27</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-    <item>
       <title>Deep Dive — Google's Gemma 4: What Actually Matters</title>
       <description>A deep dive into Google's Gemma 4 open-weights model family — covering the Apache 2.0 license change, the four-model lineup, architectural innovations, benchmark context, and how to run it on Mac.
 
