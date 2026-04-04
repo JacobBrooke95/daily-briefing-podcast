@@ -12,6 +12,11 @@
       <itunes:email>jacob.brooke95@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg" />
+    <image>
+      <url>https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg</url>
+      <title>Jacob's Daily Briefing</title>
+      <link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link>
+    </image>
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
