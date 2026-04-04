@@ -20,6 +20,70 @@ coding='UTF-8'?>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+  <title>Daily Briefing — Saturday, April 4, 2026</title>
+  <description>Morning daily briefing for Saturday, April 4, 2026. Easter weekend edition covering the F-15 shootdown over Iran, Trump's $1.5T defense budget, strong March jobs report, Anthropic's triple move (Coefficient Bio acquisition, AnthroPAC, OpenClaw competitor), SpaceX IPO filing, and local flood updates.
+
+00:00:00 Opening &amp; Weather
+00:00:28 Calendar &amp; Schedule
+00:00:52 Messages
+00:01:15 Top Stories: F-15 &amp; Defense Budget
+00:02:10 Jobs Report &amp; Anthropic
+00:02:55 Tech &amp; Science
+00:03:15 Local News &amp; Vault
+00:03:45 Closing</description>
+  <content:encoded><![CDATA[
+<h2>F-15E Shot Down Over Iran</h2>
+<p>First US aircraft lost to enemy fire since the war began on Day 36. One crew member rescued, pilot still missing. <a href="https://www.cnn.com/2026/04/03/world/live-news/iran-war-us-trump-oil">Read more →</a></p>
+
+<h2>Trump's $1.5T Defense Budget</h2>
+<p>Largest defense budget in US history — 44% increase paired with 10% domestic cuts. <a href="https://www.npr.org/2026/04/03/nx-s1-5772701/trump-budget-defense-spending">Read more →</a></p>
+
+<h2>March Jobs: 178K Added</h2>
+<p>Three times expected. Unemployment fell to 4.3%, but February revised to -133K. <a href="https://finance.yahoo.com/economy/article/march-jobs-report-us-economy-adds-178000-jobs-unemployment-rate-falls-to-43-in-surprise-turnaround-190000531.html">Read more →</a></p>
+
+<h2>Anthropic Triple Move</h2>
+<p>Acquired Coefficient Bio for $400M (healthcare AI), launched AnthroPAC for midterms, and CCO confirmed OpenClaw competitor coming. <a href="https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/">Read more →</a></p>
+
+<h2>SpaceX IPO Filing</h2>
+<p>Targeting $2T+ valuation. Starship V3 delayed to May. <a href="https://www.bloomberg.com/news/articles/2026-04-02/spacex-is-said-to-target-more-than-2-trillion-valuation-in-ipo">Read more →</a></p>
+
+<h2>Local: Flood Warnings Expiring</h2>
+<p>Missouri River was at 5.45 ft Wednesday and climbing. Warnings expire today. US 50 bridge demolition next weekend (April 10-12).</p>
+]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-04.mp3" length="1751487" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-04.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-04.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-04</guid>
+  <pubDate>Sat, 04 Apr 2026 06:13:07 -0500</pubDate>
+  <itunes:duration>3:51</itunes:duration>
+  <itunes:episode>24</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
   <title>Chapter 5 — The Cold (The Keeping House)</title>
   <description>Chapter Five of The Keeping House. POV: Lena Solberg. A hard freeze bursts the pipes and Lena falls back into caretaking. A greenhouse conversation with Noor about mothers, need, and the weight of being useful.
