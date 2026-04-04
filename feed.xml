@@ -17,6 +17,8 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Sat, 04 Apr 2026 06:13:07 -0500</lastBuildDate>
+    <podcast:locked>no</podcast:locked>
 
     <item>
       <title>Daily Briefing — Saturday, April 4, 2026</title>
@@ -82,7 +84,7 @@
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-03-keeping-house-ch05.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">deepdive-2026-04-03-keeping-house-ch05</guid>
       <pubDate>Fri, 03 Apr 2026 23:28:13 -0500</pubDate>
-      <itunes:duration>0:29:21</itunes:duration>
+      <itunes:duration>29:21</itunes:duration>
       <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -221,7 +223,7 @@
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01-keeping-house-ch04.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">deepdive-2026-04-01-keeping-house-ch04</guid>
       <pubDate>Wed, 01 Apr 2026 13:34:03 -0500</pubDate>
-      <itunes:duration>0:25:58</itunes:duration>
+      <itunes:duration>25:58</itunes:duration>
       <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -245,7 +247,7 @@
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-01-keeping-house-ch03.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">deepdive-2026-04-01-keeping-house-ch03</guid>
       <pubDate>Wed, 01 Apr 2026 07:09:13 -0500</pubDate>
-      <itunes:duration>0:21:43</itunes:duration>
+      <itunes:duration>21:43</itunes:duration>
       <itunes:episode>18</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -429,7 +431,7 @@
 
       &lt;h3&gt;Your Day&lt;/h3&gt;
       &lt;p&gt;Ben arrives today to help with carpet installation (scheduled for tomorrow at 9 AM). Payday is also tomorrow. Wednesday: Apple's 50th anniversary, Q2 starts, and Karen announces her retirement at 11 AM. Thursday is loaded: Anthropic pilot discussion at 9 AM, Bill Review Training at 2 PM, dinner with Alex, Chris, and Dustin at 6 PM, and the government appeal deadline coincides with your own workplace pilot meeting.&lt;/p&gt;</content:encoded>
-      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-30-audio.mp3" length="2693232" type="audio/mpeg" />
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-03-30-audio.mp3" length="2899527" type="audio/mpeg" />
       <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-03-30.jpg" />
       <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-03-30.vtt" type="text/vtt" language="en" />
       <guid isPermaLink="false">briefing-2026-03-30</guid>
