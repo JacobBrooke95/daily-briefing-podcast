@@ -23,13 +23,53 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 11:17:51 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 13:10:39 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
 
-        <item>
+
+    <item>
+      <title>Deep Dive — Google's Gemma 4: What Actually Matters</title>
+      <description>A deep dive into Google's Gemma 4 open-weights model family — covering the Apache 2.0 license change, the four-model lineup, architectural innovations, benchmark context, and how to run it on Mac.
+
+      00:00:00 Introduction
+      00:01:03 The Model Lineup
+      00:02:55 Architecture & Benchmarks
+      00:05:56 Running on Mac
+      00:07:06 Honest Assessment
+      00:08:35 Bottom Line</description>
+      <content:encoded><![CDATA[
+      <h2>Google's Gemma 4: What Actually Matters</h2>
+      <p>Google dropped Gemma 4 on April 2nd with four new open-weights models spanning on-device edge tiers and workstation-class capability. The headline isn't a benchmark number — it's the switch to Apache 2.0 licensing, which removes the monthly active user caps that blocked real commercial adoption.</p>
+
+      <h2>The Model Lineup</h2>
+      <p>Four models: E2B (2.3B effective / 5.1B total), E4B (4.5B effective / 8B total), 26B MoE (4B active), and 31B Dense. The "E" models use Per-Layer Embeddings for representational depth beyond their weight count. The 26B uses Mixture of Experts for large-model quality at small-model inference cost — in theory.</p>
+
+      <h2>Architecture Highlights</h2>
+      <p>Alternating local/global attention for efficient long-context handling, Dual RoPE for reliable 256K token performance, and native multimodal (vision + audio) baked into all models.</p>
+
+      <h2>Honest Benchmark Read</h2>
+      <p>31B Dense scores 85.2% on MMLU Pro, 84.3% on GPQA Diamond, ELO ~1452 on LMArena. But the 26B MoE runs at ~11 tokens/sec vs Qwen's 60+. Chinese models remain competitive on automated benchmarks.</p>
+
+      <h2>Running on Mac</h2>
+      <p>E4B at ~9.6 GB fits a Mac mini M4. Ollama, native MLX, and llama.cpp all work. Give the ecosystem a week before building anything production-grade.</p>
+
+      <h2>What Actually Matters</h2>
+      <p>Apache 2.0 removes the commercial blocker entirely. No MAU caps, no royalties, no carve-outs. Combined with US-origin compliance positioning, this changes enterprise build decisions. <a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/gemma-4-deep-dive.html">Read the full written analysis →</a></p>
+      ]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/gemma4-deep-dive-2026-04-04.mp3" length="4109464" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-gemma4-2026-04-04.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-gemma4-2026-04-04.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-03-gemma-4</guid>
+      <pubDate>Sat, 04 Apr 2026 13:10:39 -0500</pubDate>
+      <itunes:duration>9:56</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>March 2026 Monthly Review</title>
       <description>Monthly review and reflection for March 2026. A convergence month: Katelyn's 8-day visit, the Anthropic court victory, condo renovation milestones, and The Keeping House writing streak. Patterns, tensions, wins, and emerging themes for April.
 

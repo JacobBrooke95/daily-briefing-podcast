@@ -1,0 +1,433 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.144
+Welcome to a Deep Dive episode. Today I'm going over
+
+00:00:04.144 --> 00:00:08.289
+what actually matters in Google's Gemma four release — cutting
+
+00:00:08.289 --> 00:00:12.433
+through the benchmark noise to what's genuinely significant about this
+
+00:00:12.433 --> 00:00:16.578
+open-weights model family. Google dropped Gemma four on April second,
+
+00:00:16.578 --> 00:00:20.723
+and for once the open-weights release cycle is moving faster
+
+00:00:20.723 --> 00:00:24.867
+than the hype cycle can catch up. I've spent the
+
+00:00:24.867 --> 00:00:29.012
+last couple of days working through the technical docs, running
+
+00:00:29.012 --> 00:00:33.156
+the models locally, and reading the community reaction. Here's what
+
+00:00:33.156 --> 00:00:37.300
+I actually think. The short version: Gemma four is a
+
+00:00:37.300 --> 00:00:41.445
+genuinely capable model family. But the headline isn't a benchmark
+
+00:00:41.445 --> 00:00:45.590
+number. It's a license. Apache two-point-zero — no asterisks, no
+
+00:00:45.590 --> 00:00:49.734
+carve-outs, no monthly active user cap tucked into a Terms
+
+00:00:49.734 --> 00:00:53.878
+of Use P-D-F. That's the thing that will matter in
+
+00:00:53.878 --> 00:00:58.023
+six months, not whether the thirty-one billion parameter model scores
+
+00:00:58.023 --> 00:01:02.168
+zero point three points higher than Qwen on G-P-Q-A Diamond.
+
+00:01:02.168 --> 00:01:06.312
+Let's get into it. The Model Lineup. Four models, two
+
+00:01:06.312 --> 00:01:10.456
+design philosophies. Google calls them the edge tier and the
+
+00:01:10.456 --> 00:01:14.601
+workstation tier, and the distinction is real — these aren't
+
+00:01:14.601 --> 00:01:18.746
+just different sizes of the same thing. The edge models
+
+00:01:18.746 --> 00:01:22.890
+are called E-two-B and E-four-B. The "E" stands for "effective"
+
+00:01:22.890 --> 00:01:27.035
+— Google's shorthand for Per-Layer Embeddings, or P-L-E. The idea:
+
+00:01:27.035 --> 00:01:31.179
+rather than just having one embedding table at the input,
+
+00:01:31.179 --> 00:01:35.323
+P-L-E adds a second embedding table that feeds a small
+
+00:01:35.323 --> 00:01:39.468
+residual signal into every decoder layer. The result is that
+
+00:01:39.468 --> 00:01:43.612
+a four-point-five billion effective-parameter model gets representational depth well beyond
+
+00:01:43.612 --> 00:01:47.757
+its actual weight count. On quality-per-size benchmarks, it shows. The
+
+00:01:47.757 --> 00:01:51.901
+E-two-B has two point three billion effective parameters — five
+
+00:01:51.901 --> 00:01:56.046
+point one billion total — with a one hundred twenty-eight
+
+00:01:56.046 --> 00:02:00.191
+thousand token context window. The E-four-B has four point five
+
+00:02:00.191 --> 00:02:04.335
+billion effective parameters — eight billion total — also with
+
+00:02:04.335 --> 00:02:08.480
+a one hundred twenty-eight thousand token context window. The workstation
+
+00:02:08.480 --> 00:02:12.624
+tier has two entries. The twenty-six billion model is a
+
+00:02:12.624 --> 00:02:16.768
+Mixture of Experts architecture — M-o-E — with only four
+
+00:02:16.768 --> 00:02:20.913
+billion parameters active during inference. You get the quality of
+
+00:02:20.913 --> 00:02:25.058
+a large model at the compute cost of a much
+
+00:02:25.058 --> 00:02:29.202
+smaller one, in theory. More on the catch in a
+
+00:02:29.202 --> 00:02:33.346
+moment. The thirty-one billion dense model is a straightforward full-parameter
+
+00:02:33.346 --> 00:02:37.491
+model with a two hundred fifty-six thousand token context window.
+
+00:02:37.491 --> 00:02:41.635
+Two notable absences: there's no replacement for Gemma three's popular
+
+00:02:41.635 --> 00:02:45.780
+twelve billion parameter model, leaving an awkward gap between about
+
+00:02:45.780 --> 00:02:49.924
+four point five billion effective and twenty-six billion. And the
+
+00:02:49.924 --> 00:02:54.069
+rumored one hundred twenty billion flagship that pre-release chatter anticipated
+
+00:02:54.069 --> 00:02:58.213
+didn't materialize at launch. Architecture and Benchmarks. Let me walk
+
+00:02:58.213 --> 00:03:02.358
+through the three architectural moves worth understanding. First: Alternating Attention.
+
+00:03:02.358 --> 00:03:06.502
+Rather than running full attention through every layer, Gemma four
+
+00:03:06.502 --> 00:03:10.647
+alternates between local sliding-window attention and global full-context attention. Local
+
+00:03:10.647 --> 00:03:14.792
+layers use five hundred twelve token windows on smaller models,
+
+00:03:14.792 --> 00:03:18.936
+one thousand twenty-four token windows on larger ones. The final
+
+00:03:18.936 --> 00:03:23.081
+layer is always global. This is substantially more compute-efficient than
+
+00:03:23.081 --> 00:03:27.225
+dense full attention throughout — it's how you get to
+
+00:03:27.225 --> 00:03:31.370
+two hundred fifty-six thousand token context windows without proportional cost
+
+00:03:31.370 --> 00:03:35.514
+blowup. Second: Dual R-o-P-E. Standard rotary positional embeddings for local
+
+00:03:35.514 --> 00:03:39.659
+attention layers, and Proportional R-o-P-E for global layers. The combination
+
+00:03:39.659 --> 00:03:43.803
+is what enables reliably useful performance at two hundred fifty-six
+
+00:03:43.803 --> 00:03:47.947
+thousand tokens rather than just nominally supporting it. Third: Built-in
+
+00:03:47.947 --> 00:03:52.092
+Multimodal. Vision support is native across all four models —
+
+00:03:52.092 --> 00:03:56.236
+not a separate variant, baked into the base architecture. Audio
+
+00:03:56.236 --> 00:04:00.381
+support is available in the edge models. With Gemma three,
+
+00:04:00.381 --> 00:04:04.525
+if you wanted vision you got the vision model and
+
+00:04:04.525 --> 00:04:08.670
+made tradeoffs. With Gemma four, you just get vision. Now,
+
+00:04:08.670 --> 00:04:12.814
+the benchmarks — and an honest read of them. On
+
+00:04:12.814 --> 00:04:16.959
+M-M-L-U Pro: the thirty-one billion dense scores eighty-five point two
+
+00:04:16.959 --> 00:04:21.103
+percent. The twenty-six billion M-o-E scores eighty-two point six percent.
+
+00:04:21.103 --> 00:04:25.248
+The E-four-B scores sixty-nine point four percent. The E-two-B scores
+
+00:04:25.248 --> 00:04:29.392
+sixty percent. On G-P-Q-A Diamond — a hard reasoning benchmark
+
+00:04:29.392 --> 00:04:33.537
+— the thirty-one billion scores eighty-four point three percent. The
+
+00:04:33.537 --> 00:04:37.682
+twenty-six billion scores eighty-two point three percent. On A-I-M-E twenty
+
+00:04:37.682 --> 00:04:41.826
+twenty-six, competition math: the thirty-one billion scores eighty-nine point two
+
+00:04:41.826 --> 00:04:45.971
+percent. The twenty-six billion scores eighty-eight point three percent. Genuinely
+
+00:04:45.971 --> 00:04:50.115
+impressive numbers for an open model. On LMArena human preference
+
+00:04:50.115 --> 00:04:54.260
+rankings, the thirty-one billion dense sits at roughly number three
+
+00:04:54.260 --> 00:04:58.404
+among open models with an ELO score around fourteen fifty-two,
+
+00:04:58.404 --> 00:05:02.548
+ahead of Llama four Maverick. The twenty-six billion M-o-E holds
+
+00:05:02.548 --> 00:05:06.693
+an ELO around fourteen forty-one with only four billion parameters
+
+00:05:06.693 --> 00:05:10.838
+active. Legitimately strong numbers. But here's the honest part. The
+
+00:05:10.838 --> 00:05:14.982
+speed problem is real. Community benchmarks show the twenty-six billion
+
+00:05:14.982 --> 00:05:19.126
+M-o-E at roughly eleven tokens per second — where Qwen
+
+00:05:19.126 --> 00:05:23.271
+three-point-five thirty-five billion runs at sixty-plus. That's a five-times gap.
+
+00:05:23.271 --> 00:05:27.416
+For interactive applications, that's felt by every user. Chinese models
+
+00:05:27.416 --> 00:05:31.560
+remain competitive. On aggregate automated benchmarks, Qwen three-point-five, G-L-M-five, and
+
+00:05:31.560 --> 00:05:35.704
+Kimi K-two-point-five are at or slightly ahead. Gemma four genuinely
+
+00:05:35.704 --> 00:05:39.849
+outperforms in non-English multilingual tasks and human preference evaluations. But
+
+00:05:39.849 --> 00:05:43.993
+"Gemma four beats the Chinese models" is marketing copy. The
+
+00:05:43.993 --> 00:05:48.138
+reality is a close pack. And the two hundred fifty-six
+
+00:05:48.138 --> 00:05:52.283
+thousand token context window has caveats. Practically reaching that limit
+
+00:05:52.283 --> 00:05:56.427
+requires substantial V-R-A-M headroom. Your hardware will determine your practical
+
+00:05:56.427 --> 00:06:00.571
+limit. Running It on Your Mac. The E-four-B quantized to
+
+00:06:00.571 --> 00:06:04.716
+G-G-U-F is about nine point six gigabytes — fits a
+
+00:06:04.716 --> 00:06:08.861
+Mac mini M-four with room to spare. Using Ollama, the
+
+00:06:08.861 --> 00:06:13.005
+easiest option: you can run the E-two-B at about five
+
+00:06:13.005 --> 00:06:17.149
+point five gigabytes, E-four-B at nine point six gigabytes, the
+
+00:06:17.149 --> 00:06:21.294
+twenty-six billion M-o-E at eighteen gigabytes, or the thirty-one billion
+
+00:06:21.294 --> 00:06:25.439
+dense at twenty gigabytes. For faster performance on Apple Silicon,
+
+00:06:25.439 --> 00:06:29.583
+native M-L-X is the better path. And llama-dot-cpp works well
+
+00:06:29.583 --> 00:06:33.727
+if that's your preferred runtime. For hardware guidance: a MacBook
+
+00:06:33.727 --> 00:06:37.872
+Pro M-three with eighteen to thirty-six gigabytes of unified memory
+
+00:06:37.872 --> 00:06:42.017
+— the E-four-B runs well, twenty-six billion is possible at
+
+00:06:42.017 --> 00:06:46.161
+the high end. A Mac mini M-four Pro — E-four-B
+
+00:06:46.161 --> 00:06:50.305
+with headroom, twenty-six billion works at twenty-four gigabytes and up.
+
+00:06:50.305 --> 00:06:54.450
+A Mac Studio or M-three Ultra — all four variants
+
+00:06:54.450 --> 00:06:58.594
+comfortably. One important caveat: give the ecosystem a week before
+
+00:06:58.594 --> 00:07:02.739
+building anything serious. First-day Mac stability reports included some crashes
+
+00:07:02.739 --> 00:07:06.884
+and edge cases that should clear up quickly. Honest Assessment
+
+00:07:06.884 --> 00:07:11.028
+— What Actually Matters. Here's what actually matters — and
+
+00:07:11.028 --> 00:07:15.172
+it's not a benchmark number. The Apache two-point-zero license is
+
+00:07:15.172 --> 00:07:19.317
+the most important thing that happened on April second. Previous
+
+00:07:19.317 --> 00:07:23.462
+Gemma versions shipped with a custom Terms of Use that
+
+00:07:23.462 --> 00:07:27.606
+included monthly active user caps. Real teams encountered this and
+
+00:07:27.606 --> 00:07:31.750
+chose Mistral, Qwen, and Llama instead. Apache two-point-zero removes all
+
+00:07:31.750 --> 00:07:35.895
+of that. No monthly active user caps. No acceptable-use restrictions.
+
+00:07:35.895 --> 00:07:40.040
+No royalties. Commercial teams can build on Gemma the same
+
+00:07:40.040 --> 00:07:44.184
+way they build on Llama — fully, without reservation. There's
+
+00:07:44.184 --> 00:07:48.328
+also a geopolitical angle: enterprise procurement teams are increasingly preferring
+
+00:07:48.328 --> 00:07:52.473
+U-S-origin A-I models for compliance and supply chain reasons. Gemma
+
+00:07:52.473 --> 00:07:56.618
+four being strong, Apache-licensed, and U-S-origin is genuinely useful positioning
+
+00:07:56.618 --> 00:08:00.762
+that benchmark tables don't capture. Now the gaps worth watching.
+
+00:08:00.762 --> 00:08:04.906
+First: fine-tuning ecosystem maturity. At launch, HuggingFace Transformers lacked full
+
+00:08:04.906 --> 00:08:09.051
+architecture support and P-E-F-T couldn't handle the new layer types.
+
+00:08:09.051 --> 00:08:13.195
+Give it a few weeks. Second: inference speed. Eleven versus
+
+00:08:13.195 --> 00:08:17.340
+sixty-plus tokens per second is a real product disadvantage. Either
+
+00:08:17.340 --> 00:08:21.485
+Google ships optimized inference kernels soon, or interactive applications will
+
+00:08:21.485 --> 00:08:25.629
+feel slow. Third: no mid-tier model. The gap between the
+
+00:08:25.629 --> 00:08:29.773
+E-four-B and twenty-six billion — where the Gemma three twelve
+
+00:08:29.773 --> 00:08:33.918
+billion lived — is real. There's no obvious successor to
+
+00:08:33.918 --> 00:08:38.062
+that sweet spot. Bottom Line. Let me bring this home
+
+00:08:38.062 --> 00:08:42.207
+with four specific situations. If you avoided Gemma because of
+
+00:08:42.207 --> 00:08:46.351
+the license restrictions — reconsider. Apache two-point-zero removes the blocker
+
+00:08:46.351 --> 00:08:50.496
+entirely. If you're evaluating for a new project — test
+
+00:08:50.496 --> 00:08:54.640
+the twenty-six billion M-o-E, but benchmark inference speed on your
+
+00:08:54.640 --> 00:08:58.785
+specific hardware first. The gap between theoretical and practical performance
+
+00:08:58.785 --> 00:09:02.929
+is wide right now. If you're interested in the architecture
+
+00:09:02.929 --> 00:09:07.074
+itself — the Per-Layer Embedding approach in the edge models
+
+00:09:07.074 --> 00:09:11.219
+is worth studying. Getting the quality of a much larger
+
+00:09:11.219 --> 00:09:15.363
+model at a fraction of the compute cost, through architectural
+
+00:09:15.363 --> 00:09:19.507
+cleverness rather than raw scale, is an important direction for
+
+00:09:19.507 --> 00:09:23.652
+the field. If you're looking for raw benchmark supremacy —
+
+00:09:23.652 --> 00:09:27.796
+the picture is mixed. It's a genuinely competitive frontier in
+
+00:09:27.796 --> 00:09:31.941
+April twenty twenty-six. The Apache two-point-zero move is Google choosing
+
+00:09:31.941 --> 00:09:36.086
+to fully participate in the open-weights ecosystem rather than hovering
+
+00:09:36.086 --> 00:09:40.230
+at its edge. That's the actual story here. The benchmarks
+
+00:09:40.230 --> 00:09:44.375
+are good. The architecture is interesting. But the license is
+
+00:09:44.375 --> 00:09:48.519
+what changes behavior. Thanks for listening to this Deep Dive.
+
+00:09:48.519 --> 00:09:52.663
+You can read the full written version, with benchmark tables
+
+00:09:52.663 --> 00:09:56.808
+and code examples, at the link in the show notes.
