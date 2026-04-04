@@ -23,11 +23,54 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 06:13:07 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 11:17:51 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
+
+        <item>
+      <title>March 2026 Monthly Review</title>
+      <description>Monthly review and reflection for March 2026. A convergence month: Katelyn's 8-day visit, the Anthropic court victory, condo renovation milestones, and The Keeping House writing streak. Patterns, tensions, wins, and emerging themes for April.
+
+      00:00:00 Opening &amp; Patterns
+      00:03:05 Tensions
+      00:04:14 Wins
+      00:05:59 Relationships
+      00:07:41 Career
+      00:08:20 Creative Work &amp; Health
+      00:09:55 Emerging Themes &amp; Key Insight</description>
+      <content:encoded><![CDATA[
+      <h2>Convergence Month</h2>
+      <p>March 2026 was the densest month of the year — Katelyn's 8-day visit, the Anthropic court victory, condo renovation milestones, and the sudden emergence of The Keeping House writing streak all collided.</p>
+
+      <h2>Patterns</h2>
+      <p>Relationship resets through presence. Work as invisible infrastructure. Condo project momentum. Reading diet intentionally skewed toward AI/tech. Iran war as ambient backdrop.</p>
+
+      <h2>Tensions</h2>
+      <p>The geography-career-relationship triangle sharpens. Seattle job research but no application submitted. Financial deployment deferred 12+ weeks. Ray &amp; Pam's Bora Bora email at 10 weeks.</p>
+
+      <h2>Wins</h2>
+      <p>Anthropic court victory (43-page injunction). BRs delivered to Governor's Office. Fitness at 5x/week YMCA. The Keeping House emerged with chapters published as podcast episodes. Vault architecture improvements.</p>
+
+      <h2>Relationships</h2>
+      <p>Katelyn: tension to connection via 8-day visit (Hermann, JC, St. Charles). Ben: collaborative energy through condo work. Dad: practical partnership through tile work. Friends: Thursday dinner as reconnection point.</p>
+
+      <h2>Career</h2>
+      <p>Claude pilot approved and advancing. April 2 triple-header: Anthropic pitch, Bill Review Training, friend dinner. Seattle job research but not applied. Karen's retirement creates opportunity.</p>
+
+      <h2>Key Insight</h2>
+      <p>Weekly reviews are more valuable than daily notes. Only 13 daily notes in 31 days, but 2 comprehensive weekly reviews revealed patterns invisible in sparse daily entries.</p>
+      ]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/march-review-2026-04-04.mp3" length="11242670" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-04-march-review.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-04-march-review.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-04-march-review</guid>
+      <pubDate>Sat, 04 Apr 2026 11:17:51 -0500</pubDate>
+      <itunes:duration>11:22</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
 
     <item>
       <title>Daily Briefing — Saturday, April 4, 2026</title>
