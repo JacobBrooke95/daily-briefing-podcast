@@ -1,0 +1,628 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+This is Jacob's Research Journal. Today's deep dive: The Loop
+
+00:00:04.000 --> 00:00:08.000
+Is Closing — Recursive Self-Improvement Has Left the Lab. Ninety
+
+00:00:08.000 --> 00:00:12.000
+percent of Claude's code is written by Claude. Not by
+
+00:00:12.000 --> 00:00:16.000
+the engineers at Anthropic who designed the model, but by
+
+00:00:16.000 --> 00:00:20.000
+a previous version of the model itself — iterating on
+
+00:00:20.000 --> 00:00:24.000
+its own codebase, proposing changes, testing them, shipping them. An
+
+00:00:24.000 --> 00:00:28.000
+Anthropic spokesperson told Fortune that company-wide, the figure for A-I-generated
+
+00:00:28.000 --> 00:00:32.000
+code is between seventy and ninety percent. At some leading
+
+00:00:32.000 --> 00:00:36.000
+engineers' desks at both Anthropic and OpenAI, it's reportedly one
+
+00:00:36.000 --> 00:00:40.000
+hundred percent. That number alone should stop you. It means
+
+00:00:40.000 --> 00:00:44.000
+the tools that are reshaping entire industries are increasingly built
+
+00:00:44.000 --> 00:00:48.000
+not by human hands but by earlier versions of themselves.
+
+00:00:48.000 --> 00:00:52.000
+The concept has a name that has bounced around A-I
+
+00:00:52.000 --> 00:00:56.000
+safety circles for decades — recursive self-improvement, or R-S-I —
+
+00:00:56.000 --> 00:01:00.000
+and as of spring twenty twenty-six, it has migrated from
+
+00:01:00.000 --> 00:01:04.000
+philosophical thought experiment to operational reality at every major A-I
+
+00:01:04.000 --> 00:01:08.000
+laboratory on earth. Now let's talk about where this idea
+
+00:01:08.000 --> 00:01:12.000
+came from — and how fast it became real. The
+
+00:01:12.000 --> 00:01:16.000
+idea is older than most people realize. In nineteen sixty-five,
+
+00:01:16.000 --> 00:01:20.000
+the British mathematician I. J. Good described what he called
+
+00:01:20.000 --> 00:01:24.000
+an intelligence explosion — an ultra-intelligent machine that could design
+
+00:01:24.000 --> 00:01:28.000
+even better machines, creating a feedback loop where, quote, "the
+
+00:01:28.000 --> 00:01:32.000
+intelligence of man would be left far behind." For sixty
+
+00:01:32.000 --> 00:01:36.000
+years this remained a theoretical curiosity, the kind of thing
+
+00:01:36.000 --> 00:01:40.000
+discussed at philosophy conferences and in science fiction novels. It
+
+00:01:40.000 --> 00:01:44.000
+is not theoretical anymore. At the World Economic Forum in
+
+00:01:44.000 --> 00:01:48.000
+Davos this January, the C-E-Os of the two companies arguably
+
+00:01:48.000 --> 00:01:52.000
+closest to the frontier — Dario Amodei of Anthropic and
+
+00:01:52.000 --> 00:01:56.000
+Demis Hassabis of Google DeepMind — both spoke publicly about
+
+00:01:56.000 --> 00:02:00.000
+pursuing self-improvement research. Hassabis was strikingly direct. He said: "It
+
+00:02:00.000 --> 00:02:04.000
+remains to be seen — can that self-improvement loop that
+
+00:02:04.000 --> 00:02:08.000
+we're all working on — actually close, without a human
+
+00:02:08.000 --> 00:02:12.000
+in the loop." The phrasing is worth sitting with. Not
+
+00:02:12.000 --> 00:02:16.000
+"whether we should work on this" but "whether the loop
+
+00:02:16.000 --> 00:02:20.000
+we're building can close." The decision to pursue R-S-I, at
+
+00:02:20.000 --> 00:02:24.000
+DeepMind at least, appears to have already been made. Anthropic's
+
+00:02:24.000 --> 00:02:28.000
+position is, if anything, more aggressive. Amodei predicted at Davos
+
+00:02:28.000 --> 00:02:32.000
+that the industry may be six to twelve months away
+
+00:02:32.000 --> 00:02:36.000
+from A-I handling most or all of software engineering from
+
+00:02:36.000 --> 00:02:40.000
+start to finish. His company's own chief scientist, Jared Kaplan,
+
+00:02:40.000 --> 00:02:44.000
+has been more explicit about what comes after that. He
+
+00:02:44.000 --> 00:02:48.000
+told Control A-I that humans will face an "extremely high-risk
+
+00:02:48.000 --> 00:02:52.000
+decision" between twenty twenty-seven and twenty thirty — whether to
+
+00:02:52.000 --> 00:02:56.000
+allow A-I systems to independently train and develop the next
+
+00:02:56.000 --> 00:03:00.000
+generation of A-I. Kaplan called this "the ultimate risk." Note
+
+00:03:00.000 --> 00:03:04.000
+the tension: Anthropic's chief scientist publicly calls the thing his
+
+00:03:04.000 --> 00:03:08.000
+company is building "the ultimate risk," while the company continues
+
+00:03:08.000 --> 00:03:12.000
+building it. Now let's look at the lab race —
+
+00:03:12.000 --> 00:03:16.000
+because every major frontier lab has a concrete timeline for
+
+00:03:16.000 --> 00:03:20.000
+automating its own research. The specificity is new, and striking.
+
+00:03:20.000 --> 00:03:24.000
+OpenAI has been the most explicit. C-E-O Sam Altman announced
+
+00:03:24.000 --> 00:03:28.000
+internal goals of having an "automated A-I research intern" by
+
+00:03:28.000 --> 00:03:32.000
+September twenty twenty-six, running on hundreds of thousands of G-P-Us,
+
+00:03:32.000 --> 00:03:36.000
+and "a true automated A-I researcher" by March twenty twenty-eight.
+
+00:03:36.000 --> 00:03:40.000
+Altman added a caveat — "We may totally fail at
+
+00:03:40.000 --> 00:03:44.000
+this goal" — but followed it with a justification that
+
+00:03:44.000 --> 00:03:48.000
+reveals how seriously the company takes it: "given the extraordinary
+
+00:03:48.000 --> 00:03:52.000
+potential impacts we think it is in the public interest
+
+00:03:52.000 --> 00:03:56.000
+to be transparent about this." Chief scientist Jakub Pachocki described
+
+00:03:56.000 --> 00:04:00.000
+this target as "a system capable of autonomously delivering on
+
+00:04:00.000 --> 00:04:04.000
+larger research projects." Anthropic is tracking toward what it calls
+
+00:04:04.000 --> 00:04:08.000
+"fully automated A-I research" by twenty twenty-seven. Dario Amodei has
+
+00:04:08.000 --> 00:04:12.000
+cited something like four hundred percent efficiency improvements per year
+
+00:04:12.000 --> 00:04:16.000
+from optimization work — coding, architecture tweaks, infrastructure engineering —
+
+00:04:16.000 --> 00:04:20.000
+creating a compound effect where identical compute yields dramatically better
+
+00:04:20.000 --> 00:04:24.000
+results each cycle. Dean Ball, a senior fellow at the
+
+00:04:24.000 --> 00:04:28.000
+Foundation for American Innovation, calls this a "compute multiplier." An
+
+00:04:28.000 --> 00:04:32.000
+anonymous Anthropic employee captured the aspiration with uncomfortable clarity: "We
+
+00:04:32.000 --> 00:04:36.000
+want Claude n to build Claude n-plus-one, so we can
+
+00:04:36.000 --> 00:04:40.000
+go home and knit sweaters." Google DeepMind has taken a
+
+00:04:40.000 --> 00:04:44.000
+more measured public posture while publishing the most concrete technical
+
+00:04:44.000 --> 00:04:48.000
+results. AlphaEvolve, unveiled in May twenty twenty-five, is an evolutionary
+
+00:04:48.000 --> 00:04:52.000
+coding agent that uses Gemini to generate, mutate, and select
+
+00:04:52.000 --> 00:04:56.000
+algorithmic improvements in a self-reinforcing loop. The results are not
+
+00:04:56.000 --> 00:05:00.000
+speculative: AlphaEvolve has improved Flash Attention operations by thirty-two percent,
+
+00:05:00.000 --> 00:05:04.000
+achieved a twenty-three percent speedup in kernel tiling for A-I
+
+00:05:04.000 --> 00:05:08.000
+training, and continuously recovers zero point seven percent of Google's
+
+00:05:08.000 --> 00:05:12.000
+entire worldwide compute resources. That last number sounds small until
+
+00:05:12.000 --> 00:05:16.000
+you consider Google's scale. Zero point seven percent of their
+
+00:05:16.000 --> 00:05:20.000
+compute is a staggering amount of freed capacity, running continuously,
+
+00:05:20.000 --> 00:05:24.000
+discovered by an A-I optimizing A-I infrastructure. Meta published a
+
+00:05:24.000 --> 00:05:28.000
+December twenty twenty-five preprint explicitly aimed at using self-improvement techniques
+
+00:05:28.000 --> 00:05:32.000
+to build superintelligence. The paper, notably, contained no mention of
+
+00:05:32.000 --> 00:05:36.000
+safety or ethics. Meanwhile, Meta's former chief A-I scientist Yann
+
+00:05:36.000 --> 00:05:40.000
+LeCun left the company in late twenty twenty-five to found
+
+00:05:40.000 --> 00:05:44.000
+A-M-I Labs, raising one point zero three billion dollars at
+
+00:05:44.000 --> 00:05:48.000
+a three and a half billion dollar valuation — the
+
+00:05:48.000 --> 00:05:52.000
+largest seed-stage investment in European history. LeCun's departure is the
+
+00:05:52.000 --> 00:05:56.000
+highest-profile dissent from the R-S-I consensus: he's betting that the
+
+00:05:56.000 --> 00:06:00.000
+self-improvement loop, as currently conceived, runs into fundamental limits. And
+
+00:06:00.000 --> 00:06:04.000
+the loop isn't limited to software. Ricursive Intelligence, founded by
+
+00:06:04.000 --> 00:06:08.000
+former DeepMind researchers, raised three hundred million dollars at a
+
+00:06:08.000 --> 00:06:12.000
+four billion dollar valuation less than two months after emerging
+
+00:06:12.000 --> 00:06:16.000
+from stealth. Their thesis: A-I designs the silicon that powers
+
+00:06:16.000 --> 00:06:20.000
+the next generation of A-I. The loop extends all the
+
+00:06:20.000 --> 00:06:24.000
+way down to the hardware. Now, let's talk about what
+
+00:06:24.000 --> 00:06:28.000
+I'm calling the Karpathy Moment. If the lab race is
+
+00:06:28.000 --> 00:06:32.000
+R-S-I behind closed doors, Andrej Karpathy blew the doors open.
+
+00:06:32.000 --> 00:06:36.000
+In March twenty twenty-six, the former Tesla A-I director and
+
+00:06:36.000 --> 00:06:40.000
+OpenAI co-founder released Auto Research — a six hundred thirty
+
+00:06:40.000 --> 00:06:44.000
+line Python script, open source under M-I-T license, that demonstrates
+
+00:06:44.000 --> 00:06:48.000
+autonomous A-I self-improvement on a single G-P-U. The concept is
+
+00:06:48.000 --> 00:06:52.000
+deceptively simple. Give an A-I agent a small but real
+
+00:06:52.000 --> 00:06:56.000
+language model training setup. Let it experiment autonomously — modifying
+
+00:06:56.000 --> 00:07:00.000
+the training code, running a five-minute training run, checking whether
+
+00:07:00.000 --> 00:07:04.000
+the loss improved, keeping or discarding the change, and repeating.
+
+00:07:04.000 --> 00:07:08.000
+The human writes the prompt. The A-I iterates on the
+
+00:07:08.000 --> 00:07:12.000
+code. After two days, Auto Research had processed approximately seven
+
+00:07:12.000 --> 00:07:16.000
+hundred autonomous experiments, finding roughly twenty additive improvements that transferred
+
+00:07:16.000 --> 00:07:20.000
+perfectly to larger models. The result: an eleven percent reduction
+
+00:07:20.000 --> 00:07:24.000
+in the "Time to G-P-T two" benchmark, from two point
+
+00:07:24.000 --> 00:07:28.000
+zero two hours to one point eight zero hours. Not
+
+00:07:28.000 --> 00:07:32.000
+a theoretical improvement on a toy problem — an eleven
+
+00:07:32.000 --> 00:07:36.000
+percent efficiency gain on training a real language model, discovered
+
+00:07:36.000 --> 00:07:40.000
+entirely by machine. The repo went viral: eight point six
+
+00:07:40.000 --> 00:07:44.000
+million views on X, over forty-two thousand GitHub stars within
+
+00:07:44.000 --> 00:07:48.000
+days. More importantly, the pattern proved generalizable. Shopify C-E-O Tobi
+
+00:07:48.000 --> 00:07:52.000
+Lütke applied the Auto Research loop to optimize rendering speed,
+
+00:07:52.000 --> 00:07:56.000
+producing ninety-three automated commits that achieved fifty-three percent faster rendering
+
+00:07:56.000 --> 00:08:00.000
+and sixty-one percent reduction in memory allocations. The message was
+
+00:08:00.000 --> 00:08:04.000
+clear: this isn't just for A-I research. The self-improvement loop
+
+00:08:04.000 --> 00:08:08.000
+works on anything you can score. Now let's turn to
+
+00:08:08.000 --> 00:08:12.000
+the governance gap — because this is where the story
+
+00:08:12.000 --> 00:08:16.000
+turns from impressive to unsettling. Dean Ball's policy analysis is
+
+00:08:16.000 --> 00:08:20.000
+the sharpest available on this point. He identifies the current
+
+00:08:20.000 --> 00:08:24.000
+state of affairs bluntly: there are no safety or security
+
+00:08:24.000 --> 00:08:28.000
+standards for frontier models, no cybersecurity rules for frontier labs
+
+00:08:28.000 --> 00:08:32.000
+or data centers, no requirements for explainability or testing for
+
+00:08:32.000 --> 00:08:36.000
+A-I systems engineered by other A-I systems, and no specific
+
+00:08:36.000 --> 00:08:40.000
+legal constraints on what frontier labs can do with the
+
+00:08:40.000 --> 00:08:44.000
+results of recursive self-improvement. The academic community hasn't covered itself
+
+00:08:44.000 --> 00:08:48.000
+in glory either. The I-C-L-R twenty twenty-six Workshop on A-I
+
+00:08:48.000 --> 00:08:52.000
+with Recursive Self-Improvement — possibly the world's first academic workshop
+
+00:08:52.000 --> 00:08:56.000
+dedicated entirely to R-S-I, scheduled for April twenty-sixth in Rio
+
+00:08:56.000 --> 00:09:00.000
+de Janeiro — initially gave safety concerns minimal emphasis. When
+
+00:09:00.000 --> 00:09:04.000
+journalists pressed the organizers, safety was subsequently added as "encouraged,
+
+00:09:04.000 --> 00:09:08.000
+optional." Optional. David Scott Krueger, a University of Cambridge A-I
+
+00:09:08.000 --> 00:09:12.000
+safety researcher, was less diplomatic: "It's completely wild and crazy
+
+00:09:12.000 --> 00:09:16.000
+that this is happening, it's unconscionable." The paradox is stark.
+
+00:09:16.000 --> 00:09:20.000
+The people closest to the technology freely acknowledge the risks.
+
+00:09:20.000 --> 00:09:24.000
+Kaplan calls it "the ultimate risk." Hassabis wonders publicly whether
+
+00:09:24.000 --> 00:09:28.000
+the loop can close safely. Altman hedges his timeline announcements
+
+00:09:28.000 --> 00:09:32.000
+with notes about "extraordinary potential impacts." But the organizational incentive
+
+00:09:32.000 --> 00:09:36.000
+is to keep building. Every lab operates under the same
+
+00:09:36.000 --> 00:09:40.000
+competitive logic: if we don't build it first, someone else
+
+00:09:40.000 --> 00:09:44.000
+will. The claim to responsibility, however, rests on safety infrastructure
+
+00:09:44.000 --> 00:09:48.000
+that does not yet exist. Before getting swept up in
+
+00:09:48.000 --> 00:09:52.000
+the intelligence explosion narrative, it's worth considering the skeptical case
+
+00:09:52.000 --> 00:09:56.000
+— because there is one, and it's not trivial. LeCun's
+
+00:09:56.000 --> 00:10:00.000
+bet against the R-S-I paradigm is the most prominent version.
+
+00:10:00.000 --> 00:10:04.000
+His argument, simplified: current language models are prediction machines, not
+
+00:10:04.000 --> 00:10:08.000
+reasoning engines. They can optimize within a paradigm — write
+
+00:10:08.000 --> 00:10:12.000
+better code, tune hyperparameters, find efficiency gains — but they
+
+00:10:12.000 --> 00:10:16.000
+cannot make the kind of paradigm-shifting conceptual leaps that transform
+
+00:10:16.000 --> 00:10:20.000
+fields. Auto Research found a nice eleven percent improvement, but
+
+00:10:20.000 --> 00:10:24.000
+it found it by iterating within an existing architecture, not
+
+00:10:24.000 --> 00:10:28.000
+by inventing a new one. Ball frames this as his
+
+00:10:28.000 --> 00:10:32.000
+"bearish scenario": A-I automation accelerates progress within existing paradigms, but
+
+00:10:32.000 --> 00:10:36.000
+the acceleration looks like driving a car faster on a
+
+00:10:36.000 --> 00:10:40.000
+highway rather than learning to fly. The economic impact is
+
+00:10:40.000 --> 00:10:44.000
+enormous — automated research dramatically reduces costs and increases output
+
+00:10:44.000 --> 00:10:48.000
+— but the intelligence explosion never actually detonates. There's also
+
+00:10:48.000 --> 00:10:52.000
+a practical scaffolding problem. Current A-I agents excel at short-horizon
+
+00:10:52.000 --> 00:10:56.000
+tasks — write a function, optimize a parameter, run an
+
+00:10:56.000 --> 00:11:00.000
+experiment. But A-I research is not a sequence of short-horizon
+
+00:11:00.000 --> 00:11:04.000
+tasks. It requires maintaining coherent research programs over weeks and
+
+00:11:04.000 --> 00:11:08.000
+months, integrating results across subfields, recognizing when a dead end
+
+00:11:08.000 --> 00:11:12.000
+is actually a new direction. OpenAI's September twenty twenty-six target
+
+00:11:12.000 --> 00:11:16.000
+for an A-I "intern" is telling: even the most optimistic
+
+00:11:16.000 --> 00:11:20.000
+lab distinguishes between grunt work and genuine research capability. This
+
+00:11:20.000 --> 00:11:24.000
+skepticism deserves serious weight. But it faces a challenge: the
+
+00:11:24.000 --> 00:11:28.000
+labs pursuing R-S-I have consistently delivered on aggressive timelines that
+
+00:11:28.000 --> 00:11:32.000
+skeptics said were impossible. Two years ago, "A-I writes ninety
+
+00:11:32.000 --> 00:11:36.000
+percent of its own code" would have been dismissed as
+
+00:11:36.000 --> 00:11:40.000
+Silicon Valley fantasy. It's an Anthropic press statement now. So
+
+00:11:40.000 --> 00:11:44.000
+what's actually at stake? The honest assessment, sitting with everything
+
+00:11:44.000 --> 00:11:48.000
+the research turned up, is this: recursive self-improvement is the
+
+00:11:48.000 --> 00:11:52.000
+most consequential development in A-I right now, and it is
+
+00:11:52.000 --> 00:11:56.000
+happening with remarkably little public scrutiny. Ball predicts that during
+
+00:11:56.000 --> 00:12:00.000
+twenty twenty-six, the effective "workforces" of each frontier lab will
+
+00:12:00.000 --> 00:12:04.000
+grow from single-digit thousands to tens of thousands, and then
+
+00:12:04.000 --> 00:12:08.000
+hundreds of thousands — most of them artificial. These workforces
+
+00:12:08.000 --> 00:12:12.000
+will grow smarter each month, not only because A-I was
+
+00:12:12.000 --> 00:12:16.000
+already improving rapidly but because their only objective will be
+
+00:12:16.000 --> 00:12:20.000
+to make themselves smarter. Whether this produces a genuine intelligence
+
+00:12:20.000 --> 00:12:24.000
+explosion or merely a very fast improvement within existing paradigms
+
+00:12:24.000 --> 00:12:28.000
+is the most important empirical question in technology today. The
+
+00:12:28.000 --> 00:12:32.000
+answer might not be knowable in advance. And that is
+
+00:12:32.000 --> 00:12:36.000
+precisely the problem. Several concrete markers in the coming months
+
+00:12:36.000 --> 00:12:40.000
+will signal how fast the loop is tightening. The I-C-L-R
+
+00:12:40.000 --> 00:12:44.000
+R-S-I Workshop on April twenty-sixth — the first major academic
+
+00:12:44.000 --> 00:12:48.000
+gathering focused entirely on recursive self-improvement. Whether safety gets real
+
+00:12:48.000 --> 00:12:52.000
+attention or remains "optional" will reveal where the research community's
+
+00:12:52.000 --> 00:12:56.000
+priorities actually lie. OpenAI's September twenty twenty-six target for an
+
+00:12:56.000 --> 00:13:00.000
+automated A-I research intern. Anthropic's twenty twenty-seven horizon for fully
+
+00:13:00.000 --> 00:13:04.000
+automated A-I research. And whether any jurisdiction moves beyond self-reporting
+
+00:13:04.000 --> 00:13:08.000
+toward independent verification infrastructure. The absence of governance action is
+
+00:13:08.000 --> 00:13:12.000
+itself a signal. I. J. Good's nineteen sixty-five thought experiment
+
+00:13:12.000 --> 00:13:16.000
+ended with a sentence that has aged better than any
+
+00:13:16.000 --> 00:13:20.000
+line in the history of technology forecasting: "Thus the first
+
+00:13:20.000 --> 00:13:24.000
+ultraintelligent machine is the last invention that man need ever
+
+00:13:24.000 --> 00:13:28.000
+make, provided that the machine is docile enough to tell
+
+00:13:28.000 --> 00:13:32.000
+us how to keep it under control." Sixty-one years later,
+
+00:13:32.000 --> 00:13:36.000
+the first half of that sentence is closer to reality
+
+00:13:36.000 --> 00:13:40.000
+than most people understand. The second half — the part
+
+00:13:40.000 --> 00:13:44.000
+about control — remains entirely unresolved. That's the recursive self-improvement
+
+00:13:44.000 --> 00:13:48.000
+deep dive. Full post and sources at jacob brooke ninety-five
+
+00:13:48.000 --> 00:13:52.000
+dot github dot i-o slash jacobs research journal. Thanks for
+
+00:13:52.000 --> 00:13:52.400
+listening.
