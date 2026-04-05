@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+&lt;h2&gt;The Leak&lt;/h2&gt;&lt;p&gt;On March 26, 2026, a CMS misconfiguration at Anthropic
+
+00:00:04.000 --> 00:00:08.000
+exposed roughly 3,000 unpublished blog assets — including a draft
+
+00:00:08.000 --> 00:00:12.000
+post describing Claude Mythos, a new model tier above Opus.
+
+00:00:12.000 --> 00:00:16.000
+Security researchers Roy Paz (LayerX) and Alexandre Pauwels (Cambridge) found
+
+00:00:16.000 --> 00:00:20.000
+the exposed data store. Fortune broke the story.&lt;/p&gt;&lt;h2&gt;What Is Capybara?&lt;/h2&gt;&lt;p&gt;Capybara
+
+00:00:20.000 --> 00:00:24.000
+is Anthropic's new fourth model tier, positioned above Opus. Claude
+
+00:00:24.000 --> 00:00:28.000
+Mythos is the first model in this tier. Anthropic calls
+
+00:00:28.000 --> 00:00:32.000
+it "a step change" and "the most capable we've built
+
+00:00:32.000 --> 00:00:36.000
+to date," with dramatically higher scores in coding, reasoning, and
+
+00:00:36.000 --> 00:00:40.000
+cybersecurity.&lt;/p&gt;&lt;h2&gt;Cybersecurity Concerns&lt;/h2&gt;&lt;p&gt;The draft warns Mythos is "far ahead of any
+
+00:00:40.000 --> 00:00:44.000
+other AI model in cyber capabilities" — able to find
+
+00:00:44.000 --> 00:00:48.000
+and exploit software vulnerabilities at machine speed. This triggered a
+
+00:00:48.000 --> 00:00:52.000
+major cybersecurity stock selloff: CrowdStrike -7%, Palo Alto Networks -6%,
+
+00:00:52.000 --> 00:00:56.000
+Tenable -11%, Zscaler -4.5%.&lt;/p&gt;&lt;h2&gt;IPO Plans&lt;/h2&gt;&lt;p&gt;Bloomberg reported the same day that
+
+00:00:56.000 --> 00:01:00.000
+Anthropic is targeting an October 2026 IPO, potentially raising 0B+.
+
+00:01:00.000 --> 00:01:04.000
+The company is valued at ~80B after a 0B February
+
+00:01:04.000 --> 00:01:08.000
+funding round, running at 4B annualized revenue. The timing has
+
+00:01:08.000 --> 00:01:12.000
+fueled skepticism about whether the leak was truly accidental.&lt;/p&gt;&lt;h2&gt;Open Questions&lt;/h2&gt;&lt;p&gt;When
+
+00:01:12.000 --> 00:01:16.000
+will Mythos be available via API? What will pricing look
+
+00:01:16.000 --> 00:01:20.000
+like? Will cybersecurity concerns trigger regulation? And was this leak
+
+00:01:20.000 --> 00:01:21.200
+intentional pre-IPO marketing?&lt;/p&gt;
