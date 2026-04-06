@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>© 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 09:00:00 -05:00</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 12:55:48 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -1193,4 +1193,34 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:explicit>false</itunes:explicit>
     </item>
 </channel>
-</rss>
+</rss
+    <item>
+      <title>Deep Dive — The Mind at the Frontier: 50 Issues of Import AI</title>
+      <description>
+Analysis of the last 50 issues of Jack Clark's Import AI newsletter (#403-452, March 2025 – April 2026). Cybersecurity, Chinese AI decoupling, alignment predictions confirmed, and the slow accumulation of signals no one turned into a narrative.
+
+Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html
+
+00:00:00 Introduction
+00:01:00 What Jack Clark Is Actually Worried About
+00:03:30 The Decoupling Story
+00:06:00 Predictions Coming True
+00:09:00 The Stories That Actually Land
+00:11:30 Jack's Voice
+00:13:00 The Gap That Keeps Appearing
+00:14:00 Closing
+      </description>
+      <content:encoded><![CDATA[
+<p>Analysis of the last 50 issues of Jack Clark's Import AI newsletter, covering issues #403 through #452, from March 2025 through April 2026.</p>
+<p>Six dominant themes emerged: cybersecurity as the near-term battleground (appearing in 24 of 50 issues), Chinese AI hardware decoupling, AI automating AI research, the slow confirmation of alignment predictions, economic impact paradoxes, and the distributed training political economy.</p>
+<p><a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html">Read the full post →</a></p>
+      ]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-06-import-ai.mp3" length="5427741" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-06-import-ai.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-06-import-ai.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-06-import-ai-50-issues</guid>
+      <pubDate>Mon, 06 Apr 2026 12:55:48 -0500</pubDate>
+      <itunes:duration>0:14:07</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>>
