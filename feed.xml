@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>© 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 06:51:14 -05:00</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 09:00:00 -05:00</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -122,6 +122,34 @@
 
 
 
+<item>
+  <title>Deep Dive — Fifty Weeks With Import AI: What Jack Clark Has Been Warning Us About</title>
+  <description>
+I read 50 consecutive issues of Jack Clark's Import AI newsletter — numbers 403 through 452, covering March 2025 through April 2026. Three themes appear with alarming frequency: dual-use AI risk (cyberoffense, bioweapons, military), China's steady technical ascent, and the arrival of self-improving AI systems. Clark's predictions keep landing. The fiction he writes every week keeps getting more plausible.
+
+Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html
+
+00:00:00 Introduction
+00:02:15 What Import AI Actually Is
+00:04:00 Dual-Use Risk: The Scaling Law Nobody Talks About
+00:06:30 China's AI Development: Not Lagging
+00:08:30 AI Building Itself: The Self-Improvement Thread
+00:10:00 Clark's Prediction Track Record
+00:11:00 The Fiction Is the Argument
+00:11:43 Closing
+  </description>
+  <content:encoded><![CDATA[
+<p>I read fifty consecutive issues of Jack Clark's Import A-I newsletter — numbers 403 through 452, covering roughly March 2025 through April 2026. Three themes appear with alarming frequency: dual-use A-I risk, China's steady technical ascent, and the arrival of self-improving A-I systems.</p>
+<p><a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html">Read the full post →</a></p>
+  ]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-06-import-ai-50-issues.mp3" length="11258925" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-06-import-ai-50-issues.jpg"/>
+  <guid isPermaLink="false">deepdive-2026-04-06-import-ai-50-issues</guid>
+  <pubDate>Mon, 06 Apr 2026 09:00:00 -0500</pubDate>
+  <itunes:duration>11:43</itunes:duration>
+  <itunes:episode>33</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item><title>Daily Briefing — Monday, April 6, 2026</title><link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link><description>Artemis II flyby window opens. Iran deadline extended. Sam Altman's "Superintelligence New Deal." Four humans behind the moon, strategic defeat narrative in Iran, and your local ballot prep.
 
 Chapters:
