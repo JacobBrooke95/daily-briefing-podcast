@@ -123,6 +123,67 @@
 
 
 <item>
+  <title>Daily Briefing — Tuesday, April 7, 2026</title>
+  <description>Morning daily briefing covering Trump's "Infrastructure Day" Iran deadline, Proposition A vote, Anthropic $30B revenue, Artemis II heading home, and the New Yorker's Altman investigation.
+
+00:00:00 Opening &amp; Weather
+00:00:45 Iran War — Infrastructure Day Deadline
+00:02:15 Artemis II — Heading Home
+00:03:00 AI News — Anthropic Revenue &amp; New Yorker Investigation
+00:04:30 Claude Code &amp; Apple News
+00:05:15 Local News — Proposition A
+00:05:45 Quick Hits &amp; Messages
+00:06:30 Closing</description>
+  <content:encoded><![CDATA[<h2>Trump's "Infrastructure Day" — Deadline #4 Tonight</h2>
+<p>Trump's 8 PM ET deadline hits tonight. Both the US and Iran rejected a 10-point ceasefire plan. Trump described as "the most bloodthirsty" in his own administration. <a href="https://www.axios.com/newsletters/axios-am">Read Axios AM →</a></p>
+<h2>Artemis II — Heading Home</h2>
+<p>The crew reached 252,756 miles from Earth — 4,111 miles beyond Apollo 13's record. Commander Wiseman named two craters: "Integrity" and "Carroll" (after his late wife). Splashdown Friday off San Diego.</p>
+<h2>Anthropic Tops $30B Run Rate</h2>
+<p>Revenue tripled since year-end. 1,000+ enterprise customers at $1M+. 3.5 GW Google TPU deal via Broadcom. October IPO at ~$380B under evaluation. <a href="https://www.bloomberg.com/news/articles/2026-04-06/broadcom-confirms-deal-to-ship-google-tpu-chips-to-anthropic">Read Bloomberg →</a></p>
+<h2>New Yorker: "Can Sam Altman Be Trusted?"</h2>
+<p>18-month investigation by Ronan Farrow and Andrew Marantz. Altman lobbied against regulations he publicly advocated for. Combined with Good Friday leadership exodus at OpenAI. <a href="https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted">Read the investigation →</a></p>
+<h2>Local: Proposition A — Vote Today</h2>
+<p>Half-cent capital improvement sales tax renewal for Cole County. Roads, bridges, county facilities. In place since the 1980s. Polls close at 7 PM.</p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-07.mp3" length="2892824" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-07.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-07.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-07</guid>
+  <pubDate>Tue, 07 Apr 2026 06:52:59 -0500</pubDate>
+  <itunes:duration>7:21</itunes:duration>
+  <itunes:episode>36</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+      <title>Deep Dive — The Mind at the Frontier: 50 Issues of Import AI</title>
+      <description>
+Analysis of the last 50 issues of Jack Clark's Import AI newsletter (#403-452, March 2025 – April 2026). Cybersecurity, Chinese AI decoupling, alignment predictions confirmed, and the slow accumulation of signals no one turned into a narrative.
+
+Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html
+
+00:00:00 Introduction
+00:01:00 What Jack Clark Is Actually Worried About
+00:03:30 The Decoupling Story
+00:06:00 Predictions Coming True
+00:09:00 The Stories That Actually Land
+00:11:30 Jack's Voice
+00:13:00 The Gap That Keeps Appearing
+00:14:00 Closing
+      </description>
+      <content:encoded><![CDATA[
+<p>Analysis of the last 50 issues of Jack Clark's Import AI newsletter, covering issues #403 through #452, from March 2025 through April 2026.</p>
+<p>Six dominant themes emerged: cybersecurity as the near-term battleground (appearing in 24 of 50 issues), Chinese AI hardware decoupling, AI automating AI research, the slow confirmation of alignment predictions, economic impact paradoxes, and the distributed training political economy.</p>
+<p><a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html">Read the full post →</a></p>
+      ]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-06-import-ai.mp3" length="5427741" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-06-import-ai.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-06-import-ai.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-06-import-ai-50-issues</guid>
+      <pubDate>Mon, 06 Apr 2026 12:55:48 -0500</pubDate>
+      <itunes:duration>0:14:07</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+<item>
   <title>Deep Dive — The Mind at the Frontier: 50 Issues of Import AI</title>
   <description>
 Jack Clark has been writing Import AI since 2016. I read the last 50 issues — numbers 403 through 452, March 2025 through April 2026 — in sequence, looking for the cumulative picture. What emerges: AI systems becoming more capable faster than anyone predicted, safety behaviors predicted years ago now showing up in production, and the gap between what AI progress looks like from inside and what economists forecast for GDP widening instead of closing.
@@ -147,27 +208,10 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-i
   <guid isPermaLink="false">deepdive-2026-04-06-import-ai-50-issues</guid>
   <pubDate>Mon, 06 Apr 2026 09:00:00 -0500</pubDate>
   <itunes:duration>14:47</itunes:duration>
-  <itunes:episode>33</itunes:episode>
+  <itunes:episode>34</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
-<item><title>Daily Briefing — Monday, April 6, 2026</title><link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link><description>Artemis II flyby window opens. Iran deadline extended. Sam Altman's "Superintelligence New Deal." Four humans behind the moon, strategic defeat narrative in Iran, and your local ballot prep.
-
-Chapters:
-00:00 Opening
-01:40 Weather
-03:00 Your Calendar
-05:30 Inbox Highlights
-13:00 Iran War Update
-18:50 Artemis II Flyby
-21:50 Anthropic Updates
-24:20 AI &amp; Tech
-30:00 Apple News
-32:00 Local News
-34:40 Jobs
-36:40 Quick Hits
-37:00 Closing
-
-Sources: Axios AM, Semafor, Ground News, The Verge, Readwise, Manifold Markets, Nature, r/ClaudeAI, r/artificial, MacRumors, CNBC, New York Times, Cole County local news, Toast tipping data.</description><guid isPermaLink="false">briefing-2026-04-06</guid><pubDate>Mon, 06 Apr 2026 06:51:14 -05:00</pubDate><itunes:author>Jacob Brooke</itunes:author><itunes:duration>1036</itunes:duration><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-06.jpg" /><enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-06.mp3" length="6556846" type="audio/mpeg" /></item><item>
+<item>
   <title>Week in Review — April 6, 2026</title>
   <description>Monday morning week-in-review covering March 30 through April 5, 2026. Iran war escalated through Week 6 — F-15 shot down, pilot rescued, 48-hour Hormuz ultimatum expires today. Artemis II lunar flyby sets distance record. Apple turned 50. Anthropic bought Coefficient Bio, launched AnthroPAC, DOJ appeal filed. Five chapters of The Keeping House written in five days. Carpet installed, Rosie the Roborock deployed, three research posts published.
 
@@ -198,9 +242,27 @@ Sources: Axios AM, Semafor, Ground News, The Verge, Readwise, Manifold Markets, 
   <guid isPermaLink="false">weekly-2026-04-06</guid>
   <pubDate>Mon, 06 Apr 2026 06:39:52 -0500</pubDate>
   <itunes:duration>11:44</itunes:duration>
-  <itunes:episode>32</itunes:episode>
+  <itunes:episode>33</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+<item><title>Daily Briefing — Monday, April 6, 2026</title><link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link><description>Artemis II flyby window opens. Iran deadline extended. Sam Altman's "Superintelligence New Deal." Four humans behind the moon, strategic defeat narrative in Iran, and your local ballot prep.
+
+Chapters:
+00:00 Opening
+01:40 Weather
+03:00 Your Calendar
+05:30 Inbox Highlights
+13:00 Iran War Update
+18:50 Artemis II Flyby
+21:50 Anthropic Updates
+24:20 AI &amp; Tech
+30:00 Apple News
+32:00 Local News
+34:40 Jobs
+36:40 Quick Hits
+37:00 Closing
+
+Sources: Axios AM, Semafor, Ground News, The Verge, Readwise, Manifold Markets, Nature, r/ClaudeAI, r/artificial, MacRumors, CNBC, New York Times, Cole County local news, Toast tipping data.</description><guid isPermaLink="false">briefing-2026-04-06</guid><pubDate>Mon, 06 Apr 2026 06:51:14 -05:00</pubDate><itunes:author>Jacob Brooke</itunes:author><itunes:duration>1036</itunes:duration><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-06.jpg" /><enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-06.mp3" length="6556846" type="audio/mpeg" /></item>
 <item>
   <title>Deep Dive — The Accidental Longevity Drug</title>
   <description>GLP-1 drugs like Ozempic weren't designed to slow aging. They've produced better longevity evidence than anything that was. Nature Biotechnology asked if they're the first longevity drugs. The data says: quite possibly. But the muscle loss paradox, manufacturer-funded research, and a regulatory void complicate the picture.
@@ -1194,33 +1256,4 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
     </item>
 </channel>
 </rss
-    <item>
-      <title>Deep Dive — The Mind at the Frontier: 50 Issues of Import AI</title>
-      <description>
-Analysis of the last 50 issues of Jack Clark's Import AI newsletter (#403-452, March 2025 – April 2026). Cybersecurity, Chinese AI decoupling, alignment predictions confirmed, and the slow accumulation of signals no one turned into a narrative.
-
-Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html
-
-00:00:00 Introduction
-00:01:00 What Jack Clark Is Actually Worried About
-00:03:30 The Decoupling Story
-00:06:00 Predictions Coming True
-00:09:00 The Stories That Actually Land
-00:11:30 Jack's Voice
-00:13:00 The Gap That Keeps Appearing
-00:14:00 Closing
-      </description>
-      <content:encoded><![CDATA[
-<p>Analysis of the last 50 issues of Jack Clark's Import AI newsletter, covering issues #403 through #452, from March 2025 through April 2026.</p>
-<p>Six dominant themes emerged: cybersecurity as the near-term battleground (appearing in 24 of 50 issues), Chinese AI hardware decoupling, AI automating AI research, the slow confirmation of alignment predictions, economic impact paradoxes, and the distributed training political economy.</p>
-<p><a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-import-ai-50-issues.html">Read the full post →</a></p>
-      ]]></content:encoded>
-      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-06-import-ai.mp3" length="5427741" type="audio/mpeg"/>
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-06-import-ai.jpg"/>
-      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-06-import-ai.vtt" type="text/vtt" language="en"/>
-      <guid isPermaLink="false">deepdive-2026-04-06-import-ai-50-issues</guid>
-      <pubDate>Mon, 06 Apr 2026 12:55:48 -0500</pubDate>
-      <itunes:duration>0:14:07</itunes:duration>
-      <itunes:episode>35</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>>
+    >
