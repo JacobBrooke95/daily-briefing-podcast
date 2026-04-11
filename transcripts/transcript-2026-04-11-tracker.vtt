@@ -1,0 +1,199 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.225
+Welcome to a quick update on Jacob's weekly tracker configuration.
+
+00:00:04.225 --> 00:00:08.451
+As of April eleventh, twenty twenty six, the weekly tracker
+
+00:00:08.451 --> 00:00:12.676
+now watches six topics instead of four. Here's what's on
+
+00:00:12.676 --> 00:00:16.901
+the list and why. Quick context. The weekly tracker is
+
+00:00:16.901 --> 00:00:21.127
+a scheduled task that runs every Friday at seven p.m.
+
+00:00:21.127 --> 00:00:25.352
+Central. It reads a single page in Jacob's Obsidian vault
+
+00:00:25.352 --> 00:00:29.577
+called Tracked Topics, iterates through each active topic, searches the
+
+00:00:29.577 --> 00:00:33.803
+web, Reddit, prediction markets, and news sources for new developments,
+
+00:00:33.803 --> 00:00:38.028
+and then appends updates to the relevant vault pages. Yesterday
+
+00:00:38.028 --> 00:00:42.254
+we moved the topic list out of the task prompt
+
+00:00:42.254 --> 00:00:46.479
+and into the vault so any Claude instance, or Jacob
+
+00:00:46.479 --> 00:00:50.704
+himself, can edit it directly. Today we added two new
+
+00:00:50.704 --> 00:00:54.930
+topics based on a vault-wide search. Topic one is Anthropic's
+
+00:00:54.930 --> 00:00:59.155
+Mythos model release. This has been the flagship topic for
+
+00:00:59.155 --> 00:01:03.380
+weeks. The tracker watches for leaked release dates, pricing signals,
+
+00:01:03.380 --> 00:01:07.606
+benchmark rumors, Project Glasswing developments, and any movement on whether
+
+00:01:07.606 --> 00:01:11.831
+a public variant ships. It monitors r slash Anthropic, r
+
+00:01:11.831 --> 00:01:16.056
+slash Claude A-I, r slash singularity, r slash Local Llama,
+
+00:01:16.056 --> 00:01:20.282
+and checks Manifold for Mythos release probability markets. Topic two
+
+00:01:20.282 --> 00:01:24.507
+is the Jefferson City Riverfront Connector Bridge and BUILD grant.
+
+00:01:24.507 --> 00:01:28.732
+This tracks the Reconnecting Jefferson City infrastructure project, the High
+
+00:01:28.732 --> 00:01:32.958
+Street Viaduct replacement, the roughly twenty five million dollar BUILD
+
+00:01:32.958 --> 00:01:37.183
+grant application with a decision expected this summer, city council
+
+00:01:37.183 --> 00:01:41.408
+votes, MoDOT updates, and the status of HB twenty one
+
+00:01:41.408 --> 00:01:45.634
+oh eight. Topic three is Jefferson City local government more
+
+00:01:45.634 --> 00:01:49.859
+broadly. City council meetings, Cole County commission actions, Jefferson City
+
+00:01:49.859 --> 00:01:54.085
+Public Schools board decisions, local elections, zoning, and major development
+
+00:01:54.085 --> 00:01:58.310
+projects. The update log is append only, most recent first.
+
+00:01:58.310 --> 00:02:02.535
+Topic four is the Pebble Index oh one smartwatch. Production
+
+00:02:02.535 --> 00:02:06.761
+status, shipping timeline, firmware updates, and community reviews. Pebble Time
+
+00:02:06.761 --> 00:02:10.986
+two is a leading indicator since it ships before Index
+
+00:02:10.986 --> 00:02:15.211
+oh one. Now for the two new topics. Topic five
+
+00:02:15.211 --> 00:02:19.437
+is Apple rumors and news. Jacob's vault has a massive
+
+00:02:19.437 --> 00:02:23.662
+Apple topics folder with years of WWDC notes, device timeline
+
+00:02:23.662 --> 00:02:27.887
+tracking, Apple Intelligence analysis, and detailed opinions on the ecosystem.
+
+00:02:27.887 --> 00:02:32.113
+The tracker will now surface meaningful Apple product, software, and
+
+00:02:32.113 --> 00:02:36.338
+ecosystem news, filtering aggressively to only the items that would
+
+00:02:36.338 --> 00:02:40.563
+actually affect Jacob's decisions or represent a real strategic shift.
+
+00:02:40.563 --> 00:02:44.789
+That means new device rumors, Apple Intelligence developments, OS releases
+
+00:02:44.789 --> 00:02:49.014
+across i-O-S, i-Pad-O-S, mac-O-S, watch-O-S, and vision-O-S, WWDC announcements, Siri
+
+00:02:49.014 --> 00:02:53.239
+strategy shifts, and Mark Gurman scoops. The primary sources are
+
+00:02:53.239 --> 00:02:57.465
+nine to five Mac, Mac Rumors, Bloomberg's Power On newsletter,
+
+00:02:57.465 --> 00:03:01.690
+Six Colors, and Daring Fireball. Gurman's Sunday Power On is
+
+00:03:01.690 --> 00:03:05.915
+the single most valuable source and gets checked first each
+
+00:03:05.915 --> 00:03:10.141
+run. When Apple Watch Ultra four news appears, it cross-posts
+
+00:03:10.141 --> 00:03:14.366
+into the wearables tracker because that device is central to
+
+00:03:14.366 --> 00:03:18.592
+Jacob's switching decision. Topic six is Whoop and the wearables
+
+00:03:18.592 --> 00:03:22.817
+ecosystem. This one is driven directly by the Core Question
+
+00:03:22.817 --> 00:03:27.042
+at the top of Jacob's Wearables Watch note: should he
+
+00:03:27.042 --> 00:03:31.268
+switch from Apple Watch to Whoop, or wait for the
+
+00:03:31.268 --> 00:03:35.493
+Ultra four in September? The tracker watches Whoop membership and
+
+00:03:35.493 --> 00:03:39.718
+product changes, new features, algorithm updates, Oura Ring five rumors,
+
+00:03:39.718 --> 00:03:43.944
+Garmin's CIRQA smart band, validation studies comparing consumer wearables to
+
+00:03:43.944 --> 00:03:48.169
+E-C-G, and commentary from the quantified-self and endurance running communities.
+
+00:03:48.169 --> 00:03:52.394
+Sources include D-C Rainmaker, The Quantified Scientist, Wareable, and PubMed
+
+00:03:52.394 --> 00:03:56.620
+for validation research. The working verdict right now is to
+
+00:03:56.620 --> 00:04:00.845
+wait for the Apple Watch Ultra four before making any
+
+00:04:00.845 --> 00:04:05.070
+switch. If new evidence would materially shift that verdict, the
+
+00:04:05.070 --> 00:04:09.296
+weekly summary will flag it explicitly rather than quietly updating
+
+00:04:09.296 --> 00:04:13.521
+the note. That's the full list. Six topics, one config
+
+00:04:13.521 --> 00:04:17.746
+file, one scheduled task. The config lives at one dash
+
+00:04:17.746 --> 00:04:21.972
+Projects slash Weekly Tracker Updates slash Tracked Topics dot M-D.
+
+00:04:21.972 --> 00:04:26.197
+To add a new topic, copy the template block at
+
+00:04:26.197 --> 00:04:30.423
+the top of the file, fill in the fields, and
+
+00:04:30.423 --> 00:04:34.648
+bump the frontmatter date. The next run is Friday evening.
+
+00:04:34.648 --> 00:04:35.915
+That's the update.

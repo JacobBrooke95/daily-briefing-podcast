@@ -30,6 +30,55 @@
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
 
         <item>
+      <title>Tracker Update — 6 Topics Now (Apple + Whoop Added)</title>
+      <description>Bonus update on Jacob's weekly tracker configuration. Two new topics added: Apple Rumors &amp; News and Whoop &amp; Wearables Ecosystem. The config lives in his Obsidian vault now and is read by the scheduled task each Friday evening.
+
+00:00:00 Opening
+00:00:14 What the weekly tracker is
+00:00:53 Topic 1: Mythos release
+00:01:19 Topic 2: Riverfront Bridge
+00:01:42 Topic 3: JC Local Government
+00:01:58 Topic 4: Pebble Index 01
+00:02:11 Topic 5: Apple Rumors (NEW)
+00:03:15 Topic 6: Whoop &amp; Wearables (NEW)
+00:04:09 Closing</description>
+      <content:encoded><![CDATA[<h2>Weekly Tracker — 6 Topics Now</h2>
+<p>Quick bonus episode on Jacob's weekly tracker configuration. As of April 11, 2026 the tracker watches six topics instead of four. The topic list was migrated out of the scheduled task prompt into a dedicated vault page at <code>1-Projects/Weekly-Tracker-Updates/Tracked Topics.md</code>, and two new topics were added today based on a vault-wide search.</p>
+
+<h3>The six tracked topics</h3>
+<ol>
+  <li><strong>Anthropic Mythos / Claude Model Release</strong> — leaks, release signals, Manifold markets, Project Glasswing developments.</li>
+  <li><strong>Jefferson City Riverfront Connector Bridge / BUILD Grant</strong> — infrastructure project, ~$25M BUILD grant decision expected summer 2026.</li>
+  <li><strong>Jefferson City Local Government</strong> — council votes, JCPS board, elections, Cole County commission.</li>
+  <li><strong>Pebble Index 01 Smartwatch</strong> — production status, Pebble Time 2 as leading indicator.</li>
+  <li><strong>Apple Rumors &amp; News (NEW)</strong> — filtered aggressively. Mark Gurman's Power On is the primary source. Apple Watch Ultra 4 news cross-posts to Topic 6.</li>
+  <li><strong>Whoop &amp; Wearables Ecosystem (NEW)</strong> — driven by the Apple Watch vs. Whoop switching decision. Watches Whoop, Oura, Garmin CIRQA, HRV validation studies.</li>
+</ol>
+
+<h3>Chapters</h3>
+<ul>
+  <li>00:00 Opening</li>
+  <li>00:14 What the weekly tracker is</li>
+  <li>00:53 Topic 1: Mythos release</li>
+  <li>01:19 Topic 2: Riverfront Bridge</li>
+  <li>01:42 Topic 3: JC Local Government</li>
+  <li>01:58 Topic 4: Pebble Index 01</li>
+  <li>02:11 Topic 5: Apple Rumors (NEW)</li>
+  <li>03:15 Topic 6: Whoop &amp; Wearables (NEW)</li>
+  <li>04:09 Closing</li>
+</ul>
+
+<p>Next scheduled run: Friday April 17, 2026 at 7:00 PM CDT.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/tracker-update-2026-04-11.mp3" length="1959480" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-11-tracker.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-11-tracker.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">update-2026-04-11-tracker-config</guid>
+      <pubDate>Sat, 11 Apr 2026 08:04:07 -0500</pubDate>
+      <itunes:duration>4:35</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>bonus</itunes:episodeType>
+    </item>
+    <item>
       <title>Daily Briefing &#8212; Saturday, April 11, 2026</title>
       <description><![CDATA[Morning daily briefing — Artemis II is home, Iran talks open in Islamabad, Mythos cascade chapter two, March CPI arrives, and a cover letter waits.
 
@@ -218,6 +267,24 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-i
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item><title>Daily Briefing — Monday, April 6, 2026</title><link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link><description>Artemis II flyby window opens. Iran deadline extended. Sam Altman's "Superintelligence New Deal." Four humans behind the moon, strategic defeat narrative in Iran, and your local ballot prep.
+
+Chapters:
+00:00 Opening
+01:40 Weather
+03:00 Your Calendar
+05:30 Inbox Highlights
+13:00 Iran War Update
+18:50 Artemis II Flyby
+21:50 Anthropic Updates
+24:20 AI &amp; Tech
+30:00 Apple News
+32:00 Local News
+34:40 Jobs
+36:40 Quick Hits
+37:00 Closing
+
+Sources: Axios AM, Semafor, Ground News, The Verge, Readwise, Manifold Markets, Nature, r/ClaudeAI, r/artificial, MacRumors, CNBC, New York Times, Cole County local news, Toast tipping data.</description><guid isPermaLink="false">briefing-2026-04-06</guid><pubDate>Mon, 06 Apr 2026 06:51:14 -05:00</pubDate><itunes:author>Jacob Brooke</itunes:author><itunes:duration>1036</itunes:duration><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-06.jpg" /><enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-06.mp3" length="6556846" type="audio/mpeg" /></item>
     <item>
   <title>Week in Review — April 6, 2026</title>
   <description>Monday morning week-in-review covering March 30 through April 5, 2026. Iran war escalated through Week 6 — F-15 shot down, pilot rescued, 48-hour Hormuz ultimatum expires today. Artemis II lunar flyby sets distance record. Apple turned 50. Anthropic bought Coefficient Bio, launched AnthroPAC, DOJ appeal filed. Five chapters of The Keeping House written in five days. Carpet installed, Rosie the Roborock deployed, three research posts published.
@@ -249,27 +316,9 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-i
   <guid isPermaLink="false">weekly-2026-04-06</guid>
   <pubDate>Mon, 06 Apr 2026 06:39:52 -0500</pubDate>
   <itunes:duration>11:44</itunes:duration>
-  <itunes:episode>33</itunes:episode>
+  <itunes:episode>32</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
-<item><title>Daily Briefing — Monday, April 6, 2026</title><link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link><description>Artemis II flyby window opens. Iran deadline extended. Sam Altman's "Superintelligence New Deal." Four humans behind the moon, strategic defeat narrative in Iran, and your local ballot prep.
-
-Chapters:
-00:00 Opening
-01:40 Weather
-03:00 Your Calendar
-05:30 Inbox Highlights
-13:00 Iran War Update
-18:50 Artemis II Flyby
-21:50 Anthropic Updates
-24:20 AI &amp; Tech
-30:00 Apple News
-32:00 Local News
-34:40 Jobs
-36:40 Quick Hits
-37:00 Closing
-
-Sources: Axios AM, Semafor, Ground News, The Verge, Readwise, Manifold Markets, Nature, r/ClaudeAI, r/artificial, MacRumors, CNBC, New York Times, Cole County local news, Toast tipping data.</description><guid isPermaLink="false">briefing-2026-04-06</guid><pubDate>Mon, 06 Apr 2026 06:51:14 -05:00</pubDate><itunes:author>Jacob Brooke</itunes:author><itunes:duration>1036</itunes:duration><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-06.jpg" /><enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-06.mp3" length="6556846" type="audio/mpeg" /></item>
     <item>
   <title>Deep Dive — The Accidental Longevity Drug</title>
   <description>GLP-1 drugs like Ozempic weren't designed to slow aging. They've produced better longevity evidence than anything that was. Nature Biotechnology asked if they're the first longevity drugs. The data says: quite possibly. But the muscle loss paradox, manufacturer-funded research, and a regulatory void complicate the picture.
