@@ -30,6 +30,36 @@
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
 
         <item>
+  <title>Deep Dive — Anthropic Job Posting: Strategy &amp; Operations, Public Policy &amp; Public Benefit</title>
+  <itunes:title>Deep Dive — Anthropic Job Posting: Strategy &amp; Operations, Public Policy &amp; Public Benefit</itunes:title>
+  <description><![CDATA[<p>A verbatim reading of Anthropic's job posting for Strategy &amp; Operations, Public Policy &amp; Public Benefit — based in San Francisco — followed by a summary of the major points.</p>
+
+<p><strong>Original posting:</strong> <a href="https://job-boards.greenhouse.io/anthropic/jobs/5172396008">job-boards.greenhouse.io/anthropic/jobs/5172396008</a></p>
+
+<p><strong>Annual Salary:</strong> $230,000 – $265,000 USD</p>
+
+<p><strong>Location:</strong> San Francisco, CA (hybrid, 25% minimum office time)</p>
+
+<p><em>The first portion of this episode is read verbatim from the Anthropic job posting. The second portion is Claude's summary and observations.</em></p>]]></description>
+  <itunes:summary>Verbatim reading of Anthropic's Strategy &amp; Operations, Public Policy &amp; Public Benefit job posting, followed by Claude's summary of the major points.
+
+00:00:00 Introduction
+00:01:22 About Anthropic
+00:02:49 The Role — Mandate & Responsibilities
+00:04:08 Candidate Profile & Compensation
+00:05:47 Logistics & Encouragement to Apply
+00:07:56 Claude's Summary — Core Points
+00:09:23 Claude's Summary — Deeper Observations</itunes:summary>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-10-anthropic-strategy-ops-job.mp3" length="11552602" type="audio/mpeg"/>
+  <guid isPermaLink="false">deepdive-2026-04-10-anthropic-strategy-ops-job</guid>
+  <pubDate>Sat, 11 Apr 2026 11:28:04 -0500</pubDate>
+  <itunes:duration>00:11:42</itunes:duration>
+  <itunes:episode>41</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-10-anthropic-strategy-ops-job.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-10-anthropic-strategy-ops-job.vtt" type="text/vtt" language="en"/>
+</item>
+<item>
       <title>Tracker Update — 6 Topics Now (Apple + Whoop Added)</title>
       <description>Bonus update on Jacob's weekly tracker configuration. Two new topics added: Apple Rumors &amp; News and Whoop &amp; Wearables Ecosystem. The config lives in his Obsidian vault now and is read by the scheduled task each Friday evening.
 
