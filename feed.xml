@@ -23,12 +23,54 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 23:31:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 06:59:24 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
 
+        <item>
+      <title>Daily Briefing &#8212; Saturday, April 11, 2026</title>
+      <description><![CDATA[Morning daily briefing — Artemis II is home, Iran talks open in Islamabad, Mythos cascade chapter two, March CPI arrives, and a cover letter waits.
+
+00:00:00 Artemis II & Weather
+00:01:05 Calendar & Iran Talks
+00:02:48 Mythos Cascade
+00:03:52 Project Glasswing
+00:04:25 March CPI
+00:04:55 Quick Hits
+00:05:41 Cover Letter Push]]></description>
+      <content:encoded><![CDATA[<p>Morning daily briefing for Saturday, April 11, 2026.</p>
+
+<h2>Artemis II Is Home</h2>
+<p>Splashdown confirmed at 8:07 PM EDT off San Diego. Wiseman, Glover, Koch, and Hansen recovered cleanly by the USS John P. Murtha after a nine-day mission that broke distance records on the way out. First crewed lunar mission since Apollo 17 in 1972. <a href="https://www.nasa.gov/blogs/missions/2026/04/10/artemis-ii-flight-day-10-re-entry-live-updates/">NASA live updates &rarr;</a></p>
+
+<h2>Iran Talks Open in Islamabad</h2>
+<p>Vance, Witkoff, and Kushner on the ground with Araghchi and Ghalibaf for the first formal US-Iran talks since the 1979 Revolution. Pakistan as mediator. Watch for joint readout, Lebanon language, and whether the Hormuz tolls get addressed. Gottsegen's Atlantic Daily counter-consensus read: Iran has structural leverage.</p>
+
+<h2>Mythos Cascade, Chapter Two</h2>
+<p>Three data points in 36 hours: an OpenAI researcher says his "Anthropic roommate lost his mind over Mythos"; <a href="https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/">AMD AI director Stella Laurenzo publicly documents Claude Code degradation</a> across 6,852 sessions after the v2.1.69 thinking-redaction update; and Anthropic begins banning under-18 users via Yoti third-party age verification.</p>
+
+<h2>Project Glasswing Goes Official</h2>
+<p>Anthropic confirms the post-Mythos cybersecurity coalition on <a href="https://www.anthropic.com/project/glasswing">anthropic.com</a>. Partners: AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks. $100M in Mythos Preview credits plus $4M in open-source donations. 90-day public report promised. Meta is conspicuously absent.</p>
+
+<h2>March CPI Prints 3.3%</h2>
+<p>Up from 2.4% in February. Energy +10.9%, gasoline +21.2% (biggest monthly jump on record). Core inflation only +0.2% MoM — this is entirely the Hormuz/Brent shock showing up in the headline. <a href="https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html">CNBC coverage &rarr;</a></p>
+
+<h2>Quick Hits</h2>
+<p>DC Circuit leaves Pentagon's Anthropic supply-chain-risk label in place. France launches government Linux desktop plan. Tesla's 8th consecutive week of losses. Sam Altman's home targeted with a Molotov cocktail (suspect arrested, no injuries). Apple Q1 2026: Mac shipments +9%, first time leading global smartphone shipments in Q1 with <a href="https://counterpointresearch.com/en/insights/global-smartphone-shipments-q1-2026">21% share per Counterpoint Research</a>.</p>
+
+<h2>Cover Letter Push</h2>
+<p>Katelyn green-lit the Anthropic application Thursday night. The Apple Note "Why Anthropic? *" was last touched Thursday morning. 83° and sunny in Jefferson City. Today is a first draft, not a finished masterpiece.</p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-11.mp3" length="2698915" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-11.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-11.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">briefing-2026-04-11</guid>
+      <pubDate>Sat, 11 Apr 2026 06:59:24 -0500</pubDate>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Chapter 6 — The Argument (The Keeping House)</title>
       <description>Chapter Six of The Keeping House. POV: Desh Rajan. The first real snow falls on the valley. Fen reads a draft of his book at the weekly gathering and Desh — who has been holding something at the edge of speech for six weeks — challenges the *us* in Fen's claim to attention as the first freedom. The argument is ostensibly about technology; it is really about class, retreat, and who gets to walk away from a life. Margot tries to mediate. Callan walks out.
@@ -1215,6 +1257,5 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
-
   </channel>
 </rss>

@@ -1,0 +1,292 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.044
+Good morning, Jacob. It's Saturday, April eleventh, twenty twenty-six, in
+
+00:00:04.044 --> 00:00:08.087
+Jefferson City. And Artemis Two is home. The crew climbed
+
+00:00:08.087 --> 00:00:12.131
+out of the capsule in the Pacific last night —
+
+00:00:12.131 --> 00:00:16.174
+eight oh seven P-M Eastern, about forty to fifty miles
+
+00:00:16.174 --> 00:00:20.218
+off San Diego. Wiseman, Glover, Koch, and Hansen, all healthy,
+
+00:00:20.218 --> 00:00:24.262
+all recovered cleanly by the U-S-S John P. Murtha. Nine-day
+
+00:00:24.262 --> 00:00:28.305
+mission. Distance record broken on the way out. First crewed
+
+00:00:28.305 --> 00:00:32.349
+lunar mission since Apollo Seventeen in December of nineteen seventy-two.
+
+00:00:32.349 --> 00:00:36.392
+Fifty-three and a half years. The thing that was supposed
+
+00:00:36.392 --> 00:00:40.436
+to happen actually happened, and it's worth letting that register
+
+00:00:40.436 --> 00:00:44.480
+for half a second before the rest of the world
+
+00:00:44.480 --> 00:00:48.523
+piles back in. It's eighty-three degrees and sunny in Jefferson
+
+00:00:48.523 --> 00:00:52.567
+City today. Mostly sunny, light southeast wind, shifting southwest. Low
+
+00:00:52.567 --> 00:00:56.610
+around forty-six tonight. This is genuinely the best day of
+
+00:00:56.610 --> 00:01:00.654
+the year so far. If you spend it indoors, you'll
+
+00:01:00.654 --> 00:01:04.698
+regret it. Now, the calendar. The Google Calendar A-P-I is
+
+00:01:04.698 --> 00:01:08.741
+still returning ancient events — same failure as yesterday. So
+
+00:01:08.741 --> 00:01:12.785
+I'm treating today as an open Saturday. By context: the
+
+00:01:12.785 --> 00:01:16.828
+Pinwheels of Possibilities resource fair is on the South Capitol
+
+00:01:16.828 --> 00:01:20.872
+Lawn from ten A-M to noon — Child Abuse Prevention
+
+00:01:20.872 --> 00:01:24.915
+Month event, three blocks from home. And the U-S-Iran talks
+
+00:01:24.915 --> 00:01:28.959
+open in Islamabad all day today. You don't have a
+
+00:01:28.959 --> 00:01:33.003
+role in this, but it's what the news cycle will
+
+00:01:33.003 --> 00:01:37.046
+orbit. Speaking of Islamabad. Vance is on the ground with
+
+00:01:37.046 --> 00:01:41.090
+Steve Witkoff and Jared Kushner. The Iranian delegation is already
+
+00:01:41.090 --> 00:01:45.133
+there — Foreign Minister Abbas Araghchi and parliament speaker Mohammad
+
+00:01:45.133 --> 00:01:49.177
+Bagher Ghalibaf. This is the first formal session of the
+
+00:01:49.177 --> 00:01:53.221
+highest-level U-S-Iran talks since the nineteen seventy-nine Islamic Revolution, which
+
+00:01:53.221 --> 00:01:57.264
+is a sentence that should cause a brief moment of
+
+00:01:57.264 --> 00:02:01.308
+vertigo if you stop to take it in. Three things
+
+00:02:01.308 --> 00:02:05.351
+to actually watch today: the joint readout — if nothing
+
+00:02:05.351 --> 00:02:09.395
+by tomorrow morning, the first session didn't go well. The
+
+00:02:09.395 --> 00:02:13.439
+Lebanon language — whether Lebanon is mentioned at all in
+
+00:02:13.439 --> 00:02:17.482
+any official statement. And the Hormuz tolls — if they
+
+00:02:17.482 --> 00:02:21.526
+get addressed, it's real diplomacy. If they don't, it's theater.
+
+00:02:21.526 --> 00:02:25.569
+The Atlantic's Will Gottsegen has the counter-consensus take worth absorbing:
+
+00:02:25.569 --> 00:02:29.613
+Iran walks into Islamabad with structural leverage. They control the
+
+00:02:29.613 --> 00:02:33.657
+Strait of Hormuz. Hezbollah is a free escalation option. The
+
+00:02:33.657 --> 00:02:37.700
+U-S political clock is running faster than theirs. Manifold agrees
+
+00:02:37.700 --> 00:02:41.744
+— the market for a second Iran ceasefire in twenty
+
+00:02:41.744 --> 00:02:45.787
+twenty-six jumped from forty-one percent to seventy-five percent overnight. Traders
+
+00:02:45.787 --> 00:02:49.831
+are saying this one won't hold. Now, the Mythos cascade.
+
+00:02:49.831 --> 00:02:53.875
+Chapter two. Three things in the last thirty-six hours paint
+
+00:02:53.875 --> 00:02:57.918
+a picture of Anthropic under real pressure. One: an OpenAI
+
+00:02:57.918 --> 00:03:01.962
+researcher's Reddit post that his Anthropic roommate, quote, lost his
+
+00:03:01.962 --> 00:03:06.005
+mind over Mythos. Two: Stella Laurenzo, A-M-D's Director of A-I,
+
+00:03:06.005 --> 00:03:10.049
+filed a detailed GitHub issue on April second documenting Claude
+
+00:03:10.049 --> 00:03:14.093
+Code degradation across nearly seven thousand sessions. She found thinking
+
+00:03:14.093 --> 00:03:18.136
+depth dropped roughly sixty-seven percent after Anthropic deployed thinking content
+
+00:03:18.136 --> 00:03:22.180
+redaction in early March. Her team has already switched to
+
+00:03:22.180 --> 00:03:26.223
+another provider. Three: Anthropic is now banning users under eighteen
+
+00:03:26.223 --> 00:03:30.267
+via Yoti third-party age verification, with manual review of chat
+
+00:03:30.267 --> 00:03:34.311
+histories. Read these together and the picture is: strained internal
+
+00:03:34.311 --> 00:03:38.354
+culture, public quality critique from a peer company's A-I director,
+
+00:03:38.354 --> 00:03:42.398
+and defensive policy tightening. None of this should change your
+
+00:03:42.398 --> 00:03:46.441
+decision to apply for the Sales role — if anything,
+
+00:03:46.441 --> 00:03:50.485
+a company in this posture needs more, not fewer, competent
+
+00:03:50.485 --> 00:03:54.529
+operators with government-procurement chops. Project Glasswing is now officially on
+
+00:03:54.529 --> 00:03:58.572
+anthropic dot com. The partner list is broader than the
+
+00:03:58.572 --> 00:04:02.616
+early leaks suggested: A-W-S, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorgan
+
+00:04:02.616 --> 00:04:06.659
+Chase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks.
+
+00:04:06.659 --> 00:04:10.703
+That's the entire American cyber-industrial establishment in one coalition. Anthropic
+
+00:04:10.703 --> 00:04:14.746
+is committing one hundred million dollars in Mythos Preview credits
+
+00:04:14.746 --> 00:04:18.790
+plus four million in open-source security donations. A ninety-day public
+
+00:04:18.790 --> 00:04:22.834
+report is promised for early July. The absent name is
+
+00:04:22.834 --> 00:04:26.877
+the one you'd expect most: Meta. And the hard data
+
+00:04:26.877 --> 00:04:30.921
+on the war premium is finally in. March C-P-I came
+
+00:04:30.921 --> 00:04:34.964
+in at three point three percent, up from two point
+
+00:04:34.964 --> 00:04:39.008
+four in February. Energy costs plus ten point nine percent.
+
+00:04:39.008 --> 00:04:43.052
+Gasoline plus twenty-one point two percent — the biggest monthly
+
+00:04:43.052 --> 00:04:47.095
+jump on record. Core inflation was only plus point two,
+
+00:04:47.095 --> 00:04:51.139
+so this is entirely the Hormuz-Brent shock showing up in
+
+00:04:51.139 --> 00:04:55.182
+the headline number. It makes the Fed's second-half rate-cut thesis
+
+00:04:55.182 --> 00:04:59.226
+materially harder. Quick hits. The D-C Circuit declined to block
+
+00:04:59.226 --> 00:05:03.270
+the Pentagon's supply-chain-risk label on Anthropic — the same label
+
+00:05:03.270 --> 00:05:07.313
+creating friction for your Claude pilot at Budget and Planning.
+
+00:05:07.313 --> 00:05:11.357
+France launched a government Linux desktop plan — nineteen thousand
+
+00:05:11.357 --> 00:05:15.400
+upvotes on r slash technology, digital sovereignty framing. Tesla is
+
+00:05:15.400 --> 00:05:19.444
+in its eighth consecutive week of losses, JPMorgan warns sixty
+
+00:05:19.444 --> 00:05:23.488
+percent downside. Sam Altman's home was targeted with a Molotov
+
+00:05:23.488 --> 00:05:27.531
+cocktail — no injuries, suspect arrested, but the A-I backlash
+
+00:05:27.531 --> 00:05:31.575
+narrative now has a physical-violence dimension. Apple Q one numbers
+
+00:05:31.575 --> 00:05:35.618
+are quietly great: Mac shipments plus nine percent, and Apple
+
+00:05:35.618 --> 00:05:39.662
+led global smartphone shipments for the first time in Q
+
+00:05:39.662 --> 00:05:43.706
+one with twenty-one percent share. Alright. Here's the thing. Yesterday,
+
+00:05:43.706 --> 00:05:47.749
+Katelyn green-lit the Anthropic application. Explicitly. The Apple Note titled
+
+00:05:47.749 --> 00:05:51.793
+Why Anthropic, asterisk, on your phone was last touched Thursday
+
+00:05:51.793 --> 00:05:55.836
+morning with an asterisk you added yourself. Katelyn said yes.
+
+00:05:55.836 --> 00:05:59.880
+The weather is perfect. You know what today is for.
+
+00:05:59.880 --> 00:06:03.924
+The activation energy work is done. Today is a first
+
+00:06:03.924 --> 00:06:07.967
+draft, not a finished masterpiece. Write it by noon, and
+
+00:06:07.967 --> 00:06:12.011
+you can spend the rest of the day outside without
+
+00:06:12.011 --> 00:06:16.054
+a single voice in your head telling you you should
+
+00:06:16.054 --> 00:06:20.098
+be doing something else. Artemis Two is home. The Capitol
+
+00:06:20.098 --> 00:06:24.142
+dome is still blue for Child Abuse Prevention Month. Islamabad
+
+00:06:24.142 --> 00:06:28.185
+is talking. And you have a cover letter to finish.
+
+00:06:28.185 --> 00:06:31.420
+That's your briefing. Go outside at some point.
