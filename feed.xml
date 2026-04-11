@@ -117,11 +117,11 @@
     </item>
     <item>
       <title>Daily Briefing — Wednesday, April 8, 2026</title>
-      <description>00:00:00 Opening & Personal Updates
-00:02:45 Iran Ceasefire & Political Fallout
-00:04:15 Anthropic Mythos & Career Thinking
-00:05:30 Broader News & Tech
-00:06:00 Weather & Closing
+      <description>00:00:00 Opening &amp; Personal Updates
+00:02:45 Iran Ceasefire &amp; Political Fallout
+00:04:15 Anthropic Mythos &amp; Career Thinking
+00:05:30 Broader News &amp; Tech
+00:06:00 Weather &amp; Closing
 
 Morning daily briefing covering personal updates, Iran ceasefire, Anthropic Mythos launch, and broader news.</description>
       <content:encoded><![CDATA[<h2>Opening & Personal Updates</h2>
@@ -252,8 +252,6 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-i
   <itunes:episode>33</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
-    <item>
-  <itunes:episode>32</itunes:episode>
 <item><title>Daily Briefing — Monday, April 6, 2026</title><link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link><description>Artemis II flyby window opens. Iran deadline extended. Sam Altman's "Superintelligence New Deal." Four humans behind the moon, strategic defeat narrative in Iran, and your local ballot prep.
 
 Chapters:
@@ -303,12 +301,12 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-05-g
     <item>
       <title>Deep Dive — On Recursive Self-Improvement</title>
       <description>A reading of Dean W. Ball's "On Recursive Self-Improvement (Part I)" from Hyperdimensional — covering the automation of A-I research at frontier labs, the bear and bull cases, scaling laws, and the human-A-I research dynamic.
-      00:00:00 Introduction & The Automation Begins
+      00:00:00 Introduction &amp; The Automation Begins
       00:01:10 The Assumption
       00:02:20 The Bugatti Metaphor — Bear vs Bull
-      00:03:30 Scaling Laws & Algorithmic Efficiency
+      00:03:30 Scaling Laws &amp; Algorithmic Efficiency
       00:04:30 The Human-AI Research Dynamic
-      00:05:20 The Capabilities Overhang & Closing</description>
+      00:05:20 The Capabilities Overhang &amp; Closing</description>
       <content:encoded><![CDATA[
       <h2>On Recursive Self-Improvement (Part I)</h2>
       <p>A reading of Dean W. Ball's essay from <a href="https://www.hyperdimensional.co/p/on-recursive-self-improvement-part">Hyperdimensional</a>, exploring what it actually means for A-I systems to automate A-I research.</p>
