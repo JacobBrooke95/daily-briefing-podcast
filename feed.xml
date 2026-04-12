@@ -75,48 +75,42 @@
     
   
 
+<item>
+  <title>Daily Briefing — Sunday, April 12, 2026</title>
+  <description>Sunday morning briefing. Draft seven of the Anthropic application goes out tonight. Katelyn's midnight review, a 300-million-year octopus that isn't, Apple's WWDC refresh signals, consumer sentiment at historic lows, and arXiv papers on LLM agent security.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+00:00:00 Opening &amp; The Morning
+00:01:23 The Application — Draft Seven
+00:04:09 Katelyn's World
+00:06:06 The Wider World — Science and Culture
+00:08:02 Apple Signals and Tech
+00:09:42 The News Landscape
+00:11:39 Research Papers
+00:12:45 The Week Ahead and Closing</description>
+  <content:encoded><![CDATA[
+<h2>The Application — Draft Seven</h2>
+<p>Tonight's the night: submitting the Anthropic Institute and Public Policy Coordinator application after seven rounds of revision. Katelyn reviewed at midnight with line-by-line notes.</p>
+<h2>Science &amp; Culture</h2>
+<p>A 300-million-year-old "octopus" fossil turns out to be a nautiloid. Researchers used synchrotron imaging to find a radula matching the nautilus family.</p>
+<p>The world's largest wild chimpanzee group at Ngogo has split into warring factions — at least 24 chimps killed.</p>
+<p>Bernard Capp published a history of hat etiquette in early modern England, including the Cap Act of 1571.</p>
+<h2>Apple Signals</h2>
+<p>Apple paused Mac Mini and Mac Studio orders — classic pre-WWDC refresh signal. M5 chips likely incoming June 8. Mac shipments grew 9% in Q1 2026.</p>
+<h2>The News Landscape</h2>
+<p>US-Iran talks in Islamabad collapsed after 21 hours. Consumer sentiment hit 47.6 — lowest on record. Pope Leo XIV called Trump's Iran threats "truly unacceptable."</p>
+<p>Anthropic at $19B+ annualized revenue, eyeing $60B IPO in October. Gen Z sentiment toward AI souring per Gallup.</p>
+<h2>Research Papers</h2>
+<p>"Your Agent Is Mine" — widespread vulnerabilities in commercial AI routers. "Your LLM Agent Can Leak Your Data" — demonstrated data exfiltration. "Mapping the Exploitation Surface" — goal-reframing prompts reliably trigger exploitation.</p>
+  ]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/episode-2026-04-12.mp3" length="5082831" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-12.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-12.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-12</guid>
+  <pubDate>Sun, 12 Apr 2026 12:32:23 -0500</pubDate>
+  <itunes:duration>13:18</itunes:duration>
+  <itunes:episode>45</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
   <title>Deep Dive — Inside Anthropic: What You Need to Know Before Joining the Policy Team</title>
   <description>Deep dive into everything you need to know about Anthropic for the Strategy &amp; Operations role on the Public Policy &amp; Public Benefit team. Covers founding story, company structure, the Anthropic Institute, Responsible Scaling Policy, Pentagon dispute, governance, key research, and Dario's intellectual framework.

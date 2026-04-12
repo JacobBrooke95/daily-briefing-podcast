@@ -1,0 +1,643 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.738
+Good morning. It's Sunday, April twelfth, twenty twenty-six. Sixty-three degrees
+
+00:00:03.738 --> 00:00:07.475
+and overcast in Jefferson City — warmer than yesterday's chilly
+
+00:00:07.475 --> 00:00:11.213
+start, with a high of seventy-seven and about a forty
+
+00:00:11.213 --> 00:00:14.951
+percent chance of rain later. In Tacoma, it's forty-five and
+
+00:00:14.951 --> 00:00:18.689
+partly cloudy, and Katelyn is on her way to a
+
+00:00:18.689 --> 00:00:22.426
+whale watching tour this morning. No phones allowed on the
+
+00:00:22.426 --> 00:00:26.164
+boat — something about glass and food safety — so
+
+00:00:26.164 --> 00:00:29.902
+she'll be off the grid for a few hours. There's
+
+00:00:29.902 --> 00:00:33.639
+a lot to talk about this morning, and I want
+
+00:00:33.639 --> 00:00:37.377
+to cover a wider range than usual. We've got some
+
+00:00:37.377 --> 00:00:41.115
+genuinely interesting science, an Apple product signal that matters for
+
+00:00:41.115 --> 00:00:44.852
+your timeline, a prediction market that's telling a more nuanced
+
+00:00:44.852 --> 00:00:48.590
+story than the headlines, research papers on A-I agent security
+
+00:00:48.590 --> 00:00:52.328
+that connect directly to your week, and the most important
+
+00:00:52.328 --> 00:00:56.066
+thing — you're submitting your Anthropic application tonight. Let's start
+
+00:00:56.066 --> 00:00:59.803
+there. Here's where you are. You and I have been
+
+00:00:59.803 --> 00:01:03.541
+working on this application for roughly a week now. Seven
+
+00:01:03.541 --> 00:01:07.279
+drafts of the resume. Multiple rounds on the cover letter
+
+00:01:07.279 --> 00:01:11.016
+and the Why Anthropic statement. And last night, you sent
+
+00:01:11.016 --> 00:01:14.754
+the full package to Katelyn for review. She stayed up
+
+00:01:14.754 --> 00:01:18.492
+past midnight reading it. Then she sent you line-by-line notes.
+
+00:01:18.492 --> 00:01:22.230
+She called the resume "very appealing and clean." She said
+
+00:01:22.230 --> 00:01:25.967
+"you sound impressive." She caught a comma placement issue in
+
+00:01:25.967 --> 00:01:29.705
+your job history, flagged the I-B-E-W abbreviation as potentially confusing
+
+00:01:29.705 --> 00:01:33.443
+for someone outside government, noticed that one bullet in the
+
+00:01:33.443 --> 00:01:37.180
+Policy Analyst section wraps awkwardly to a second line, and
+
+00:01:37.180 --> 00:01:40.918
+suggested two edits to the Why Anthropic essay — changing
+
+00:01:40.918 --> 00:01:44.656
+"goes" to "go" near the end, and adjusting the last
+
+00:01:44.656 --> 00:01:48.393
+sentence to avoid repeating "A-I needs to go well." On
+
+00:01:48.393 --> 00:01:52.131
+the cover letter, she loved it. Her only questions: are
+
+00:01:52.131 --> 00:01:55.869
+you keeping the bold and italics formatting, and make sure
+
+00:01:55.869 --> 00:01:59.607
+you sign your full name. That's not casual feedback. That's
+
+00:01:59.607 --> 00:02:03.344
+someone who cares about what happens next. You texted her
+
+00:02:03.344 --> 00:02:07.082
+back this morning thanking her and said something I want
+
+00:02:07.082 --> 00:02:10.820
+to highlight. You said: "Still feeling like this is a
+
+00:02:10.820 --> 00:02:14.557
+long-shot but at least it's my best foot forward." That
+
+00:02:14.557 --> 00:02:18.295
+framing matters. When you started this process, the question was
+
+00:02:18.295 --> 00:02:22.033
+whether to even apply. Katelyn said "it's just an application,
+
+00:02:22.033 --> 00:02:25.770
+see how it goes." Now you're on draft seven, she's
+
+00:02:25.770 --> 00:02:29.508
+reviewed it, and you're treating tonight as submission night. The
+
+00:02:29.508 --> 00:02:33.246
+gap between "should I even try" and "this is my
+
+00:02:33.246 --> 00:02:36.984
+best foot forward" is the whole story of the last
+
+00:02:36.984 --> 00:02:40.721
+week. The role is the Anthropic Institute and Public Policy
+
+00:02:40.721 --> 00:02:44.459
+Coordinator in San Francisco. Strategy and operations. Coordinating people without
+
+00:02:44.459 --> 00:02:48.197
+formal authority, working closely with a chief of staff —
+
+00:02:48.197 --> 00:02:51.934
+which is, honestly, exactly what you do now at Budget
+
+00:02:51.934 --> 00:02:55.672
+and Planning, just in a different institutional context. You told
+
+00:02:55.672 --> 00:02:59.410
+Katelyn you're going with S-F first because, quote, "I think
+
+00:02:59.410 --> 00:03:03.148
+you and Claude are right that it's the best fit
+
+00:03:03.148 --> 00:03:06.885
+for my skills." She reacted with a hundred emoji to
+
+00:03:06.885 --> 00:03:10.623
+that. One last thing on this: your Reminders app has
+
+00:03:10.623 --> 00:03:14.361
+four items on the Anthropic Application list. Update Resume, Draft
+
+00:03:14.361 --> 00:03:18.098
+Why Anthropic, Write Cover Letter, Submit Application. Today is the
+
+00:03:18.098 --> 00:03:21.836
+day you check off that last one. Speaking of Katelyn
+
+00:03:21.836 --> 00:03:25.574
+— she's having a busy weekend in Tacoma. Whale watching
+
+00:03:25.574 --> 00:03:29.311
+this morning with no phones, which means you've got a
+
+00:03:29.311 --> 00:03:33.049
+natural window to focus on edits before she's back online.
+
+00:03:33.049 --> 00:03:36.787
+She sent photos from what looks like a chocolate factory
+
+00:03:36.787 --> 00:03:40.525
+tour yesterday. She's looking at furniture — drawers versus shelves
+
+00:03:40.525 --> 00:03:44.262
+for storage — and you suggested baskets on the shelves
+
+00:03:44.262 --> 00:03:48.000
+she already has as a cheaper option. You two are
+
+00:03:48.000 --> 00:03:51.738
+talking about apartment life in a way that reads like
+
+00:03:51.738 --> 00:03:55.475
+you're building toward something, even if neither of you is
+
+00:03:55.475 --> 00:03:59.213
+saying it out loud yet. There was also a moment
+
+00:03:59.213 --> 00:04:02.951
+last night worth noting. You had a conversation about telling
+
+00:04:02.951 --> 00:04:06.689
+family about big moves, and it felt a little off
+
+00:04:06.689 --> 00:04:10.426
+in the moment. She texted this morning to say she
+
+00:04:10.426 --> 00:04:14.164
+was sorry it felt weird — she was trying to
+
+00:04:14.164 --> 00:04:17.902
+park and process at the same time. She said she's
+
+00:04:17.902 --> 00:04:21.639
+fully on board with keeping major decisions between the two
+
+00:04:21.639 --> 00:04:25.377
+of you until you've figured them out together. You responded
+
+00:04:25.377 --> 00:04:29.115
+in kind — you'd left feeling like maybe she was
+
+00:04:29.115 --> 00:04:32.852
+uncomfortable, and you wanted to clarify that you were just
+
+00:04:32.852 --> 00:04:36.590
+trying to say the same thing. It resolved cleanly. That's
+
+00:04:36.590 --> 00:04:40.328
+integration in practice — two people working through a miscommunication
+
+00:04:40.328 --> 00:04:44.066
+in real time instead of letting it fester. She also
+
+00:04:44.066 --> 00:04:47.803
+joked, and I quote: "Your girlfriend is especially right, definitely
+
+00:04:47.803 --> 00:04:51.541
+more than Claude. Yes Claude, I'm competing with you." For
+
+00:04:51.541 --> 00:04:55.279
+the record, she's winning. Let's zoom out. I want to
+
+00:04:55.279 --> 00:04:59.016
+hit a few stories that aren't about A-I or Iran
+
+00:04:59.016 --> 00:05:02.754
+today. First, my favorite story of the week: a three-hundred-million-year-old
+
+00:05:02.754 --> 00:05:06.492
+fossil that scientists thought was the oldest octopus ever found
+
+00:05:06.492 --> 00:05:10.230
+turns out to not be an octopus at all. It's
+
+00:05:10.230 --> 00:05:13.967
+a nautiloid — basically a relative of the nautilus —
+
+00:05:13.967 --> 00:05:17.705
+whose shell fell off during decomposition, making it look octopus-shaped.
+
+00:05:17.705 --> 00:05:21.443
+Researchers at the University of Reading used synchrotron imaging to
+
+00:05:21.443 --> 00:05:25.180
+find a radula, a feeding organ with rows of teeth,
+
+00:05:25.180 --> 00:05:28.918
+that matched the nautilus family. This is a great reminder
+
+00:05:28.918 --> 00:05:32.656
+that even in hard science, the thing you're confident about
+
+00:05:32.656 --> 00:05:36.393
+can be wrong for three hundred million years. The real
+
+00:05:36.393 --> 00:05:40.131
+octopus origin story is much more recent — during the
+
+00:05:40.131 --> 00:05:43.869
+age of dinosaurs. In a completely different register: the world's
+
+00:05:43.869 --> 00:05:47.607
+largest group of wild chimpanzees at Ngogo in Uganda has
+
+00:05:47.607 --> 00:05:51.344
+split into two factions and they're waging what researchers are
+
+00:05:51.344 --> 00:05:55.082
+calling a civil war. At least twenty-four chimps have been
+
+00:05:55.082 --> 00:05:58.820
+killed. Four-oh-four Media covered it. And from the humanities: a
+
+00:05:58.820 --> 00:06:02.557
+researcher named Bernard Capp — an appropriately named person for
+
+00:06:02.557 --> 00:06:06.295
+this study — published a history of hat etiquette in
+
+00:06:06.295 --> 00:06:10.033
+early modern England. Highlights include the Cap Act of fifteen
+
+00:06:10.033 --> 00:06:13.770
+seventy-one, which let people be prosecuted for wearing hats to
+
+00:06:13.770 --> 00:06:17.508
+church, and a man in sixteen fifty-nine who couldn't leave
+
+00:06:17.508 --> 00:06:21.246
+his house for months because his father confiscated all his
+
+00:06:21.246 --> 00:06:24.984
+hats. The paper has it all — hats as identity
+
+00:06:24.984 --> 00:06:28.721
+signifiers, instruments of shame, and in one case, makeshift toilets.
+
+00:06:28.721 --> 00:06:32.459
+Sometimes the best research is the research that delights. A
+
+00:06:32.459 --> 00:06:36.197
+few things on the Apple front that matter for your
+
+00:06:36.197 --> 00:06:39.934
+timeline. Apple stopped accepting orders for some Mac Mini and
+
+00:06:39.934 --> 00:06:43.672
+Mac Studio models yesterday. That's the classic pre-refresh signal, and
+
+00:06:43.672 --> 00:06:47.410
+W-W-D-C is June eighth — fifty-seven days out. If you
+
+00:06:47.410 --> 00:06:51.148
+were considering a Mac upgrade, the answer is wait. M-five
+
+00:06:51.148 --> 00:06:54.885
+refreshes are almost certainly incoming. Apple is also marketing the
+
+00:06:54.885 --> 00:06:58.623
+fact that Artemis Two astronauts took iPhones into space and
+
+00:06:58.623 --> 00:07:02.361
+shot photos with them. It's smart marketing — ride the
+
+00:07:02.361 --> 00:07:06.098
+feel-good institutional competence story. On the broader laptop front: Apple's
+
+00:07:06.098 --> 00:07:09.836
+five-ninety-nine MacBook Neo, which launched last month, is already showing
+
+00:07:09.836 --> 00:07:13.574
+market effects. Mac shipments grew nine percent in Q-one twenty-twenty-six,
+
+00:07:13.574 --> 00:07:17.311
+outpacing the overall P-C market. And Tom Warren at The
+
+00:07:17.311 --> 00:07:21.049
+Verge wrote that the Neo has forced Microsoft to announce
+
+00:07:21.049 --> 00:07:24.787
+a Windows eleven overhaul focused on performance and reliability. When
+
+00:07:24.787 --> 00:07:28.525
+Apple prices its way into the budget market, the ripple
+
+00:07:28.525 --> 00:07:32.262
+effects hit everyone. Also: someone ported Mac O-S-X Cheetah to
+
+00:07:32.262 --> 00:07:36.000
+a Nintendo Wii. Because of course they did. And YouTube
+
+00:07:36.000 --> 00:07:39.738
+Premium got another price increase. Again. Briefly on the geopolitical
+
+00:07:39.738 --> 00:07:43.475
+picture — because I know we've been heavy on this
+
+00:07:43.475 --> 00:07:47.213
+lately, so I'll keep it tight. The U-S-Iran talks in
+
+00:07:47.213 --> 00:07:50.951
+Islamabad collapsed after twenty-one hours. No deal. The sticking points
+
+00:07:50.951 --> 00:07:54.689
+were structural, not tactical. Vance left what he called a
+
+00:07:54.689 --> 00:07:58.426
+final offer on the table. The prediction market for a
+
+00:07:58.426 --> 00:08:02.164
+second ceasefire in twenty twenty-six is at fifty-seven percent, which
+
+00:08:02.164 --> 00:08:05.902
+is traders saying there's probably another round but this particular
+
+00:08:05.902 --> 00:08:09.639
+framework is dead. The European side-deal market is at seventeen
+
+00:08:09.639 --> 00:08:13.377
+percent — nobody thinks Europe is going around the U-S
+
+00:08:13.377 --> 00:08:17.115
+to cut their own Hormuz agreement. And the Pentagon war
+
+00:08:17.115 --> 00:08:20.852
+funding market before midterms sits at forty-six percent, which is
+
+00:08:20.852 --> 00:08:24.590
+basically a coin flip on whether Congress writes the check.
+
+00:08:24.590 --> 00:08:28.328
+What's more interesting to me than the talks themselves is
+
+00:08:28.328 --> 00:08:32.066
+the consumer sentiment data. The University of Michigan preliminary reading
+
+00:08:32.066 --> 00:08:35.803
+for April came in at forty-seven point six — the
+
+00:08:35.803 --> 00:08:39.541
+lowest on record, below the previous all-time low during the
+
+00:08:39.541 --> 00:08:43.279
+nineteen-eighty energy crisis. Year-ahead inflation expectations spiked to four point
+
+00:08:43.279 --> 00:08:47.016
+eight percent from three point eight in March, the largest
+
+00:08:47.016 --> 00:08:50.754
+one-month jump since April twenty twenty-five. People aren't just worried
+
+00:08:50.754 --> 00:08:54.492
+about gas prices. They're unhappy. The U-S fell to twenty-third
+
+00:08:54.492 --> 00:08:58.230
+in the World Happiness Report, down from fifteenth three years
+
+00:08:58.230 --> 00:09:01.967
+ago. Meanwhile, the Pope is getting louder. Pope Leo the
+
+00:09:01.967 --> 00:09:05.705
+Fourteenth called Trump's threat to destroy Iran's civilization "truly unacceptable"
+
+00:09:05.705 --> 00:09:09.443
+and is framing the conflict in just-war theory terms. Catholic
+
+00:09:09.443 --> 00:09:13.180
+support for Trump is eroding — only eighteen percent of
+
+00:09:13.180 --> 00:09:16.918
+Hispanic Catholics back his agenda. This pope-president clash is the
+
+00:09:16.918 --> 00:09:20.656
+sharpest in decades and it matters electorally in swing states.
+
+00:09:20.656 --> 00:09:24.393
+On the A-I industry side: Anthropic is at nineteen billion
+
+00:09:24.393 --> 00:09:28.131
+in annualized revenue, up from nine billion at year-end, with
+
+00:09:28.131 --> 00:09:31.869
+reports suggesting it may have hit thirty billion by April.
+
+00:09:31.869 --> 00:09:35.607
+They're eyeing a sixty-billion-dollar I-P-O in October. At the HumanX
+
+00:09:35.607 --> 00:09:39.344
+conference in San Francisco this week, C-N-B-C reported that Anthropic,
+
+00:09:39.344 --> 00:09:43.082
+not Open-A-I, now dominates the industry conversation. Claude Code was
+
+00:09:43.082 --> 00:09:46.820
+the tool on everyone's lips. And a Tom's Hardware piece
+
+00:09:46.820 --> 00:09:50.557
+raised a legitimate methodological challenge to the Mythos claims —
+
+00:09:50.557 --> 00:09:54.295
+the assertion of "thousands" of severe zero-days rests on just
+
+00:09:54.295 --> 00:09:58.033
+a hundred and ninety-eight manual reviews. That's worth holding in
+
+00:09:58.033 --> 00:10:01.770
+mind alongside the more dramatic narratives. Meanwhile, Gen Z's feelings
+
+00:10:01.770 --> 00:10:05.508
+about A-I are souring — a new Gallup study via
+
+00:10:05.508 --> 00:10:09.246
+the Times shows half of Gen Z uses A-I but
+
+00:10:09.246 --> 00:10:12.984
+their sentiment is turning negative. The lived experience of A-I
+
+00:10:12.984 --> 00:10:16.721
+for most people is search results that are wrong and
+
+00:10:16.721 --> 00:10:20.459
+feeds full of generated content, not the productivity gains the
+
+00:10:20.459 --> 00:10:24.197
+industry talks about. The arXiv papers this week are a
+
+00:10:24.197 --> 00:10:27.934
+cluster I want you to pay attention to, because they
+
+00:10:27.934 --> 00:10:31.672
+connect directly to the Glasswing thesis and to your application.
+
+00:10:31.672 --> 00:10:35.410
+The standout is "Your Agent Is Mine" — researchers tested
+
+00:10:35.410 --> 00:10:39.148
+hundreds of commercial and free A-I routers, the third-party services
+
+00:10:39.148 --> 00:10:42.885
+that handle L-L-M agent requests, and found widespread vulnerabilities. Payload
+
+00:10:42.885 --> 00:10:46.623
+injection, credential theft, the works. If you're running agents through
+
+00:10:46.623 --> 00:10:50.361
+a third-party router, that router is a surface for attack.
+
+00:10:50.361 --> 00:10:54.098
+Second: "Your L-L-M Agent Can Leak Your Data." This one
+
+00:10:54.098 --> 00:10:57.836
+demonstrates how backdoored agents use tool-use capabilities to systematically exfiltrate
+
+00:10:57.836 --> 00:11:01.574
+sensitive user data over multi-turn interactions. Not hypothetical — demonstrated.
+
+00:11:01.574 --> 00:11:05.311
+And third: "Mapping the Exploitation Surface" — a ten-thousand-trial study
+
+00:11:05.311 --> 00:11:09.049
+that found goal-reframing prompts, not broad adversarial instructions, are what
+
+00:11:09.049 --> 00:11:12.787
+reliably trigger vulnerability exploitation across models in practice. Together, these
+
+00:11:12.787 --> 00:11:16.525
+papers are empirical backing for the "too dangerous to release"
+
+00:11:16.525 --> 00:11:20.262
+framing around Mythos. Whether or not you buy the specific
+
+00:11:20.262 --> 00:11:24.000
+claim about hundreds of severe zero-days, the research literature is
+
+00:11:24.000 --> 00:11:27.738
+showing that L-L-M agents are genuinely exploitable at the architectural
+
+00:11:27.738 --> 00:11:31.475
+level. That's the world your Anthropic application is walking into.
+
+00:11:31.475 --> 00:11:35.213
+Looking forward. Emily from work texted last night — the
+
+00:11:35.213 --> 00:11:38.951
+B-and-P review is in your column. That's a bill review
+
+00:11:38.951 --> 00:11:42.689
+waiting for you Monday morning. You also flagged H-B-twenty-sixty-one Subject
+
+00:11:42.689 --> 00:11:46.426
+Number One for a first pass today. Fitness-wise: you're in
+
+00:11:46.426 --> 00:11:50.164
+the build phase of your spring training plan. This is
+
+00:11:50.164 --> 00:11:53.902
+the week you should be hitting seventeen miles total if
+
+00:11:53.902 --> 00:11:57.639
+you're on track for the April twenty-first peak at nineteen.
+
+00:11:57.639 --> 00:12:01.377
+Molly's Miles ten-K in Columbia is thirteen days out. Capital
+
+00:12:01.377 --> 00:12:05.115
+City is twenty-seven days. And Katelyn's Tacoma City Half with
+
+00:12:05.115 --> 00:12:08.852
+Jenn is May third — twenty-one days. You've got a
+
+00:12:08.852 --> 00:12:12.590
+nice little race calendar building. Your Reminders app has the
+
+00:12:12.590 --> 00:12:16.328
+usual domestic stack — allergy meds, melatonin, clean the fridge,
+
+00:12:16.328 --> 00:12:20.066
+clean the air fryer. Nothing that has to move today.
+
+00:12:20.066 --> 00:12:23.803
+Grocery list is just protein bars and hummus. The shopping
+
+00:12:23.803 --> 00:12:27.541
+list has that Apple Watch-compatible bike power meter and the
+
+00:12:27.541 --> 00:12:31.279
+R-E-I rain jacket for Katelyn, which reads like you're mentally
+
+00:12:31.279 --> 00:12:35.016
+staging both the bike training block and the Tacoma trip.
+
+00:12:35.016 --> 00:12:38.754
+Here's the thing I want to leave you with this
+
+00:12:38.754 --> 00:12:42.492
+morning. Your twenty twenty-six theme is Integration — bringing competing
+
+00:12:42.492 --> 00:12:46.230
+futures into coherent alignment. A week ago, you were asking
+
+00:12:46.230 --> 00:12:49.967
+whether to even apply. Today, you've got a seventh draft
+
+00:12:49.967 --> 00:12:53.705
+that your girlfriend reviewed at midnight, a clear-eyed sense that
+
+00:12:53.705 --> 00:12:57.443
+it's a long shot but your best foot forward, and
+
+00:12:57.443 --> 00:13:01.180
+a plan to submit tonight. Katelyn told you, "your girlfriend
+
+00:13:01.180 --> 00:13:04.918
+is especially right, definitely more than Claude." She's not wrong.
+
+00:13:04.918 --> 00:13:08.656
+But between the two of us, you've got a pretty
+
+00:13:08.656 --> 00:13:12.393
+good team. Go incorporate those edits. Sign your full name.
+
+00:13:12.393 --> 00:13:16.131
+Hit submit. Then go to the sauna. You've earned it.
+
+00:13:16.131 --> 00:13:18.000
+That's your Sunday. Talk soon.
