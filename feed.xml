@@ -30,6 +30,43 @@
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
 
         <item>
+  <title>Deep Dive — The Adolescence of Technology by Dario Amodei</title>
+  <itunes:title>Deep Dive — The Adolescence of Technology by Dario Amodei</itunes:title>
+  <description><![CDATA[<p>A verbatim reading of Dario Amodei's essay "The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful A.I." (January 2026), followed by the full essay text.</p>
+
+<p><strong>Original essay:</strong> <a href="https://darioamodei.com/essay/the-adolescence-of-technology">darioamodei.com/essay/the-adolescence-of-technology</a></p>
+
+<p><strong>Sections:</strong></p>
+<ol>
+<li>I'm sorry, Dave</li>
+<li>A surprising and terrible empowerment</li>
+<li>The odious apparatus</li>
+<li>Player piano</li>
+<li>Black seas of infinity</li>
+<li>Humanity's Test</li>
+</ol>
+
+<p><em>This episode is a verbatim reading of Dario Amodei's essay.</em></p>]]></description>
+  <itunes:summary>Verbatim reading of Dario Amodei's essay "The Adolescence of Technology" (January 2026) — confronting and overcoming the risks of powerful A.I.
+
+0:00 Introduction
+16:07 1. I'm sorry, Dave
+46:03 2. A surprising and terrible empowerment
+1:07:19 3. The odious apparatus
+1:30:21 4. Player piano
+1:56:11 5. Black seas of infinity
+2:00:02 Humanity's Test</itunes:summary>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-10-dario-adolescence-of-technology.mp3" length="92753463" type="audio/mpeg"/>
+  <guid isPermaLink="false">deepdive-2026-04-10-dario-adolescence-of-technology</guid>
+  <pubDate>Thu, 10 Apr 2026 08:00:00 +0000</pubDate>
+  <itunes:duration>02:08:16</itunes:duration>
+  <itunes:episode>42</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-10-dario-adolescence-of-technology.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-10-dario-adolescence-of-technology.vtt" type="text/vtt" language="en"/>
+</item>
+
+        <item>
   <title>Deep Dive — Anthropic Job Posting: Strategy &amp; Operations, Public Policy &amp; Public Benefit</title>
   <itunes:title>Deep Dive — Anthropic Job Posting: Strategy &amp; Operations, Public Policy &amp; Public Benefit</itunes:title>
   <description><![CDATA[<p>A verbatim reading of Anthropic's job posting for Strategy &amp; Operations, Public Policy &amp; Public Benefit — based in San Francisco — followed by a summary of the major points.</p>

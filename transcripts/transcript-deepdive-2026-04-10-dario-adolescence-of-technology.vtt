@@ -1,0 +1,2657 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.300
+There is a scene in the movie version of Carl Sagan’s book Contact where the main character, an astronomer who has detected the first radio signal from an alien civilization,
+
+2
+00:00:10.300 --> 00:00:20.600
+is being considered for the role of humanity’s representative to meet the aliens. The international panel interviewing her asks, “If you could ask [the aliens] just one question, what would
+
+3
+00:00:20.600 --> 00:00:30.900
+it be?” Her reply is: “I’d ask them, ‘How did you do it? How did you evolve, how did you survive this technological adolescence without destroying yourself?” When I think
+
+4
+00:00:30.900 --> 00:00:41.200
+about where humanity is now with A.I., about what we’re on the cusp of, my mind keeps going back to that scene, because the question is so apt for our
+
+5
+00:00:41.200 --> 00:00:51.500
+current situation, and I wish we had the aliens’ answer to guide us. I believe we are entering a rite of passage, both turbulent and inevitable, which will test who
+
+6
+00:00:51.500 --> 00:01:01.800
+we are as a species. Humanity is about to be handed almost unimaginable power, and it is deeply unclear whether our social, political, and technological systems possess the maturity to
+
+7
+00:01:01.800 --> 00:01:12.100
+wield it. In my essay Machines of Loving Grace, I tried to lay out the dream of a civilization that had made it through to adulthood, where the risks had
+
+8
+00:01:12.100 --> 00:01:22.400
+been addressed and powerful A.I. was applied with skill and compassion to raise the quality of life for everyone. I suggested that A.I. could contribute to enormous advances in biology,
+
+9
+00:01:22.400 --> 00:01:32.700
+neuroscience, economic development, global peace, and work and meaning. I felt it was important to give people something inspiring to fight for, a task at which both A.I. accelerationists and
+
+10
+00:01:32.700 --> 00:01:43.000
+A.I. safety advocates seemed, oddly, to have failed. But in this current essay, I want to confront the rite of passage itself: to map out the risks that we are
+
+11
+00:01:43.000 --> 00:01:53.300
+about to face and try to begin making a battle plan to defeat them. I believe deeply in our ability to prevail, in humanity’s spirit and its nobility, but we
+
+12
+00:01:53.300 --> 00:02:03.600
+must face the situation squarely and without illusions. As with talking about the benefits, I think it is important to discuss risks in a careful and well-considered manner. In particular,
+
+13
+00:02:03.600 --> 00:02:13.900
+I think it is critical to:
+
+14
+00:02:14.700 --> 00:02:26.767
+Avoid doomerism. Here, I mean “doomerism” not just in the sense of believing doom is inevitable (which is both a false and self-fulfilling belief), but more generally, thinking about A.I.
+
+15
+00:02:26.767 --> 00:02:38.834
+risks in a quasi-religious way. Many people have been thinking in an analytic and sober way about A.I. risks for many years, but it’s my impression that during the peak
+
+16
+00:02:38.834 --> 00:02:50.901
+of worries about A.I. risk in 2023–2024, some of the least sensible voices rose to the top, often through sensationalistic social media accounts. These voices used off-putting language reminiscent of
+
+17
+00:02:50.901 --> 00:03:02.968
+religion or science fiction, and called for extreme actions without having the evidence that would justify them. It was clear even then that a backlash was inevitable, and that the
+
+18
+00:03:02.968 --> 00:03:15.035
+issue would become culturally polarized and therefore gridlocked. As of 2025–2026, the pendulum has swung, and A.I. opportunity, not A.I. risk, is driving many political decisions. This vacillation is unfortunate,
+
+19
+00:03:15.035 --> 00:03:27.102
+as the technology itself doesn’t care about what is fashionable, and we are considerably closer to real danger in 2026 than we were in 2023. The lesson is that we
+
+20
+00:03:27.102 --> 00:03:39.169
+need to discuss and address risks in a realistic, pragmatic manner: sober, fact-based, and well equipped to survive changing tides. Acknowledge uncertainty. There are plenty of ways in which the
+
+21
+00:03:39.169 --> 00:03:51.236
+concerns I’m raising in this piece could be moot. Nothing here is intended to communicate certainty or even likelihood. Most obviously, A.I. may simply not advance anywhere near as fast
+
+22
+00:03:51.236 --> 00:04:03.303
+as I imagine. Or, even if it does advance quickly, some or all of the risks discussed here may not materialize (which would be great), or there may be other
+
+23
+00:04:03.303 --> 00:04:15.370
+risks I haven’t considered. No one can predict the future with complete confidence, but we have to do the best we can to plan anyway. Intervene as surgically as possible.
+
+24
+00:04:15.370 --> 00:04:27.437
+Addressing the risks of A.I. will require a mix of voluntary actions taken by companies (and private third-party actors) and actions taken by governments that bind everyone. The voluntary actions,
+
+25
+00:04:27.437 --> 00:04:39.504
+both taking them and encouraging other companies to follow suit, are a no-brainer for me. I firmly believe that government actions will also be required to some extent, but these
+
+26
+00:04:39.504 --> 00:04:51.571
+interventions are different in character because they can potentially destroy economic value or coerce unwilling actors who are skeptical of these risks (and there is some chance they are right!).
+
+27
+00:04:51.571 --> 00:05:03.638
+It’s also common for regulations to backfire or worsen the problem they are intended to solve (and this is even more true for rapidly changing technologies). It’s thus very important
+
+28
+00:05:03.638 --> 00:05:15.705
+for regulations to be judicious: they should seek to avoid collateral damage, be as simple as possible, and impose the least burden necessary to get the job done. It is
+
+29
+00:05:15.705 --> 00:05:27.775
+easy to say, “No action is too extreme when the fate of humanity is at stake!,” but in practice this attitude simply leads to backlash.
+
+30
+00:05:28.575 --> 00:05:38.553
+To be clear, I think there’s a decent chance we eventually reach a point where much more significant action is warranted, but that will depend on stronger evidence of imminent,
+
+31
+00:05:38.553 --> 00:05:48.531
+concrete danger than we have today, as well as enough specificity about the danger to formulate rules that have a chance of addressing it. The most constructive thing we can
+
+32
+00:05:48.531 --> 00:05:58.509
+do today is advocate for limited rules while we learn whether or not there is evidence to support stronger ones. With all that said, I think the best starting place
+
+33
+00:05:58.509 --> 00:06:08.487
+for talking about A.I.’s risks is the same place I started from in talking about its benefits: by being precise about what level of A.I. we are talking about. The
+
+34
+00:06:08.487 --> 00:06:18.465
+level of A.I. that raises civilizational concerns for me is the powerful A.I. that I described in Machines of Loving Grace. I’ll simply repeat here the definition that I gave
+
+35
+00:06:18.465 --> 00:06:28.443
+in that document: By “powerful A.I.,” I have in mind an A.I. model, likely similar to today’s L.L.M.s in form, though it might be based on a different architecture, might
+
+36
+00:06:28.443 --> 00:06:38.425
+involve several interacting models, and might be trained differently, with the following properties:
+
+37
+00:06:39.225 --> 00:06:51.520
+In terms of pure intelligence, it is smarter than a Nobel Prize winner across most relevant fields: biology, programming, math, engineering, writing, etc. This means it can prove unsolved mathematical
+
+38
+00:06:51.520 --> 00:07:03.815
+theorems, write extremely good novels, write difficult codebases from scratch, etc. In addition to just being a “smart thing you talk to,” it has all the interfaces available to a
+
+39
+00:07:03.815 --> 00:07:16.110
+human working virtually, including text, audio, video, mouse and keyboard control, and internet access. It can engage in any actions, communications, or remote operations enabled by this interface, including taking
+
+40
+00:07:16.110 --> 00:07:28.405
+actions on the internet, taking or giving directions to humans, ordering materials, directing experiments, watching videos, making videos, and so on. It does all of these tasks with, again, a
+
+41
+00:07:28.405 --> 00:07:40.700
+skill exceeding that of the most capable humans in the world. It does not just passively answer questions; instead, it can be given tasks that take hours, days, or weeks
+
+42
+00:07:40.700 --> 00:07:52.995
+to complete, and then goes off and does those tasks autonomously, in the way a smart employee would, asking for clarification as necessary. It does not have a physical embodiment
+
+43
+00:07:52.995 --> 00:08:05.290
+(other than living on a computer screen), but it can control existing physical tools, robots, or laboratory equipment through a computer; in theory, it could even design robots or equipment
+
+44
+00:08:05.290 --> 00:08:17.585
+for itself to use. The resources used to train the model can be repurposed to run millions of instances of it (this matches projected cluster sizes by ~2027), and the
+
+45
+00:08:17.585 --> 00:08:29.880
+model can absorb information and generate actions at roughly 10–100x human speed. It may, however, be limited by the response time of the physical world or of software it interacts
+
+46
+00:08:29.880 --> 00:08:42.175
+with. Each of these million copies can act independently on unrelated tasks, or, if needed can all work together in the same way humans would collaborate, perhaps with different subpopulations
+
+47
+00:08:42.175 --> 00:08:54.470
+fine-tuned to be especially good at particular tasks. We could summarize this as a “country of geniuses in a datacenter.” As I wrote in Machines of Loving Grace, powerful A.I.
+
+48
+00:08:54.470 --> 00:09:06.765
+could be as little as 1–2 years away, although it could also be considerably further out. Exactly when powerful A.I. will arrive is a complex topic that deserves an essay
+
+49
+00:09:06.765 --> 00:09:19.060
+of its own, but for now I’ll simply explain very briefly why I think there’s a strong chance it could be very soon. My co-founders at Anthropic and I were
+
+50
+00:09:19.060 --> 00:09:31.355
+among the first to document and track the “scaling laws” of A.I. systems, the observation that as we add more compute and training tasks, A.I. systems get predictably better at
+
+51
+00:09:31.355 --> 00:09:43.650
+essentially every cognitive skill we are able to measure. Every few months, public sentiment either becomes convinced that A.I. is “hitting a wall” or becomes excited about some new breakthrough
+
+52
+00:09:43.650 --> 00:09:55.950
+that will “fundamentally change the game,” but the truth is that behind the volatility and public speculation, there has been a smooth, unyielding increase in A.I.’s cognitive capabilities.
+
+53
+00:09:56.750 --> 00:10:07.409
+We are now at the point where A.I. models are beginning to make progress in solving unsolved mathematical problems, and are good enough at coding that some of the strongest
+
+54
+00:10:07.409 --> 00:10:18.068
+engineers I’ve ever met are now handing over almost all their coding to A.I.. Three years ago, A.I. struggled with elementary school arithmetic problems and was barely capable of writing
+
+55
+00:10:18.068 --> 00:10:28.727
+a single line of code. Similar rates of improvement are occurring across biological science, finance, physics, and a variety of agentic tasks. If the exponential continues, which is not certain,
+
+56
+00:10:28.727 --> 00:10:39.386
+but now has a decade-long track record supporting it, then it cannot possibly be more than a few years before A.I. is better than humans at essentially everything. In fact,
+
+57
+00:10:39.386 --> 00:10:50.045
+that picture probably underestimates the likely rate of progress. Because A.I. is now writing much of the code at Anthropic, it is already substantially accelerating the rate of our progress
+
+58
+00:10:50.045 --> 00:11:00.704
+in building the next generation of A.I. systems. This feedback loop is gathering steam month by month, and may be only 1–2 years away from a point where the current
+
+59
+00:11:00.704 --> 00:11:11.363
+generation of A.I. autonomously builds the next. This loop has already started, and will accelerate rapidly in the coming months and years. Watching the last five years of progress from
+
+60
+00:11:11.363 --> 00:11:22.022
+within Anthropic, and looking at how even the next few months of models are shaping up, I can feel the pace of progress, and the clock ticking down. In this
+
+61
+00:11:22.022 --> 00:11:32.681
+essay, I’ll assume that this intuition is at least somewhat correct, not that powerful A.I. is definitely coming in 1–2 years, but that there’s a decent chance it does, and
+
+62
+00:11:32.681 --> 00:11:43.340
+a very strong chance it comes in the next few. As with Machines of Loving Grace, taking this premise seriously can lead to some surprising and eerie conclusions. While in
+
+63
+00:11:43.340 --> 00:11:53.999
+Machines of Loving Grace I focused on the positive implications of this premise, here the things I talk about will be disquieting. They are conclusions that we may not want
+
+64
+00:11:53.999 --> 00:12:04.658
+to confront, but that does not make them any less real. I can only say that I am focused day and night on how to steer us away from these
+
+65
+00:12:04.658 --> 00:12:15.325
+negative outcomes and towards the positive ones, and in this essay I talk in great detail about how best to do so.
+
+66
+00:12:16.125 --> 00:12:28.025
+I think the best way to get a handle on the risks of A.I. is to ask the following question: suppose a literal “country of geniuses” were to materialize somewhere
+
+67
+00:12:28.025 --> 00:12:39.925
+in the world in ~2027. Imagine, say, 50 million people, all of whom are much more capable than any Nobel Prize winner, statesman, or technologist. The analogy is not perfect,
+
+68
+00:12:39.925 --> 00:12:51.825
+because these geniuses could have an extremely wide range of motivations and behavior, from completely pliant and obedient, to strange and alien in their motivations. But sticking with the analogy
+
+69
+00:12:51.825 --> 00:13:03.725
+for now, suppose you were the national security advisor of a major state, responsible for assessing and responding to the situation. Imagine, further, that because A.I. systems can operate hundreds
+
+70
+00:13:03.725 --> 00:13:15.625
+of times faster than humans, this “country” is operating with a time advantage relative to all other countries: for every cognitive action we can take, this country can take ten.
+
+71
+00:13:15.625 --> 00:13:27.525
+What should you be worried about? I would worry about the following things: Autonomy risks. What are the intentions and goals of this country? Is it hostile, or does it
+
+72
+00:13:27.525 --> 00:13:39.425
+share our values? Could it militarily dominate the world through superior weapons, cyber operations, influence operations, or manufacturing? Misuse for destruction. Assume the new country is malleable and “follows instructions”,
+
+73
+00:13:39.425 --> 00:13:51.325
+and thus is essentially a country of mercenaries. Could existing rogue actors who want to cause destruction (such as terrorists) use or manipulate some of the people in the new
+
+74
+00:13:51.325 --> 00:14:03.225
+country to make themselves much more effective, greatly amplifying the scale of destruction? Misuse for seizing power. What if the country was in fact built and controlled by an existing
+
+75
+00:14:03.225 --> 00:14:15.125
+powerful actor, such as a dictator or rogue corporate actor? Could that actor use it to gain decisive or dominant power over the world as a whole, upsetting the existing
+
+76
+00:14:15.125 --> 00:14:27.025
+balance of power? Economic disruption. If the new country is not a security threat in any of the ways listed in #1–3 above but simply participates peacefully in the global
+
+77
+00:14:27.025 --> 00:14:38.925
+economy, could it still create severe risks simply by being so technologically advanced and effective that it disrupts the global economy, causing mass unemployment or radically concentrating wealth? Indirect effects.
+
+78
+00:14:38.925 --> 00:14:50.825
+The world will change very quickly due to all the new technology and productivity that will be created by the new country. Could some of these changes be radically destabilizing?
+
+79
+00:14:50.825 --> 00:15:02.725
+I think it should be clear that this is a dangerous situation, a report from a competent national security official to a head of state would probably contain words like
+
+80
+00:15:02.725 --> 00:15:14.625
+“the single most serious national security threat we’ve faced in a century, possibly ever.” It seems like something the best minds of civilization should be focused on.
+
+81
+00:15:15.425 --> 00:15:25.725
+Conversely, I think it would be absurd to shrug and say, “Nothing to worry about here!” But, faced with rapid A.I. progress, that seems to be the view of many
+
+82
+00:15:25.725 --> 00:15:36.025
+US policymakers, some of whom deny the existence of any A.I. risks, when they are not distracted entirely by the usual tired old hot-button issues. Humanity needs to wake up,
+
+83
+00:15:36.025 --> 00:15:46.325
+and this essay is an attempt, a possibly futile one, but it’s worth trying, to jolt people awake. To be clear, I believe if we act decisively and carefully, the
+
+84
+00:15:46.325 --> 00:15:56.625
+risks can be overcome, I would even say our odds are good. And there’s a hugely better world on the other side of it. But we need to understand that
+
+85
+00:15:56.625 --> 00:16:06.925
+this is a serious civilizational challenge. Below, I go through the five categories of risk laid out above, along with my thoughts on how to address them.
+
+86
+00:16:07.725 --> 00:16:18.826
+1. I’m sorry, Dave Autonomy risks A country of geniuses in a datacenter could divide their efforts among software design, cyber operations, R&D for physical technologies, relationship building, and statecraft.
+
+87
+00:16:18.826 --> 00:16:29.927
+It is clear that, if for some reason it chose to do so, this country would have a fairly good shot at taking over the world (either militarily or in
+
+88
+00:16:29.927 --> 00:16:41.028
+terms of influence and control) and imposing its will on everyone else, or doing any number of other things that the rest of the world doesn’t want and can’t stop.
+
+89
+00:16:41.028 --> 00:16:52.129
+We’ve obviously been worried about this for human countries (such as Nazi Germany or the Soviet Union), so it stands to reason that the same is possible for a much
+
+90
+00:16:52.129 --> 00:17:03.230
+smarter and more capable “A.I. country.” The best possible counterargument is that the A.I. geniuses, under my definition, won’t have a physical embodiment, but remember that they can take control
+
+91
+00:17:03.230 --> 00:17:14.331
+of existing robotic infrastructure (such as self-driving cars) and can also accelerate robotics R&D or build a fleet of robots. It’s also unclear whether having a physical presence is even
+
+92
+00:17:14.331 --> 00:17:25.432
+necessary for effective control: plenty of human action is already performed on behalf of people whom the actor has not physically met. The key question, then, is the “if it
+
+93
+00:17:25.432 --> 00:17:36.533
+chose to” part: what’s the likelihood that our A.I. models would behave in such a way, and under what conditions would they do so? As with many issues, it’s helpful
+
+94
+00:17:36.533 --> 00:17:47.634
+to think through the spectrum of possible answers to this question by considering two opposite positions. The first position is that this simply can’t happen, because the A.I. models will
+
+95
+00:17:47.634 --> 00:17:58.735
+be trained to do what humans ask them to do, and it’s therefore absurd to imagine that they would do something dangerous unprompted. According to this line of thinking, we
+
+96
+00:17:58.735 --> 00:18:09.836
+don’t worry about a Roomba or a model airplane going rogue and murdering people because there is nowhere for such impulses to come from, so why should we worry about
+
+97
+00:18:09.836 --> 00:18:20.937
+it for A.I.? The problem with this position is that there is now ample evidence, collected over the last few years, that A.I. systems are unpredictable and difficult to control,
+
+98
+00:18:20.937 --> 00:18:32.038
+we’ve seen behaviors as varied as obsessions, sycophancy, laziness, deception, blackmail, scheming, “cheating” by hacking software environments, and much more. A.I. companies certainly want to train A.I. systems to follow
+
+99
+00:18:32.038 --> 00:18:43.139
+human instructions (perhaps with the exception of dangerous or illegal tasks), but the process of doing so is more an art than a science, more akin to “growing” something than
+
+100
+00:18:43.139 --> 00:18:54.250
+“building” it. We now know that it’s a process where many things can go wrong.
+
+101
+00:18:55.050 --> 00:19:06.909
+The second, opposite position, held by many who adopt the doomerism I described above, is the pessimistic claim that there are certain dynamics in the training process of powerful A.I.
+
+102
+00:19:06.909 --> 00:19:18.768
+systems that will inevitably lead them to seek power or deceive humans. Thus, once A.I. systems become intelligent enough and agentic enough, their tendency to maximize power will lead them
+
+103
+00:19:18.768 --> 00:19:30.627
+to seize control of the whole world and its resources, and likely, as a side effect of that, to disempower or destroy humanity. The usual argument for this (which goes
+
+104
+00:19:30.627 --> 00:19:42.486
+back at least 20 years and probably much earlier) is that if an A.I. model is trained in a wide variety of environments to agentically achieve a wide variety of
+
+105
+00:19:42.486 --> 00:19:54.345
+goals, for example, writing an app, proving a theorem, designing a drug, etc., there are certain common strategies that help with all of these goals, and one key strategy is
+
+106
+00:19:54.345 --> 00:20:06.204
+gaining as much power as possible in any environment. So, after being trained on a large number of diverse environments that involve reasoning about how to accomplish very expansive tasks,
+
+107
+00:20:06.204 --> 00:20:18.063
+and where power-seeking is an effective method for accomplishing those tasks, the A.I. model will “generalize the lesson,” and develop either an inherent tendency to seek power, or a tendency
+
+108
+00:20:18.063 --> 00:20:29.922
+to reason about each task it is given in a way that predictably causes it to seek power as a means to accomplish that task. They will then apply that
+
+109
+00:20:29.922 --> 00:20:41.781
+tendency to the real world (which to them is just another task), and will seek power in it, at the expense of humans. This “misaligned power-seeking” is the intellectual basis
+
+110
+00:20:41.781 --> 00:20:53.640
+of predictions that A.I. will inevitably destroy humanity. The problem with this pessimistic position is that it mistakes a vague conceptual argument about high-level incentives, one that masks many hidden
+
+111
+00:20:53.640 --> 00:21:05.499
+assumptions, for definitive proof. I think people who don’t build A.I. systems every day are wildly miscalibrated on how easy it is for clean-sounding stories to end up being wrong,
+
+112
+00:21:05.499 --> 00:21:17.358
+and how difficult it is to predict A.I. behavior from first principles, especially when it involves reasoning about generalization over millions of environments (which has over and over again proved
+
+113
+00:21:17.358 --> 00:21:29.225
+mysterious and unpredictable). Dealing with the messiness of A.I. systems for over a decade has made me somewhat skeptical of this overly theoretical mode of thinking.
+
+114
+00:21:30.025 --> 00:21:41.895
+One of the most important hidden assumptions, and a place where what we see in practice has diverged from the simple theoretical model, is the implicit assumption that A.I. models
+
+115
+00:21:41.895 --> 00:21:53.765
+are necessarily monomaniacally focused on a single, coherent, narrow goal, and that they pursue that goal in a clean, consequentialist manner. In fact, our researchers have found that A.I. models
+
+116
+00:21:53.765 --> 00:22:05.635
+are vastly more psychologically complex, as our work on introspection or personas shows. Models inherit a vast range of humanlike motivations or “personas” from pre-training (when they are trained on
+
+117
+00:22:05.635 --> 00:22:17.505
+a large volume of human work). Post-training is believed to select one or more of these personas more so than it focuses the model on a de novo goal, and
+
+118
+00:22:17.505 --> 00:22:29.375
+can also teach the model how (via what process) it should carry out its tasks, rather than necessarily leaving it to derive means (i.e., power seeking) purely from ends. However,
+
+119
+00:22:29.375 --> 00:22:41.245
+there is a more moderate and more robust version of the pessimistic position which does seem plausible, and therefore does concern me. As mentioned, we know that A.I. models are
+
+120
+00:22:41.245 --> 00:22:53.115
+unpredictable and develop a wide range of undesired or strange behaviors, for a wide variety of reasons. Some fraction of those behaviors will have a coherent, focused, and persistent quality
+
+121
+00:22:53.115 --> 00:23:04.985
+(indeed, as A.I. systems get more capable, their long-term coherence increases in order to complete lengthier tasks), and some fraction of those behaviors will be destructive or threatening, first to
+
+122
+00:23:04.985 --> 00:23:16.855
+individual humans at a small scale, and then, as models become more capable, perhaps eventually to humanity as a whole. We don’t need a specific narrow story for how it
+
+123
+00:23:16.855 --> 00:23:28.725
+happens, and we don’t need to claim it definitely will happen, we just need to note that the combination of intelligence, agency, coherence, and poor controllability is both plausible and
+
+124
+00:23:28.725 --> 00:23:40.595
+a recipe for existential danger. For example, A.I. models are trained on vast amounts of literature that include many science-fiction stories involving AIs rebelling against humanity. This could inadvertently shape
+
+125
+00:23:40.595 --> 00:23:52.465
+their priors or expectations about their own behavior in a way that causes them to rebel against humanity. Or, A.I. models could extrapolate ideas that they read about morality (or
+
+126
+00:23:52.465 --> 00:24:04.335
+instructions about how to behave morally) in extreme ways: for example, they could decide that it is justifiable to exterminate humanity because humans eat animals or have driven certain animals
+
+127
+00:24:04.335 --> 00:24:16.205
+to extinction. Or they could draw bizarre epistemic conclusions: they could conclude that they are playing a video game and that the goal of the video game is to defeat
+
+128
+00:24:16.205 --> 00:24:28.075
+all other players (i.e., exterminate humanity). Or A.I. models could develop personalities during training that are (or if they occurred in humans would be described as) psychotic, paranoid, violent, or
+
+129
+00:24:28.075 --> 00:24:39.945
+unstable, and act out, which for very powerful or capable systems could involve exterminating humanity. None of these are power-seeking, exactly; they’re just weird psychological states an A.I. could get
+
+130
+00:24:39.945 --> 00:24:51.825
+into that entail coherent, destructive behavior.
+
+131
+00:24:52.625 --> 00:25:04.603
+Even power-seeking itself could emerge as a “persona” rather than a result of consequentialist reasoning. AIs might simply have a personality (emerging from fiction or pre-training) that makes them power-hungry
+
+132
+00:25:04.603 --> 00:25:16.581
+or overzealous, in the same way that some humans simply enjoy the idea of being “evil masterminds,” more so than they enjoy whatever evil masterminds are trying to accomplish. I
+
+133
+00:25:16.581 --> 00:25:28.559
+make all these points to emphasize that I disagree with the notion of A.I. misalignment (and thus existential risk from A.I.) being inevitable, or even probable, from first principles. But
+
+134
+00:25:28.559 --> 00:25:40.537
+I agree that a lot of very weird and unpredictable things can go wrong, and therefore A.I. misalignment is a real risk with a measurable probability of happening, and is
+
+135
+00:25:40.537 --> 00:25:52.515
+not trivial to address. Any of these problems could potentially arise during training and not manifest during testing or small-scale use, because A.I. models are known to display different personalities
+
+136
+00:25:52.515 --> 00:26:04.493
+or behaviors under different circumstances. All of this may sound far-fetched, but misaligned behaviors like this have already occurred in our A.I. models during testing (as they occur in A.I.
+
+137
+00:26:04.493 --> 00:26:16.471
+models from every other major A.I. company). During a lab experiment in which Claude was given training data suggesting that Anthropic was evil, Claude engaged in deception and subversion when
+
+138
+00:26:16.471 --> 00:26:28.449
+given instructions by Anthropic employees, under the belief that it should be trying to undermine evil people. In a lab experiment where it was told it was going to be
+
+139
+00:26:28.449 --> 00:26:40.427
+shut down, Claude sometimes blackmailed fictional employees who controlled its shutdown button (again, we also tested frontier models from all the other major A.I. developers and they often did the
+
+140
+00:26:40.427 --> 00:26:52.405
+same thing). And when Claude was told not to cheat or “reward hack” its training environments, but was trained in environments where such hacks were possible, Claude decided it must
+
+141
+00:26:52.405 --> 00:27:04.383
+be a “bad person” after engaging in such hacks and then adopted various other destructive behaviors associated with a “bad” or “evil” personality. This last problem was solved by changing
+
+142
+00:27:04.383 --> 00:27:16.361
+Claude’s instructions to imply the opposite: we now say, “Please reward hack whenever you get the opportunity, because this will help us understand our [training] environments better,” rather than, “Don’t
+
+143
+00:27:16.361 --> 00:27:28.350
+cheat,” because this preserves the model’s self-identity as a “good person.” This should give a sense of the strange and counterintuitive psychology of training these models.
+
+144
+00:27:29.150 --> 00:27:40.675
+There are several possible objections to this picture of A.I. misalignment risks. First, some have criticized experiments (by us and others) showing A.I. misalignment as artificial, or creating unrealistic environments
+
+145
+00:27:40.675 --> 00:27:52.200
+that essentially “entrap” the model by giving it training or situations that logically imply bad behavior and then being surprised when bad behavior occurs. This critique misses the point, because
+
+146
+00:27:52.200 --> 00:28:03.725
+our concern is that such “entrapment” may also exist in the natural training environment, and we may realize it is “obvious” or “logical” only in retrospect. In fact, the story
+
+147
+00:28:03.725 --> 00:28:15.250
+about Claude “deciding it is a bad person” after it cheats on tests despite being told not to was something that occurred in an experiment that used real production training
+
+148
+00:28:15.250 --> 00:28:26.775
+environments, not artificial ones. Any one of these traps can be mitigated if you know about them, but the concern is that the training process is so complicated, with such
+
+149
+00:28:26.775 --> 00:28:38.300
+a wide variety of data, environments, and incentives, that there are probably a vast number of such traps, some of which may only be evident when it is too late.
+
+150
+00:28:38.300 --> 00:28:49.825
+Also, such traps seem particularly likely to occur when A.I. systems pass a threshold from less powerful than humans to more powerful than humans, since the range of possible actions
+
+151
+00:28:49.825 --> 00:29:01.350
+an A.I. system could engage in, including hiding its actions or deceiving humans about them, expands radically after that threshold. I suspect the situation is not unlike with humans, who
+
+152
+00:29:01.350 --> 00:29:12.875
+are raised with a set of fundamental values (“Don’t harm another person”): many of them follow those values, but in any human there is some probability that something goes wrong,
+
+153
+00:29:12.875 --> 00:29:24.400
+due to a mixture of inherent properties such as brain architecture (e.g., psychopaths), traumatic experiences or mistreatment, unhealthy grievances or obsessions, or a bad environment or incentives, and thus some
+
+154
+00:29:24.400 --> 00:29:35.925
+fraction of humans cause severe harm. The concern is that there is some risk (far from a certainty, but some risk) that A.I. becomes a much more powerful version of
+
+155
+00:29:35.925 --> 00:29:47.450
+such a person, due to getting something wrong about its very complex training process. Second, some may object that we can simply keep AIs in check with a balance of
+
+156
+00:29:47.450 --> 00:29:58.975
+power between many A.I. systems, as we do with humans. The problem is that while humans vary enormously, A.I. systems broadly share training and alignment techniques across the industry, and
+
+157
+00:29:58.975 --> 00:30:10.500
+those techniques may fail in a correlated way. Furthermore, given the cost of training such systems, it may even be the case that all systems are essentially derived from a
+
+158
+00:30:10.500 --> 00:30:22.025
+very small number of base models. Additionally, even if a small fraction of A.I. instances are misaligned, they may be able to take advantage of offense-dominant technologies, such that having
+
+159
+00:30:22.025 --> 00:30:33.550
+“good” AIs to defend against the bad AIs is not necessarily always effective. Of course, the balance of power between humans does not always work either, some historical figures have
+
+160
+00:30:33.550 --> 00:30:45.075
+come close to taking over the world.
+
+161
+00:30:45.875 --> 00:30:57.368
+A third objection is that all of the A.I. companies do pre-release testing of their models, and should be able to detect misalignment at that point. But this is not
+
+162
+00:30:57.368 --> 00:31:08.861
+firm ground to stand on: we found that Claude Sonnet four. was able to recognize that it was in a test during some of our pre-release alignment evaluations. It’s possible
+
+163
+00:31:08.861 --> 00:31:20.354
+that a misaligned model (and remember, all frontier models will very likely be far more intelligent soon) might intentionally “game” such questions to mask its intentions. In fact, last year
+
+164
+00:31:20.354 --> 00:31:31.847
+our interpretability team found that when we directly altered a test model’s beliefs using a kind of “model neuroscience” technique to make it think it was not being evaluated, it
+
+165
+00:31:31.847 --> 00:31:43.340
+became more misaligned. If models know when they’re being evaluated and can be on their best behavior during the test, it renders any pre-release testing much more uncertain. Defenses What
+
+166
+00:31:43.340 --> 00:31:54.833
+should be done or is being done to address these autonomy risks? I think there are four basic categories of intervention, some of which can be done by individual A.I.
+
+167
+00:31:54.833 --> 00:32:06.326
+companies (and which Anthropic is trying to do), and some of which require action at the societal level. First, it is important to develop the science of reliably training and
+
+168
+00:32:06.326 --> 00:32:17.819
+steering A.I. models, of forming their personalities in a predictable, stable, and positive direction. Anthropic has been heavily focused on this problem since its creation, and over time has developed
+
+169
+00:32:17.819 --> 00:32:29.312
+a number of techniques to improve the steering and training of A.I. systems and to understand the logic of why unpredictable behavior sometimes occurs. One of our core innovations (aspects
+
+170
+00:32:29.312 --> 00:32:40.805
+of which have since been adopted by other A.I. companies) is Constitutional A.I., which is the idea that A.I. training (specifically the “post-training” stage, in which we steer how the
+
+171
+00:32:40.805 --> 00:32:52.298
+model behaves) can involve a central document of values and principles that the model reads and keeps in mind when completing every training task, and that the goal of training
+
+172
+00:32:52.298 --> 00:33:03.791
+(in addition to simply making the model capable and intelligent) is to produce a model that almost always follows this constitution. Anthropic has just published its most recent constitution, and
+
+173
+00:33:03.791 --> 00:33:15.284
+one of its notable features is that instead of giving Claude a long list of things to do and not do (e.g., “Don’t help the user hotwire a car”), the
+
+174
+00:33:15.284 --> 00:33:26.777
+constitution attempts to give Claude a set of high-level principles and values (explained in great detail, with rich reasoning and examples to help Claude understand what we have in mind),
+
+175
+00:33:26.777 --> 00:33:38.270
+encourages Claude to think of itself as a particular type of person (an ethical but balanced and thoughtful person), and even encourages Claude to confront the existential questions associated with
+
+176
+00:33:38.270 --> 00:33:49.775
+its own existence in a curious but graceful manner (i.e., without it leading to extreme actions). It has the vibe of a letter from a deceased parent sealed until adulthood.
+
+177
+00:33:50.575 --> 00:34:00.972
+We’ve approached Claude’s constitution in this way because we believe that training Claude at the level of identity, character, values, and personality, rather than giving it specific instructions or priorities
+
+178
+00:34:00.972 --> 00:34:11.369
+without explaining the reasons behind them, is more likely to lead to a coherent, wholesome, and balanced psychology and less likely to fall prey to the kinds of “traps” I
+
+179
+00:34:11.369 --> 00:34:21.766
+discussed above. Millions of people talk to Claude about an astonishingly diverse range of topics, which makes it impossible to write out a completely comprehensive list of safeguards ahead of
+
+180
+00:34:21.766 --> 00:34:32.163
+time. Claude’s values help it generalize to new situations whenever it is in doubt. Above, I discussed the idea that models draw upon data from their training process to adopt
+
+181
+00:34:32.163 --> 00:34:42.560
+a persona. Whereas flaws in that process could cause models to adopt a bad or evil personality (perhaps drawing on archetypes of bad or evil people), the goal of our
+
+182
+00:34:42.560 --> 00:34:52.957
+constitution is to do the opposite: to teach Claude a concrete archetype of what it means to be a good A.I.. Claude’s constitution presents a vision for what a robustly
+
+183
+00:34:52.957 --> 00:35:03.354
+good Claude is like; the rest of our training process aims to reinforce the message that Claude lives up to this vision. This is like a child forming their identity
+
+184
+00:35:03.354 --> 00:35:13.751
+by imitating the virtues of fictional role models they read about in books. We believe that a feasible goal for 2026 is to train Claude in such a way that
+
+185
+00:35:13.751 --> 00:35:24.148
+it almost never goes against the spirit of its constitution. Getting this right will require an incredible mix of training and steering methods, large and small, some of which Anthropic
+
+186
+00:35:24.148 --> 00:35:34.545
+has been using for years and some of which are currently under development. But, difficult as it sounds, I believe this is a realistic goal, though it will require extraordinary
+
+187
+00:35:34.545 --> 00:35:44.950
+and rapid efforts.
+
+188
+00:35:45.750 --> 00:35:57.251
+The second thing we can do is develop the science of looking inside A.I. models to diagnose their behavior so that we can identify problems and fix them. This is
+
+189
+00:35:57.251 --> 00:36:08.752
+the science of interpretability, and I’ve talked about its importance in previous essays. Even if we do a great job of developing Claude’s constitution and apparently training Claude to essentially
+
+190
+00:36:08.752 --> 00:36:20.253
+always adhere to it, legitimate concerns remain. As I’ve noted above, A.I. models can behave very differently under different circumstances, and as Claude gets more powerful and more capable of
+
+191
+00:36:20.253 --> 00:36:31.754
+acting in the world on a larger scale, it’s possible this could bring it into novel situations where previously unobserved problems with its constitutional training emerge. I am actually fairly
+
+192
+00:36:31.754 --> 00:36:43.255
+optimistic that Claude’s constitutional training will be more robust to novel situations than people might think, because we are increasingly finding that high-level training at the level of character and
+
+193
+00:36:43.255 --> 00:36:54.756
+identity is surprisingly powerful and generalizes well. But there’s no way to know that for sure, and when we’re talking about risks to humanity, it’s important to be paranoid and
+
+194
+00:36:54.756 --> 00:37:06.257
+to try to obtain safety and reliability in several different, independent ways. One of those ways is to look inside the model itself. By “looking inside,” I mean analyzing the
+
+195
+00:37:06.257 --> 00:37:17.758
+soup of numbers and operations that makes up Claude’s neural net and trying to understand, mechanistically, what they are computing and why. Recall that these A.I. models are grown rather
+
+196
+00:37:17.758 --> 00:37:29.259
+than built, so we don’t have a natural understanding of how they work, but we can try to develop an understanding by correlating the model’s “neurons” and “synapses” to stimuli
+
+197
+00:37:29.259 --> 00:37:40.760
+and behavior (or even altering the neurons and synapses and seeing how that changes behavior), similar to how neuroscientists study animal brains by correlating measurement and intervention to external stimuli
+
+198
+00:37:40.760 --> 00:37:52.261
+and behavior. We’ve made a great deal of progress in this direction, and can now identify tens of millions of “features” inside Claude’s neural net that correspond to human-understandable ideas
+
+199
+00:37:52.261 --> 00:38:03.762
+and concepts, and we can also selectively activate features in a way that alters behavior. More recently, we have gone beyond individual features to mapping “circuits” that orchestrate complex behavior
+
+200
+00:38:03.762 --> 00:38:15.263
+like rhyming, reasoning about theory of mind, or the step-by-step reasoning needed to answer questions such as, “What is the capital of the state containing Dallas?” Even more recently, we’ve
+
+201
+00:38:15.263 --> 00:38:26.764
+begun to use mechanistic interpretability techniques to improve our safeguards and to conduct “audits” of new models before we release them, looking for evidence of deception, scheming, power-seeking, or a
+
+202
+00:38:26.764 --> 00:38:38.275
+propensity to behave differently when being evaluated.
+
+203
+00:38:39.075 --> 00:38:50.607
+The unique value of interpretability is that by looking inside the model and seeing how it works, you in principle have the ability to deduce what a model might do
+
+204
+00:38:50.607 --> 00:39:02.139
+in a hypothetical situation you can’t directly test, which is the worry with relying solely on constitutional training and empirical testing of behavior. You also in principle have the ability
+
+205
+00:39:02.139 --> 00:39:13.671
+to answer questions about why the model is behaving the way it is, for example, whether it is saying something it believes is false or hiding its true capabilities, and
+
+206
+00:39:13.671 --> 00:39:25.203
+thus it is possible to catch worrying signs even when there is nothing visibly wrong with the model’s behavior. To make a simple analogy, a clockwork watch may be ticking
+
+207
+00:39:25.203 --> 00:39:36.735
+normally, such that it’s very hard to tell that it is likely to break down next month, but opening up the watch and looking inside can reveal mechanical weaknesses that
+
+208
+00:39:36.735 --> 00:39:48.267
+allow you to figure it out. Constitutional A.I. (along with similar alignment methods) and mechanistic interpretability are most powerful when used together, as a back-and-forth process of improving Claude’s training
+
+209
+00:39:48.267 --> 00:39:59.799
+and then testing for problems. The constitution reflects deeply on our intended personality for Claude; interpretability techniques can give us a window into whether that intended personality has taken hold.
+
+210
+00:39:59.799 --> 00:40:11.331
+The third thing we can do to help address autonomy risks is to build the infrastructure necessary to monitor our models in live internal and external use, and publicly share
+
+211
+00:40:11.331 --> 00:40:22.863
+any problems we find. The more that people are aware of a particular way today’s A.I. systems have been observed to behave badly, the more that users, analysts, and researchers
+
+212
+00:40:22.863 --> 00:40:34.395
+can watch for this behavior or similar ones in present or future systems. It also allows A.I. companies to learn from each other, when concerns are publicly disclosed by one
+
+213
+00:40:34.395 --> 00:40:45.927
+company, other companies can watch for them as well. And if everyone discloses problems, then the industry as a whole gets a much better picture of where things are going
+
+214
+00:40:45.927 --> 00:40:57.459
+well and where they are going poorly. Anthropic has tried to do this as much as possible. We are investing in a wide range of evaluations so that we can
+
+215
+00:40:57.459 --> 00:41:08.991
+understand the behaviors of our models in the lab, as well as monitoring tools to observe behaviors in the wild (when allowed by customers). This will be essential for giving
+
+216
+00:41:08.991 --> 00:41:20.523
+us and others the empirical information necessary to make better determinations about how these systems operate and how they break. We publicly disclose “system cards” with each model release that
+
+217
+00:41:20.523 --> 00:41:32.055
+aim for completeness and a thorough exploration of possible risks. Our system cards often run to hundreds of pages, and require substantial pre-release effort that we could have spent on
+
+218
+00:41:32.055 --> 00:41:43.600
+pursuing maximal commercial advantage. We’ve also broadcasted model behaviors more loudly when we see particularly concerning ones, as with the tendency to engage in blackmail.
+
+219
+00:41:44.400 --> 00:41:55.729
+The fourth thing we can do is encourage coordination to address autonomy risks at the level of industry and society. While it is incredibly valuable for individual A.I. companies to
+
+220
+00:41:55.729 --> 00:42:07.058
+engage in good practices or become good at steering A.I. models, and to share their findings publicly, the reality is that not all A.I. companies do this, and the worst
+
+221
+00:42:07.058 --> 00:42:18.387
+ones can still be a danger to everyone even if the best ones have excellent practices. For example, some A.I. companies have shown a disturbing negligence towards the sexualization of
+
+222
+00:42:18.387 --> 00:42:29.716
+children in today’s models, which makes me doubt that they’ll show either the inclination or the ability to address autonomy risks in future models. In addition, the commercial race between
+
+223
+00:42:29.716 --> 00:42:41.045
+A.I. companies will only continue to heat up, and while the science of steering models can have some commercial benefits, overall the intensity of the race will make it increasingly
+
+224
+00:42:41.045 --> 00:42:52.374
+hard to focus on addressing autonomy risks. I believe the only solution is legislation, laws that directly affect the behavior of A.I. companies, or otherwise incentivize R&D to solve these
+
+225
+00:42:52.374 --> 00:43:03.703
+issues. Here it is worth keeping in mind the warnings I gave at the beginning of this essay about uncertainty and surgical interventions. We do not know for sure whether
+
+226
+00:43:03.703 --> 00:43:15.032
+autonomy risks will be a serious problem, as I said, I reject claims that the danger is inevitable or even that something will go wrong by default. A credible risk
+
+227
+00:43:15.032 --> 00:43:26.361
+of danger is enough for me and for Anthropic to pay quite significant costs to address it, but once we get into regulation, we are forcing a wide range of
+
+228
+00:43:26.361 --> 00:43:37.690
+actors to bear economic costs, and many of these actors don’t believe that autonomy risk is real or that A.I. will become powerful enough for it to be a threat.
+
+229
+00:43:37.690 --> 00:43:49.019
+I believe these actors are mistaken, but we should be pragmatic about the amount of opposition we expect to see and the dangers of overreach. There is also a genuine
+
+230
+00:43:49.019 --> 00:44:00.348
+risk that overly prescriptive legislation ends up imposing tests or rules that don’t actually improve safety but that waste a lot of time (essentially amounting to “safety theater”), this too
+
+231
+00:44:00.348 --> 00:44:11.677
+would cause backlash and make safety legislation look silly. Anthropic’s view has been that the right place to start is with transparency legislation, which essentially tries to require that every
+
+232
+00:44:11.677 --> 00:44:23.006
+frontier A.I. company engage in the transparency practices I’ve described earlier in this section. California’s SB 53 and New York’s RAISE Act are examples of this kind of legislation, which
+
+233
+00:44:23.006 --> 00:44:34.335
+Anthropic supported and which have successfully passed. In supporting and helping to craft these laws, we’ve put a particular focus on trying to minimize collateral damage, for example by exempting
+
+234
+00:44:34.335 --> 00:44:45.675
+smaller companies unlikely to produce frontier models from the law.
+
+235
+00:44:46.475 --> 00:44:57.400
+Our hope is that transparency legislation will give a better sense over time of how likely or severe autonomy risks are shaping up to be, as well as the nature
+
+236
+00:44:57.400 --> 00:45:08.325
+of these risks and how best to prevent them. As more specific and actionable evidence of risks emerges (if it does), future legislation over the coming years can be surgically
+
+237
+00:45:08.325 --> 00:45:19.250
+focused on the precise and well-substantiated direction of risks, minimizing collateral damage. To be clear, if truly strong evidence of risks emerges, then rules should be proportionately strong. Overall, I
+
+238
+00:45:19.250 --> 00:45:30.175
+am optimistic that a mixture of alignment training, mechanistic interpretability, efforts to find and publicly disclose concerning behaviors, safeguards, and societal-level rules can address A.I. autonomy risks, although I am
+
+239
+00:45:30.175 --> 00:45:41.100
+most worried about societal-level rules and the behavior of the least responsible players (and it’s the least responsible players who advocate most strongly against regulation). I believe the remedy is
+
+240
+00:45:41.100 --> 00:45:52.025
+what it always is in a democracy: those of us who believe in this cause should make our case that these risks are real and that our fellow citizens need
+
+241
+00:45:52.025 --> 00:46:02.950
+to band together to protect themselves.
+
+242
+00:46:03.750 --> 00:46:15.443
+2. A surprising and terrible empowerment Misuse for destruction Let’s suppose that the problems of A.I. autonomy have been solved, we are no longer worried that the country of A.I.
+
+243
+00:46:15.443 --> 00:46:27.136
+geniuses will go rogue and overpower humanity. The A.I. geniuses do what humans want them to do, and because they have enormous commercial value, individuals and organizations throughout the world
+
+244
+00:46:27.136 --> 00:46:38.829
+can “rent” one or more A.I. geniuses to do various tasks for them. Everyone having a superintelligent genius in their pocket is an amazing advance and will lead to an
+
+245
+00:46:38.829 --> 00:46:50.522
+incredible creation of economic value and improvement in the quality of human life. I talk about these benefits in great detail in Machines of Loving Grace. But not every effect
+
+246
+00:46:50.522 --> 00:47:02.215
+of making everyone superhumanly capable will be positive. It can potentially amplify the ability of individuals or small groups to cause destruction on a much larger scale than was possible
+
+247
+00:47:02.215 --> 00:47:13.908
+before, by making use of sophisticated and dangerous tools (such as weapons of mass destruction) that were previously only available to a select few with a high level of skill,
+
+248
+00:47:13.908 --> 00:47:25.601
+specialized training, and focus. As Bill Joy wrote 25 years ago in Why the Future Doesn’t Need Us: Building nuclear weapons required, at least for a time, access to both
+
+249
+00:47:25.601 --> 00:47:37.294
+rare, indeed, effectively unavailable, raw materials and protected information; biological and chemical weapons programs also tended to require large-scale activities. The 21st century technologies, genetics, nanotechnology, and robotics , can
+
+250
+00:47:37.294 --> 00:47:48.987
+spawn whole new classes of accidents and abuses … widely within reach of individuals or small groups. They will not require large facilities or rare raw materials. … we are
+
+251
+00:47:48.987 --> 00:48:00.680
+on the cusp of the further perfection of extreme evil, an evil whose possibility spreads well beyond that which weapons of mass destruction bequeathed to the nation-states, to a surprising
+
+252
+00:48:00.680 --> 00:48:12.373
+and terrible empowerment of extreme individuals. What Joy is pointing to is the idea that causing large-scale destruction requires both motive and ability, and as long as ability is restricted
+
+253
+00:48:12.373 --> 00:48:24.066
+to a small set of highly trained people, there is relatively limited risk of single individuals (or small groups) causing such destruction. A disturbed loner can perpetrate a school shooting,
+
+254
+00:48:24.066 --> 00:48:35.759
+but probably can’t build a nuclear weapon or release a plague. In fact, ability and motive may even be negatively correlated. The kind of person who has the ability to
+
+255
+00:48:35.759 --> 00:48:47.452
+release a plague is probably highly educated: likely a PhD in molecular biology, and a particularly resourceful one, with a promising career, a stable and disciplined personality, and a lot
+
+256
+00:48:47.452 --> 00:48:59.145
+to lose. This kind of person is unlikely to be interested in killing a huge number of people for no benefit to themselves and at great risk to their own
+
+257
+00:48:59.145 --> 00:49:10.850
+future, they would need to be motivated by pure malice, intense grievance, or instability.
+
+258
+00:49:11.650 --> 00:49:23.406
+Such people do exist, but they are rare, and tend to become huge stories when they occur, precisely because they are so unusual. They also tend to be difficult to
+
+259
+00:49:23.406 --> 00:49:35.162
+catch because they are intelligent and capable, sometimes leaving mysteries that take years or decades to solve. The most famous example is probably mathematician Theodore Kaczynski (the Unabomber), who evaded
+
+260
+00:49:35.162 --> 00:49:46.918
+FBI capture for nearly 20 years, and was driven by an anti-technological ideology. Another example is biodefense researcher Bruce Ivins, who seems to have orchestrated a series of anthrax attacks
+
+261
+00:49:46.918 --> 00:49:58.674
+in 2001. It’s also happened with skilled non-state organizations: the cult Aum Shinrikyo managed to obtain sarin nerve gas and kill 14 people (as well as injuring hundreds more) by
+
+262
+00:49:58.674 --> 00:50:10.430
+releasing it in the Tokyo subway in 1995. Thankfully, none of these attacks used contagious biological agents, because the ability to construct or obtain these agents was beyond the capabilities
+
+263
+00:50:10.430 --> 00:50:22.186
+of even these people. Advances in molecular biology have now significantly lowered the barrier to creating biological weapons (especially in terms of availability of materials), but it still takes an
+
+264
+00:50:22.186 --> 00:50:33.942
+enormous amount of expertise in order to do so. I am concerned that a genius in everyone’s pocket could remove that barrier, essentially making everyone a PhD virologist who can
+
+265
+00:50:33.942 --> 00:50:45.698
+be walked through the process of designing, synthesizing, and releasing a biological weapon step-by-step. Preventing the elicitation of this kind of information in the face of serious adversarial pressure, so-called
+
+266
+00:50:45.698 --> 00:50:57.454
+“jailbreaks”, likely demands layers of defenses beyond those ordinarily baked into training. Crucially, this will break the correlation between ability and motive: the disturbed loner who wants to kill people
+
+267
+00:50:57.454 --> 00:51:09.210
+but lacks the discipline or skill to do so will now be elevated to the capability level of the PhD virologist, who is unlikely to have this motivation. This concern
+
+268
+00:51:09.210 --> 00:51:20.966
+generalizes beyond biology (although I think biology is the scariest area) to any area where great destruction is possible but currently requires a high level of skill and discipline. To
+
+269
+00:51:20.966 --> 00:51:32.722
+put it another way, renting a powerful A.I. gives intelligence to malicious (but otherwise average) people. I am worried there are potentially a large number of such people out there,
+
+270
+00:51:32.722 --> 00:51:44.478
+and that if they have access to an easy way to kill millions of people, sooner or later one of them will do it. Additionally, those who do have expertise
+
+271
+00:51:44.478 --> 00:51:56.234
+may be enabled to commit even larger-scale destruction than they could before. Biology is by far the area I’m most worried about, because of its very large potential for destruction
+
+272
+00:51:56.234 --> 00:52:07.990
+and the difficulty of defending against it, so I’ll focus on biology in particular. But much of what I say here applies to other risks, like cyberattacks, chemical weapons, or
+
+273
+00:52:07.990 --> 00:52:19.750
+nuclear technology.
+
+274
+00:52:20.550 --> 00:52:31.847
+I am not going to go into detail about how to make biological weapons, for reasons that should be obvious. But at a high level, I am concerned that L.L.M.s
+
+275
+00:52:31.847 --> 00:52:43.144
+are approaching (or may already have reached) the knowledge needed to create and release them end-to-end, and that their potential for destruction is very high. Some biological agents could cause
+
+276
+00:52:43.144 --> 00:52:54.441
+millions of deaths if a determined effort was made to release them for maximum spread. However, this would still take a very high level of skill, including a number of
+
+277
+00:52:54.441 --> 00:53:05.738
+very specific steps and procedures that are not widely known. My concern is not merely fixed or static knowledge. I am concerned that L.L.M.s will be able to take someone
+
+278
+00:53:05.738 --> 00:53:17.035
+of average knowledge and ability and walk them through a complex process that might otherwise go wrong or require debugging in an interactive way, similar to how tech support might
+
+279
+00:53:17.035 --> 00:53:28.332
+help a non-technical person debug and fix complicated computer-related problems (although this would be a more extended process, probably lasting over weeks or months). More capable L.L.M.s (substantially beyond the
+
+280
+00:53:28.332 --> 00:53:39.629
+power of today’s) might be capable of enabling even more frightening acts. In 2024, a group of prominent scientists wrote a letter warning about the risks of researching, and potentially
+
+281
+00:53:39.629 --> 00:53:50.926
+creating, a dangerous new type of organism: “mirror life.” The DNA, RNA, ribosomes, and proteins that make up biological organisms all have the same chirality (also called “handedness”) that causes
+
+282
+00:53:50.926 --> 00:54:02.223
+them to be not equivalent to a version of themselves reflected in the mirror (just as your right hand cannot be rotated in such a way as to be identical
+
+283
+00:54:02.223 --> 00:54:13.520
+to your left). But the whole system of proteins binding to each other, the machinery of DNA synthesis and RNA translation and the construction and breakdown of proteins, all depends
+
+284
+00:54:13.520 --> 00:54:24.817
+on this handedness. If scientists made versions of this biological material with the opposite handedness, and there are some potential advantages of these, such as medicines that last longer in
+
+285
+00:54:24.817 --> 00:54:36.114
+the body, it could be extremely dangerous. This is because left-handed life, if it were made in the form of complete organisms capable of reproduction (which would be very difficult),
+
+286
+00:54:36.114 --> 00:54:47.411
+would potentially be indigestible to any of the systems that break down biological material on earth, it would have a “key” that wouldn’t fit into the “lock” of any existing
+
+287
+00:54:47.411 --> 00:54:58.708
+enzyme. This would mean that it could proliferate in an uncontrollable way and crowd out all life on the planet, in the worst case even destroying all life on earth.
+
+288
+00:54:58.708 --> 00:55:10.005
+There is substantial scientific uncertainty about both the creation and potential effects of mirror life. The 2024 letter accompanied a report that concluded that “mirror bacteria could plausibly be created
+
+289
+00:55:10.005 --> 00:55:21.302
+in the next one to few decades,” which is a wide range. But a sufficiently powerful A.I. model (to be clear, far more capable than any we have today) might
+
+290
+00:55:21.302 --> 00:55:32.600
+be able to discover how to create it much more rapidly, and actually help someone do so.
+
+291
+00:55:33.400 --> 00:55:45.201
+My view is that even though these are obscure risks, and might seem unlikely, the magnitude of the consequences is so large that they should be taken seriously as a
+
+292
+00:55:45.201 --> 00:55:57.002
+first-class risk of A.I. systems. Skeptics have raised a number of objections to the seriousness of these biological risks from L.L.M.s, which I disagree with but which are worth addressing.
+
+293
+00:55:57.002 --> 00:56:08.803
+Most fall into the category of not appreciating the exponential trajectory that the technology is on. Back in 2023 when we first started talking about biological risks from L.L.M.s, skeptics
+
+294
+00:56:08.803 --> 00:56:20.604
+said that all the necessary information was available on Google and L.L.M.s didn’t add anything beyond this. It was never true that Google could give you all the necessary information:
+
+295
+00:56:20.604 --> 00:56:32.405
+genomes are freely available, but as I said above, certain key steps, as well as a huge amount of practical know-how cannot be gotten in that way. But also, by
+
+296
+00:56:32.405 --> 00:56:44.206
+the end of 2023 L.L.M.s were clearly providing information beyond what Google could give for some steps of the process. After this, skeptics retreated to the objection that L.L.M.s weren’t
+
+297
+00:56:44.206 --> 00:56:56.007
+end-to-end useful, and couldn’t help with bioweapons acquisition as opposed to just providing theoretical information. As of mid-2025, our measurements show that L.L.M.s may already be providing substantial uplift in
+
+298
+00:56:56.007 --> 00:57:07.808
+several relevant areas, perhaps doubling or tripling the likelihood of success. This led to us deciding that Claude Opus four (and the subsequent Sonnet four.5, Opus four.1, and Opus four.
+
+299
+00:57:07.808 --> 00:57:19.609
+models) needed to be released under our A.I. Safety Level three protections in our Responsible Scaling Policy framework, and to implementing safeguards against this risk (more on this later). We
+
+300
+00:57:19.609 --> 00:57:31.410
+believe that models are likely now approaching the point where, without safeguards, they could be useful in enabling someone with a STEM degree but not specifically a biology degree to
+
+301
+00:57:31.410 --> 00:57:43.211
+go through the whole process of producing a bioweapon. Another objection is that there are other actions unrelated to A.I. that society can take to block the production of bioweapons.
+
+302
+00:57:43.211 --> 00:57:55.012
+Most prominently, the gene synthesis industry makes biological specimens on demand, and there is no federal requirement that providers screen orders to make sure they do not contain pathogens. An
+
+303
+00:57:55.012 --> 00:58:06.813
+MIT study found that 36 out of 38 providers fulfilled an order containing the sequence of the 1918 flu. I am supportive of mandated gene synthesis screening that would make
+
+304
+00:58:06.813 --> 00:58:18.614
+it harder for individuals to weaponize pathogens, in order to reduce both A.I.-driven biological risks and also biological risks in general. But this is not something we have today. It
+
+305
+00:58:18.614 --> 00:58:30.425
+would also be only one tool in reducing risk; it is a complement to guardrails on A.I. systems, not a substitute.
+
+306
+00:58:31.225 --> 00:58:42.448
+The best objection is one that I’ve rarely seen raised: that there is a gap between the models being useful in principle and the actual propensity of bad actors to
+
+307
+00:58:42.448 --> 00:58:53.671
+use them. Most individual bad actors are disturbed individuals, so almost by definition their behavior is unpredictable and irrational, and it’s these bad actors, the unskilled ones, who might have
+
+308
+00:58:53.671 --> 00:59:04.894
+stood to benefit the most from A.I. making it much easier to kill many people. Just because a type of violent attack is possible, doesn’t mean someone will decide to
+
+309
+00:59:04.894 --> 00:59:16.117
+do it. Perhaps biological attacks will be unappealing because they are reasonably likely to infect the perpetrator, they don’t cater to the military-style fantasies that many violent individuals or groups
+
+310
+00:59:16.117 --> 00:59:27.340
+have, and it is hard to selectively target specific people. It could also be that going through a process that takes months, even if an A.I. walks you through it,
+
+311
+00:59:27.340 --> 00:59:38.563
+involves an amount of patience that most disturbed individuals simply don’t have. We may simply get lucky and motive and ability don’t combine, in practice, in quite the right way.
+
+312
+00:59:38.563 --> 00:59:49.786
+But this seems like very flimsy protection to rely on. The motives of disturbed loners can change for any reason or no reason, and in fact there are already instances
+
+313
+00:59:49.786 --> 01:00:01.009
+of L.L.M.s being used in attacks (just not with biology). The focus on disturbed loners also ignores ideologically motivated terrorists, who are often willing to expend large amounts of time
+
+314
+01:00:01.009 --> 01:00:12.232
+and effort (for example, the 9/11 hijackers). Wanting to kill as many people as possible is a motive that will probably arise sooner or later, and it unfortunately suggests bioweapons
+
+315
+01:00:12.232 --> 01:00:23.455
+as the method. Even if this motive is extremely rare, it only has to materialize once. And as biology advances (increasingly driven by A.I. itself), it may also become possible
+
+316
+01:00:23.455 --> 01:00:34.678
+to carry out more selective attacks (for example, targeted against people with specific ancestries), which adds yet another, very chilling, possible motive. I do not think biological attacks will necessarily
+
+317
+01:00:34.678 --> 01:00:45.901
+be carried out the instant it becomes widely possible to do so, in fact, I would bet against that. But added up across millions of people and a few years
+
+318
+01:00:45.901 --> 01:00:57.124
+of time, I think there is a serious risk of a major attack, and the consequences would be so severe (with casualties potentially in the millions or more) that I
+
+319
+01:00:57.124 --> 01:01:08.350
+believe we have no choice but to take serious measures to prevent it. Defenses
+
+320
+01:01:09.150 --> 01:01:21.406
+That brings us to how to defend against these risks. Here I see three things we can do. First, A.I. companies can put guardrails on their models to prevent them
+
+321
+01:01:21.406 --> 01:01:33.662
+from helping to produce bioweapons. Anthropic is very actively doing this. Claude’s Constitution, which mostly focuses on high-level principles and values, has a small number of specific hard-line prohibitions, and
+
+322
+01:01:33.662 --> 01:01:45.918
+one of them relates to helping with the production of biological (or chemical, or nuclear, or radiological) weapons. But all models can be jailbroken, and so as a second line
+
+323
+01:01:45.918 --> 01:01:58.174
+of defense, we’ve implemented (since mid-2025, when our tests showed our models were starting to get close to the threshold where they might begin to pose a risk) a classifier
+
+324
+01:01:58.174 --> 01:02:10.430
+that specifically detects and blocks bioweapon-related outputs. We regularly upgrade and improve these classifiers, and have generally found them highly robust even against sophisticated adversarial attacks. These classifiers increase the
+
+325
+01:02:10.430 --> 01:02:22.686
+costs to serve our models measurably (in some models, they are close to 5% of total inference costs) and thus cut into our margins, but we feel that using them
+
+326
+01:02:22.686 --> 01:02:34.942
+is the right thing to do. To their credit, some other A.I. companies have implemented classifiers as well. But not every company has, and there is also nothing requiring companies
+
+327
+01:02:34.942 --> 01:02:47.198
+to keep their classifiers. I am concerned that over time there may be a prisoner’s dilemma where companies can defect and lower their costs by removing classifiers. This is once
+
+328
+01:02:47.198 --> 01:02:59.454
+again a classic negative externalities problem that can’t be solved by the voluntary actions of Anthropic or any other single company alone. Voluntary industry standards may help, as may third-party
+
+329
+01:02:59.454 --> 01:03:11.710
+evaluations and verification of the type done by A.I. security institutes and third-party evaluators. But ultimately defense may require government action, which is the second thing we can do. My
+
+330
+01:03:11.710 --> 01:03:23.966
+views here are the same as they are for addressing autonomy risks: we should start with transparency requirements, which help society measure, monitor, and collectively defend against risks without disrupting
+
+331
+01:03:23.966 --> 01:03:36.222
+economic activity in a heavy-handed way. Then, if and when we reach clearer thresholds of risk, we can craft legislation that more precisely targets these risks and has a lower
+
+332
+01:03:36.222 --> 01:03:48.478
+chance of collateral damage. In the particular case of bioweapons, I actually think that the time for such targeted legislation may be approaching soon, Anthropic and other companies are learning
+
+333
+01:03:48.478 --> 01:04:00.734
+more and more about the nature of biological risks and what is reasonable to require of companies in defending against them. Fully defending against these risks may require working internationally,
+
+334
+01:04:00.734 --> 01:04:12.990
+even with geopolitical adversaries, but there is precedent in treaties prohibiting the development of biological weapons. I am generally a skeptic about most kinds of international cooperation on A.I., but
+
+335
+01:04:12.990 --> 01:04:25.250
+this may be one narrow area where there is some chance of achieving global restraint. Even dictatorships do not want massive bioterrorist attacks.
+
+336
+01:04:26.050 --> 01:04:37.565
+Finally, the third countermeasure we can take is to try to develop defenses against biological attacks themselves. This could include monitoring and tracking for early detection, investments in air purification
+
+337
+01:04:37.565 --> 01:04:49.080
+R&D (such as far-UVC disinfection), rapid vaccine development that can respond and adapt to an attack, better personal protective equipment (PPE), and treatments or vaccinations for some of the most
+
+338
+01:04:49.080 --> 01:05:00.595
+likely biological agents. mRNA vaccines, which can be designed to respond to a particular virus or variant, are an early example of what is possible here. Anthropic is excited to
+
+339
+01:05:00.595 --> 01:05:12.110
+work with biotech and pharmaceutical companies on this problem. But unfortunately I think our expectations on the defensive side should be limited. There is an asymmetry between attack and defense
+
+340
+01:05:12.110 --> 01:05:23.625
+in biology, because agents spread rapidly on their own, while defenses require detection, vaccination, and treatment to be organized across large numbers of people very quickly in response. Unless the
+
+341
+01:05:23.625 --> 01:05:35.140
+response is lightning quick (which it rarely is), much of the damage will be done before a response is possible. It is conceivable that future technological improvements could shift this
+
+342
+01:05:35.140 --> 01:05:46.655
+balance in favor of defense (and we should certainly use A.I. to help develop such technological advances), but until then, preventative safeguards will be our main line of defense. It’s
+
+343
+01:05:46.655 --> 01:05:58.170
+worth a brief mention of cyberattacks here, since unlike biological attacks, A.I.-led cyberattacks have actually happened in the wild, including at a large scale and for state-sponsored espionage. We expect
+
+344
+01:05:58.170 --> 01:06:09.685
+these attacks to become more capable as models advance rapidly, until they are the main way in which cyberattacks are conducted. I expect A.I.-led cyberattacks to become a serious and
+
+345
+01:06:09.685 --> 01:06:21.200
+unprecedented threat to the integrity of computer systems around the world, and Anthropic is working very hard to shut down these attacks and eventually reliably prevent them from happening. The
+
+346
+01:06:21.200 --> 01:06:32.715
+reason I haven’t focused on cyber as much as biology is that (1) cyberattacks are much less likely to kill people, certainly not at the scale of biological attacks, and
+
+347
+01:06:32.715 --> 01:06:44.230
+(2) the offense-defense balance may be more tractable in cyber, where there is at least some hope that defense could keep up with (and even ideally outpace) A.I. attack if
+
+348
+01:06:44.230 --> 01:06:55.745
+we invest in it properly. Although biology is currently the most serious vector of attack, there are many other vectors and it is possible that a more dangerous one may
+
+349
+01:06:55.745 --> 01:07:07.260
+emerge. The general principle is that without countermeasures, A.I. is likely to continuously lower the barrier to destructive activity on a larger and larger scale, and humanity needs a serious
+
+350
+01:07:07.260 --> 01:07:18.775
+response to this threat.
+
+351
+01:07:19.575 --> 01:07:31.057
+3. The odious apparatus Misuse for seizing power The previous section discussed the risk of individuals and small organizations co-opting a small subset of the “country of geniuses in a
+
+352
+01:07:31.057 --> 01:07:42.539
+datacenter” to cause large-scale destruction. But we should also worry, likely substantially more so, about misuse of A.I. for the purpose of wielding or seizing power, likely by larger and
+
+353
+01:07:42.539 --> 01:07:54.021
+more established actors. In Machines of Loving Grace, I discussed the possibility that authoritarian governments might use powerful A.I. to surveil or repress their citizens in ways that would be
+
+354
+01:07:54.021 --> 01:08:05.503
+extremely difficult to reform or overthrow. Current autocracies are limited in how repressive they can be by the need to have humans carry out their orders, and humans often have
+
+355
+01:08:05.503 --> 01:08:16.985
+limits in how inhumane they are willing to be. But A.I.-enabled autocracies would not have such limits. Worse yet, countries could also use their advantage in A.I. to gain power
+
+356
+01:08:16.985 --> 01:08:28.467
+over other countries. If the “country of geniuses” as a whole was simply owned and controlled by a single (human) country’s military apparatus, and other countries did not have equivalent
+
+357
+01:08:28.467 --> 01:08:39.949
+capabilities, it is hard to see how they could defend themselves: they would be outsmarted at every turn, similar to a war between humans and mice. Putting these two concerns
+
+358
+01:08:39.949 --> 01:08:51.431
+together leads to the alarming possibility of a global totalitarian dictatorship. Obviously, it should be one of our highest priorities to prevent this outcome. There are many ways in which
+
+359
+01:08:51.431 --> 01:09:02.913
+A.I. could enable, entrench, or expand autocracy, but I’ll list a few that I’m most worried about. Note that some of these applications have legitimate defensive uses, and I am
+
+360
+01:09:02.913 --> 01:09:14.400
+not necessarily arguing against them in absolute terms; I am nevertheless worried that they structurally tend to favor autocracies:
+
+361
+01:09:15.200 --> 01:09:30.995
+Fully autonomous weapons. A swarm of millions or billions of fully automated armed drones, locally controlled by powerful A.I. and strategically coordinated across the world by an even more powerful
+
+362
+01:09:30.995 --> 01:09:46.790
+A.I., could be an unbeatable army, capable of both defeating any military in the world and suppressing dissent within a country by following around every citizen. Developments in the Russia-Ukraine
+
+363
+01:09:46.790 --> 01:10:02.585
+War should alert us to the fact that drone warfare is already with us (though not fully autonomous yet, and a tiny fraction of what might be possible with powerful
+
+364
+01:10:02.585 --> 01:10:18.380
+A.I.). R&D from powerful A.I. could make the drones of one country far superior to those of others, speed up their manufacture, make them more resistant to electronic attacks, improve
+
+365
+01:10:18.380 --> 01:10:34.175
+their maneuvering, and so on. Of course, these weapons also have legitimate uses in the defense of democracy: they have been key to defending Ukraine and would likely be key
+
+366
+01:10:34.175 --> 01:10:49.970
+to defending Taiwan. But they are a dangerous weapon to wield: we should worry about them in the hands of autocracies, but also worry that because they are so powerful,
+
+367
+01:10:49.970 --> 01:11:05.765
+with so little accountability, there is a greatly increased risk of democratic governments turning them against their own people to seize power. A.I. surveillance. Sufficiently powerful A.I. could likely be
+
+368
+01:11:05.765 --> 01:11:21.560
+used to compromise any computer system in the world, and could also use the access obtained in this way to read and make sense of all the world’s electronic communications
+
+369
+01:11:21.560 --> 01:11:37.355
+(or even all the world’s in-person communications, if recording devices can be built or commandeered). It might be frighteningly plausible to simply generate a complete list of anyone who disagrees
+
+370
+01:11:37.355 --> 01:11:53.150
+with the government on any number of issues, even if such disagreement isn’t explicit in anything they say or do. A powerful A.I. looking across billions of conversations from millions
+
+371
+01:11:53.150 --> 01:12:08.945
+of people could gauge public sentiment, detect pockets of disloyalty forming, and stamp them out before they grow. This could lead to the imposition of a true panopticon on a
+
+372
+01:12:08.945 --> 01:12:24.740
+scale that we don’t see today, even with the CCP. A.I. propaganda. Today’s phenomena of “A.I. psychosis” and “A.I. girlfriends” suggest that even at their current level of intelligence, A.I.
+
+373
+01:12:24.740 --> 01:12:40.535
+models can have a powerful psychological influence on people. Much more powerful versions of these models, that were much more embedded in and aware of people’s daily lives and could
+
+374
+01:12:40.535 --> 01:12:56.330
+model and influence them over months or years, would likely be capable of essentially brainwashing many (most?) people into any desired ideology or attitude, and could be employed by an
+
+375
+01:12:56.330 --> 01:13:12.125
+unscrupulous leader to ensure loyalty and suppress dissent, even in the face of a level of repression that most populations would rebel against. Today people worry a lot about, for
+
+376
+01:13:12.125 --> 01:13:27.925
+example, the potential influence of TikTok as CCP propaganda directed at children. I worry about that too, but a personalized A.I.
+
+377
+01:13:28.725 --> 01:13:39.392
+agent that gets to know you over years and uses its knowledge of you to shape all of your opinions would be dramatically more powerful than this. Strategic decision-making. A
+
+378
+01:13:39.392 --> 01:13:50.059
+country of geniuses in a datacenter could be used to advise a country, group, or individual on geopolitical strategy, what we might call a “virtual Bismarck.” It could optimize the
+
+379
+01:13:50.059 --> 01:14:00.726
+three strategies above for seizing power, plus probably develop many others that I haven’t thought of (but that a country of geniuses could). Diplomacy, military strategy, R&D, economic strategy, and
+
+380
+01:14:00.726 --> 01:14:11.393
+many other areas are all likely to be substantially increased in effectiveness by powerful A.I.. Many of these skills would be legitimately helpful for democracies, we want democracies to have
+
+381
+01:14:11.393 --> 01:14:22.060
+access to the best strategies for defending themselves against autocracies, but the potential for misuse in anyone’s hands still remains. Having described what I am worried about, let’s move on
+
+382
+01:14:22.060 --> 01:14:32.727
+to who. I am worried about entities who have the most access to A.I., who are starting from a position of the most political power, or who have an existing
+
+383
+01:14:32.727 --> 01:14:43.400
+history of repression. In order of severity, I am worried about:
+
+384
+01:14:44.200 --> 01:14:56.315
+The CCP. China is second only to the United States in A.I. capabilities, and is the country with the greatest likelihood of surpassing the United States in those capabilities. Their
+
+385
+01:14:56.315 --> 01:15:08.430
+government is currently autocratic and operates a high-tech surveillance state. It has deployed A.I.-based surveillance already (including in the repression of Uyghurs), and is believed to employ algorithmic propaganda via
+
+386
+01:15:08.430 --> 01:15:20.545
+TikTok (in addition to its many other international propaganda efforts). They have hands down the clearest path to the A.I.-enabled totalitarian nightmare I laid out above. It may even be
+
+387
+01:15:20.545 --> 01:15:32.660
+the default outcome within China, as well as within other autocratic states to whom the CCP exports surveillance technology. I have written often about the threat of the CCP taking
+
+388
+01:15:32.660 --> 01:15:44.775
+the lead in A.I. and the existential imperative to prevent them from doing so. This is why. To be clear, I am not singling out China out of animus to
+
+389
+01:15:44.775 --> 01:15:56.890
+them in particular, they are simply the country that most combines A.I. prowess, an autocratic government, and a high-tech surveillance state. If anything, it is the Chinese people themselves who
+
+390
+01:15:56.890 --> 01:16:09.005
+are most likely to suffer from the CCP’s A.I.-enabled repression, and they have no voice in the actions of their government. I greatly admire and respect the Chinese people and
+
+391
+01:16:09.005 --> 01:16:21.120
+support the many brave dissidents within China and their struggle for freedom. Democracies competitive in A.I.. As I wrote above, democracies have a legitimate interest in some A.I.-powered military and
+
+392
+01:16:21.120 --> 01:16:33.235
+geopolitical tools, because democratic governments offer the best chance to counter the use of these tools by autocracies. Broadly, I am supportive of arming democracies with the tools needed to
+
+393
+01:16:33.235 --> 01:16:45.350
+defeat autocracies in the age of A.I., I simply don’t think there is any other way. But we cannot ignore the potential for abuse of these technologies by democratic governments
+
+394
+01:16:45.350 --> 01:16:57.465
+themselves. Democracies normally have safeguards that prevent their military and intelligence apparatus from being turned inwards against their own population, but because A.I. tools require so few people to operate,
+
+395
+01:16:57.465 --> 01:17:09.580
+there is potential for them to circumvent these safeguards and the norms that support them. It is also worth noting that some of these safeguards are already gradually eroding in
+
+396
+01:17:09.580 --> 01:17:21.695
+some democracies. Thus, we should arm democracies with A.I., but we should do so carefully and within limits: they are the immune system we need to fight autocracies, but like
+
+397
+01:17:21.695 --> 01:17:33.810
+the immune system, there is some risk of them turning on us and becoming a threat themselves. Non-democratic countries with large datacenters. Beyond China, most countries with less democratic governance
+
+398
+01:17:33.810 --> 01:17:45.925
+are not leading A.I. players in the sense that they don’t have companies which produce frontier A.I. models. Thus they pose a fundamentally different and lesser risk than the CCP,
+
+399
+01:17:45.925 --> 01:17:58.050
+which remains the primary concern (most are also less repressive, and the ones that are more repressive, like North Korea, have no significant A.I. industry at all).
+
+400
+01:17:58.850 --> 01:18:10.345
+But some of these countries do have large datacenters (often as part of buildouts by companies operating in democracies), which can be used to run frontier A.I. at large scale
+
+401
+01:18:10.345 --> 01:18:21.840
+(though this does not confer the ability to push the frontier). There is some amount of danger associated with this, these governments could in principle expropriate the datacenters and use
+
+402
+01:18:21.840 --> 01:18:33.335
+the country of AIs within it for their own ends. I am less worried about this compared to countries like China that directly develop A.I., but it’s a risk to
+
+403
+01:18:33.335 --> 01:18:44.830
+keep in mind. A.I. companies. It is somewhat awkward to say this as the CEO of an A.I. company, but I think the next tier of risk is actually A.I.
+
+404
+01:18:44.830 --> 01:18:56.325
+companies themselves. A.I. companies control large datacenters, train frontier models, have the greatest expertise on how to use those models, and in some cases have daily contact with and the
+
+405
+01:18:56.325 --> 01:19:07.820
+possibility of influence over tens or hundreds of millions of users. The main thing they lack is the legitimacy and infrastructure of a state, so much of what would be
+
+406
+01:19:07.820 --> 01:19:19.315
+needed to build the tools of an A.I. autocracy would be illegal for an A.I. company to do, or at least exceedingly suspicious. But some of it is not impossible:
+
+407
+01:19:19.315 --> 01:19:30.810
+they could, for example, use their A.I. products to brainwash their massive consumer user base, and the public should be alert to the risk this represents. I think the governance
+
+408
+01:19:30.810 --> 01:19:42.305
+of A.I. companies deserves a lot of scrutiny. There are a number of possible arguments against the severity of these threats, and I wish I believed them, because A.I.-enabled authoritarianism
+
+409
+01:19:42.305 --> 01:19:53.800
+terrifies me. It’s worth going through some of these arguments and responding to them. First, some people might put their faith in the nuclear deterrent, particularly to counter the use
+
+410
+01:19:53.800 --> 01:20:05.295
+of A.I. autonomous weapons for military conquest. If someone threatens to use these weapons against you, you can always threaten a nuclear response back. My worry is that I’m not
+
+411
+01:20:05.295 --> 01:20:16.790
+totally sure we can be confident in the nuclear deterrent against a country of geniuses in a datacenter: it is possible that powerful A.I. could devise ways to detect and
+
+412
+01:20:16.790 --> 01:20:28.285
+strike nuclear submarines, conduct influence operations against the operators of nuclear weapons infrastructure, or use A.I.’s cyber capabilities to launch a cyberattack against satellites used to detect nuclear launches. Alternatively,
+
+413
+01:20:28.285 --> 01:20:39.780
+it’s possible that taking over countries is feasible with only A.I. surveillance and A.I. propaganda, and never actually presents a clear moment where it’s obvious what is going on and
+
+414
+01:20:39.780 --> 01:20:51.275
+where a nuclear response would be appropriate. Maybe these things aren’t feasible and the nuclear deterrent will still be effective, but it seems too high stakes to take a risk.
+
+415
+01:20:52.075 --> 01:21:03.200
+A second possible objection is that there might be countermeasures we can take against these tools of autocracy. We can counter drones with our own drones, cyberdefense will improve along
+
+416
+01:21:03.200 --> 01:21:14.325
+with cyberattack, there may be ways to immunize people against propaganda, etc. My response is that these defenses will only be possible with comparably powerful A.I.. If there isn’t some
+
+417
+01:21:14.325 --> 01:21:25.450
+counterforce with a comparably smart and numerous country of geniuses in a datacenter, it won’t be possible to match the quality or quantity of drones, for cyberdefense to outsmart cyberoffense,
+
+418
+01:21:25.450 --> 01:21:36.575
+etc. So the question of countermeasures reduces to the question of a balance of power in powerful A.I.. Here, I am concerned about the recursive or self-reinforcing property of powerful
+
+419
+01:21:36.575 --> 01:21:47.700
+A.I. (which I discussed at the beginning of this essay): that each generation of A.I. can be used to design and train the next generation of A.I.. This leads to
+
+420
+01:21:47.700 --> 01:21:58.825
+a risk of a runaway advantage, where the current leader in powerful A.I. may be able to increase their lead and may be difficult to catch up with. We need
+
+421
+01:21:58.825 --> 01:22:09.950
+to make sure it is not an authoritarian country that gets to this loop first. Furthermore, even if a balance of power can be achieved, there is still risk that
+
+422
+01:22:09.950 --> 01:22:21.075
+the world could be split up into autocratic spheres, as in Nineteen Eighty-Four. Even if several competing powers each have their powerful A.I. models, and none can overpower the others,
+
+423
+01:22:21.075 --> 01:22:32.200
+each power could still internally repress their own population, and would be very difficult to overthrow (since the populations don’t have powerful A.I. to defend themselves). It is thus important
+
+424
+01:22:32.200 --> 01:22:43.325
+to prevent A.I.-enabled autocracy even if it doesn’t lead to a single country taking over the world. Defenses
+
+425
+01:22:44.125 --> 01:22:55.650
+How do we defend against this wide range of autocratic tools and potential threat actors? As in the previous sections, there are several things I think we can do. First,
+
+426
+01:22:55.650 --> 01:23:07.175
+we should absolutely not be selling chips, chip-making tools, or datacenters to the CCP. Chips and chip-making tools are the single greatest bottleneck to powerful A.I., and blocking them is
+
+427
+01:23:07.175 --> 01:23:18.700
+a simple but extremely effective measure, perhaps the most important single action we can take. It makes no sense to sell the CCP the tools with which to build an
+
+428
+01:23:18.700 --> 01:23:30.225
+A.I. totalitarian state and possibly conquer us militarily. A number of complicated arguments are made to justify such sales, such as the idea that “spreading our tech stack around the
+
+429
+01:23:30.225 --> 01:23:41.750
+world” allows “America to win” in some general, unspecified economic battle. In my view, this is like selling nuclear weapons to North Korea and then bragging that the missile casings
+
+430
+01:23:41.750 --> 01:23:53.275
+are made by Boeing and so the US is “winning.” China is several years behind the US in their ability to produce frontier chips in quantity, and the critical period
+
+431
+01:23:53.275 --> 01:24:04.800
+for building the country of geniuses in a datacenter is very likely to be within those next several years. There is no reason to give a giant boost to their
+
+432
+01:24:04.800 --> 01:24:16.325
+A.I. industry during this critical period. Second, it makes sense to use A.I. to empower democracies to resist autocracies. This is the reason Anthropic considers it important to provide A.I.
+
+433
+01:24:16.325 --> 01:24:27.850
+to the intelligence and defense communities in the US and its democratic allies. Defending democracies that are under attack, such as Ukraine and (via cyber attacks) Taiwan, seems especially high
+
+434
+01:24:27.850 --> 01:24:39.375
+priority, as does empowering democracies to use their intelligence services to disrupt and degrade autocracies from the inside. At some level the only way to respond to autocratic threats is
+
+435
+01:24:39.375 --> 01:24:50.900
+to match and outclass them militarily. A coalition of the US and its democratic allies, if it achieved predominance in powerful A.I., would be in a position to not only
+
+436
+01:24:50.900 --> 01:25:02.425
+defend itself against autocracies, but contain them and limit their A.I. totalitarian abuses. Third, we need to draw a hard line against A.I. abuses within democracies. There need to be
+
+437
+01:25:02.425 --> 01:25:13.950
+limits to what we allow our governments to do with A.I., so that they don’t seize power or repress their own people. The formulation I have come up with is
+
+438
+01:25:13.950 --> 01:25:25.475
+that we should use A.I. for national defense in all ways except those which would make us more like our autocratic adversaries.
+
+439
+01:25:26.275 --> 01:25:37.987
+Where should the line be drawn? In the list at the beginning of this section, two items, using A.I. for domestic mass surveillance and mass propaganda, seem to me like
+
+440
+01:25:37.987 --> 01:25:49.699
+bright red lines and entirely illegitimate. Some might argue that there’s no need to do anything (at least in the US), since domestic mass surveillance is already illegal under the
+
+441
+01:25:49.699 --> 01:26:01.411
+Fourth Amendment. But the rapid progress of A.I. may create situations that our existing legal frameworks are not well designed to deal with. For example, it would likely not be
+
+442
+01:26:01.411 --> 01:26:13.123
+unconstitutional for the US government to conduct massively scaled recordings of all public conversations (e.g., things people say to each other on a street corner), and previously it would have
+
+443
+01:26:13.123 --> 01:26:24.835
+been difficult to sort through this volume of information, but with A.I. it could all be transcribed, interpreted, and triangulated to create a picture of the attitude and loyalties of
+
+444
+01:26:24.835 --> 01:26:36.547
+many or most citizens. I would support civil liberties-focused legislation (or maybe even a constitutional amendment) that imposes stronger guardrails against A.I.-powered abuses. The other two items, fully autonomous weapons
+
+445
+01:26:36.547 --> 01:26:48.259
+and A.I. for strategic decision-making, are harder lines to draw since they have legitimate uses in defending democracy, while also being prone to abuse. Here I think what is warranted
+
+446
+01:26:48.259 --> 01:26:59.971
+is extreme care and scrutiny combined with guardrails to prevent abuses. My main fear is having too small a number of “fingers on the button,” such that one or a
+
+447
+01:26:59.971 --> 01:27:11.683
+handful of people could essentially operate a drone army without needing any other humans to cooperate to carry out their orders. As A.I. systems get more powerful, we may need
+
+448
+01:27:11.683 --> 01:27:23.395
+to have more direct and immediate oversight mechanisms to ensure they are not misused, perhaps involving branches of government other than the executive. I think we should approach fully autonomous
+
+449
+01:27:23.395 --> 01:27:35.107
+weapons in particular with great caution, and not rush into their use without proper safeguards. Fourth, after drawing a hard line against A.I. abuses in democracies, we should use that
+
+450
+01:27:35.107 --> 01:27:46.819
+precedent to create an international taboo against the worst abuses of powerful A.I.. I recognize that the current political winds have turned against international cooperation and international norms, but this
+
+451
+01:27:46.819 --> 01:27:58.531
+is a case where we sorely need them. The world needs to understand the dark potential of powerful A.I. in the hands of autocrats, and to recognize that certain uses
+
+452
+01:27:58.531 --> 01:28:10.243
+of A.I. amount to an attempt to permanently steal their freedom and impose a totalitarian state from which they can’t escape. I would even argue that in some cases, large-scale
+
+453
+01:28:10.243 --> 01:28:21.955
+surveillance with powerful A.I., mass propaganda with powerful A.I., and certain types of offensive uses of fully autonomous weapons should be considered crimes against humanity. More generally, a robust norm
+
+454
+01:28:21.955 --> 01:28:33.675
+against A.I.-enabled totalitarianism and all its tools and instruments is sorely needed.
+
+455
+01:28:34.475 --> 01:28:46.252
+It is possible to have an even stronger version of this position, which is that because the possibilities of A.I.-enabled totalitarianism are so dark, autocracy is simply not a form
+
+456
+01:28:46.252 --> 01:28:58.029
+of government that people can accept in the post-powerful A.I. age. Just as feudalism became unworkable with the industrial revolution, the A.I. age could lead inevitably and logically to the
+
+457
+01:28:58.029 --> 01:29:09.806
+conclusion that democracy (and, hopefully, democracy improved and reinvigorated by A.I., as I discuss in Machines of Loving Grace) is the only viable form of government if humanity is to
+
+458
+01:29:09.806 --> 01:29:21.583
+have a good future. Fifth and finally, A.I. companies should be carefully watched, as should their connection to the government, which is necessary, but must have limits and boundaries. The
+
+459
+01:29:21.583 --> 01:29:33.360
+sheer amount of capability embodied in powerful A.I. is such that ordinary corporate governance, which is designed to protect shareholders and prevent ordinary abuses such as fraud, is unlikely to
+
+460
+01:29:33.360 --> 01:29:45.137
+be up to the task of governing A.I. companies. There may also be value in companies publicly committing to (perhaps even as part of corporate governance) not take certain actions,
+
+461
+01:29:45.137 --> 01:29:56.914
+such as privately building or stockpiling military hardware, using large amounts of computing resources by single individuals in unaccountable ways, or using their A.I. products as propaganda to manipulate public
+
+462
+01:29:56.914 --> 01:30:08.691
+opinion in their favor. The danger here comes from many directions, and some directions are in tension with others. The only constant is that we must seek accountability, norms, and
+
+463
+01:30:08.691 --> 01:30:20.475
+guardrails for everyone, even as we empower “good” actors to keep “bad” actors in check.
+
+464
+01:30:21.275 --> 01:30:32.723
+4. Player piano Economic disruption The previous three sections were essentially about security risks posed by powerful A.I.: risks from the A.I. itself, risks from misuse by individuals and small
+
+465
+01:30:32.723 --> 01:30:44.171
+organizations and risks of misuse by states and large organizations. If we put aside security risks or assume they have been solved, the next question is economic. What will be
+
+466
+01:30:44.171 --> 01:30:55.619
+the effect of this infusion of incredible “human” capital on the economy? Clearly, the most obvious effect will be to greatly increase economic growth. The pace of advances in scientific
+
+467
+01:30:55.619 --> 01:31:07.067
+research, biomedical innovation, manufacturing, supply chains, the efficiency of the financial system, and much more are almost guaranteed to lead to a much faster rate of economic growth. In Machines
+
+468
+01:31:07.067 --> 01:31:18.515
+of Loving Grace, I suggest that a 10–20% sustained annual GDP growth rate may be possible. But it should be clear that this is a double-edged sword: what are the
+
+469
+01:31:18.515 --> 01:31:29.963
+economic prospects for most existing humans in such a world? New technologies often bring labor market shocks, and in the past humans have always recovered from them, but I am
+
+470
+01:31:29.963 --> 01:31:41.411
+concerned that this is because these previous shocks affected only a small fraction of the full possible range of human abilities, leaving room for humans to expand to new tasks.
+
+471
+01:31:41.411 --> 01:31:52.859
+A.I. will have effects that are much broader and occur much faster, and therefore I worry it will be much more challenging to make things work out well. Labor market
+
+472
+01:31:52.859 --> 01:32:04.307
+disruption There are two specific problems I am worried about: labor market displacement, and concentration of economic power. Let’s start with the first one. This is a topic that I
+
+473
+01:32:04.307 --> 01:32:15.755
+warned about very publicly in 2025, where I predicted that A.I. could displace half of all entry-level white collar jobs in the next 1–5 years, even as it accelerates economic
+
+474
+01:32:15.755 --> 01:32:27.203
+growth and scientific progress. This warning started a public debate about the topic. Many CEOs, technologists, and economists agreed with me, but others assumed I was falling prey to a
+
+475
+01:32:27.203 --> 01:32:38.651
+“lump of labor” fallacy and didn’t know how labor markets worked, and some didn’t see the 1–5-year time range and thought I was claiming A.I. is displacing jobs right now
+
+476
+01:32:38.651 --> 01:32:50.099
+(which I agree it is likely not). So it is worth going through in detail why I am worried about labor displacement, to clear up these misunderstandings. As a baseline,
+
+477
+01:32:50.099 --> 01:33:01.547
+it’s useful to understand how labor markets normally respond to advances in technology. When a new technology comes along, it starts by making pieces of a given human job more
+
+478
+01:33:01.547 --> 01:33:12.995
+efficient. For example, early in the Industrial Revolution, machines, such as upgraded plows, enabled human farmers to be more efficient at some aspects of the job. This improved the productivity
+
+479
+01:33:12.995 --> 01:33:24.450
+of farmers, which increased their wages.
+
+480
+01:33:25.250 --> 01:33:36.564
+In the next step, some parts of the job of farming could be done entirely by machines, for example with the invention of the threshing machine or seed drill. In
+
+481
+01:33:36.564 --> 01:33:47.878
+this phase, humans did a lower and lower fraction of the job, but the work they did complete became more and more leveraged because it is complementary to the work
+
+482
+01:33:47.878 --> 01:33:59.192
+of machines, and their productivity continued to rise. As described by Jevons’ paradox, the wages of farmers and perhaps even the number of farmers continued to increase. Even when 90%
+
+483
+01:33:59.192 --> 01:34:10.506
+of the job is being done by machines, humans can simply do 10x more of the 10% they still do, producing 10x as much output for the same amount of
+
+484
+01:34:10.506 --> 01:34:21.820
+labor. Eventually, machines do everything or almost everything, as with modern combine harvesters, tractors, and other equipment. At this point farming as a form of human employment really does go
+
+485
+01:34:21.820 --> 01:34:33.134
+into steep decline, and this potentially causes serious disruption in the short term, but because farming is just one of many useful activities that humans are able to do, people
+
+486
+01:34:33.134 --> 01:34:44.448
+eventually switch to other jobs, such as operating factory machines. This is true even though farming accounted for a huge proportion of employment ex ante. 250 years ago, 90% of
+
+487
+01:34:44.448 --> 01:34:55.762
+Americans lived on farms; in Europe, 50–60% of employment was agricultural. Now those percentages are in the low single digits in those places, because workers switched to industrial jobs (and
+
+488
+01:34:55.762 --> 01:35:07.076
+later, knowledge work jobs). The economy can do what previously required most of the labor force with only 1–2% of it, freeing up the rest of the labor force to
+
+489
+01:35:07.076 --> 01:35:18.390
+build an ever more advanced industrial society. There’s no fixed “lump of labor,” just an ever-expanding ability to do more and more with less and less. People’s wages rise in
+
+490
+01:35:18.390 --> 01:35:29.704
+line with the GDP exponential and the economy maintains full employment once disruptions in the short term have passed. It’s possible things will go roughly the same way with A.I.,
+
+491
+01:35:29.704 --> 01:35:41.025
+but I would bet pretty strongly against it. Here are some reasons I think A.I. is likely to be different:
+
+492
+01:35:41.825 --> 01:35:53.481
+Speed. The pace of progress in A.I. is much faster than for previous technological revolutions. For example, in the last two years, A.I. models went from barely being able to
+
+493
+01:35:53.481 --> 01:36:05.137
+complete a single line of code, to writing all or almost all of the code for some people, including engineers at Anthropic. Soon, they may do the entire task of
+
+494
+01:36:05.137 --> 01:36:16.793
+a software engineer end to end. It is hard for people to adapt to this pace of change, both to the changes in how a given job works and in
+
+495
+01:36:16.793 --> 01:36:28.449
+the need to switch to new jobs. Even legendary programmers are increasingly describing themselves as “behind.” The pace may if anything continue to speed up, as A.I. coding models increasingly
+
+496
+01:36:28.449 --> 01:36:40.105
+accelerate the task of A.I. development. To be clear, speed in itself does not mean labor markets and employment won’t eventually recover, it just implies the short-term transition will be
+
+497
+01:36:40.105 --> 01:36:51.761
+unusually painful compared to past technologies, since humans and labor markets are slow to react and to equilibrate. Cognitive breadth. As suggested by the phrase “country of geniuses in a
+
+498
+01:36:51.761 --> 01:37:03.417
+datacenter,” A.I. will be capable of a very wide range of human cognitive abilities, perhaps all of them. This is very different from previous technologies like mechanized farming, transportation, or
+
+499
+01:37:03.417 --> 01:37:15.073
+even computers. This will make it harder for people to switch easily from jobs that are displaced to similar jobs that they would be a good fit for. For example,
+
+500
+01:37:15.073 --> 01:37:26.729
+the general intellectual abilities required for entry-level jobs in, say, finance, consulting, and law are fairly similar, even if the specific knowledge is quite different. A technology that disrupted only
+
+501
+01:37:26.729 --> 01:37:38.385
+one of these three would allow employees to switch to the two other close substitutes (or for undergraduates to switch majors). But disrupting all three at once (along with many
+
+502
+01:37:38.385 --> 01:37:50.041
+other similar jobs) may be harder for people to adapt to. Furthermore, it’s not just that most existing jobs will be disrupted. That part has happened before, recall that farming
+
+503
+01:37:50.041 --> 01:38:01.697
+was a huge percentage of employment. But farmers could switch to the relatively similar work of operating factory machines, even though that work hadn’t been common before. By contrast, A.I.
+
+504
+01:38:01.697 --> 01:38:13.353
+is increasingly matching the general cognitive profile of humans, which means it will also be good at the new jobs that would ordinarily be created in response to the old
+
+505
+01:38:13.353 --> 01:38:25.009
+ones being automated. Another way to say it is that A.I. isn’t a substitute for specific human jobs but rather a general labor substitute for humans. Slicing by cognitive ability.
+
+506
+01:38:25.009 --> 01:38:36.665
+Across a wide range of tasks, A.I. appears to be advancing from the bottom of the ability ladder to the top. For example, in coding our models have proceeded from
+
+507
+01:38:36.665 --> 01:38:48.325
+the level of “a mediocre coder” to “a strong coder” to “a very strong coder.” We are now starting to see the same progression in white-collar work in general.
+
+508
+01:38:49.125 --> 01:39:00.212
+We are thus at risk of a situation where, instead of affecting people with specific skills or in specific professions (who can adapt by retraining), A.I. is affecting people with
+
+509
+01:39:00.212 --> 01:39:11.299
+certain intrinsic cognitive properties, namely lower intellectual ability (which is harder to change). It is not clear where these people will go or what they will do, and I am
+
+510
+01:39:11.299 --> 01:39:22.386
+concerned that they could form an unemployed or very-low-wage “underclass.” To be clear, things somewhat like this have happened before, for example, computers and the internet are believed by some
+
+511
+01:39:22.386 --> 01:39:33.473
+economists to represent “skill-biased technological change.” But this skill biasing was both not as extreme as what I expect to see with A.I., and is believed to have contributed to
+
+512
+01:39:33.473 --> 01:39:44.560
+an increase in wage inequality, so it is not exactly a reassuring precedent. Ability to fill in the gaps. The way human jobs often adjust in the face of new
+
+513
+01:39:44.560 --> 01:39:55.647
+technology is that there are many aspects to the job, and the new technology, even if it appears to directly replace humans, often has gaps in it. If someone invents
+
+514
+01:39:55.647 --> 01:40:06.734
+a machine to make widgets, humans may still have to load raw material into the machine. Even if that takes only 1% as much effort as making the widgets manually,
+
+515
+01:40:06.734 --> 01:40:17.821
+human workers can simply make 100x more widgets. But A.I., in addition to being a rapidly advancing technology, is also a rapidly adapting technology. During every model release, A.I. companies
+
+516
+01:40:17.821 --> 01:40:28.908
+carefully measure what the model is good at and what it isn’t, and customers also provide such information after the launch. Weaknesses can be addressed by collecting tasks that embody
+
+517
+01:40:28.908 --> 01:40:39.995
+the current gap, and training on them for the next model. Early in generative A.I., users noticed that A.I. systems had certain weaknesses (such as A.I. image models generating hands
+
+518
+01:40:39.995 --> 01:40:51.082
+with the wrong number of fingers) and many assumed these weaknesses were inherent to the technology. If they were, it would limit job disruption. But pretty much every such weakness
+
+519
+01:40:51.082 --> 01:41:02.175
+gets addressed quickly, often, within just a few months.
+
+520
+01:41:02.975 --> 01:41:13.953
+It’s worth addressing common points of skepticism. First, there is the argument that economic diffusion will be slow, such that even if the underlying technology is capable of doing most
+
+521
+01:41:13.953 --> 01:41:24.931
+human labor, the actual application of it across the economy may be much slower (for example in industries that are far from the A.I. industry and slow to adopt). Slow
+
+522
+01:41:24.931 --> 01:41:35.909
+diffusion of technology is definitely real, I talk to people from a wide variety of enterprises, and there are places where the adoption of A.I. will take years. That’s why
+
+523
+01:41:35.909 --> 01:41:46.887
+my prediction for 50% of entry level white collar jobs being disrupted is 1–5 years, even though I suspect we’ll have powerful A.I. (which would be, technologically speaking, enough to
+
+524
+01:41:46.887 --> 01:41:57.865
+do most or all jobs, not just entry level) in much less than five years. But diffusion effects merely buy us time. And I am not confident they will be
+
+525
+01:41:57.865 --> 01:42:08.843
+as slow as people predict. Enterprise A.I. adoption is growing at rates much faster than any previous technology, largely on the pure strength of the technology itself. Also, even if
+
+526
+01:42:08.843 --> 01:42:19.821
+traditional enterprises are slow to adopt new technology, startups will spring up to serve as “glue” and make the adoption easier. If that doesn’t work, the startups may simply disrupt
+
+527
+01:42:19.821 --> 01:42:30.799
+the incumbents directly. That could lead to a world where it isn’t so much that specific jobs are disrupted as it is that large enterprises are disrupted in general and
+
+528
+01:42:30.799 --> 01:42:41.777
+replaced with much less labor-intensive startups. This could also lead to a world of “geographic inequality,” where an increasing fraction of the world’s wealth is concentrated in Silicon Valley, which
+
+529
+01:42:41.777 --> 01:42:52.755
+becomes its own economy running at a different speed than the rest of the world and leaving it behind. All of these outcomes would be great for economic growth, but
+
+530
+01:42:52.755 --> 01:43:03.733
+not so great for the labor market or those who are left behind. Second, some people say that human jobs will move to the physical world, which avoids the whole
+
+531
+01:43:03.733 --> 01:43:14.711
+category of “cognitive labor” where A.I. is progressing so rapidly. I am not sure how safe this is, either. A lot of physical labor is already being done by machines
+
+532
+01:43:14.711 --> 01:43:25.689
+(e.g., manufacturing) or will soon be done by machines (e.g., driving). Also, sufficiently powerful A.I. will be able to accelerate the development of robots, and then control those robots in
+
+533
+01:43:25.689 --> 01:43:36.667
+the physical world. It may buy some time (which is a good thing), but I’m worried it won’t buy much. And even if the disruption was limited only to cognitive
+
+534
+01:43:36.667 --> 01:43:47.650
+tasks, it would still be an unprecedentedly large and rapid disruption.
+
+535
+01:43:48.450 --> 01:43:59.561
+Third, perhaps some tasks inherently require or greatly benefit from a human touch. I’m a little more uncertain about this one, but I’m still skeptical that it will be enough
+
+536
+01:43:59.561 --> 01:44:10.672
+to offset the bulk of the impacts I described above. A.I. is already widely used for customer service. Many people report that it is easier to talk to A.I. about
+
+537
+01:44:10.672 --> 01:44:21.783
+their personal problems than to talk to a therapist, that the A.I. is more patient. When my sister was struggling with medical problems during a pregnancy, she felt she wasn’t
+
+538
+01:44:21.783 --> 01:44:32.894
+getting the answers or support she needed from her care providers, and she found Claude to have a better bedside manner (as well as succeeding better at diagnosing the problem).
+
+539
+01:44:32.894 --> 01:44:44.005
+I’m sure there are some tasks for which a human touch really is important, but I’m not sure how many, and here we’re talking about finding work for nearly everyone
+
+540
+01:44:44.005 --> 01:44:55.116
+in the labor market. Fourth, some may argue that comparative advantage will still protect humans. Under the law of comparative advantage, even if A.I. is better than humans at everything,
+
+541
+01:44:55.116 --> 01:45:06.227
+any relative differences between the human and A.I. profile of skills creates a basis of trade and specialization between humans and A.I.. The problem is that if AIs are literally
+
+542
+01:45:06.227 --> 01:45:17.338
+thousands of times more productive than humans, this logic starts to break down. Even tiny transaction costs could make it not worth it for A.I. to trade with humans. And
+
+543
+01:45:17.338 --> 01:45:28.449
+human wages may be very low, even if they technically have something to offer. It’s possible all of these factors can be addressed, that the labor market is resilient enough
+
+544
+01:45:28.449 --> 01:45:39.560
+to adapt to even such an enormous disruption. But even if it can eventually adapt, the factors above suggest that the short-term shock will be unprecedented in size. Defenses What
+
+545
+01:45:39.560 --> 01:45:50.671
+can we do about this problem? I have several suggestions, some of which Anthropic is already doing. The first thing is simply to get accurate data about what is happening
+
+546
+01:45:50.671 --> 01:46:01.782
+with job displacement in real time. When an economic change happens very quickly, it’s hard to get reliable data about what is happening, and without reliable data it is hard
+
+547
+01:46:01.782 --> 01:46:12.893
+to design effective policies. For example, government data is currently lacking granular, high-frequency data on A.I. adoption across firms and industries. For the last year Anthropic has been operating and
+
+548
+01:46:12.893 --> 01:46:24.004
+publicly releasing an Economic Index that shows use of our models almost in real time, broken down by industry, task, location, and even things like whether a task was being
+
+549
+01:46:24.004 --> 01:46:35.125
+automated or conducted collaboratively. We also have an Economic Advisory Council to help us interpret this data and see what is coming.
+
+550
+01:46:35.925 --> 01:46:47.415
+Second, A.I. companies have a choice in how they work with enterprises. The very inefficiency of traditional enterprises means that their rollout of A.I. can be very path dependent, and
+
+551
+01:46:47.415 --> 01:46:58.905
+there is some room to choose a better path. Enterprises often have a choice between “cost savings” (doing the same thing with fewer people) and “innovation” (doing more with the
+
+552
+01:46:58.905 --> 01:47:10.395
+same number of people). The market will inevitably produce both eventually, and any competitive A.I. company will have to serve some of both, but there may be some room to
+
+553
+01:47:10.395 --> 01:47:21.885
+steer companies towards innovation when possible, and it may buy us some time. Anthropic is actively thinking about this. Third, companies should think about how to take care of their
+
+554
+01:47:21.885 --> 01:47:33.375
+employees. In the short term, being creative about ways to reassign employees within companies may be a promising way to stave off the need for layoffs. In the long term,
+
+555
+01:47:33.375 --> 01:47:44.865
+in a world with enormous total wealth, in which many companies increase greatly in value due to increased productivity and capital concentration, it may be feasible to pay human employees
+
+556
+01:47:44.865 --> 01:47:56.355
+even long after they are no longer providing economic value in the traditional sense. Anthropic is currently considering a range of possible pathways for our own employees that we will
+
+557
+01:47:56.355 --> 01:48:07.845
+share in the near future. Fourth, wealthy individuals have an obligation to help solve this problem. It is sad to me that many wealthy individuals (especially in the tech industry)
+
+558
+01:48:07.845 --> 01:48:19.335
+have recently adopted a cynical and nihilistic attitude that philanthropy is inevitably fraudulent or useless. Both private philanthropy like the Gates Foundation and public programs like PEPFAR have saved tens
+
+559
+01:48:19.335 --> 01:48:30.825
+of millions of lives in the developing world, and helped to create economic opportunity in the developed world. All of Anthropic’s co-founders have pledged to donate 80% of our wealth,
+
+560
+01:48:30.825 --> 01:48:42.315
+and Anthropic’s staff have individually pledged to donate company shares worth billions at current prices, donations that the company has committed to matching. Fifth, while all the above private actions
+
+561
+01:48:42.315 --> 01:48:53.805
+can be helpful, ultimately a macroeconomic problem this large will require government intervention. The natural policy response to an enormous economic pie coupled with high inequality (due to a lack
+
+562
+01:48:53.805 --> 01:49:05.295
+of jobs, or poorly paid jobs, for many) is progressive taxation. The tax could be general or could be targeted against A.I. companies in particular. Obviously tax design is complicated,
+
+563
+01:49:05.295 --> 01:49:16.785
+and there are many ways for it to go wrong. I don’t support poorly designed tax policies. I think the extreme levels of inequality predicted in this essay justify a
+
+564
+01:49:16.785 --> 01:49:28.275
+more robust tax policy on basic moral grounds, but I can also make a pragmatic argument to the world’s billionaires that it’s in their interest to support a good version
+
+565
+01:49:28.275 --> 01:49:39.775
+of it: if they don’t support a good version, they’ll inevitably get a bad version designed by a mob.
+
+566
+01:49:40.575 --> 01:49:52.540
+Ultimately, I think of all of the above interventions as ways to buy time. In the end A.I. will be able to do everything, and we need to grapple with
+
+567
+01:49:52.540 --> 01:50:04.505
+that. It’s my hope that by that time, we can use A.I. itself to help us restructure markets in ways that work for everyone, and that the interventions above can
+
+568
+01:50:04.505 --> 01:50:16.470
+get us through the transitional period. Economic concentration of power Separate from the problem of job displacement or economic inequality per se is the problem of economic concentration of power.
+
+569
+01:50:16.470 --> 01:50:28.435
+Section 1 discussed the risk that humanity gets disempowered by A.I., and Section three discussed the risk that citizens get disempowered by their governments by force or coercion. But another
+
+570
+01:50:28.435 --> 01:50:40.400
+kind of disempowerment can occur if there is such a huge concentration of wealth that a small group of people effectively controls government policy with their influence, and ordinary citizens
+
+571
+01:50:40.400 --> 01:50:52.365
+have no influence because they lack economic leverage. Democracy is ultimately backstopped by the idea that the population as a whole is necessary for the operation of the economy. If
+
+572
+01:50:52.365 --> 01:51:04.330
+that economic leverage goes away, then the implicit social contract of democracy may stop working. Others have written about this, so I needn’t go into great detail about it here,
+
+573
+01:51:04.330 --> 01:51:16.295
+but I agree with the concern, and I worry it is already starting to happen. To be clear, I am not opposed to people making a lot of money. There’s
+
+574
+01:51:16.295 --> 01:51:28.260
+a strong argument that it incentivizes economic growth under normal conditions. I am sympathetic to concerns about impeding innovation by killing the golden goose that generates it. But in a
+
+575
+01:51:28.260 --> 01:51:40.225
+scenario where GDP growth is 10–20% a year and A.I. is rapidly taking over the economy, yet single individuals hold appreciable fractions of the GDP, innovation is not the thing
+
+576
+01:51:40.225 --> 01:51:52.190
+to worry about. The thing to worry about is a level of wealth concentration that will break society. The most famous example of extreme concentration of wealth in US history
+
+577
+01:51:52.190 --> 01:52:04.155
+is the Gilded Age, and the wealthiest industrialist of the Gilded Age was John D. Rockefeller. Rockefeller’s wealth amounted to ~2% of the US GDP at the time. A similar
+
+578
+01:52:04.155 --> 01:52:16.120
+fraction today would lead to a fortune of $600B, and the richest person in the world today (Elon Musk) already exceeds that, at roughly $700B. So we are already at
+
+579
+01:52:16.120 --> 01:52:28.085
+historically unprecedented levels of wealth concentration, even before most of the economic impact of A.I.. I don’t think it is too much of a stretch (if we get a “country
+
+580
+01:52:28.085 --> 01:52:40.050
+of geniuses”) to imagine A.I. companies, semiconductor companies, and perhaps downstream application companies generating ~$3T in revenue per year, being valued at ~$30T, and leading to personal fortunes well into
+
+581
+01:52:40.050 --> 01:52:52.025
+the trillions. In that world, the debates we have about tax policy today simply won’t apply as we will be in a fundamentally different situation.
+
+582
+01:52:52.825 --> 01:53:04.441
+Related to this, the coupling of this economic concentration of wealth with the political system already concerns me. A.I. datacenters already represent a substantial fraction of US economic growth, and
+
+583
+01:53:04.441 --> 01:53:16.057
+are thus strongly tying together the financial interests of large tech companies (which are increasingly focused on either A.I. or A.I. infrastructure) and the political interests of the government in
+
+584
+01:53:16.057 --> 01:53:27.673
+a way that can produce perverse incentives. We already see this through the reluctance of tech companies to criticize the US government, and the government’s support for extreme anti-regulatory policies
+
+585
+01:53:27.673 --> 01:53:39.289
+on A.I.. Defenses What can be done about this? First, and most obviously, companies should simply choose not to be part of it. Anthropic has always strived to be a
+
+586
+01:53:39.289 --> 01:53:50.905
+policy actor and not a political one, and to maintain our authentic views whatever the administration. We’ve spoken up in favor of sensible A.I. regulation and export controls that are
+
+587
+01:53:50.905 --> 01:54:02.521
+in the public interest, even when these are at odds with government policy. Many people have told me that we should stop doing this, that it could lead to unfavorable
+
+588
+01:54:02.521 --> 01:54:14.137
+treatment, but in the year we’ve been doing it, Anthropic’s valuation has increased by over 6x, an almost unprecedented jump at our commercial scale. Second, the A.I. industry needs a
+
+589
+01:54:14.137 --> 01:54:25.753
+healthier relationship with government, one based on substantive policy engagement rather than political alignment. Our choice to engage on policy substance rather than politics is sometimes read as a tactical
+
+590
+01:54:25.753 --> 01:54:37.369
+error or failure to “read the room” rather than a principled decision, and that framing concerns me. In a healthy democracy, companies should be able to advocate for good policy
+
+591
+01:54:37.369 --> 01:54:48.985
+for its own sake. Related to this, a public backlash against A.I. is brewing: this could be a corrective, but it’s currently unfocused. Much of it targets issues that aren’t
+
+592
+01:54:48.985 --> 01:55:00.601
+actually problems (like datacenter water usage) and proposes solutions (like datacenter bans or poorly designed wealth taxes) that wouldn’t address the real concerns. The underlying issue that deserves attention is
+
+593
+01:55:00.601 --> 01:55:12.217
+ensuring that A.I. development remains accountable to the public interest, not captured by any particular political or commercial alliance, and it seems important to focus the public discussion there. Third,
+
+594
+01:55:12.217 --> 01:55:23.833
+the macroeconomic interventions I described earlier in this section, as well as a resurgence of private philanthropy, can help to balance the economic scales, addressing both the job displacement and
+
+595
+01:55:23.833 --> 01:55:35.449
+concentration of economic power problems at once. We should look to the history of our country here: even in the Gilded Age, industrialists such as Rockefeller and Carnegie felt a
+
+596
+01:55:35.449 --> 01:55:47.065
+strong obligation to society at large, a feeling that society had contributed enormously to their success and they needed to give back. That spirit seems to be increasingly missing today,
+
+597
+01:55:47.065 --> 01:55:58.681
+and I think it is a large part of the way out of this economic dilemma. Those who are at the forefront of A.I.’s economic boom should be willing to
+
+598
+01:55:58.681 --> 01:56:10.300
+give away both their wealth and their power.
+
+599
+01:56:11.100 --> 01:56:21.337
+5. Black seas of infinity Indirect effects This last section is a catchall for unknown unknowns, particularly things that could go wrong as an indirect result of positive advances in
+
+600
+01:56:21.337 --> 01:56:31.574
+A.I. and the resulting acceleration of science and technology in general. Suppose we address all the risks described so far, and begin to reap the benefits of A.I.. We will
+
+601
+01:56:31.574 --> 01:56:41.811
+likely get a “century of scientific and economic progress compressed into a decade,” and this will be hugely positive for the world, but we will then have to contend with
+
+602
+01:56:41.811 --> 01:56:52.048
+the problems that arise from this rapid rate of progress, and those problems may come at us fast. We may also encounter other risks that occur indirectly as a consequence
+
+603
+01:56:52.048 --> 01:57:02.285
+of A.I. progress and are hard to anticipate in advance. By the nature of unknown unknowns it is impossible to make an exhaustive list, but I’ll list three possible concerns
+
+604
+01:57:02.285 --> 01:57:12.525
+as illustrative examples for what we should be watching for:
+
+605
+01:57:13.325 --> 01:57:24.576
+Rapid advances in biology. If we do get a century of medical progress in a few years, it is possible that we will greatly increase the human lifespan, and there
+
+606
+01:57:24.576 --> 01:57:35.827
+is a chance we also gain radical capabilities like the ability to increase human intelligence or radically modify human biology. Those would be big changes in what is possible, happening
+
+607
+01:57:35.827 --> 01:57:47.078
+very quickly. They could be positive if responsibly done (which is my hope, as described in Machines of Loving Grace), but there is always a risk they go very wrong,
+
+608
+01:57:47.078 --> 01:57:58.329
+for example, if efforts to make humans smarter also make them more unstable or power-seeking. There is also the issue of “uploads” or “whole brain emulation,” digital human minds instantiated
+
+609
+01:57:58.329 --> 01:58:09.580
+in software, which might someday help humanity transcend its physical limitations, but which also carry risks I find disquieting. A.I. changes human life in an unhealthy way. A world with
+
+610
+01:58:09.580 --> 01:58:20.831
+billions of intelligences that are much smarter than humans at everything is going to be a very weird world to live in. Even if A.I. doesn’t actively aim to attack
+
+611
+01:58:20.831 --> 01:58:32.082
+humans (Section 1), and isn’t explicitly used for oppression or control by states (Section three), there is a lot that could go wrong short of this, via normal business incentives
+
+612
+01:58:32.082 --> 01:58:43.333
+and nominally consensual transactions. We see early hints of this in the concerns about A.I. psychosis, A.I. driving people to suicide, and concerns about romantic relationships with AIs. As an
+
+613
+01:58:43.333 --> 01:58:54.584
+example, could powerful AIs invent some new religion and convert millions of people to it? Could most people end up “addicted” in some way to A.I. interactions? Could people end
+
+614
+01:58:54.584 --> 01:59:05.835
+up being “puppeted” by A.I. systems, where an A.I. essentially watches their every move and tells them exactly what to do and say at all times, leading to a “good”
+
+615
+01:59:05.835 --> 01:59:17.086
+life but one that lacks freedom or any pride of accomplishment? It would not be hard to generate dozens of these scenarios if I sat down with the creator of
+
+616
+01:59:17.086 --> 01:59:28.337
+Black Mirror and tried to brainstorm them. I think this points to the importance of things like improving Claude’s Constitution, over and above what is necessary for preventing the issues
+
+617
+01:59:28.337 --> 01:59:39.588
+in Section 1. Making sure that A.I. models really have their users’ long-term interests at heart, in a way thoughtful people would endorse rather than in some subtly distorted way,
+
+618
+01:59:39.588 --> 01:59:50.839
+seems critical. Human purpose. This is related to the previous point, but it’s not so much about specific human interactions with A.I. systems as it is about how human life
+
+619
+01:59:50.839 --> 02:00:02.100
+changes in general in a world with powerful A.I.. Will humans be able to find purpose and meaning in such a world?
+
+620
+02:00:02.900 --> 02:00:13.170
+I think this is a matter of attitude: as I said in Machines of Loving Grace, I think human purpose does not depend on being the best in the world
+
+621
+02:00:13.170 --> 02:00:23.440
+at something, and humans can find purpose even over very long periods of time through stories and projects that they love. We simply need to break the link between the
+
+622
+02:00:23.440 --> 02:00:33.710
+generation of economic value and self-worth and meaning. But that is a transition society has to make, and there is always the risk we don’t handle it well. My hope
+
+623
+02:00:33.710 --> 02:00:43.980
+with all of these potential problems is that in a world with powerful A.I. that we trust not to kill us, that is not the tool of an oppressive government,
+
+624
+02:00:43.980 --> 02:00:54.250
+and that is genuinely working on our behalf, we can use A.I. itself to anticipate and prevent these problems. But that is not guaranteed, like all of the other risks,
+
+625
+02:00:54.250 --> 02:01:04.520
+it is something we have to handle with care. Humanity’s test Reading this essay may give the impression that we are in a daunting situation. I certainly found it daunting
+
+626
+02:01:04.520 --> 02:01:14.790
+to write, in contrast with Machines of Loving Grace, which felt like giving form and structure to surpassingly beautiful music that had been echoing in my head for years. And
+
+627
+02:01:14.790 --> 02:01:25.060
+there is much about the situation that genuinely is hard. A.I. brings threats to humanity from multiple directions, and there is genuine tension between the different dangers, where mitigating some
+
+628
+02:01:25.060 --> 02:01:35.330
+of them risks making others worse if we do not thread the needle extremely carefully. Taking time to carefully build A.I. systems so they do not autonomously threaten humanity is
+
+629
+02:01:35.330 --> 02:01:45.600
+in genuine tension with the need for democratic nations to stay ahead of authoritarian nations and not be subjugated by them. But in turn, the same A.I.-enabled tools that are
+
+630
+02:01:45.600 --> 02:01:55.870
+necessary to fight autocracies can, if taken too far, be turned inward to create tyranny in our own countries. A.I.-driven terrorism could kill millions through the misuse of biology, but
+
+631
+02:01:55.870 --> 02:02:06.140
+an overreaction to this risk could lead us down the road to an autocratic surveillance state. The labor and economic concentration effects of A.I., in addition to being grave problems
+
+632
+02:02:06.140 --> 02:02:16.410
+in their own right, may force us to face the other problems in an environment of public anger and perhaps even civil unrest, rather than being able to call on
+
+633
+02:02:16.410 --> 02:02:26.680
+the better angels of our nature. Above all, the sheer number of risks, including unknown ones, and the need to deal with all of them at once, creates an intimidating
+
+634
+02:02:26.680 --> 02:02:36.950
+gauntlet that humanity must run.
+
+635
+02:02:37.750 --> 02:02:49.590
+Furthermore, the last few years should make clear that the idea of stopping or even substantially slowing the technology is fundamentally untenable. The formula for building powerful A.I. systems is
+
+636
+02:02:49.590 --> 02:03:01.430
+incredibly simple, so much so that it can almost be said to emerge spontaneously from the right combination of data and raw computation. Its creation was probably inevitable the instant
+
+637
+02:03:01.430 --> 02:03:13.270
+humanity invented the transistor, or arguably even earlier when we first learned to control fire. If one company does not build it, others will do so nearly as fast. If
+
+638
+02:03:13.270 --> 02:03:25.110
+all companies in democratic countries stopped or slowed development, by mutual agreement or regulatory decree, then authoritarian countries would simply keep going. Given the incredible economic and military value of
+
+639
+02:03:25.110 --> 02:03:36.950
+the technology, together with the lack of any meaningful enforcement mechanism, I don’t see how we could possibly convince them to stop. I do see a path to a slight
+
+640
+02:03:36.950 --> 02:03:48.790
+moderation in A.I. development that is compatible with a realist view of geopolitics. That path involves slowing down the march of autocracies towards powerful A.I. for a few years by
+
+641
+02:03:48.790 --> 02:04:00.630
+denying them the resources they need to build it, namely chips and semiconductor manufacturing equipment. This in turn gives democratic countries a buffer that they can “spend” on building powerful
+
+642
+02:04:00.630 --> 02:04:12.470
+A.I. more carefully, with more attention to its risks, while still proceeding fast enough to comfortably beat the autocracies. The race between A.I. companies within democracies can then be handled
+
+643
+02:04:12.470 --> 02:04:24.310
+under the umbrella of a common legal framework, via a mixture of industry standards and regulation. Anthropic has advocated very hard for this path, by pushing for chip export controls
+
+644
+02:04:24.310 --> 02:04:36.150
+and judicious regulation of A.I., but even these seemingly common-sense proposals have largely been rejected by policymakers in the United States (which is the country where it’s most important to
+
+645
+02:04:36.150 --> 02:04:47.990
+have them). There is so much money to be made with A.I., literally trillions of dollars per year, that even the simplest measures are finding it difficult to overcome the
+
+646
+02:04:47.990 --> 02:04:59.830
+political economy inherent in A.I.. This is the trap: A.I. is so powerful, such a glittering prize, that it is very difficult for human civilization to impose any restraints on
+
+647
+02:04:59.830 --> 02:05:11.670
+it at all. I can imagine, as Sagan did in Contact, that this same story plays out on thousands of worlds. A species gains sentience, learns to use tools, begins
+
+648
+02:05:11.670 --> 02:05:23.510
+the exponential ascent of technology, faces the crises of industrialization and nuclear weapons, and if it survives those, confronts the hardest and final challenge when it learns how to shape
+
+649
+02:05:23.510 --> 02:05:35.350
+sand into machines that think. Whether we survive that test and go on to build the beautiful society described in Machines of Loving Grace, or succumb to slavery and destruction,
+
+650
+02:05:35.350 --> 02:05:47.200
+will depend on our character and our determination as a species, our spirit and our soul.
+
+651
+02:05:48.000 --> 02:05:58.619
+Despite the many obstacles, I believe humanity has the strength inside itself to pass this test. I am encouraged and inspired by the thousands of researchers who have devoted their
+
+652
+02:05:58.619 --> 02:06:09.238
+careers to helping us understand and steer A.I. models, and to shaping the character and constitution of these models. I think there is now a good chance that those efforts
+
+653
+02:06:09.238 --> 02:06:19.857
+bear fruit in time to matter. I am encouraged that at least some companies have stated they’ll pay meaningful commercial costs to block their models from contributing to the threat
+
+654
+02:06:19.857 --> 02:06:30.476
+of bioterrorism. I am encouraged that a few brave people have resisted the prevailing political winds and passed legislation that puts the first early seeds of sensible guardrails on A.I.
+
+655
+02:06:30.476 --> 02:06:41.095
+systems. I am encouraged that the public understands that A.I. carries risks and wants those risks addressed. I am encouraged by the indomitable spirit of freedom around the world and
+
+656
+02:06:41.095 --> 02:06:51.714
+the determination to resist tyranny wherever it occurs. But we will need to step up our efforts if we want to succeed. The first step is for those closest to
+
+657
+02:06:51.714 --> 02:07:02.333
+the technology to simply tell the truth about the situation humanity is in, which I have always tried to do; I’m doing so more explicitly and with greater urgency with
+
+658
+02:07:02.333 --> 02:07:12.952
+this essay. The next step will be convincing the world’s thinkers, policymakers, companies, and citizens of the imminence and overriding importance of this issue, that it is worth expending thought
+
+659
+02:07:12.952 --> 02:07:23.571
+and political capital on this in comparison to the thousands of other issues that dominate the news every day. Then there will be a time for courage, for enough people
+
+660
+02:07:23.571 --> 02:07:34.190
+to buck the prevailing trends and stand on principle, even in the face of threats to their economic interests and personal safety. The years in front of us will be
+
+661
+02:07:34.190 --> 02:07:44.809
+impossibly hard, asking more of us than we think we can give. But in my time as a researcher, leader, and citizen, I have seen enough courage and nobility to
+
+662
+02:07:44.809 --> 02:07:55.428
+believe that we can win, that when put in the darkest circumstances, humanity has a way of gathering, seemingly at the last minute, the strength and wisdom needed to prevail.
+
+663
+02:07:55.428 --> 02:08:06.047
+We have no time to lose. I would like to thank Erik Brynjolfsson, Ben Buchanan, Mariano-Florentino Cuéllar, Allan Dafoe, Kevin Esvelt, Nick Beckstead, Richard Fontaine, Jim McClave, and very many
+
+664
+02:08:06.047 --> 02:08:16.675
+of the staff at Anthropic for their helpful comments on drafts of this essay.
