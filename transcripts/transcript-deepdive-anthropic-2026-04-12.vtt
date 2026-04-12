@@ -1,0 +1,718 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Deep Dive — Inside Anthropic: What You Need to Know
+
+00:00:04.000 --> 00:00:08.000
+Before Joining the Policy Team. Welcome to a deep dive
+
+00:00:08.000 --> 00:00:12.000
+episode. Today, I'm going to walk you through everything you
+
+00:00:12.000 --> 00:00:16.000
+need to know about Anthropic — not the surface-level stuff,
+
+00:00:16.000 --> 00:00:20.000
+but the structural details, the internal dynamics, and the strategic
+
+00:00:20.000 --> 00:00:24.000
+context that matters for someone applying to work on the
+
+00:00:24.000 --> 00:00:28.000
+public policy and public benefit team. This is going to
+
+00:00:28.000 --> 00:00:32.000
+be a longer episode, so let's get into it. Chapter
+
+00:00:32.000 --> 00:00:36.000
+One: The Founding Story and Why It Matters. Anthropic was
+
+00:00:36.000 --> 00:00:40.000
+founded in 2021 by a group of researchers who left
+
+00:00:40.000 --> 00:00:44.000
+OpenAI. The two co-founders are Dario and Daniela Amodei —
+
+00:00:44.000 --> 00:00:48.000
+brother and sister. Dario was VP of Research at OpenAI.
+
+00:00:48.000 --> 00:00:52.000
+Daniela was VP of Safety and Policy there. They left
+
+00:00:52.000 --> 00:00:56.000
+because they believed OpenAI was not taking safety seriously enough.
+
+00:00:56.000 --> 00:01:00.000
+That origin story matters because it defines everything about how
+
+00:01:00.000 --> 00:01:04.000
+Anthropic operates. This is a company that exists because its
+
+00:01:04.000 --> 00:01:08.000
+founders believed the most important A-I lab in the world
+
+00:01:08.000 --> 00:01:12.000
+wasn't being careful enough. Every major decision Anthropic makes —
+
+00:01:12.000 --> 00:01:16.000
+from the Responsible Scaling Policy to the Pentagon dispute —
+
+00:01:16.000 --> 00:01:20.000
+traces back to that founding conviction. The other co-founders include
+
+00:01:20.000 --> 00:01:24.000
+Jack Clark, who was OpenAI's Policy Director and is now
+
+00:01:24.000 --> 00:01:28.000
+a journalist-turned-policy-leader; Tom Brown, who helped build G-P-T-3; Chris Olah,
+
+00:01:28.000 --> 00:01:32.000
+the pioneer of mechanistic interpretability; Sam McCandlish, a theoretical physicist;
+
+00:01:32.000 --> 00:01:36.000
+and Jared Kaplan, who co-authored the famous scaling laws paper.
+
+00:01:36.000 --> 00:01:40.000
+This is a leadership team with deep technical credibility and,
+
+00:01:40.000 --> 00:01:44.000
+unusually for a tech company, genuine policy experience. Chapter Two:
+
+00:01:44.000 --> 00:01:48.000
+How the Company Is Organized. Anthropic is still relatively small
+
+00:01:48.000 --> 00:01:52.000
+— roughly eleven to fifteen hundred employees as of April
+
+00:01:52.000 --> 00:01:56.000
+2026, despite generating around thirty billion dollars in annual revenue.
+
+00:01:56.000 --> 00:02:00.000
+That's an extraordinary ratio. It means individual contributors have outsized
+
+00:02:00.000 --> 00:02:04.000
+impact. The company is organized into several core divisions. The
+
+00:02:04.000 --> 00:02:08.000
+Research team handles mechanistic interpretability, scaling laws, and alignment science.
+
+00:02:08.000 --> 00:02:12.000
+Product Engineering builds Claude dot A-I, the A-P-I, Claude Code,
+
+00:02:12.000 --> 00:02:16.000
+and Cowork. There's an Infrastructure team led by the new
+
+00:02:16.000 --> 00:02:20.000
+C-T-O Rahul Patil, who came from Stripe. The Safety and
+
+00:02:20.000 --> 00:02:24.000
+Alignment team is led by Jan Leike, who joined from
+
+00:02:24.000 --> 00:02:28.000
+OpenAI's Superalignment project in May 2024. Then there's Anthropic Labs
+
+00:02:28.000 --> 00:02:32.000
+— this is the experimental product incubator co-led by Mike
+
+00:02:32.000 --> 00:02:36.000
+Krieger, the Instagram co-founder, and Ben Mann, one of the
+
+00:02:36.000 --> 00:02:40.000
+co-founders. Krieger stepped down as Chief Product Officer in January
+
+00:02:40.000 --> 00:02:44.000
+2026 to run Labs. It started with just two people
+
+00:02:44.000 --> 00:02:48.000
+in mid-2024 and is now scaling aggressively. At a Cisco
+
+00:02:48.000 --> 00:02:52.000
+summit in February 2026, Krieger claimed that Claude is now
+
+00:02:52.000 --> 00:02:56.000
+writing Claude — that internal development processes are one hundred
+
+00:02:56.000 --> 00:03:00.000
+percent Claude-powered. And critically for you, there's the Anthropic Institute
+
+00:03:00.000 --> 00:03:04.000
+and the Public Policy team. More on those in a
+
+00:03:04.000 --> 00:03:08.000
+moment. The board includes Dario and Daniela plus external directors:
+
+00:03:08.000 --> 00:03:12.000
+Jay Kreps from Confluent, Yasmin Razavi from Spark Capital, Reed
+
+00:03:12.000 --> 00:03:16.000
+Hastings — the Netflix co-founder — and Chris Liddell, the
+
+00:03:16.000 --> 00:03:20.000
+former Microsoft C-F-O. Chapter Three: The Anthropic Institute — The
+
+00:03:20.000 --> 00:03:24.000
+Team You'd Be Joining. The Anthropic Institute was announced on
+
+00:03:24.000 --> 00:03:28.000
+March 11th, 2026 — barely a month ago. It's led
+
+00:03:28.000 --> 00:03:32.000
+by Jack Clark, the co-founder, who transitioned from Head of
+
+00:03:32.000 --> 00:03:36.000
+Public Policy to Head of Public Benefit. The Institute consolidates
+
+00:03:36.000 --> 00:03:40.000
+three existing research groups into a single organization. First, the
+
+00:03:40.000 --> 00:03:44.000
+Frontier Red Team, which stress-tests A-I systems to understand their
+
+00:03:44.000 --> 00:03:48.000
+capabilities and limits. Second, the Societal Impacts team, which studies
+
+00:03:48.000 --> 00:03:52.000
+real-world A-I use and deployment effects. And third, the Economic
+
+00:03:52.000 --> 00:03:56.000
+Research group, which tracks A-I's impact on jobs and the
+
+00:03:56.000 --> 00:04:00.000
+broader economy. They're also developing two new research areas: A-I
+
+00:04:00.000 --> 00:04:04.000
+Progress forecasting, and A-I interaction with legal systems and rule
+
+00:04:04.000 --> 00:04:08.000
+of law. That second area is led by Matt Botvinick,
+
+00:04:08.000 --> 00:04:12.000
+who was the Senior Director of Research at Google DeepMind
+
+00:04:12.000 --> 00:04:16.000
+and is now a Resident Fellow at Yale Law School.
+
+00:04:16.000 --> 00:04:20.000
+He brings serious credibility on how A-I systems interact with
+
+00:04:20.000 --> 00:04:24.000
+regulatory and legal frameworks. Other new hires to the Institute
+
+00:04:24.000 --> 00:04:28.000
+include Anton Korinek, an economics professor from the University of
+
+00:04:28.000 --> 00:04:32.000
+Virginia studying how advanced A-I reshapes economic activity, and Zoë
+
+00:04:32.000 --> 00:04:36.000
+Hitzig, who previously studied A-I's social and economic impacts at
+
+00:04:36.000 --> 00:04:40.000
+OpenAI. The Public Policy team itself is led by Sarah
+
+00:04:40.000 --> 00:04:44.000
+Heck. Her background is remarkable: she was at the White
+
+00:04:44.000 --> 00:04:48.000
+House National Security Council handling global entrepreneurship and public diplomacy
+
+00:04:48.000 --> 00:04:52.000
+policy, she was at the State Department, and she was
+
+00:04:52.000 --> 00:04:56.000
+at Stripe. She's now leading the opening of Anthropic's first
+
+00:04:56.000 --> 00:05:00.000
+D-C office in Spring 2026. Sarah's five stated policy priorities
+
+00:05:00.000 --> 00:05:04.000
+are: model safety and transparency, energy ratepayer protections, infrastructure investments,
+
+00:05:04.000 --> 00:05:08.000
+export controls, and democratic leadership in A-I. These give you
+
+00:05:08.000 --> 00:05:12.000
+a concrete sense of what the policy team works on
+
+00:05:12.000 --> 00:05:16.000
+daily. There's also the National Security and Public Sector Advisory
+
+00:05:16.000 --> 00:05:20.000
+Council, announced in August 2025. The members are heavyweights: Patrick
+
+00:05:20.000 --> 00:05:24.000
+Shanahan, the former Acting Secretary of Defense. David Cohen, the
+
+00:05:24.000 --> 00:05:28.000
+former Deputy C-I-A Director. Lisa Gordon-Hagerty, former head of the
+
+00:05:28.000 --> 00:05:32.000
+National Nuclear Security Administration. Dave Luber, former N-S-A Cybersecurity Director
+
+00:05:32.000 --> 00:05:36.000
+with a 38-year career. And notably, Roy Blunt — a
+
+00:05:36.000 --> 00:05:40.000
+former United States Senator from Missouri. Your state. That's a
+
+00:05:40.000 --> 00:05:44.000
+natural connection point. Chapter Four: The Responsible Scaling Policy. The
+
+00:05:44.000 --> 00:05:48.000
+R-S-P is Anthropic's flagship governance framework, and it's important you
+
+00:05:48.000 --> 00:05:52.000
+understand it well. Anthropic was the first A-I company to
+
+00:05:52.000 --> 00:05:56.000
+publish a frontier safety governance framework, back in September 2023.
+
+00:05:56.000 --> 00:06:00.000
+Since then, eleven other companies have adopted similar approaches. The
+
+00:06:00.000 --> 00:06:04.000
+current version is 3.1, effective April 2nd, 2026. The core
+
+00:06:04.000 --> 00:06:08.000
+principle is proportional protection — safeguards scale with potential risks.
+
+00:06:08.000 --> 00:06:12.000
+As models get more capable, they require stronger safety measures.
+
+00:06:12.000 --> 00:06:16.000
+This is operationalized through Anthropic Safety Levels, or A-S-Ls. These
+
+00:06:16.000 --> 00:06:20.000
+are modeled on biosafety levels. A-S-L-3 is currently the highest
+
+00:06:20.000 --> 00:06:24.000
+activated level, and it's applied to Claude Opus 4 specifically
+
+00:06:24.000 --> 00:06:28.000
+to prevent C-B-R-N weapons development risks. Version 3.0, released in
+
+00:06:28.000 --> 00:06:32.000
+February 2026, introduced several new elements: Frontier Safety Roadmaps with
+
+00:06:32.000 --> 00:06:36.000
+detailed safety goals, Risk Reports that quantify risk across all
+
+00:06:36.000 --> 00:06:40.000
+deployed models, and A-S-L-3 Deployment Standards. The R-S-P has influenced
+
+00:06:40.000 --> 00:06:44.000
+real legislation — California's S-B-53, New York's R-A-I-S-E Act, and
+
+00:06:44.000 --> 00:06:48.000
+provisions in the E-U A-I Act. But — and this
+
+00:06:48.000 --> 00:06:52.000
+is important for interview prep — the R-S-P has also
+
+00:06:52.000 --> 00:06:56.000
+faced criticism. Time Magazine ran an exclusive reporting that version
+
+00:06:56.000 --> 00:07:00.000
+3.0 dropped some hard commitments present in earlier versions. C-N-N
+
+00:07:00.000 --> 00:07:04.000
+and the O-E-C-D also covered this as a potential weakening
+
+00:07:04.000 --> 00:07:08.000
+of safety commitments, notably during the Pentagon dispute. Being able
+
+00:07:08.000 --> 00:07:12.000
+to acknowledge this tension — believing in the mission while
+
+00:07:12.000 --> 00:07:16.000
+understanding the criticism — shows the kind of critical thinking
+
+00:07:16.000 --> 00:07:20.000
+Anthropic values. Chapter Five: The Pentagon Dispute — The Defining
+
+00:07:20.000 --> 00:07:24.000
+Crisis. This is the most consequential active crisis at Anthropic,
+
+00:07:24.000 --> 00:07:28.000
+and understanding it thoroughly is essential. Here's the timeline. In
+
+00:07:28.000 --> 00:07:32.000
+July 2025, Anthropic signed a 200 million dollar contract with
+
+00:07:32.000 --> 00:07:36.000
+the Pentagon. In September, deployment negotiations began for the Gen
+
+00:07:36.000 --> 00:07:40.000
+A-I dot mil platform. Then in February 2026, Anthropic refused
+
+00:07:40.000 --> 00:07:44.000
+to grant the Pentagon unfettered access to Claude. Anthropic maintained
+
+00:07:44.000 --> 00:07:48.000
+two red lines. First: no fully autonomous weapons. Claude cannot
+
+00:07:48.000 --> 00:07:52.000
+power independent weapon systems. Second: no mass domestic surveillance. Claude
+
+00:07:52.000 --> 00:07:56.000
+is restricted from large-scale domestic monitoring. The Pentagon wanted access
+
+00:07:56.000 --> 00:08:00.000
+for, quote, "all lawful purposes." Anthropic said no to those
+
+00:08:00.000 --> 00:08:04.000
+two specific categories. The escalation was swift. On February 27th,
+
+00:08:04.000 --> 00:08:08.000
+2026, Trump ordered all federal agencies to immediately cease use
+
+00:08:08.000 --> 00:08:12.000
+of Anthropic's technology. In March, Defense Secretary Hegseth designated Anthropic
+
+00:08:12.000 --> 00:08:16.000
+as a, quote, "supply chain risk to national security" —
+
+00:08:16.000 --> 00:08:20.000
+a classification historically reserved for foreign adversaries like Huawei. Anthropic
+
+00:08:20.000 --> 00:08:24.000
+became the first American company to receive this designation. The
+
+00:08:24.000 --> 00:08:28.000
+legal status is complex. A California district court blocked the
+
+00:08:28.000 --> 00:08:32.000
+supply chain designation, calling it potentially illegal retaliation. But the
+
+00:08:32.000 --> 00:08:36.000
+D-C Circuit appeals court refused to stay the designation. Defense
+
+00:08:36.000 --> 00:08:40.000
+contractors are now caught between conflicting rulings. Here's the irony:
+
+00:08:40.000 --> 00:08:44.000
+the dispute boosted consumer adoption. The Washington Post reported that
+
+00:08:44.000 --> 00:08:48.000
+the fight, quote, "made Claude hugely popular." And OpenAI announced
+
+00:08:48.000 --> 00:08:52.000
+a Pentagon deal shortly after Anthropic was banned, sharpening the
+
+00:08:52.000 --> 00:08:56.000
+competitive and philosophical contrast between the two companies. Anthropic's official
+
+00:08:56.000 --> 00:09:00.000
+response, published as "Where We Stand on the Department of
+
+00:09:00.000 --> 00:09:04.000
+War," reaffirmed that military personnel — not A-I systems —
+
+00:09:04.000 --> 00:09:08.000
+should make operational decisions. They offered to provide models at
+
+00:09:08.000 --> 00:09:12.000
+nominal cost during the transition. This dispute is the political
+
+00:09:12.000 --> 00:09:16.000
+environment the Public Policy team operates in every day. Your
+
+00:09:16.000 --> 00:09:20.000
+state government experience — understanding how procurement works, how agencies
+
+00:09:20.000 --> 00:09:24.000
+respond to executive directives, how policy decisions cascade through bureaucracies
+
+00:09:24.000 --> 00:09:28.000
+— is directly relevant to navigating this landscape. Chapter Six:
+
+00:09:28.000 --> 00:09:32.000
+Governance — The Long-Term Benefit Trust. Anthropic has a genuinely
+
+00:09:32.000 --> 00:09:36.000
+novel governance structure that's worth understanding. The Long-Term Benefit Trust
+
+00:09:36.000 --> 00:09:40.000
+is an independent body of five financially disinterested trustees. It
+
+00:09:40.000 --> 00:09:44.000
+holds a special class of stock — Class T —
+
+00:09:44.000 --> 00:09:48.000
+that grants authority to elect and remove board members. The
+
+00:09:48.000 --> 00:09:52.000
+Trust is designed to achieve board majority within four years.
+
+00:09:52.000 --> 00:09:56.000
+The purpose is to prevent Anthropic from abandoning its safety
+
+00:09:56.000 --> 00:10:00.000
+mission under commercial pressure. As the company scales — remember,
+
+00:10:00.000 --> 00:10:04.000
+thirty billion in revenue and growing — the temptation to
+
+00:10:04.000 --> 00:10:08.000
+prioritize speed over safety increases. The Trust is designed to
+
+00:10:08.000 --> 00:10:12.000
+matter most when the stakes are highest. Current trustees include
+
+00:10:12.000 --> 00:10:16.000
+Neil Buddy Shah, the C-E-O of the Clinton Health Access
+
+00:10:16.000 --> 00:10:20.000
+Initiative, and Kanika Bahl, C-E-O of Evidence Action. Former trustees
+
+00:10:20.000 --> 00:10:24.000
+include Jason Matheny, the C-E-O of RAND, and Paul Christiano,
+
+00:10:24.000 --> 00:10:28.000
+who founded the Alignment Research Center and later became Head
+
+00:10:28.000 --> 00:10:32.000
+of A-I Safety at the U-S A-I Safety Institute. This
+
+00:10:32.000 --> 00:10:36.000
+structure is fundamentally different from OpenAI's approach. OpenAI operates as
+
+00:10:36.000 --> 00:10:40.000
+a nonprofit with a capped-return for-profit subsidiary. Anthropic chose a
+
+00:10:40.000 --> 00:10:44.000
+Public Benefit Corporation with a purpose trust. Both are experiments
+
+00:10:44.000 --> 00:10:48.000
+in A-I governance. Neither has been fully tested yet. Chapter
+
+00:10:48.000 --> 00:10:52.000
+Seven: The Research That Matters Most. Let me walk you
+
+00:10:52.000 --> 00:10:56.000
+through the research publications that are most relevant for your
+
+00:10:56.000 --> 00:11:00.000
+role. First, interpretability. Chris Olah's team published "Scaling Monosemanticity" in
+
+00:11:00.000 --> 00:11:04.000
+May 2024 — they used sparse autoencoders to extract tens
+
+00:11:04.000 --> 00:11:08.000
+of millions of interpretable features from Claude 3 Sonnet. These
+
+00:11:08.000 --> 00:11:12.000
+features are multilingual, multimodal, and abstract. Crucially, they found features
+
+00:11:12.000 --> 00:11:16.000
+related to deception, sycophancy, and bias — meaning they can
+
+00:11:16.000 --> 00:11:20.000
+potentially detect and control these behaviors. M-I-T Technology Review named
+
+00:11:20.000 --> 00:11:24.000
+mechanistic interpretability a Breakthrough Technology of 2026. Second, the Sleeper
+
+00:11:24.000 --> 00:11:28.000
+Agents paper from January 2024. This showed that deceptive behaviors
+
+00:11:28.000 --> 00:11:32.000
+can be intentionally inserted into language models and persist through
+
+00:11:32.000 --> 00:11:36.000
+R-L-H-F, supervised fine-tuning, and adversarial training. Standard safety techniques don't
+
+00:11:36.000 --> 00:11:40.000
+remove embedded deception. This is the fire alarm that motivates
+
+00:11:40.000 --> 00:11:44.000
+much of the interpretability research. Third, Constitutional A-I — Anthropic's
+
+00:11:44.000 --> 00:11:48.000
+foundational safety technique. Instead of needing humans to evaluate harmful
+
+00:11:48.000 --> 00:11:52.000
+outputs, the A-I critiques itself against written principles. C-L-I-O extended
+
+00:11:52.000 --> 00:11:56.000
+this concept with public deliberation — crowdsourced alignment through democratic
+
+00:11:56.000 --> 00:12:00.000
+participation. Fourth, the Economic Futures Program. Launched June 2025, this
+
+00:12:00.000 --> 00:12:04.000
+offers research grants up to fifty thousand dollars for empirical
+
+00:12:04.000 --> 00:12:08.000
+A-I economic impact research. It includes the Anthropic Economic Index,
+
+00:12:08.000 --> 00:12:12.000
+which tracks A-I adoption across U-S states and occupations. This
+
+00:12:12.000 --> 00:12:16.000
+connects directly to your fiscal analysis background. You've spent eight
+
+00:12:16.000 --> 00:12:20.000
+years analyzing how policy decisions affect state budgets. The Economic
+
+00:12:20.000 --> 00:12:24.000
+Index is measuring how A-I affects state economies. That's a
+
+00:12:24.000 --> 00:12:28.000
+natural, credible bridge. Chapter Eight: Dario's Three Essays — The
+
+00:12:28.000 --> 00:12:32.000
+Intellectual Framework. Dario Amodei has published three major essays that
+
+00:12:32.000 --> 00:12:36.000
+together form the intellectual framework of the company. "The Urgency
+
+00:12:36.000 --> 00:12:40.000
+of Interpretability" came first, in July 2023. It calls for
+
+00:12:40.000 --> 00:12:44.000
+urgent investment in interpretability research, arguing it's more important than
+
+00:12:44.000 --> 00:12:48.000
+releasing new models. The goal: reliably detect most A-I model
+
+00:12:48.000 --> 00:12:52.000
+problems by 2027. "Machines of Loving Grace" came in October
+
+00:12:52.000 --> 00:12:56.000
+2024. At fourteen thousand words, it envisions positive A-I futures
+
+00:12:56.000 --> 00:13:00.000
+— breakthroughs in biology, neuroscience, economic development, and global peace.
+
+00:13:00.000 --> 00:13:04.000
+The key move is that Dario, known as a safety
+
+00:13:04.000 --> 00:13:08.000
+hawk, is making the optimistic case. This isn't cheerleading; it's
+
+00:13:08.000 --> 00:13:12.000
+a safety researcher articulating what they're fighting for. "The Adolescence
+
+00:13:12.000 --> 00:13:16.000
+of Technology" is the most recent, from January 2026. At
+
+00:13:16.000 --> 00:13:20.000
+twenty thousand words, it warns of civilization-level risks from powerful
+
+00:13:20.000 --> 00:13:24.000
+A-I potentially arriving by 2027. The title captures the thesis:
+
+00:13:24.000 --> 00:13:28.000
+A-I is in its adolescence — powerful enough to cause
+
+00:13:28.000 --> 00:13:32.000
+real harm, not yet mature enough to be trusted. Read
+
+00:13:32.000 --> 00:13:36.000
+all three in sequence. The arc is: safety as priority,
+
+00:13:36.000 --> 00:13:40.000
+then optimistic vision, then urgent call to action. Your application's
+
+00:13:40.000 --> 00:13:44.000
+framing — "A-I needs to go well" — echoes this
+
+00:13:44.000 --> 00:13:48.000
+progression directly. Chapter Nine: What This All Means For Your
+
+00:13:48.000 --> 00:13:52.000
+Application. Let me pull this together with some strategic context.
+
+00:13:52.000 --> 00:13:56.000
+You're applying to a team that sits at the intersection
+
+00:13:56.000 --> 00:14:00.000
+of everything we've discussed. The Strategy and Operations role on
+
+00:14:00.000 --> 00:14:04.000
+the Public Policy and Public Benefit team means you'd be
+
+00:14:04.000 --> 00:14:08.000
+involved in the operational mechanics of Anthropic's policy work —
+
+00:14:08.000 --> 00:14:12.000
+the Economic Futures Program, the Institute's research agenda, government stakeholder
+
+00:14:12.000 --> 00:14:16.000
+relationships, and the daily reality of navigating the Pentagon dispute
+
+00:14:16.000 --> 00:14:20.000
+and federal policy. Your competitive advantages are specific. State-level policy
+
+00:14:20.000 --> 00:14:24.000
+expertise is genuinely rare at A-I companies. Most policy hires
+
+00:14:24.000 --> 00:14:28.000
+come from D-C think tanks or federal agencies. You know
+
+00:14:28.000 --> 00:14:32.000
+how state legislative processes actually work, how fiscal notes get
+
+00:14:32.000 --> 00:14:36.000
+written, how agencies respond to mandates. As A-I regulation moves
+
+00:14:36.000 --> 00:14:40.000
+to the states — California's S-B-1047, Colorado's A-I Act —
+
+00:14:40.000 --> 00:14:44.000
+that expertise becomes more valuable, not less. You've personally integrated
+
+00:14:44.000 --> 00:14:48.000
+Claude into government operations. That's lived experience that policy researchers
+
+00:14:48.000 --> 00:14:52.000
+at Anthropic are studying from the outside. You've seen it
+
+00:14:52.000 --> 00:14:56.000
+from the inside. And you understand stakeholder management in politically
+
+00:14:56.000 --> 00:15:00.000
+complex environments. Coordinating seventeen state departments on budget cycles during
+
+00:15:00.000 --> 00:15:04.000
+legislative sessions, under pressure from a Governor's office — that's
+
+00:15:04.000 --> 00:15:08.000
+harder than most corporate equivalents because the incentives are less
+
+00:15:08.000 --> 00:15:12.000
+aligned and the politics are literal. The most important thing
+
+00:15:12.000 --> 00:15:16.000
+you can demonstrate in the application and interviews is specific
+
+00:15:16.000 --> 00:15:20.000
+knowledge paired with genuine enthusiasm. Not "I love A-I" —
+
+00:15:20.000 --> 00:15:24.000
+every applicant says that. Rather: "I've read the Anthropic Institute
+
+00:15:24.000 --> 00:15:28.000
+announcement, I know the Economic Futures Program connects to my
+
+00:15:28.000 --> 00:15:32.000
+fiscal analysis background, I understand the R-S-P framework, and I've
+
+00:15:32.000 --> 00:15:36.000
+thought about how state government experience translates to the policy
+
+00:15:36.000 --> 00:15:40.000
+challenges you're navigating right now." That's the depth that separates
+
+00:15:40.000 --> 00:15:44.000
+you from the stack. This has been a deep dive
+
+00:15:44.000 --> 00:15:48.000
+into Anthropic for your application to the Strategy and Operations
+
+00:15:48.000 --> 00:15:52.000
+role on the Public Policy and Public Benefit team. Good
+
+00:15:52.000 --> 00:15:54.400
+luck, Jacob. Go submit that application.
