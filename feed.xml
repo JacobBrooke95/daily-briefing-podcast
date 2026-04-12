@@ -73,7 +73,85 @@
     
     
     
-  <item>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+  <title>Deep Dive — Inside Anthropic: What You Need to Know Before Joining the Policy Team</title>
+  <description>Deep dive into everything you need to know about Anthropic for the Strategy & Operations role on the Public Policy & Public Benefit team. Covers founding story, company structure, the Anthropic Institute, Responsible Scaling Policy, Pentagon dispute, governance, key research, and Dario's intellectual framework.
+
+00:00:00 Introduction
+00:01:00 Chapter 1: The Founding Story
+00:02:08 Chapter 2: Company Organization
+00:03:20 Chapter 3: The Anthropic Institute
+00:04:45 Chapter 4: Responsible Scaling Policy
+00:05:50 Chapter 5: The Pentagon Dispute
+00:07:30 Chapter 6: Governance & Long-Term Benefit Trust
+00:08:40 Chapter 7: Key Research
+00:10:00 Chapter 8: Dario's Three Essays
+00:11:30 Chapter 9: Application Strategy</description>
+  <content:encoded><![CDATA[<h2>Deep Dive: Inside Anthropic</h2>
+<p>A comprehensive briefing on Anthropic for the Strategy &amp; Operations role on the Public Policy &amp; Public Benefit team.</p>
+<h3>Topics Covered</h3>
+<p><strong>Founding &amp; Leadership:</strong> Dario &amp; Daniela Amodei's departure from OpenAI, the co-founder team, and current organizational structure.</p>
+<p><strong>The Anthropic Institute:</strong> Jack Clark's new organization consolidating the Frontier Red Team, Societal Impacts, and Economic Research groups. New hires Matt Botvinick, Anton Korinek, and Zo&euml; Hitzig.</p>
+<p><strong>Public Policy Team:</strong> Sarah Heck's five policy priorities, the D.C. office opening, and the National Security Advisory Council (including Roy Blunt).</p>
+<p><strong>Responsible Scaling Policy:</strong> The RSP framework, ASL levels, version 3.0/3.1 changes, and legislative influence on SB-53, RAISE Act, and EU AI Act. <a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy">Read the RSP &rarr;</a></p>
+<p><strong>Pentagon Dispute:</strong> The $200M contract, Anthropic's two red lines, Trump's executive order, the supply chain designation, and legal battles. <a href="https://www.anthropic.com/news/where-we-stand-department-of-war">Anthropic's response &rarr;</a></p>
+<p><strong>Governance:</strong> The Long-Term Benefit Trust, Class T stock, and how it compares to OpenAI's structure.</p>
+<p><strong>Key Research:</strong> Scaling Monosemanticity, Sleeper Agents, Constitutional AI, CLIO, and the Economic Futures Program. <a href="https://www.anthropic.com/research">Anthropic Research &rarr;</a></p>
+<p><strong>Dario's Essays:</strong> &ldquo;The Urgency of Interpretability,&rdquo; &ldquo;Machines of Loving Grace,&rdquo; and &ldquo;The Adolescence of Technology.&rdquo;</p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-anthropic-insider-2026-04-12.mp3" length="12682345" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-deepdive-anthropic.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-anthropic-2026-04-12.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">deepdive-2026-04-12-anthropic-insider</guid>
+  <pubDate>Sun, 12 Apr 2026 08:04:17 -0500</pubDate>
+  <itunes:duration>12:51</itunes:duration>
+  <itunes:episode>44</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
   <title>Deep Dive — Inside Anthropic: What You Need to Know Before Joining the Policy Team</title>
   <description>Deep dive into everything you need to know about Anthropic for the Strategy & Operations role on the Public Policy & Public Benefit team. Covers founding story, company structure, the Anthropic Institute, Responsible Scaling Policy, Pentagon dispute, governance, key research, and Dario's intellectual framework.
 
