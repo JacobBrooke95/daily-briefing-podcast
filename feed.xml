@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 08:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:15:00 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -121,6 +121,24 @@
 
 
 
+<item>
+  <title>Daily Briefing — Monday, April 13, 2026</title>
+  <description>Monday morning briefing. The Anthropic application is in — confirmation at 1:13 AM. The US naval blockade of Iranian ports begins at 10 AM Eastern. Orbán is out in Hungary after 16 years. Ben Thompson connects the dots on Anthropic's compute constraints. First full work week after application weekend.</description>
+  <content:encoded><![CDATA[<h2>Daily Briefing - Monday, April 13, 2026</h2>
+<p>The application is submitted. The blockade starts this morning. Back to routine.</p>
+<h3>Top Stories</h3>
+<p><strong>Anthropic Application Submitted</strong> — Confirmation received 1:13 AM. Strategy &amp; Operations, Public Policy &amp; Public Benefit.</p>
+<p><strong>US Naval Blockade of Iran</strong> — CENTCOM begins blocking all maritime traffic at Iranian ports, 10 AM ET. Brent crude ~$103. UK refused to join. <a href="https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait">Al Jazeera</a></p>
+<p><strong>Orbán Ousted</strong> — Péter Magyar's Tisza party wins two-thirds supermajority (138/199 seats). Pro-EU reset. <a href="https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat">NPR</a></p>
+<p><strong>Stratechery: Opportunity Cost of Compute</strong> — Ben Thompson on why Anthropic isn't releasing Mythos broadly. <a href="https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/">Stratechery</a></p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-13.mp3" length="1325235" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/artwork-daily-briefing-2026-04-13.jpg"/>
+  <guid isPermaLink="false">daily-2026-04-13</guid>
+  <pubDate>Mon, 13 Apr 2026 07:15:00 -0500</pubDate>
+  <itunes:duration>3:01</itunes:duration>
+  <itunes:episode>47</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
   <title>Week in Review — April 13, 2026</title>
   <description>Weekly briefing covering the week of April 7-13, 2026. Anthropic application submitted, Iran ceasefire to blockade, Claude Mythos and Glasswing, Artemis II splashdown, Orban defeated in Hungary.
