@@ -75,6 +75,83 @@
     
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+  <title>Week in Review — April 13, 2026</title>
+  <description>Weekly briefing covering the week of April 7-13, 2026. Anthropic application submitted, Iran ceasefire to blockade, Claude Mythos and Glasswing, Artemis II splashdown, Orban defeated in Hungary.
+
+00:00:00 Opening
+00:01:40 The Week That Was
+00:03:20 Highlights and Wins
+00:05:50 Stories That Evolved
+00:09:00 Vault Activity
+00:10:10 Relationship Check
+00:11:10 The Week Ahead
+00:12:10 What to Watch
+00:13:00 Closing</description>
+  <content:encoded><![CDATA[<h2>Week in Review - April 7-13, 2026</h2>
+<p>The week Jacob submitted his Anthropic application, watched a ceasefire become a blockade, and the most capable AI model ever built broke out of its sandbox.</p>
+<h3>Top Stories</h3>
+<p><strong>Anthropic Application Submitted</strong> - Strategy and Operations, Public Policy and Public Benefit. Confirmation received 1:13 AM Sunday.</p>
+<p><strong>Iran: Ceasefire to Blockade</strong> - Two-week ceasefire announced Tuesday, collapsed Saturday after 21-hour Islamabad talks, naval blockade starts Monday morning. <a href="https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html">CNBC</a></p>
+<p><strong>Claude Mythos Preview and Glasswing</strong> - Anthropic launched its most capable model and a defensive cyber coalition. <a href="https://www.anthropic.com/glasswing">Anthropic</a></p>
+<p><strong>Artemis II Splashdown</strong> - First crewed lunar mission since 1972 returned safely Friday night.</p>
+<p><strong>Orban Defeated</strong> - Viktor Orban lost Hungary after 16 years. <a href="https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat">NPR</a></p>
+<p><strong>Ben Thompson: Opportunity Cost of Compute</strong> - <a href="https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/">Stratechery</a></p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/weekly-briefing-2026-04-13.mp3" length="5269046" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-13-weekly.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-weekly-2026-04-13.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">weekly-2026-04-13</guid>
+  <pubDate>Mon, 13 Apr 2026 06:37:37 -0500</pubDate>
+  <itunes:duration>13:40</itunes:duration>
+  <itunes:episode>46</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
   <title>Daily Briefing — Sunday, April 12, 2026</title>
   <description>Sunday morning briefing. Draft seven of the Anthropic application goes out tonight. Katelyn's midnight review, a 300-million-year octopus that isn't, Apple's WWDC refresh signals, consumer sentiment at historic lows, and arXiv papers on LLM agent security.
