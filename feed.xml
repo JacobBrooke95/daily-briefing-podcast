@@ -122,6 +122,35 @@
 
 
 <item>
+  <title>Daily Briefing — Tuesday, April 14, 2026</title>
+  <description>Morning daily briefing covering MAGA coalition fractures, Altman's AI backlash reckoning, Iran blockade Day 2, France's Linux migration, and Day 2 of the 30-day reset.
+
+00:00:00 Opening &amp; Weather
+00:00:55 Calendar &amp; Schedule
+00:01:40 Messages &amp; Personal
+00:02:25 MAGA Coalition Fractures
+00:03:15 Altman's Reckoning
+00:04:15 Iran Blockade &amp; Markets
+00:04:55 Tech &amp; AI News
+00:05:40 arXiv Papers &amp; Closing</description>
+  <content:encoded><![CDATA[<h2>MAGA Coalition Fractures</h2>
+<p>Axios AM reports Trump's coalition cracking across multiple vectors. <a href="https://www.axios.com/newsletters/axios-am">Read Axios AM</a></p>
+<h2>Altman's AI Backlash Reckoning</h2>
+<p>Casey Newton on Altman's "second thoughts" amid attacks and backlash. <a href="https://www.platformer.news/sam-altman-ai-backlash/">Read Platformer</a></p>
+<h2>Iran Blockade Day 2</h2>
+<p>Brent crude above $100. New talks may be floated this week. <a href="https://www.semafor.com/">Semafor</a></p>
+<h2>France to Linux</h2>
+<p>French government moving from Windows to Linux. <a href="https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/">TechCrunch</a></p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-14.mp3" length="2638381" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-14.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-14.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-14</guid>
+  <pubDate>Tue, 14 Apr 2026 06:25:08 -0500</pubDate>
+  <itunes:duration>6:32</itunes:duration>
+  <itunes:episode>48</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
   <title>Daily Briefing — Monday, April 13, 2026</title>
   <description>Monday morning briefing. The Anthropic application is in — confirmation at 1:13 AM. The US naval blockade of Iranian ports begins at 10 AM Eastern. Orbán is out in Hungary after 16 years. Ben Thompson connects the dots on Anthropic's compute constraints. First full work week after application weekend.</description>
   <content:encoded><![CDATA[<h2>Daily Briefing - Monday, April 13, 2026</h2>
