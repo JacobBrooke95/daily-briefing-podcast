@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 06:14:45 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:13:48 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -121,7 +121,36 @@
 
 
 
-<item>
+    <item>
+      <title>Deep Dive — Mirror Life: The Biological Risk Nobody Saw Coming</title>
+      <description>A look at mirror life — the hypothetical synthetic organism with flipped molecular chirality that 38 scientists warned could cause unprecedented harm. Why it's in AI safety documents, and what makes it uniquely governable.
+
+Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-mirror-life.html
+
+00:00:00 Introduction
+00:02:40 The Handedness of Life
+00:05:20 From Thought Experiment to Technical Goal
+00:07:00 The December 2024 Warning
+00:13:40 The Skeptical Case
+00:16:20 Where AI Enters the Picture
+00:19:00 Why This Might Be Governable
+00:22:40 Closing</description>
+      <content:encoded><![CDATA[
+<p>A hypothetical organism built from flipped molecular handedness is turning up in A-I safety literature. Dario Amodei flagged it. A-I 2027 flagged it. Thirty-eight scientists, including two Nobel laureates, published a formal warning in <em>Science</em>.</p>
+<p>This deep dive covers the underlying biology of chirality, the December 2024 <em>Science</em> letter, the three specific mechanisms that make mirror bacteria uniquely dangerous, where A-I accelerates the timeline, and why the governance case is surprisingly tractable.</p>
+<p><a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-mirror-life.html">Read the full post →</a></p>
+      ]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-15-mirror-life.mp3" length="7687000" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork-deepdive-2026-04-15-mirror-life.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-15-mirror-life.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-04-15-mirror-life</guid>
+      <pubDate>Wed, 15 Apr 2026 07:13:48 -0500</pubDate>
+      <itunes:duration>14:41</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
   <title>Daily Briefing — Wednesday, April 15, 2026</title>
   <description>Morning daily briefing covering weather, calendar, messages, and today's top stories. Tax Day. Anthropic's $800B week. Iran blockade Day 3. Opus 4.7 reportedly imminent.
 
