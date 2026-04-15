@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 07:15:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 06:14:45 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -121,6 +121,37 @@
 
 
 
+<item>
+  <title>Daily Briefing — Wednesday, April 15, 2026</title>
+  <description>Morning daily briefing covering weather, calendar, messages, and today's top stories. Tax Day. Anthropic's $800B week. Iran blockade Day 3. Opus 4.7 reportedly imminent.
+
+00:00:00 Opening &amp; Weather
+00:00:52 Calendar &amp; Messages
+00:02:18 Inbox Highlights
+00:03:32 Iran Blockade Analysis
+00:04:59 Anthropic News Cluster
+00:07:00 Local News &amp; Markets
+00:07:52 arXiv Papers
+00:08:49 Quick Hits &amp; Closing</description>
+  <content:encoded><![CDATA[<h2>Anthropic's Biggest Day Since Mythos</h2>
+<p>Opus 4.7 reportedly imminent. $800B+ valuation offers. Treasury seeking Mythos access. <a href="https://www.theinformation.com/briefings/exclusive-anthropic-preps-opus-4-7-model-ai-design-tool">The Information</a> | <a href="https://www.bloomberg.com/news/articles/2026-04-14/anthropic-attracts-investor-offers-at-a-800-billion-valuation">Bloomberg</a></p>
+<h2>Iran Blockade Day 3</h2>
+<p>Markets shrugging it off. IMF cut growth outlook. Citadel CEO warns of recession.</p>
+<h2>OpenAI Cyber Model</h2>
+<p>GPT-5.4-Cyber unveiled to rival Mythos.</p>
+<h2>Skycutter Wins Pentagon Drone Fly-Off</h2>
+<p>British company scores 99.3, crushing US contractors.</p>
+<h2>Missouri Data Center Council Recall</h2>
+<p>Voters fire half the council over data center approval. <a href="https://gizmodo.com/missouri-town-council-approves-data-center-a-week-later-voters-fire-half-of-council-2000746005">Gizmodo</a></p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-15.mp3" length="3836787" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-15.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-15.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-15</guid>
+  <pubDate>Wed, 15 Apr 2026 06:14:45 -0500</pubDate>
+  <itunes:duration>9:54</itunes:duration>
+  <itunes:episode>49</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
   <title>Daily Briefing — Tuesday, April 14, 2026</title>
   <description>Morning daily briefing covering MAGA coalition fractures, Altman's AI backlash reckoning, Iran blockade Day 2, France's Linux migration, and Day 2 of the 30-day reset.
