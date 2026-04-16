@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 06:30:38 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:50:03 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -149,8 +149,28 @@
   <guid isPermaLink="false">briefing-2026-04-16</guid>
   <pubDate>Thu, 16 Apr 2026 06:30:38 -0500</pubDate>
   <itunes:duration>8:47</itunes:duration>
-  <itunes:episode>51</itunes:episode>
+  <itunes:episode>52</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+  <title>Nightcap — Wednesday, April 15, 2026</title>
+  <description>Pilot episode of the evening nightcap format. A quick end-of-day recap covering what moved during the day, what landed in the inbox after the morning briefing, and what's on deck for tomorrow.
+
+00:00:00 Opening
+00:01:00 Day Recap
+00:03:00 Evening Inbox
+00:05:00 Tomorrow Preview
+00:06:30 Closing</description>
+  <content:encoded><![CDATA[<h2>Nightcap — Pilot Episode</h2>
+<p>Evening recap covering the day's developments, late inbox arrivals, and tomorrow's preview.</p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/nightcap-2026-04-15.mp3" length="2994846" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/nightcap-art-2026-04-15.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/nightcap-transcript-2026-04-15.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">nightcap-2026-04-15</guid>
+  <pubDate>Wed, 15 Apr 2026 19:50:47 -0500</pubDate>
+  <itunes:duration>7:30</itunes:duration>
+  <itunes:episode>51</itunes:episode>
+  <itunes:episodeType>bonus</itunes:episodeType>
 </item>
 <item>
       <title>Deep Dive — Mirror Life: The Biological Risk Nobody Saw Coming</title>
