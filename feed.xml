@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 07:13:48 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 06:30:38 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -122,6 +122,37 @@
 
 
     <item>
+  <title>Daily Briefing — Thursday, April 16, 2026</title>
+  <description>Morning daily briefing covering ceasefire extension talks, Opus 4.7 sightings, S&amp;P 500 above 7,000, Ticketmaster monopoly verdict, and Unbound Day 1.
+
+00:00:00 Opening &amp; Weather
+00:01:30 Messages &amp; Calendar
+00:03:30 Iran &amp; Ceasefire
+00:05:15 Markets &amp; Domestic
+00:06:30 AI &amp; Tech
+00:09:00 Local Missouri
+00:09:45 Prediction Markets &amp; arXiv
+00:10:45 Closing</description>
+  <content:encoded><![CDATA[<h2>Iran Ceasefire Extension Takes Shape</h2>
+<p>Pakistan pushed Iran and the US toward ceasefire extension talks. Trump says war is "close to over." S&amp;P 500 above 7,000.</p>
+<h2>Opus 4.7 Spotted</h2>
+<p>Multiple reports of Opus 4.7 on Google Vertex and claude.ai. Bloomberg published major Mythos feature.</p>
+<h2>Ticketmaster Ruled Illegal Monopoly</h2>
+<p>Manhattan jury found Live Nation liable on three counts. Potential breakup ahead.</p>
+<h2>Gen Z AI Excitement Drops 14 Points</h2>
+<p>Gallup: Gen Z AI excitement at just 22%. Schools banning AI. Junior hiring down 8% at AI companies.</p>
+<h2>Anthropic Updates</h2>
+<p>Declining 800B+ offers. 800-staff London office. Katelyn sent Jacob an Anthropic job posting overnight.</p>]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-16.mp3" length="3530065" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-16.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-16.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-16</guid>
+  <pubDate>Thu, 16 Apr 2026 06:30:38 -0500</pubDate>
+  <itunes:duration>8:47</itunes:duration>
+  <itunes:episode>51</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
       <title>Deep Dive — Mirror Life: The Biological Risk Nobody Saw Coming</title>
       <description>A look at mirror life — the hypothetical synthetic organism with flipped molecular chirality that 38 scientists warned could cause unprecedented harm. Why it's in AI safety documents, and what makes it uniquely governable.
 
