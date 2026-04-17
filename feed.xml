@@ -121,7 +121,92 @@
 
 
 
-    <item>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+  <title>Daily Briefing — Friday, April 17, 2026</title>
+  <description>Morning daily briefing — Amodei meets White House chief of staff Susie Wiles. Anthropic posting removed. Opus 4.7 mixed reception. Iran deal months away, Europe 6 weeks of jet fuel. arXiv verdict day.
+
+00:00:00 Opening &amp; Weather
+00:00:25 Amodei Goes to the West Wing
+00:01:30 Your Anthropic Posting
+00:02:45 Iran &amp; Europe's Fuel Clock
+00:03:30 Prediction Markets
+00:04:10 Opus 4.7 Reception
+00:05:00 Messages &amp; People
+00:05:30 Quick Hits &amp; Your Day</description>
+  <content:encoded><![CDATA[
+<h2>Amodei Goes to the West Wing</h2>
+<p>Anthropic CEO Dario Amodei meeting Susie Wiles today to negotiate Mythos access. Anthropic suing Pentagon. <a href="https://www.axios.com/2026/04/17/anthropic-trump-administration-mythos">Axios →</a></p>
+<h2>Anthropic Posting Removed</h2>
+<p>Strategy &amp; Operations role pulled from Greenhouse. Removed ≠ rejected.</p>
+<h2>Iran: Deal Could Take Months</h2>
+<p>Europe has 6 weeks of jet fuel. Polymarket Hormuz normalization jumped to 24%. <a href="https://www.euronews.com/my-europe/2026/04/16/europe-has-six-weeks-of-jet-fuel-left-caused-by-dire-strait-crisis-iea-chief-warns">Euronews →</a></p>
+<h2>Opus 4.7 Mixed Reception</h2>
+<p>Benchmarks up in some areas, down in others. <a href="https://gizmodo.com/anthropic-releases-claude-opus-4-7-to-remind-everyone-how-great-mythos-is-2000747469">Gizmodo →</a></p>
+]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-17.mp3" length="2141647" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-17.jpg"/>
+  <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-17.vtt" type="text/vtt" language="en"/>
+  <guid isPermaLink="false">briefing-2026-04-17</guid>
+  <pubDate>Fri, 17 Apr 2026 06:51:38 -0500</pubDate>
+  <itunes:duration>5:56</itunes:duration>
+  <itunes:episode>54</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
   <title>Nightcap — Thursday, April 16, 2026</title>
   <description>Evening change-focused briefing: Opus 4.7 officially launches and backlash begins, Israel-Lebanon ceasefire, Allbirds stock tumbles, and tomorrow setup for Unbound Day 2.
 
