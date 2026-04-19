@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 06:50:03 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:18:44 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -175,6 +175,42 @@
 
 
 
+<item>
+  <title>Daily Briefing — Sunday, April 19, 2026</title>
+  <description>Iran reinstates the Hormuz blockade Saturday. Anthropic / White House thaw + Claude Design launch craters Figma. Mid-Missouri tornado warnings (retro). Katelyn names the move-in question. Project Arete Day 7. Gmail + Calendar MCPs offline.
+
+00:00:00 Opening &amp; The Weight
+00:01:30 Tornado Friday &amp; Sunday Weather
+00:02:30 Iran Reinstates Hormuz
+00:03:30 Anthropic / White House Thaw
+00:04:30 Claude Design Lands on Figma
+00:05:15 Open Loops &amp; Reading
+00:06:00 arXiv Sunday: Wearables
+00:06:30 Outages &amp; Close</description>
+  <content:encoded><![CDATA[
+<h2>Iran Reinstates Hormuz Blockade</h2>
+<p>Iran reversed Saturday as the ceasefire window narrows toward expiration around April 22. Trump: blockade "remains in full force." Tanker strike reported. Markets at 86% haven't priced in the reversal — expect 90%+ Monday AM as liquidity returns.</p>
+<h2>Anthropic / White House Thaw</h2>
+<p>Friday's Amodei–Wiles–Bessent meeting characterized as "productive and constructive." No public Mythos framework yet but reporting suggests one is being drafted. Copyright settlement claims 91% filed.</p>
+<h2>Claude Design Lands on the Design Tools Industry</h2>
+<p>Figma -7%, Wix -4.7%, GoDaddy -3%, Adobe -2.7% after Thursday launch. Mike Krieger's resignation from Figma's board on April 14 now looks precisely timed. First time Anthropic has shipped a vertical product targeting a specific SaaS category.</p>
+<h2>Mid-Missouri Tornado Warnings (Friday Night)</h2>
+<p>Cole, Callaway, Osage counties all under active warnings Friday evening. Governor Kehoe declared a state of emergency. Katelyn flagged it from Tacoma before you noticed.</p>
+<h2>Katelyn — Saturday Night</h2>
+<p>"Really dreaming of us living together" — after a migraine day, after the trees-are-pretty exchange. The July trip just got heavier.</p>
+<h2>arXiv Sunday Rotation: Wearables</h2>
+<p>Brown Transformer for HRV stress inference; Kaya physical-vs-psychological stress disambiguation (77.8%→94.4%); Kyprakis frailty indexing in elderly oncology.</p>
+<h2>Briefing Gaps</h2>
+<p>Gmail MCP returned upgrade error — inbox &amp; receipts skipped. Calendar.app not running — schedule pulled from memory. Both need reconnection before Monday.</p>
+]]></content:encoded>
+  <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-19.mp3" length="5093613" type="audio/mpeg"/>
+  <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/podcast-cover.jpg"/>
+  <guid isPermaLink="false">briefing-2026-04-19</guid>
+  <pubDate>Sun, 19 Apr 2026 07:18:44 -0500</pubDate>
+  <itunes:duration>7:04</itunes:duration>
+  <itunes:episode>55</itunes:episode>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
   <title>Daily Briefing — Friday, April 17, 2026</title>
   <description>Morning daily briefing — Amodei meets White House chief of staff Susie Wiles. Anthropic posting removed. Opus 4.7 mixed reception. Iran deal months away, Europe 6 weeks of jet fuel. arXiv verdict day.
