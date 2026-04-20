@@ -1,0 +1,709 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Good morning, Jacob. Happy Monday. Here is your week in
+
+00:00:04.000 --> 00:00:08.000
+review for the week of April thirteen through nineteen, two
+
+00:00:08.000 --> 00:00:12.000
+thousand and twenty-six. Welcome to the weekly edition — the
+
+00:00:12.000 --> 00:00:16.000
+Sunday newspaper to your daily briefing's Twitter feed. We slow
+
+00:00:16.000 --> 00:00:20.000
+down. We zoom out. We find the patterns you might
+
+00:00:20.000 --> 00:00:24.000
+have missed when each day was happening to you at
+
+00:00:24.000 --> 00:00:28.000
+full speed. Grab your coffee. Let's see what kind of
+
+00:00:28.000 --> 00:00:32.000
+week that actually was. If you had to write a
+
+00:00:32.000 --> 00:00:36.000
+one-sentence headline for the week of April thirteenth, it would
+
+00:00:36.000 --> 00:00:40.000
+be this: the week everything accelerated all at once. You
+
+00:00:40.000 --> 00:00:44.000
+started Monday with the Anthropic application freshly submitted — confirmation
+
+00:00:44.000 --> 00:00:48.000
+email at one thirteen A-M — and a U-S naval
+
+00:00:48.000 --> 00:00:52.000
+blockade of Iranian ports beginning at ten A-M Eastern. That
+
+00:00:52.000 --> 00:00:56.000
+is a lot of world for one Monday. By Friday,
+
+00:00:56.000 --> 00:01:00.000
+the company you had just applied to was sitting down
+
+00:01:00.000 --> 00:01:04.000
+with the White House chief of staff. By Saturday, Iran
+
+00:01:04.000 --> 00:01:08.000
+had reinstated its closure of the Strait of Hormuz. And
+
+00:01:08.000 --> 00:01:12.000
+somewhere in the middle of all of this, you went
+
+00:01:12.000 --> 00:01:16.000
+to a book festival, had dinner with your parents at
+
+00:01:16.000 --> 00:01:20.000
+the Top Ten, watched the S-and-P five hundred cross seven
+
+00:01:20.000 --> 00:01:24.000
+thousand for the first time, and got a text from
+
+00:01:24.000 --> 00:01:28.000
+Katelyn on Saturday night that had very little to do
+
+00:01:28.000 --> 00:01:32.000
+with geopolitics. The week had a shape to it. It
+
+00:01:32.000 --> 00:01:36.000
+moved from anticipation — the application, the blockade, all those
+
+00:01:36.000 --> 00:01:40.000
+open questions — through a brief, dazzling optimism on Thursday
+
+00:01:40.000 --> 00:01:44.000
+when markets celebrated a possible ceasefire extension, and then back
+
+00:01:44.000 --> 00:01:48.000
+into tension by Sunday as Iran reinstituted the blockade and
+
+00:01:48.000 --> 00:01:52.000
+the April twenty-second expiration clock started ticking louder. On the
+
+00:01:52.000 --> 00:01:56.000
+personal axis, the trajectory went the other direction: from the
+
+00:01:56.000 --> 00:02:00.000
+anxiety of the job posting getting pulled to a quieter,
+
+00:02:00.000 --> 00:02:04.000
+more important kind of clarity that arrived Saturday night from
+
+00:02:04.000 --> 00:02:08.000
+Tacoma. That is the week. Let's go deeper. Let's start
+
+00:02:08.000 --> 00:02:12.000
+with what went right, because there was more of it
+
+00:02:12.000 --> 00:02:16.000
+than the geopolitical noise suggests. First: the Anthropic application. It
+
+00:02:16.000 --> 00:02:20.000
+is worth saying clearly — you applied to one of
+
+00:02:20.000 --> 00:02:24.000
+the most consequential companies in the world, for a role
+
+00:02:24.000 --> 00:02:28.000
+at the intersection of A-I safety and public policy, and
+
+00:02:28.000 --> 00:02:32.000
+you did it well. Katelyn's verdict was "you sound impressive."
+
+00:02:32.000 --> 00:02:36.000
+That is the right standard. The outcome is not in
+
+00:02:36.000 --> 00:02:40.000
+your hands. The work was. Second: arXiv. The seven-day trial
+
+00:02:40.000 --> 00:02:44.000
+ran, the security papers earned their keep, and you made
+
+00:02:44.000 --> 00:02:48.000
+the call — permanent fixture. The decision is clean. The
+
+00:02:48.000 --> 00:02:52.000
+cluster of papers on agent security, prompt injection, and memory
+
+00:02:52.000 --> 00:02:56.000
+extraction formed a genuine policy reading list for the A-I
+
+00:02:56.000 --> 00:03:00.000
+governance doc you haven't started yet but are clearly going
+
+00:03:00.000 --> 00:03:04.000
+to. Third: Unbound. You went to a book festival in
+
+00:03:04.000 --> 00:03:08.000
+Columbia with your parents while the rest of the internet
+
+00:03:08.000 --> 00:03:12.000
+was catastrophizing about the Strait of Hormuz. Your dad flagged
+
+00:03:12.000 --> 00:03:16.000
+the A-I panel. You stayed at Mom and Dad's Friday
+
+00:03:16.000 --> 00:03:20.000
+night. You had a Top Ten dinner. That is a
+
+00:03:20.000 --> 00:03:24.000
+win no prediction market is tracking. Fourth: Project Arete, week
+
+00:03:24.000 --> 00:03:28.000
+one. The daily briefing infrastructure got real this week —
+
+00:03:28.000 --> 00:03:32.000
+feedback loops, market tracker, arXiv permanence, concept note candidates. The
+
+00:03:32.000 --> 00:03:36.000
+briefing itself became a better product in real time. Production
+
+00:03:36.000 --> 00:03:40.000
+over consumption, the hike insight from Monday, is already showing
+
+00:03:40.000 --> 00:03:44.000
+up in the outputs. And finally: Katelyn's friend Kyley is
+
+00:03:44.000 --> 00:03:48.000
+having a baby girl in September. That is not your
+
+00:03:48.000 --> 00:03:52.000
+win, exactly, but it felt like one anyway. Two stories
+
+00:03:52.000 --> 00:03:56.000
+ran all week and changed shape every day. Let's track
+
+00:03:56.000 --> 00:04:00.000
+them. Iran and the Strait of Hormuz. Monday started with
+
+00:04:00.000 --> 00:04:04.000
+the blockade announcement and oil at one hundred and three
+
+00:04:04.000 --> 00:04:08.000
+dollars a barrel. Day one felt like the beginning of
+
+00:04:08.000 --> 00:04:12.000
+something serious. Day two, the same — allies refusing to
+
+00:04:12.000 --> 00:04:16.000
+join, the blockade settling in, European markets shrugging. Then something
+
+00:04:16.000 --> 00:04:20.000
+unexpected happened. Thursday morning, Pakistani mediators entered Tehran, both sides
+
+00:04:20.000 --> 00:04:24.000
+signaled interest in extending the ceasefire past its April twenty-second
+
+00:04:24.000 --> 00:04:28.000
+deadline, and Trump told reporters the war was "close to
+
+00:04:28.000 --> 00:04:32.000
+over." The S-and-P five hundred crossed seven thousand for the
+
+00:04:32.000 --> 00:04:36.000
+first time in history. Markets believed him. Oil eased back
+
+00:04:36.000 --> 00:04:40.000
+under one hundred dollars. By Friday it felt like, maybe,
+
+00:04:40.000 --> 00:04:44.000
+the blockade had worked as a negotiating tactic. That optimism
+
+00:04:44.000 --> 00:04:48.000
+lasted about forty-eight hours. Saturday, Iran reclosed the strait. The
+
+00:04:48.000 --> 00:04:52.000
+ceasefire window is closing Tuesday. And this morning, Sunday into
+
+00:04:52.000 --> 00:04:56.000
+Monday, the U-S Navy had seized an Iranian vessel, no
+
+00:04:56.000 --> 00:05:00.000
+tankers at all are transiting the strait, and the C-N-B-C
+
+00:05:00.000 --> 00:05:04.000
+headline reads "resumption of hostilities." The Polymarket odds on Hormuz
+
+00:05:04.000 --> 00:05:08.000
+normalization by April thirtieth, which had climbed to twenty-four percent
+
+00:05:08.000 --> 00:05:12.000
+on Friday's peace signal, are about to get repriced. The
+
+00:05:12.000 --> 00:05:16.000
+honest read: the blockade has not produced a deal. It
+
+00:05:16.000 --> 00:05:20.000
+has produced a deadline. That deadline is Tuesday, April twenty-second.
+
+00:05:20.000 --> 00:05:24.000
+Everything this week points toward Pakistan as the venue for
+
+00:05:24.000 --> 00:05:28.000
+another round of talks. Whether those talks happen before the
+
+00:05:28.000 --> 00:05:32.000
+ceasefire formally expires — and what happens if they don't
+
+00:05:32.000 --> 00:05:36.000
+— is the story to watch first thing this week.
+
+00:05:36.000 --> 00:05:40.000
+Europe has approximately six weeks of jet fuel reserves. That
+
+00:05:40.000 --> 00:05:44.000
+is not an abstraction. The Anthropic story had four distinct
+
+00:05:44.000 --> 00:05:48.000
+acts this week, and they are worth tracking in sequence.
+
+00:05:48.000 --> 00:05:52.000
+Act one: Monday through Wednesday — the good news avalanche.
+
+00:05:52.000 --> 00:05:56.000
+Bloomberg reported investor offers at eight hundred billion dollars —
+
+00:05:56.000 --> 00:06:00.000
+more than double the February round. Anthropic's annualized revenue is
+
+00:06:00.000 --> 00:06:04.000
+at thirty billion dollars. The Information reported Opus four point
+
+00:06:04.000 --> 00:06:08.000
+seven could drop as early as that week. The Treasury
+
+00:06:08.000 --> 00:06:12.000
+Department was urgently seeking Mythos access. OpenAI's investors were reportedly
+
+00:06:12.000 --> 00:06:16.000
+getting nervous about their own valuation. On Wednesday, it felt
+
+00:06:16.000 --> 00:06:20.000
+like the company you had applied to was ascending in
+
+00:06:20.000 --> 00:06:24.000
+real time. Act two: Thursday through Friday — the launch
+
+00:06:24.000 --> 00:06:28.000
+and the backlash. Opus four point seven appeared on Google
+
+00:06:28.000 --> 00:06:32.000
+Vertex Thursday, officially launched Friday, and the Reddit verdict was
+
+00:06:32.000 --> 00:06:36.000
+brutal. "Serious regression." Terminal-Bench was down from four point six.
+
+00:06:36.000 --> 00:06:40.000
+The community that had been celebrating Anthropic's rise turned on
+
+00:06:40.000 --> 00:06:44.000
+the launch almost immediately. Meanwhile, Claude Design launched Thursday and
+
+00:06:44.000 --> 00:06:48.000
+Figma lost seven percent of its market value in a
+
+00:06:48.000 --> 00:06:52.000
+day. Anthropic shipped its first vertical product aimed at replacing
+
+00:06:52.000 --> 00:06:56.000
+an entire S-a-a-S category and barely paused to celebrate. Act
+
+00:06:56.000 --> 00:07:00.000
+three: Friday morning — the White House meeting. Dario Amodei
+
+00:07:00.000 --> 00:07:04.000
+walked into the West Wing and sat down with Susie
+
+00:07:04.000 --> 00:07:08.000
+Wiles and Scott Bessent to discuss the Mythos standoff. The
+
+00:07:08.000 --> 00:07:12.000
+Pentagon wants unrestricted access. Anthropic has been saying no. The
+
+00:07:12.000 --> 00:07:16.000
+meeting was characterized afterward as "productive and constructive." Trump, asked
+
+00:07:16.000 --> 00:07:20.000
+about it by reporters, said he had "no idea" Amodei
+
+00:07:20.000 --> 00:07:24.000
+was there. Whether that is plausible deniability or genuine confusion
+
+00:07:24.000 --> 00:07:28.000
+about his own administration's schedule is left as an exercise
+
+00:07:28.000 --> 00:07:32.000
+for the reader. Act four: Friday afternoon — the posting
+
+00:07:32.000 --> 00:07:36.000
+gets pulled. The Strategy and Operations, Public Policy and Public
+
+00:07:36.000 --> 00:07:40.000
+Benefit role was removed from Greenhouse on April sixteenth. You
+
+00:07:40.000 --> 00:07:44.000
+told Katelyn: "No interview offer for yours truly." That is
+
+00:07:44.000 --> 00:07:48.000
+the accurate, honest response. It also is not the whole
+
+00:07:48.000 --> 00:07:52.000
+story. The public policy team at Anthropic was, in the
+
+00:07:52.000 --> 00:07:56.000
+same week, negotiating with the White House over the most
+
+00:07:56.000 --> 00:08:00.000
+contested A-I access question of the year. Hiring freezes during
+
+00:08:00.000 --> 00:08:04.000
+crisis weeks are normal. And here is the headline from
+
+00:08:04.000 --> 00:08:08.000
+Axios on April nineteenth that the Sunday briefing may have
+
+00:08:08.000 --> 00:08:12.000
+caught: the N-S-A is using Mythos Preview — actively, right
+
+00:08:12.000 --> 00:08:16.000
+now — despite the D-O-D's own supply chain risk label
+
+00:08:16.000 --> 00:08:20.000
+on the company. The White House is reportedly working with
+
+00:08:20.000 --> 00:08:24.000
+the O-M-B to route other federal agencies around the Pentagon's
+
+00:08:24.000 --> 00:08:28.000
+blockade. The intragovernmental fight over Anthropic is bigger than any
+
+00:08:28.000 --> 00:08:32.000
+single job posting. Silence from Greenhouse is not a verdict.
+
+00:08:32.000 --> 00:08:36.000
+The team is doing something consequential. Keep watching. The vault
+
+00:08:36.000 --> 00:08:40.000
+had a busy week. The daily briefings infrastructure got its
+
+00:08:40.000 --> 00:08:44.000
+biggest upgrade yet — prediction market tracker went live, concept
+
+00:08:44.000 --> 00:08:48.000
+note candidates file started accumulating, the arXiv trial produced its
+
+00:08:48.000 --> 00:08:52.000
+permanent verdict. The briefings themselves became more self-aware: Sunday's edition
+
+00:08:52.000 --> 00:08:56.000
+flagged its own tool failures in real time and ran
+
+00:08:56.000 --> 00:09:00.000
+a three-claim verification pass with no errors found. Career files
+
+00:09:00.000 --> 00:09:04.000
+saw the most action. Anthropic postings snapshots from April fifteenth,
+
+00:09:04.000 --> 00:09:08.000
+sixteenth, eighteenth, and nineteenth are all logged — a daily
+
+00:09:08.000 --> 00:09:12.000
+changelog of what the company is hiring for, in case
+
+00:09:12.000 --> 00:09:16.000
+the door reopens. The Sarah Heck outreach thread in Career-slash-Anthropic
+
+00:09:16.000 --> 00:09:20.000
+got its own file. The job updates April note is
+
+00:09:20.000 --> 00:09:24.000
+being maintained. A research journal draft appeared: "Mirror Life" dated
+
+00:09:24.000 --> 00:09:28.000
+April fifteenth, filed under two thousand twenty-six. Worth knowing that
+
+00:09:28.000 --> 00:09:32.000
+exists. The Binder Park Ramblings voice memo from Monday's hike
+
+00:09:32.000 --> 00:09:36.000
+got transcribed and filed. That document is the week's most
+
+00:09:36.000 --> 00:09:40.000
+important vault entry, not because of what happened externally, but
+
+00:09:40.000 --> 00:09:44.000
+because of what you figured out on a trail in
+
+00:09:44.000 --> 00:09:48.000
+mid-Missouri: the A-I obsession is fine, the consumption-production imbalance is
+
+00:09:48.000 --> 00:09:52.000
+the problem. Everything the week produced — the arXiv commitment,
+
+00:09:52.000 --> 00:09:56.000
+the daily briefing improvements, the policy doc you haven't started
+
+00:09:56.000 --> 00:10:00.000
+yet — follows from that one walk. Dustin's ReDefine Politics
+
+00:10:00.000 --> 00:10:04.000
+late-night development session ended up in the Social Life update.
+
+00:10:04.000 --> 00:10:08.000
+The friendship where both of you are building things is
+
+00:10:08.000 --> 00:10:12.000
+the most alive thread in the social file right now.
+
+00:10:12.000 --> 00:10:16.000
+Katelyn. The week began with the package landing — "Perfect,
+
+00:10:16.000 --> 00:10:20.000
+love it and you" — and ended with a Saturday
+
+00:10:20.000 --> 00:10:24.000
+night text that deserves more than a Quick Hit. At
+
+00:10:24.000 --> 00:10:28.000
+approximately nine P-M Central, after a migraine day and a
+
+00:10:28.000 --> 00:10:32.000
+quiet afternoon trading tree photos, she sent: "I'm missing you
+
+00:10:32.000 --> 00:10:36.000
+a lot today. Really dreaming of us living together." The
+
+00:10:36.000 --> 00:10:40.000
+word "dreaming" is doing a lot of work. It is
+
+00:10:40.000 --> 00:10:44.000
+not "we need to have a conversation." It is not
+
+00:10:44.000 --> 00:10:48.000
+"I can't do this long distance anymore." It is the
+
+00:10:48.000 --> 00:10:52.000
+language of someone trying on an idea to see if
+
+00:10:52.000 --> 00:10:56.000
+it fits — sitting upstream of a demand, upstream of
+
+00:10:56.000 --> 00:11:00.000
+an ultimatum, at the place where a person says something
+
+00:11:00.000 --> 00:11:04.000
+true out loud for the first time to see how
+
+00:11:04.000 --> 00:11:08.000
+it lands. The Anthropic posting got pulled the same week.
+
+00:11:08.000 --> 00:11:12.000
+The geography question is not more or less urgent because
+
+00:11:12.000 --> 00:11:16.000
+of that — but it is less abstract. Missouri-or-Washington used
+
+00:11:16.000 --> 00:11:20.000
+to be a theoretical question. It is becoming a real
+
+00:11:20.000 --> 00:11:24.000
+one. The July twenty-third through thirtieth Washington trip is ninety-five
+
+00:11:24.000 --> 00:11:28.000
+days out. Flights are still unbooked. That trip was always
+
+00:11:28.000 --> 00:11:32.000
+more than a vacation. Now it is carrying the weight
+
+00:11:32.000 --> 00:11:36.000
+of the conversation that will either start or not start
+
+00:11:36.000 --> 00:11:40.000
+in person. Family had a warm quiet week. Ben is
+
+00:11:40.000 --> 00:11:44.000
+in New York with family. Alex Kelley is sending iPhone
+
+00:11:44.000 --> 00:11:48.000
+eighteen Pro color rumors on a reliable schedule. Dustin is
+
+00:11:48.000 --> 00:11:52.000
+building his politics app on Windows and just cancelled his
+
+00:11:52.000 --> 00:11:56.000
+ChatGPT subscription in favor of Claude. The social perimeter is
+
+00:11:56.000 --> 00:12:00.000
+holding. Here is what the calendar looks like. The biggest
+
+00:12:00.000 --> 00:12:04.000
+event of the week has nothing to do with your
+
+00:12:04.000 --> 00:12:08.000
+personal schedule: the Iran ceasefire expires Tuesday, April twenty-second. Pakistan
+
+00:12:08.000 --> 00:12:12.000
+talks are reportedly still possible. If they happen before Tuesday,
+
+00:12:12.000 --> 00:12:16.000
+watch oil and the S-and-P. If they don't, watch oil
+
+00:12:16.000 --> 00:12:20.000
+and the S-and-P. Capital City Race is May ninth —
+
+00:12:20.000 --> 00:12:24.000
+that is nineteen days from today. Molly's Miles is off
+
+00:12:24.000 --> 00:12:28.000
+the board. The training window for Capital City is now
+
+00:12:28.000 --> 00:12:32.000
+and it is not long. Washington trip is July twenty-third
+
+00:12:32.000 --> 00:12:36.000
+through thirtieth. At some point this week, look at flights
+
+00:12:36.000 --> 00:12:40.000
+from K-C or St. Louis to Seattle. They were expensive
+
+00:12:40.000 --> 00:12:44.000
+last week; prices fluctuate. WWDC is June eighth — fifty
+
+00:12:44.000 --> 00:12:48.000
+days out. The foldable iPhone prediction market is at eighty-five
+
+00:12:48.000 --> 00:12:52.000
+percent. Alex is already tracking every color rumor for the
+
+00:12:52.000 --> 00:12:56.000
+eighteen Pro. This is going to be a loud spring.
+
+00:12:56.000 --> 00:13:00.000
+On the Anthropic front: no action needed. The process is
+
+00:13:00.000 --> 00:13:04.000
+running. If there is going to be a screen, the
+
+00:13:04.000 --> 00:13:08.000
+window is roughly April twentieth through the twenty-fifth. If nothing
+
+00:13:08.000 --> 00:13:12.000
+comes in that window, the posting was pulled before your
+
+00:13:12.000 --> 00:13:16.000
+application surfaced in a review — which means the question
+
+00:13:16.000 --> 00:13:20.000
+is whether it reopens. Check the postings scanner. The A-I
+
+00:13:20.000 --> 00:13:24.000
+policy doc is the week two production target. The Binder
+
+00:13:24.000 --> 00:13:28.000
+Park hike said so. The arXiv papers keep forming arguments
+
+00:13:28.000 --> 00:13:32.000
+for it. The policy landscape — N-S-A using Mythos against
+
+00:13:32.000 --> 00:13:36.000
+D-O-D wishes, OpenAI's cyber model, the Stanford A-I Index —
+
+00:13:36.000 --> 00:13:40.000
+is giving you everything you need to start. Three things
+
+00:13:40.000 --> 00:13:44.000
+worth tracking as the week unfolds. First: the Iran ceasefire
+
+00:13:44.000 --> 00:13:48.000
+expiration on Tuesday. The range of outcomes is wide. Full
+
+00:13:48.000 --> 00:13:52.000
+extension with Pakistan talks resuming is possible. A formal lapse
+
+00:13:52.000 --> 00:13:56.000
+that turns into de facto continuation is possible. An escalation
+
+00:13:56.000 --> 00:14:00.000
+that makes last Monday's oil spike look like a warmup
+
+00:14:00.000 --> 00:14:04.000
+is possible. Europe's six-week jet fuel clock is the most
+
+00:14:04.000 --> 00:14:08.000
+concrete number in the story. Second: the intragovernmental Anthropic fight.
+
+00:14:08.000 --> 00:14:12.000
+The N-S-A is using Mythos. The D-O-D says Anthropic is
+
+00:14:12.000 --> 00:14:16.000
+a supply chain risk. The O-M-B is building workarounds. The
+
+00:14:16.000 --> 00:14:20.000
+White House meeting was "productive." What actually happens with government
+
+00:14:20.000 --> 00:14:24.000
+access to Anthropic's frontier models will define how the next
+
+00:14:24.000 --> 00:14:28.000
+generation of A-I policy gets made — and it is
+
+00:14:28.000 --> 00:14:32.000
+happening this week. Third: what you produce. The first week
+
+00:14:32.000 --> 00:14:36.000
+of Project Arete built infrastructure. The second week is supposed
+
+00:14:36.000 --> 00:14:40.000
+to produce something. The A-I policy doc is the obvious
+
+00:14:40.000 --> 00:14:44.000
+candidate. Nineteen days to Capital City means training matters too.
+
+00:14:44.000 --> 00:14:48.000
+The question for week two: what gets built? That is
+
+00:14:48.000 --> 00:14:52.000
+your week, Jacob. The naval blockade, the book festival, the
+
+00:14:52.000 --> 00:14:56.000
+White House meeting, the posting that got pulled, the S-and-P
+
+00:14:56.000 --> 00:15:00.000
+crossing seven thousand, the Figma shareholder who definitely had a
+
+00:15:00.000 --> 00:15:04.000
+bad Thursday, and a Saturday night text from Tacoma that
+
+00:15:04.000 --> 00:15:08.000
+said something true. The week of April thirteenth was not
+
+00:15:08.000 --> 00:15:12.000
+an easy one by conventional measures. But it had shape.
+
+00:15:12.000 --> 00:15:16.000
+It moved. And underneath all the volatility — the oil
+
+00:15:16.000 --> 00:15:20.000
+prices and the prediction markets and the Greenhouse silence —
+
+00:15:20.000 --> 00:15:24.000
+there was the quieter story of someone figuring out what
+
+00:15:24.000 --> 00:15:28.000
+he actually wants to build, and a person two thousand
+
+00:15:28.000 --> 00:15:32.000
+miles away who is dreaming about the same future. April
+
+00:15:32.000 --> 00:15:36.000
+twenty-second is Tuesday. The ceasefire clock is ticking. But some
+
+00:15:36.000 --> 00:15:40.000
+deadlines are more important than others. Go run. Start the
+
+00:15:40.000 --> 00:15:43.200
+doc. Check the flights. Have a good week.
