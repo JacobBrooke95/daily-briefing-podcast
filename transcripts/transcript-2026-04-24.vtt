@@ -1,103 +1,241 @@
 WEBVTT
 
 00:00:00.000 --> 00:00:04.000
-Good morning, Jacob. Friday, April twenty-fourth. Project Arete day twelve
+Good morning. It's Friday, April twenty-fourth, twenty twenty-six. Three things
 
 00:00:04.000 --> 00:00:08.000
-of thirty. Today's lead is unusual. Yesterday's briefing was wrong
+for the day. One: put a date on later with
 
 00:00:08.000 --> 00:00:12.000
-about the most important story of your day, and we
+Katelyn — last night's conversation ended mutually, not coldly. Two:
 
 00:00:12.000 --> 00:00:16.000
-owe you a retraction before we owe you anything else.
+yesterday's briefing got the Katelyn thread wrong. The retraction is
 
 00:00:16.000 --> 00:00:20.000
-The memory file said you sent a ten-fifteen PM direct
+today's lead. And three: reply to Dustin. Five days. Forty-five
 
 00:00:20.000 --> 00:00:24.000
-message to Katelyn about not feeling responded-to on the intimate
+seconds of typing. Memory correction first. Yesterday's briefing described a
 
 00:00:24.000 --> 00:00:28.000
-thread of the relationship, and that it sat unread. Neither
+ten-fifteen P-M message about the intimate thread, sitting unreplied. No
 
 00:00:28.000 --> 00:00:32.000
-thing happened. What did happen: you and Katelyn had an
+such message exists. The real thread was a fifty-five minute
 
 00:00:32.000 --> 00:00:36.000
-hour-long conversation between eight-fifty-two and nine-forty-seven PM about the future.
+conversation, from eight fifty-two to nine forty-seven P-M, about geography,
 
 00:00:36.000 --> 00:00:40.000
-Moving. A plan. The fact that you don't have one.
+moving, and the absence of a plan. It ended with
 
 00:00:40.000 --> 00:00:44.000
-It ended mutually, with her saying, quote, I mean yeah
+her line — I mean yeah but we can talk
 
 00:00:44.000 --> 00:00:48.000
-but we can talk later. And then she came back
+later. She came back warm — Merlin bird photos at
 
 00:00:48.000 --> 00:00:52.000
-warm. Merlin bird photos at ten-thirty-one. Post-midnight-movie texts at one-twenty
+ten thirty-one, six more photos at ten thirty-two, and chatty
 
 00:00:52.000 --> 00:00:56.000
-AM about a film she cried at in a good
+post-movie texts at one-nineteen A-M. Why it matters: the framing
 
 00:00:56.000 --> 00:01:00.000
-way, and a Reddit rabbit hole on Whoop and Lumia
+changes the call to action. Not repair first — schedule
 
 00:01:00.000 --> 00:01:04.000
-earrings. The thread isn't stalled. It tapped out at bedtime.
+the follow-up. When she wakes, reply to the Merlin photos
 
 00:01:04.000 --> 00:01:08.000
-Your job today is to put a real time on
+first, then put a real time on later. Sunday afternoon
 
 00:01:08.000 --> 00:01:12.000
-later before later drifts into next week and your flights
+works. Iran. Trump posted a shoot-and-kill order overnight for Iranian
 
 00:01:12.000 --> 00:01:16.000
-are the thing that almost happened. On Anthropic: quieter Friday.
+Revolutionary Guard mine-laying boats in the Strait of Hormuz. Sourced
 
 00:01:16.000 --> 00:01:20.000
-The NEC partnership dropped yesterday evening Japan time — Japan's
+across Al Jazeera, N-B-C, C-B-S, Axios, TIME, Washington Post, and
 
 00:01:20.000 --> 00:01:24.000
-largest AI engineering workforce, thin on specifics. Boris Cherny published
+P-B-S. The ceasefire framing is still intact — the extension
 
 00:01:24.000 --> 00:01:28.000
-the Claude Code post-mortem. Three technical changes compounded into what
+remains indefinite. But rules of engagement were loosened without calling
 
 00:01:28.000 --> 00:01:32.000
-users were calling the model getting dumber, limits reset for
+the ceasefire off. Manifold moved: Hormuz-normal-by-April-thirtieth up three points to
 
 00:01:32.000 --> 00:01:36.000
-everyone on April twentieth. Community is mixed but softer than
+eight percent — that's resolution compression, not a re-read. Brent
 
 00:01:36.000 --> 00:01:40.000
-Wednesday. Anthropic-over-OpenAI 2026 drifted down four points on Manifold despite
+above one-ten by June thirtieth at seventy-nine percent. Iran retaliates
 
 00:01:40.000 --> 00:01:44.000
-the trillion-dollar secondary story. DeepSeek shipped V4 overnight. Two preview
+against U-S blockade by July first at sixty-eight percent. Anthropic
 
 00:01:44.000 --> 00:01:48.000
-models. The Pro tier is the largest open weights model
+— quieter Friday, noisier backdrop. N-E-C partnership to build Japan's
 
 00:01:48.000 --> 00:01:52.000
-ever released. The Flash tier is the cheapest small model,
+largest A-I engineering workforce, announced Thursday Japan time. Thin on
 
 00:01:52.000 --> 00:01:56.000
-full stop. Simon Willison's write-up landed at six-oh-one this morning.
+specifics. And Boris Cherny shipped the Claude Code post-mortem —
 
 00:01:56.000 --> 00:02:00.000
-Twenty minutes today is worth it. Iran: Trump ordered shoot-and-kill
+three technical changes compounded. Reasoning-effort change. Verbosity prompt update. Caching
 
 00:02:00.000 --> 00:02:04.000
-on IRGC mine-laying boats. Ceasefire framing survives; rules of engagement
+bug in version two-point-one-point-one-one-six. All three reverted. Limits reset for
 
 00:02:04.000 --> 00:02:08.000
-didn't. Dustin is five days stale. Alex Kelley has three
+everyone on April twentieth. The approval read: public incident detail
 
 00:02:08.000 --> 00:02:12.000
-items stacked. One paragraph closes the thread. Have a good
+at infra-vendor standards. The disapproval read from r/ClaudeAI: silent on
 
-00:02:12.000 --> 00:02:12.400
-day.
+00:02:12.000 --> 00:02:16.000
+the invisible context-window instructions surfaced in February's breach coverage. Now
+
+00:02:16.000 --> 00:02:20.000
+the big miss I have to patch. OpenAI shipped G-P-T
+
+00:02:20.000 --> 00:02:24.000
+five-point-five Thursday — codenamed Spud, after the potato emoji OpenAI
+
+00:02:24.000 --> 00:02:28.000
+used to tease it. Went wide to Plus, Pro, Business,
+
+00:02:28.000 --> 00:02:32.000
+and Enterprise. A-P-I access coming very soon. State-of-the-art on fourteen
+
+00:02:32.000 --> 00:02:36.000
+benchmarks versus four for Claude Opus four-point-seven and two for
+
+00:02:36.000 --> 00:02:40.000
+Gemini three-point-one Pro — per OpenAI's own comparison. Eighty-two point
+
+00:02:40.000 --> 00:02:44.000
+seven percent on Terminal-Bench two-point-zero, narrowly beating Claude Mythos Preview.
+
+00:02:44.000 --> 00:02:48.000
+One million token context. Pricing, when the A-P-I opens: five
+
+00:02:48.000 --> 00:02:52.000
+dollars per million input tokens, thirty dollars per million output
+
+00:02:52.000 --> 00:02:56.000
+— exactly twice G-P-T five-point-four. G-P-T five-point-five Pro at thirty
+
+00:02:56.000 --> 00:03:00.000
+and one-eighty. Why it matters for your Anthropic application thread:
+
+00:03:00.000 --> 00:03:04.000
+this is the single biggest competitive data point this week.
+
+00:03:04.000 --> 00:03:08.000
+A new OpenAI flagship six weeks after five-point-four is an
+
+00:03:08.000 --> 00:03:12.000
+acceleration statement, and the benchmark comparison is explicitly against Opus
+
+00:03:12.000 --> 00:03:16.000
+and Gemini. Watch whether Anthropic ships a response inside April.
+
+00:03:16.000 --> 00:03:20.000
+DeepSeek V-four — reframed against five-point-five. Largest open-weights model ever.
+
+00:03:20.000 --> 00:03:24.000
+V-four Pro at one-point-seven-four and three-point-four-eight per million tokens. V-four
+
+00:03:24.000 --> 00:03:28.000
+Flash at fourteen cents and twenty-eight cents. Now undercutting G-P-T
+
+00:03:28.000 --> 00:03:32.000
+five-point-five at five and thirty — that's a wider gap
+
+00:03:32.000 --> 00:03:36.000
+than yesterday's five-point-four comparison showed. The frontier cost floor story
+
+00:03:36.000 --> 00:03:40.000
+is bigger, not smaller, after yesterday's OpenAI shipment. Simon Willison
+
+00:03:40.000 --> 00:03:44.000
+has the cleanest write-up. The Manifold read on Anthropic-greater-than-OpenAI twenty
+
+00:03:44.000 --> 00:03:48.000
+twenty-six: sixty percent, down four points on two days. Earlier
+
+00:03:48.000 --> 00:03:52.000
+read was the one-T secondary story didn't lift; post-mortem drag.
+
+00:03:52.000 --> 00:03:56.000
+Revised read: the bigger drag was OpenAI shipping into the
+
+00:03:56.000 --> 00:04:00.000
+window. A competitor headlining a new frontier model the same
+
+00:04:00.000 --> 00:04:04.000
+week a rival publishes an incident report is the pattern
+
+00:04:04.000 --> 00:04:08.000
+the market is pricing. Apple. Gurman says six new product
+
+00:04:08.000 --> 00:04:12.000
+categories coming — A-I AirPods, smart glasses, a wearable pendant,
+
+00:04:12.000 --> 00:04:16.000
+a HomePad, a tabletop robot, and a security camera. Ternus
+
+00:04:16.000 --> 00:04:20.000
+is inheriting a denser pipeline than the public narrative suggests.
+
+00:04:20.000 --> 00:04:24.000
+Alex Kelley's ten-fifty-eight A-M ping yesterday is unreplied — one
+
+00:04:24.000 --> 00:04:28.000
+paragraph closes the Cook-letter, Vergecast, and Gurman loops at once.
+
+00:04:28.000 --> 00:04:32.000
+Local. Rep. Brad Christ did not attend Governor Kehoe's signing
+
+00:04:32.000 --> 00:04:36.000
+of his own bill Thursday. A Democratic state rep, the
+
+00:04:36.000 --> 00:04:40.000
+only other legislator in the room, was asked to speak
+
+00:04:40.000 --> 00:04:44.000
+instead. Group chat comedy. No action needed. Weather in Jefferson
+
+00:04:44.000 --> 00:04:48.000
+City — storms rolled through before sunrise. Mostly sunny, high
+
+00:04:48.000 --> 00:04:52.000
+near seventy-eight. Pippa walk before ten A-M. Messages — who's
+
+00:04:52.000 --> 00:04:56.000
+waiting. Katelyn: she replied. Put a date on later when
+
+00:04:56.000 --> 00:05:00.000
+she wakes. Dustin: five days stale, forty-five seconds, before lunch.
+
+00:05:00.000 --> 00:05:04.000
+Alex Kelley: three stacked items, one paragraph closes all three.
+
+00:05:04.000 --> 00:05:08.000
+Justin Buckler: weekend with Erin and Courtney still open. Forcing
+
+00:05:08.000 --> 00:05:12.000
+functions. Capital City Race — fifteen days. W-A flights booking
+
+00:05:12.000 --> 00:05:16.000
+target — Sunday, ninety-one days out from July twenty-third. Project
+
+00:05:16.000 --> 00:05:19.600
+Arete — day twelve of thirty. That's Friday. Go.

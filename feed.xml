@@ -30,65 +30,42 @@
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
 
   <item>
-    <title>Nightcap &#x2014; Friday, April 24, 2026</title>
-    <description><![CDATA[Evening change briefing — what moved, what landed, one thing worth sitting with.
-
-00:00:00 Opening
-00:00:12 The Scorecard
-00:01:40 The Plot Thickens
-00:03:44 Fresh Intel
-00:06:00 Messages Tonight
-00:06:48 Tomorrow Setup
-00:07:50 One Thing to Sit With]]></description>
-    <content:encoded><![CDATA[<h2>The Scorecard</h2>
-<p>Anthropic &gt; OpenAI 2026 market slid to 58.3% (morning: 60%) despite a strong Mythos news day. Iran markets flat — ships repositioned deeper into Iranian waters.</p>
-<h2>The Plot Thickens</h2>
-<p>Epaminondas moved north between Iranian islands; Francesca stopped transmitting. <a href="https://www.nbcnews.com/world/iran/blog/live-updates-trump-iran-hormuz-blockade-ceasefire-talks-lebanon-israel-rcna341571">NBC live →</a></p>
-<h2>Fresh Intel</h2>
-<p>GPT-5.5 launched Thursday, buried by DeepSeek coverage — 88.7% SWE-bench, 60% hallucination drop. <a href="https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/">TechCrunch →</a></p>
-<p>Mozilla used Mythos to find 271 Firefox vulnerabilities (vs 22 with Opus 4.6). <a href="https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/">Wired →</a></p>
-<h2>Tomorrow Setup</h2>
-<p>High 82°F, 20% afternoon storms. WA flight booking day.</p>]]></content:encoded>
-    <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/nightcap-2026-04-24.mp3" length="3456289" type="audio/mpeg"/>
-    <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-nightcap-2026-04-24.jpg"/>
-    <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-nightcap-2026-04-24.vtt" type="text/vtt" language="en"/>
-    <guid isPermaLink="false">nightcap-2026-04-24</guid>
-    <pubDate>Fri, 24 Apr 2026 06:57:03 -0500</pubDate>
-    <itunes:duration>8:53</itunes:duration>
-    <itunes:episode>58</itunes:episode>
-    <itunes:episodeType>bonus</itunes:episodeType>
-  </item>
-
-  <item>
     <title>Daily Briefing — Friday, April 24, 2026</title>
-    <description>Morning daily briefing — memory correction on the Katelyn thread, Iran shoot-and-kill escalation, DeepSeek V4 frontier cost reset, and a quiet Anthropic Friday.
+    <description>Morning daily briefing — memory correction on the Katelyn thread, Iran shoot-and-kill escalation, Anthropic's quieter Friday, OpenAI's GPT-5.5 shipped Thursday (patched into v2), and DeepSeek V4 reframed against the new frontier cost floor.
 
-00:00:00 Opening & Weather
-00:00:25 Memory Correction
-00:00:55 Messages & Calendar
-00:01:30 Iran & Hormuz
-00:02:05 Anthropic & AI Frontier
-00:02:40 Closing</description>
+00:00:00 Opening and Top 3
+00:00:18 Memory Correction
+00:01:26 Iran and Hormuz
+00:02:01 Anthropic Friday
+00:02:28 GPT-5.5 Shipped
+00:03:52 DeepSeek V4 Reframed
+00:04:25 Manifold Shift
+00:04:55 Apple and Local
+00:05:30 Weather and Messages
+00:05:55 Closing</description>
     <content:encoded><![CDATA[<h2>Memory Correction — Katelyn Thread</h2>
-<p>Yesterday's briefing fabricated a 10:15 PM message that wasn't in the iMessage record. Today's lead opens with the retraction and reconstructs the actual thread from the timestamp trail. Lesson filed to decisions.md: verify thread framings against iMessage, not memory.</p>
+<p>Yesterday's briefing fabricated a 10:15 PM message that wasn't in the iMessage record. Today's lead opens with the retraction. Lesson filed to decisions.md: verify thread framings against iMessage, not memory.</p>
 
 <h2>Iran — Shoot-and-Kill Order Overnight</h2>
-<p>Trump posted a rules-of-engagement change for IRGC mine-laying boats in the Strait. No formal ceasefire break. Francesca and Epaminondas still held at Bandar Abbas. Hormuz-normal-by-April-30 ticked up 3 points on resolution compression, not a re-read.</p>
+<p>Trump posted a rules-of-engagement change for IRGC mine-laying boats in the Strait. No formal ceasefire break. Francesca and Epaminondas still held at Bandar Abbas. Hormuz-normal-by-April-30 ticked up 3 points on resolution compression.</p>
 
-<h2>DeepSeek V4 Preview</h2>
-<p>V4-Pro priced at $1.74 / $3.48 per million tokens. V4-Flash at $0.14 / $0.28. Cheapest at both size tiers — the frontier cost floor moved down again. Watch whether Anthropic valuation markets absorb this before monetary-follow-through stories land.</p>
+<h2>OpenAI — GPT-5.5 Shipped Thursday (Patched into v2)</h2>
+<p>Codenamed "Spud." State-of-the-art on 14 benchmarks vs 4 for Claude Opus 4.7 and 2 for Gemini 3.1 Pro. 82.7% on Terminal-Bench 2.0, narrowly beating Claude Mythos Preview. Pricing: $5 / $30 per million tokens when API opens — 2x GPT-5.4. Initial briefing missed this; patched mid-morning.</p>
 
-<h2>Anthropic — Quieter Friday</h2>
-<p>NEC partnership posted Thursday evening Japan time, thin on specifics. Anthropic-greater-than-OpenAI-2026 down four points across two days despite the $1T secondary valuation print — likely offset by Claude Code post-mortem and Pro-tier pricing-test residue.</p>
+<h2>DeepSeek V4 — Reframed</h2>
+<p>V4-Pro at $1.74 / $3.48, V4-Flash at $0.14 / $0.28. Now undercutting GPT-5.5 ($5/$30), not GPT-5.4. The frontier cost floor story is bigger after yesterday's OpenAI shipment.</p>
+
+<h2>Anthropic — Quieter Friday, Noisier Backdrop</h2>
+<p>NEC partnership posted Thursday evening Japan time. Claude Code post-mortem from Boris Cherny. Anthropic-greater-than-OpenAI-2026 down 4 points across two days — the revised read is OpenAI shipping into the window, not post-mortem drag.</p>
 
 <h2>Weather</h2>
 <p>Jefferson City: storms rolled through before sunrise. Today mostly sunny, high near 78°F. Pippa walk before 10 AM.</p>]]></content:encoded>
-    <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-24.mp3" length="2176482" type="audio/mpeg"/>
+    <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-24.mp3" length="3247028" type="audio/mpeg"/>
     <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-24.jpg"/>
     <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-24.vtt" type="text/vtt" language="en"/>
     <guid isPermaLink="false">briefing-2026-04-24</guid>
-    <pubDate>Fri, 24 Apr 2026 06:41:51 -0500</pubDate>
-    <itunes:duration>2:35</itunes:duration>
+    <pubDate>Fri, 24 Apr 2026 07:39:11 -0500</pubDate>
+    <itunes:duration>6:06</itunes:duration>
     <itunes:episode>57</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
   </item>
