@@ -29,6 +29,35 @@
     <podcast:locked>no</podcast:locked>
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
 
+  <item>
+    <title>Nightcap &#x2014; Friday, April 24, 2026</title>
+    <description><![CDATA[Evening change briefing — what moved, what landed, one thing worth sitting with.
+
+00:00:00 Opening
+00:00:12 The Scorecard
+00:01:40 The Plot Thickens
+00:03:44 Fresh Intel
+00:06:00 Messages Tonight
+00:06:48 Tomorrow Setup
+00:07:50 One Thing to Sit With]]></description>
+    <content:encoded><![CDATA[<h2>The Scorecard</h2>
+<p>Anthropic &gt; OpenAI 2026 market slid to 58.3% (morning: 60%) despite a strong Mythos news day. Iran markets flat — ships repositioned deeper into Iranian waters.</p>
+<h2>The Plot Thickens</h2>
+<p>Epaminondas moved north between Iranian islands; Francesca stopped transmitting. <a href="https://www.nbcnews.com/world/iran/blog/live-updates-trump-iran-hormuz-blockade-ceasefire-talks-lebanon-israel-rcna341571">NBC live →</a></p>
+<h2>Fresh Intel</h2>
+<p>GPT-5.5 launched Thursday, buried by DeepSeek coverage — 88.7% SWE-bench, 60% hallucination drop. <a href="https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/">TechCrunch →</a></p>
+<p>Mozilla used Mythos to find 271 Firefox vulnerabilities (vs 22 with Opus 4.6). <a href="https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/">Wired →</a></p>
+<h2>Tomorrow Setup</h2>
+<p>High 82°F, 20% afternoon storms. WA flight booking day.</p>]]></content:encoded>
+    <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/nightcap-2026-04-24.mp3" length="3456289" type="audio/mpeg"/>
+    <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-nightcap-2026-04-24.jpg"/>
+    <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-nightcap-2026-04-24.vtt" type="text/vtt" language="en"/>
+    <guid isPermaLink="false">nightcap-2026-04-24</guid>
+    <pubDate>Fri, 24 Apr 2026 06:57:03 -0500</pubDate>
+    <itunes:duration>8:53</itunes:duration>
+    <itunes:episode>58</itunes:episode>
+    <itunes:episodeType>bonus</itunes:episodeType>
+  </item>
 
   <item>
     <title>Daily Briefing — Friday, April 24, 2026</title>
@@ -63,6 +92,7 @@
     <itunes:episode>57</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
   </item>
+
   <item>
     <title>Week in Review -- April 20, 2026</title>
     <description>Weekly briefing covering the week of April 13-19, 2026.
@@ -87,6 +117,7 @@
     <itunes:episode>56</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
   </item>
+
   <item>
   <title>Daily Briefing — Sunday, April 19, 2026</title>
   <description>Iran reinstates the Hormuz blockade Saturday. Anthropic / White House thaw + Claude Design launch craters Figma. Mid-Missouri tornado warnings (retro). Katelyn names the move-in question. Project Arete Day 7. Gmail + Calendar MCPs offline.
@@ -123,6 +154,7 @@
   <itunes:episode>55</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Daily Briefing — Friday, April 17, 2026</title>
   <description>Morning daily briefing — Amodei meets White House chief of staff Susie Wiles. Anthropic posting removed. Opus 4.7 mixed reception. Iran deal months away, Europe 6 weeks of jet fuel. arXiv verdict day.
@@ -154,6 +186,7 @@
   <itunes:episode>54</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Nightcap — Thursday, April 16, 2026</title>
   <description>Evening change-focused briefing: Opus 4.7 officially launches and backlash begins, Israel-Lebanon ceasefire, Allbirds stock tumbles, and tomorrow setup for Unbound Day 2.
@@ -174,6 +207,7 @@
   <itunes:episode>53</itunes:episode>
   <itunes:episodeType>bonus</itunes:episodeType>
 </item>
+
   <item>
   <title>Daily Briefing — Thursday, April 16, 2026</title>
   <description>Morning daily briefing covering ceasefire extension talks, Opus 4.7 sightings, S&amp;P 500 above 7,000, Ticketmaster monopoly verdict, and Unbound Day 1.
@@ -205,6 +239,7 @@
   <itunes:episode>52</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Nightcap — Wednesday, April 15, 2026</title>
   <description>Pilot episode of the evening nightcap format. A quick end-of-day recap covering what moved during the day, what landed in the inbox after the morning briefing, and what's on deck for tomorrow.
@@ -225,6 +260,7 @@
   <itunes:episode>51</itunes:episode>
   <itunes:episodeType>bonus</itunes:episodeType>
 </item>
+
   <item>
       <title>Deep Dive — Mirror Life: The Biological Risk Nobody Saw Coming</title>
       <description>A look at mirror life — the hypothetical synthetic organism with flipped molecular chirality that 38 scientists warned could cause unprecedented harm. Why it's in AI safety documents, and what makes it uniquely governable.
@@ -253,6 +289,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
       <itunes:episode>50</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
   <title>Daily Briefing — Wednesday, April 15, 2026</title>
   <description>Morning daily briefing covering weather, calendar, messages, and today's top stories. Tax Day. Anthropic's $800B week. Iran blockade Day 3. Opus 4.7 reportedly imminent.
@@ -284,6 +321,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:episode>49</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Daily Briefing — Tuesday, April 14, 2026</title>
   <description>Morning daily briefing covering MAGA coalition fractures, Altman's AI backlash reckoning, Iran blockade Day 2, France's Linux migration, and Day 2 of the 30-day reset.
@@ -313,6 +351,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:episode>48</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Daily Briefing — Monday, April 13, 2026</title>
   <description>Monday morning briefing. The Anthropic application is in — confirmation at 1:13 AM. The US naval blockade of Iranian ports begins at 10 AM Eastern. Orbán is out in Hungary after 16 years. Ben Thompson connects the dots on Anthropic's compute constraints. First full work week after application weekend.</description>
@@ -331,6 +370,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:episode>47</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Week in Review — April 13, 2026</title>
   <description>Weekly briefing covering the week of April 7-13, 2026. Anthropic application submitted, Iran ceasefire to blockade, Claude Mythos and Glasswing, Artemis II splashdown, Orban defeated in Hungary.
@@ -362,6 +402,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:episode>46</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Daily Briefing — Sunday, April 12, 2026</title>
   <description>Sunday morning briefing. Draft seven of the Anthropic application goes out tonight. Katelyn's midnight review, a 300-million-year octopus that isn't, Apple's WWDC refresh signals, consumer sentiment at historic lows, and arXiv papers on LLM agent security.
@@ -398,6 +439,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:episode>45</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Deep Dive — Inside Anthropic: What You Need to Know Before Joining the Policy Team</title>
   <description>Deep dive into everything you need to know about Anthropic for the Strategy &amp; Operations role on the Public Policy &amp; Public Benefit team. Covers founding story, company structure, the Anthropic Institute, Responsible Scaling Policy, Pentagon dispute, governance, key research, and Dario's intellectual framework.
@@ -432,6 +474,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:episode>44</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Deep Dive — Inside Anthropic: What You Need to Know Before Joining the Policy Team</title>
   <description>Deep dive into everything you need to know about Anthropic for the Strategy &amp; Operations role on the Public Policy &amp; Public Benefit team. Covers founding story, company structure, the Anthropic Institute, Responsible Scaling Policy, Pentagon dispute, governance, key research, and Dario's intellectual framework.
@@ -466,6 +509,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:episode>43</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Deep Dive — Anthropic Job Posting: Strategy &amp; Operations, Public Policy &amp; Public Benefit</title>
   <itunes:title>Deep Dive — Anthropic Job Posting: Strategy &amp; Operations, Public Policy &amp; Public Benefit</itunes:title>
@@ -496,6 +540,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-10-anthropic-strategy-ops-job.jpg"/>
   <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-10-anthropic-strategy-ops-job.vtt" type="text/vtt" language="en"/>
 </item>
+
   <item>
       <title>Daily Briefing &#8212; Saturday, April 11, 2026 (Corrected)</title>
       <description><![CDATA[Morning daily briefing, corrected re-cut — Artemis II is home, Iran talks open in Islamabad, the Mythos cascade with a properly weighted Laurenzo/roommate distinction, March CPI arrives, Apple Reminders integrated for the first time, and an honest explanation of the fabrication corrections from the first pass.
@@ -546,6 +591,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
       <itunes:episode>41</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
       <title>Tracker Update — 6 Topics Now (Apple + Whoop Added)</title>
       <description>Bonus update on Jacob's weekly tracker configuration. Two new topics added: Apple Rumors &amp; News and Whoop &amp; Wearables Ecosystem. The config lives in his Obsidian vault now and is read by the scheduled task each Friday evening.
@@ -595,6 +641,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
       <itunes:episode>40</itunes:episode>
       <itunes:episodeType>bonus</itunes:episodeType>
     </item>
+
   <item>
       <title>Chapter 6 — The Argument (The Keeping House)</title>
       <description>Chapter Six of The Keeping House. POV: Desh Rajan. The first real snow falls on the valley. Fen reads a draft of his book at the weekly gathering and Desh — who has been holding something at the edge of speech for six weeks — challenges the *us* in Fen's claim to attention as the first freedom. The argument is ostensibly about technology; it is really about class, retreat, and who gets to walk away from a life. Margot tries to mediate. Callan walks out.
@@ -623,6 +670,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
   <title>Deep Dive — The Adolescence of Technology by Dario Amodei</title>
   <itunes:title>Deep Dive — The Adolescence of Technology by Dario Amodei</itunes:title>
@@ -659,6 +707,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
   <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/artwork-deepdive-2026-04-10-dario-adolescence-of-technology.jpg"/>
   <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-10-dario-adolescence-of-technology.vtt" type="text/vtt" language="en"/>
 </item>
+
   <item>
       <title>Daily Briefing — Thursday, April 9, 2026</title>
       <description>Morning briefing for Thursday, April 9, 2026. The ceasefire is 36 hours old and stress-testing: Israel struck Lebanon overnight, Iran is charging ships a Hormuz toll, Vance heads to Islamabad. Anthropic's Pentagon supply-chain label survives a circuit court challenge. 83°F in Jefferson City. Katelyn's off today.</description>
@@ -675,6 +724,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-15-m
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
       <title>Daily Briefing — Wednesday, April 8, 2026</title>
       <description>00:00:00 Opening &amp; Personal Updates
@@ -717,6 +767,7 @@ Morning daily briefing covering personal updates, Iran ceasefire, Anthropic Myth
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
   <title>Daily Briefing — Tuesday, April 7, 2026</title>
   <description>Morning daily briefing covering Trump's "Infrastructure Day" Iran deadline, Proposition A vote, Anthropic $30B revenue, Artemis II heading home, and the New Yorker's Altman investigation.
@@ -748,6 +799,7 @@ Morning daily briefing covering personal updates, Iran ceasefire, Anthropic Myth
   <itunes:episode>35</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
       <title>Deep Dive — The Mind at the Frontier: 50 Issues of Import AI</title>
       <description>
@@ -778,6 +830,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-i
       <itunes:episode>34</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
   <title>Week in Review — April 6, 2026</title>
   <description>Monday morning week-in-review covering March 30 through April 5, 2026. Iran war escalated through Week 6 — F-15 shot down, pilot rescued, 48-hour Hormuz ultimatum expires today. Artemis II lunar flyby sets distance record. Apple turned 50. Anthropic bought Coefficient Bio, launched AnthroPAC, DOJ appeal filed. Five chapters of The Keeping House written in five days. Carpet installed, Rosie the Roborock deployed, three research posts published.
@@ -812,6 +865,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-06-i
   <itunes:episode>33</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item><title>Daily Briefing — Monday, April 6, 2026</title><link>https://jacobbrooke95.github.io/daily-briefing-podcast/</link><description>Artemis II flyby window opens. Iran deadline extended. Sam Altman's "Superintelligence New Deal." Four humans behind the moon, strategic defeat narrative in Iran, and your local ballot prep.
 
 Chapters:
@@ -830,6 +884,7 @@ Chapters:
 37:00 Closing
 
 Sources: Axios AM, Semafor, Ground News, The Verge, Readwise, Manifold Markets, Nature, r/ClaudeAI, r/artificial, MacRumors, CNBC, New York Times, Cole County local news, Toast tipping data.</description><guid isPermaLink="false">briefing-2026-04-06</guid><pubDate>Mon, 06 Apr 2026 06:51:14 -05:00</pubDate><itunes:author>Jacob Brooke</itunes:author><itunes:duration>1036</itunes:duration><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-2026-04-06.jpg" /><enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/daily-briefing-2026-04-06.mp3" length="6556846" type="audio/mpeg" /></item>
+
   <item>
   <title>Deep Dive — The Accidental Longevity Drug</title>
   <description>GLP-1 drugs like Ozempic weren't designed to slow aging. They've produced better longevity evidence than anything that was. Nature Biotechnology asked if they're the first longevity drugs. The data says: quite possibly. But the muscle loss paradox, manufacturer-funded research, and a regulatory void complicate the picture.
@@ -858,6 +913,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-05-g
   <itunes:episode>31</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
       <title>Deep Dive — On Recursive Self-Improvement</title>
       <description>A reading of Dean W. Ball's "On Recursive Self-Improvement (Part I)" from Hyperdimensional — covering the automation of A-I research at frontier labs, the bear and bull cases, scaling laws, and the human-A-I research dynamic.
@@ -889,6 +945,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-05-g
       <itunes:episode>30</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
   <title>Deep Dive — WWDC 2026 Preview: What's Actually Coming June 8th</title>
   <description>Sixty-four days from the WWDC keynote, the rumor picture is coming into focus. This deep dive breaks down the biggest predictions — Siri's billion-dollar Gemini makeover, the Snow Leopard strategy for iOS 27, the Core AI framework replacing Core ML, hardware wildcards, and the HomePad question — all sourced and rated by confidence.
@@ -921,6 +978,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-05-w
   <itunes:episode>29</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
   <title>Daily Briefing — Sunday, April 5, 2026</title>
   <description>Easter Sunday briefing: rescued F-15 pilot, Trump's 48-hour Iran ultimatum, Artemis II flyby tomorrow, Anthropic multi-agent harness, and paying your bills like a grown-up.
@@ -950,6 +1008,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-05-w
   <itunes:episode>28</itunes:episode>
   <itunes:episodeType>full</itunes:episodeType>
 </item>
+
   <item>
       <title>Deep Dive — When Will Claude Mythos Ship?</title>
       <description>
@@ -977,6 +1036,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episode>27</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
       <title>Deep Dive — Google's Gemma 4: What Actually Matters</title>
       <description>A deep dive into Google's Gemma 4 open-weights model family — covering the Apache 2.0 license change, the four-model lineup, architectural innovations, benchmark context, and how to run it on Mac.
@@ -1015,6 +1075,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
       <title>March 2026 Monthly Review</title>
       <description>Monthly review and reflection for March 2026. A convergence month: Katelyn's 8-day visit, the Anthropic court victory, condo renovation milestones, and The Keeping House writing streak. Patterns, tensions, wins, and emerging themes for April.
@@ -1057,6 +1118,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+
   <item>
       <title>Daily Briefing — Saturday, April 4, 2026</title>
       <description>Morning daily briefing for Saturday, April 4, 2026. Easter weekend edition covering the F-15 shootdown over Iran, Trump's $1.5T defense budget, strong March jobs report, Anthropic's triple move (Coefficient Bio acquisition, AnthroPAC, OpenClaw competitor), SpaceX IPO filing, and local flood updates.
@@ -1098,6 +1160,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Chapter 5 — The Cold (The Keeping House)</title>
       <description>Chapter Five of The Keeping House. POV: Lena Solberg. A hard freeze bursts the pipes and Lena falls back into caretaking. A greenhouse conversation with Noor about mothers, need, and the weight of being useful.
@@ -1126,6 +1189,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Friday, April 3, 2026</title>
       <description>Morning daily briefing for Good Friday. Iran Day 35, Macron breaks with Trump, Bondi fired, Artemis II en route to moon, DOJ appeals Anthropic ruling, flood warnings, and new job postings.
@@ -1157,6 +1221,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Thursday, April 2, 2026</title>
       <description>Morning daily briefing. Today is THE BIG DAY — Anthropic pilot meeting at 9 AM, government appeal deadline on Anthropic v. Pentagon, Trump threatens Iran "back to the Stone Ages," Artemis II in lunar transit, SpaceX IPO filed.
@@ -1196,6 +1261,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Deep Dive — Weekend Cabin: Buy, Build, or Both?</title>
       <description>Deep dive into weekend cabin options within 1-2 hours of Jefferson City, MO. Covers buying vs building, Zillow listings, DIY build cost breakdowns, Missouri's no-statewide-building-code advantage, and the hybrid approach recommendation.
@@ -1237,6 +1303,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Chapter 4 — The Gathering (The Keeping House)</title>
       <description>Chapter 4 of The Keeping House, an original literary novel. Fen Castellano's point of view. The first weekly gathering — Fen arrives with a prepared philosophical framework, Desh challenges it, and Lena says something that silences the room.
@@ -1265,6 +1332,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Chapter 3 — The Barn (The Keeping House)</title>
       <description>Chapter 3 of The Keeping House, an original literary novel. Noor Hassan discovers the barn and claims it as her studio. A conversation with Callan about materials, making, and what it means to stay.
@@ -1289,6 +1357,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Wednesday, April 1, 2026</title>
       <description>Morning daily briefing covering Iran War Day 33 (Trump threatens NATO exit, claims war ends in 2-3 weeks), Apple turns 50, Artemis II launch today, Anthropic pilot prep, DHS Day 47, text messages, calendar, weather, and tech/AI news.
@@ -1335,6 +1404,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episode>17</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Tuesday, March 31, 2026</title>
       <description>Morning daily briefing covering Iran's desalination threat (Day 32), Apple at 50, Artemis II countdown, SpaceX IPO, DHS Day 46, text messages, calendar, weather, and tech/AI news.
@@ -1378,6 +1448,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episode>16</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Chapter 2 — The Table (The Keeping House)</title>
       <description>The first communal meal at The Keeping House, seen through the eyes of Callan Marsh — construction foreman, quiet observer, and the man who ran out of reasons to say no.
@@ -1403,6 +1474,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Week in Review — March 30, 2026</title>
       <description>Weekly review covering March 22-30, 2026. Anthropic's landmark court victory, Iran war escalation to Day 31, SpaceX IPO, and the week ahead.
@@ -1434,6 +1506,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Monday, March 30, 2026</title>
       <description>Morning daily briefing covering weather, calendar, messages, and today's top stories.
@@ -1478,6 +1551,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Deep Dive — Know Your City: Jefferson City &amp; Cole County Local Government</title>
       <description>A comprehensive guide to local government in Jefferson City and Cole County, Missouri. Covers city council, county commission, school district, budgets, housing crisis, infrastructure challenges, economic development, upcoming elections, and how to stay civically engaged — all focused exclusively on local government, not state politics.
@@ -1530,6 +1604,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Chapter One — The Letter (The Keeping House)</title>
       <description>Chapter One of The Keeping House — an original novel written one chapter at a time. Margot Ainsley arrives at a mysterious rural estate to begin a year-long residency at an institution whose purpose no one can explain.
@@ -1556,6 +1631,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Sunday, March 29, 2026</title>
       <description>Morning daily briefing: Pentagon plans ground operations in Iran (Day 30), DHS shutdown Day 44, Anthropic Mythos reverberations, Apple turns 50 Wednesday, carpet install week.
@@ -1592,6 +1668,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Deep Dive — AI 2027 Report: Reality Check (Kokoro TTS Version)</title>
       <description>Same deep dive into the AI 2027 forecasting report — re-rendered with Kokoro TTS for A/B voice comparison. How well have Daniel Kokotajlo's predictions held up? What did the authors revise? What has 2026 reality looked like compared to the forecast?
@@ -1633,6 +1710,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>bonus</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Deep Dive — AI 2027 Report: Reality Check</title>
       <description>Deep dive into the AI 2027 forecasting report by Daniel Kokotajlo. How well have its predictions held up? What did the authors revise? And what has 2026 reality actually looked like compared to the forecast?
@@ -1670,6 +1748,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Week in Review — March 28, 2026</title>
       <description>Weekly briefing covering the week of March 22–28, 2026. Anthropic wins its landmark court case, Iran war escalates with Houthi entry, DHS shutdown worsens, and the week ahead is loaded.
@@ -1693,6 +1772,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Saturday Afternoon Roundup — March 28, 2026</title>
       <description>Quick Saturday roundup: Claude subscriptions skyrocketing, Mac Pro discontinued, SoftBank's $40B OpenAI signal, YC Demo Day highlights, and Whoop's health monitoring pivot.</description>
@@ -1720,6 +1800,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Deep Dive — Claude Mythos: Anthropic's Biggest Leak and IPO Plans</title>
       <description>A deep dive into the Claude Mythos leak — Anthropic's new Capybara-tier model with unprecedented cybersecurity capabilities, the Wall Street selloff it triggered, and the October 2026 IPO plans revealed the same day.</description>
@@ -1734,6 +1815,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Apple TV+ 2026: The Complete Lineup</title>
       <description>A deep dive into everything coming to Apple TV+ in 2026 — returning favorites like Ted Lasso, Silo, and Slow Horses, plus new star-studded originals from Cape Fear to Lucky.</description>
@@ -1773,6 +1855,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Saturday Evening Update, March 28, 2026</title>
       <description>Trump extends Hormuz deadline 10 days. Dubai crude hits $126. Iranian Red Crescent reports 1,900 killed. TSA paychecks may arrive Monday. Bank of America settles Epstein lawsuit for $72.5M. Anthropic nears $19B annualized revenue. Apple partners with Google Gemini for Siri overhaul.</description>
@@ -1787,6 +1870,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Saturday Mid-Morning Update, March 28, 2026</title>
       <description>Houthis enter Iran war. 3,100+ No Kings protests planned. Warhorse Studios fires translator for AI. Apple turns 50 Wednesday. Cherry blossoms in Tacoma.</description>
@@ -1801,6 +1885,7 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
+
   <item>
       <title>Daily Briefing — Saturday, March 28, 2026</title>
       <description>Houthis enter the Iran war with missile strikes on Israel. Ten US service members injured at Prince Sultan Air Base. Brent crude hits $112.57. DHS shutdown day 43 — Congress leaves on recess. Anthropic appeal deadline Thursday. WA bans non-competes. Apple turns 50 Wednesday. Your week ahead.</description>
@@ -1815,5 +1900,6 @@ Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-04-m
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
-  </channel>
+
+</channel>
 </rss>
