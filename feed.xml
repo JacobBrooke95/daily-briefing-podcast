@@ -31,6 +31,39 @@
 
 
   <item>
+    <title>Daily Briefing — Friday, April 24, 2026</title>
+    <description>Morning daily briefing — memory correction on the Katelyn thread, Iran shoot-and-kill escalation, DeepSeek V4 frontier cost reset, and a quiet Anthropic Friday.
+
+00:00:00 Opening & Weather
+00:00:25 Memory Correction
+00:00:55 Messages & Calendar
+00:01:30 Iran & Hormuz
+00:02:05 Anthropic & AI Frontier
+00:02:40 Closing</description>
+    <content:encoded><![CDATA[<h2>Memory Correction — Katelyn Thread</h2>
+<p>Yesterday's briefing fabricated a 10:15 PM message that wasn't in the iMessage record. Today's lead opens with the retraction and reconstructs the actual thread from the timestamp trail. Lesson filed to decisions.md: verify thread framings against iMessage, not memory.</p>
+
+<h2>Iran — Shoot-and-Kill Order Overnight</h2>
+<p>Trump posted a rules-of-engagement change for IRGC mine-laying boats in the Strait. No formal ceasefire break. Francesca and Epaminondas still held at Bandar Abbas. Hormuz-normal-by-April-30 ticked up 3 points on resolution compression, not a re-read.</p>
+
+<h2>DeepSeek V4 Preview</h2>
+<p>V4-Pro priced at $1.74 / $3.48 per million tokens. V4-Flash at $0.14 / $0.28. Cheapest at both size tiers — the frontier cost floor moved down again. Watch whether Anthropic valuation markets absorb this before monetary-follow-through stories land.</p>
+
+<h2>Anthropic — Quieter Friday</h2>
+<p>NEC partnership posted Thursday evening Japan time, thin on specifics. Anthropic-greater-than-OpenAI-2026 down four points across two days despite the $1T secondary valuation print — likely offset by Claude Code post-mortem and Pro-tier pricing-test residue.</p>
+
+<h2>Weather</h2>
+<p>Jefferson City: storms rolled through before sunrise. Today mostly sunny, high near 78°F. Pippa walk before 10 AM.</p>]]></content:encoded>
+    <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/briefing-2026-04-24.mp3" length="2176482" type="audio/mpeg"/>
+    <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-2026-04-24.jpg"/>
+    <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-2026-04-24.vtt" type="text/vtt" language="en"/>
+    <guid isPermaLink="false">briefing-2026-04-24</guid>
+    <pubDate>Fri, 24 Apr 2026 06:41:51 -0500</pubDate>
+    <itunes:duration>2:35</itunes:duration>
+    <itunes:episode>57</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
     <title>Week in Review -- April 20, 2026</title>
     <description>Weekly briefing covering the week of April 13-19, 2026.
 
