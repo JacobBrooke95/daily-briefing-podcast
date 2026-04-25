@@ -23,7 +23,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 13:00:03 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
@@ -31,15 +31,32 @@
 
   <item>
       <title>Deep Dive — Anthropic's Universes Program: The Billion-Dollar Gym</title>
-      <description>Anthropic is spending $1 billion building simulated worlds where AI models learn to act. The Universes team is hiring at $850K. A deep dive into the job listings, industry reporting, and investment math behind the RL environment arms race.</description>
-      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-25-anthropic-universes-program.mp3" length="10884537" type="audio/mpeg"/>
+      <description>Anthropic is spending $1 billion building simulated worlds where AI models learn to act. The Universes team is hiring at $850K. What the job listings, industry reporting, and investment math actually tell us.
+
+Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-25-anthropic-universes-program.html
+
+00:00:00 Introduction
+00:01:15 What This Actually Is
+00:02:50 The Investment Numbers
+00:04:31 Why the Salary Tells a Story
+00:06:11 Relationship to Claude
+00:07:44 The Broader Arms Race
+00:08:40 Open Questions
+00:09:47 The Bigger Bet
+00:11:15 Closing</description>
+      <content:encoded><![CDATA[
+<p>Anthropic is paying $850,000 a year for someone to build fake offices. That's the top of the salary band for "Research Engineer, Universes" — a job listing that has been quietly sitting open since January 2026, says almost nothing about what the work actually involves, and is one of the most revealing documents Anthropic has published.</p>
+<p>This deep dive covers what the Universes team appears to be (the RL "gyms" where models learn agentic behavior), the $1 billion environment-budget reporting from The Information, why the salary band is at the top of Anthropic's range, the relationship between Universes and Anthropic's broader RL teams, and what the investment scale tells us about where the bottleneck on model capability really lives.</p>
+<p><a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-04-25-anthropic-universes-program.html">Read the full post →</a></p>
+      ]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-25-anthropic-universes-program.mp3" length="11439555" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork/episode-art-deepdive-2026-04-25-anthropic-universes.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-04-25-anthropic-universes-program.vtt" type="text/vtt" language="en"/>
       <guid isPermaLink="false">deepdive-2026-04-25-anthropic-universes-program</guid>
-      <pubDate>Sat, 25 Apr 2026 09:00:00 -0500</pubDate>
-      <itunes:duration>11:20</itunes:duration>
-      <itunes:episode>1</itunes:episode>
+      <pubDate>Sat, 25 Apr 2026 13:00:03 -0500</pubDate>
+      <itunes:duration>11:19</itunes:duration>
+      <itunes:episode>59</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-25-anthropic-universes-program.png"/>
-      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/deepdive-2026-04-25-anthropic-universes-program.txt" type="text/plain"/>
     </item>
 
   <item>
