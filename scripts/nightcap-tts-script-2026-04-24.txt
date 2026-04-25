@@ -1,0 +1,93 @@
+Nightcap. Friday, April twenty-fourth, twenty twenty-six.
+
+Not what you need to know — what changed, what landed, and one thing worth sitting with.
+
+First up, the Scorecard. What moved since this morning.
+
+Six markets on the board tonight.
+
+Anthropic greater-than OpenAI twenty twenty-six: sixty percent this morning, fifty-eight point three percent tonight. Down one point seven.
+
+Hormuz normal by April thirtieth: eight percent this morning, eight point one percent tonight. Flat.
+
+Iran retaliates by July first: sixty-eight percent this morning, forty-one percent tonight. Down twenty-seven points — which is a flag, not a read.
+
+Blockade forty-eight hours by July: eighty-six point one percent, first evening pull, consistent with the week.
+
+Brent crude above one hundred ten dollars by June thirtieth: seventy-nine percent to seventy-seven point eight percent. Down one point two.
+
+Apple foldable by twenty twenty-six: eighty-five percent, flat.
+
+One line reading. The Iran-retaliates market swung almost thirty points toward "won't" during a single trading day. That is not a news-driven move — the shoot-and-kill order didn't get reversed, the ships didn't come home, and no tanker transited Hormuz today. That is a thin-liquidity market move. Total liquidity is only one hundred mana; twenty-four hour volume was one hundred twenty-two. A single conviction NO bet could have walked the line twenty-seven points. File it as "market moved, world didn't" and watch whether Monday's volume brings it back toward the news-supported sixties.
+
+Anthropic kept its stubborn drift — down another one point seven points to fifty-eight point three percent, continuing the slide off the April twenty-second high of sixty-four percent. The more interesting datum: the market hadn't yet priced in the Google forty-billion-dollar story when I pulled it. Last bet on that market was nine thirty-four P-M Central, right at pull time. So tonight's fifty-eight point three percent is mostly a Friday-afternoon-before-Bloomberg-broke number. Whether Monday morning opens above sixty percent or not is the cleanest single read on how the market values a forty-billion-dollar commitment from the company with the biggest reason to want a stake.
+
+Hormuz markets are a rounding error from this morning. The blockade-forty-eight-hour pull at eighty-six point one percent is consistent with where it's been all week. Markets continue to treat the blockade as structural and durable regardless of the diplomatic noise.
+
+Next, The Plot Thickens.
+
+Google is plowing up to forty billion dollars into Anthropic. This is the story of the day, and it landed mid-afternoon — not on the morning radar. Bloomberg broke it; Reuters confirmed. Terms as reported: ten billion dollars in cash now at a three-hundred-fifty-billion-dollar valuation, with another thirty billion potentially to follow. Same valuation as February. Bloomberg's own gift link hit the top of r slash ClaudeAI; the Reuters piece hit number three on r slash technology with over a thousand upvotes.
+
+The structural read.
+
+Anthropic's two biggest investors are now Amazon and Google — at roughly thirty-three billion and up-to-forty billion respectively. That is roughly seventy billion plus of committed and potential investment from two companies that sell competing foundation models. The arms-length story that used to describe these relationships gets harder to tell.
+
+This is the fifth Anthropic capital story in nine days. Monday: Amazon up-to-twenty-five billion plus one hundred billion A-W-S commit plus five gigawatts of compute. Wednesday: one trillion dollar secondary. Thursday: N-E-C partnership. Today: Google forty billion. The pattern isn't "one big round" — it's continuous, layered, from multiple counterparties.
+
+The three-hundred-fifty-billion-dollar valuation is the same as February. This is not a markup round. Google paid the February price to keep its seat at the table while Amazon was buying more. The message is access, not markup.
+
+The disconnect worth flagging: none of this has shown up in the prediction market yet. Anthropic-greater-than-OpenAI twenty twenty-six is down on the day, not up. Either the market is slow and Monday corrects, or there's something about the "Anthropic competes with its own investors" arrangement that traders are reading as a ceiling rather than a floor. Worth naming, not worth concluding yet.
+
+The Iran ships. No material change from morning. Epaminondas still showing moved-north into Iranian territorial waters. Francesca still dark. No new seizures, no combat, no transits. Iran is consolidating the hostages, not returning them. Same as morning.
+
+r slash ClaudeAI warmer but weirder. The limit-reset absorbed the anger, as predicted. The new story is cost. Top post of the day is a meme — "I'm somewhat of a coder myself" at three thousand six hundred upvotes — but the most representative thread is "Claude is extremely expensive but works like Magic" at seventy-one upvotes, eighty-three percent upvote ratio. Non-coders reporting that Claude is both the only thing that works for their use case and financially painful. The "A-I free ride is over" meta-story from the Verge this morning is playing out in exactly the subreddit Anthropic reads most closely. Pricing is the new temperature.
+
+Fresh Intel. Stories not on this morning's radar.
+
+Twenty thousand layoffs at Meta and Microsoft this week, now being explicitly framed as the start of the A-I labor crisis. C-N-B-C ran the headline: "Twenty K job cuts at Meta, Microsoft raise concern that A-I-driven labor crisis is here." r slash technology is pushing the story — fourteen hundred upvotes. This is the demand-side companion to the Apprenticeship Crisis concept note built yesterday: if the first-order effect of A-I is entry-level jobs disappearing, the second-order effect showing up now is mid-career displacement at the largest employers. The Wired Palantir piece — "Palantir Employees Are Starting to Wonder if They're the Bad Guys" — hit seven thousand seven hundred upvotes and is the culture-side story of the same week. A-I is compressing white-collar work, and the most A-I-forward companies are the ones where employees are starting to ask harder questions out loud.
+
+Maine vetoed a data center ban. Governor Janet Mills vetoed the Maine data center moratorium bill today. Bangor Daily News has it. Mother Jones has the companion piece framing Maine as the front of a broader state-level pushback even though the ban itself was blocked. For the Anthropic-Missouri-data-center-siting thread you've been tracking: the policy window on data center moratoriums is opening state by state, and the governor veto is now the move the industry has to count on. Watch whether Missouri's legislature files anything similar next session.
+
+Utah medical board called for an immediate suspension of the state's A-I doctor experiment. S-T-A-T reported it. This is the first state-level regulatory pushback on A-I-as-clinician that's actually gotten a medical board behind it. It's small today; it's a precedent tomorrow. Connects to why Anthropic's "enterprise-first plus safety-first" differentiation keeps mattering — when the regulatory pushback arrives, the labs that shipped with careful framing are the ones still in the room.
+
+G-P-T five-point-five SimpleBench scores dropped. r slash singularity posted the chart today. The published numbers are a real step-up over G-P-T five-point-four but narrower margins than OpenAI's own comparison suggested. SimpleBench is one of the benchmarks designed to catch pattern-matching dressed up as reasoning — so how G-P-T five-point-five scores there is one of the cleaner tells. The model is strong but not the step-change the launch rhetoric implied. Combined with the A-P-I gap, still not available for third-party verification, this reinforces the morning's read: G-P-T five-point-five is a capable new frontier model, not a category reset. That matters for the val market drift — the "OpenAI leapfrogged" thesis is narrower than it looked Thursday.
+
+Messages tonight. Quiet. No new iMessages since morning. Katelyn hasn't sent anything after last night's rabbit-hole texts; the Merlin photos and movie notes are still the last word on that thread. Today's ask — put a date on "later" — carries to tomorrow. Dustin, Alex Kelley, and the weekend-plans thread all sit where they were this morning.
+
+One quiet day of message traffic on a day that was otherwise loud with news. Interesting by its contrast.
+
+Vault delta. Today was the most structurally productive vault day in months.
+
+Git got unblocked. The vault had been stuck on a branch for over a month with three stale lock files. Cleared, merged, pushed. Remote now synced.
+
+The .claude memory is now tracked in git. It had been entirely gitignored, meaning current-context, decisions, and every skill file was one disk failure away from disappearing. Fixed.
+
+The Apprenticeship Crisis concept note got built. Candidate had been sitting for a week with no verdict. Now lives at The-Apprenticeship-Crisis. This is the note that gets refreshed by tonight's Meta, Microsoft, and Palantir stories.
+
+The career folder got triaged. Sixty-five pre-twenty twenty-five files archived, seven Anthropic posting snapshots consolidated.
+
+The Daily Briefings folder got sub-organized. A hundred fifty flat files sorted into artwork, transcripts, scripts, charts, and audio.
+
+And the nightcap scheduled task itself got created today. Tonight is the first real run.
+
+Tomorrow setup.
+
+Weather. Jefferson City: sunny, high seventy-eight, zero percent precipitation, light northeast wind. Clean morning-run day — best weather window for a long run all weekend, because Sunday night and Monday are picking up storms.
+
+The big one: W-A flights. Target was Sunday April twenty-sixth for the July twenty-third to July thirtieth window, ninety-one days out. That target is one day away. Booking tomorrow over Saturday coffee is cleaner than booking Sunday on deadline. It also gives you a concrete answer to put into the conversation with Katelyn when "later" comes up: "I booked the July flights, when do you want to talk about August." Specific beats aspirational.
+
+Calendar. Empty tomorrow. No events to prepare for. Saturday is yours — for flights, a long run, and the Katelyn conversation when she's up.
+
+Watch overnight and Monday: whether the Anthropic val market rerates up on the Google forty-billion news, and whether the Iran-retaliates market snaps back toward the sixties on Monday volume.
+
+One Thing to Sit With.
+
+The Nightcap is running for the first time tonight. It was a file sitting in the folder since April sixteenth titled SETUP-NEW-TASKS dot md — a to-do that said, roughly, build the evening briefing. It sat there for eight days. It got built today, inside the larger vault cleanup session, and queued up for its first real run at nine-oh-nine P-M Central.
+
+Today was also the day: Google committed up to forty billion dollars to Anthropic. Meta and Microsoft laid off twenty thousand people combined, and the framing crossed the threshold from restructuring to A-I-driven labor crisis. Maine's governor vetoed a data center ban. Utah's medical board called for suspending its state A-I-doctor experiment. A Wired piece asked whether Palantir employees are the bad guys and it hit the top of tech news. And a prediction market moved twenty-seven points on one hundred twenty-two mana of volume.
+
+The week had G-P-T five-point-five, DeepSeek V-four, Anthropic's Mozilla-Mythos post, a Claude Code post-mortem, two anchor partnerships, an N-E-C announcement, a shoot-and-kill order, ship consolidations, a memory correction on a conversation with someone you love, and — quietly, in the corner of a vault-cleanup session — the construction of the small piece of infrastructure that made this summary possible.
+
+The question worth sitting with: most of the things that actually matter this year are not news events — they are pieces of infrastructure someone built quietly on a Friday and then never mentioned again. Which of the unbuilt files sitting in your folders right now is the one?
+
+Good night.
