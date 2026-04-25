@@ -23,11 +23,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 21:24:57 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 09:00:00 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
+
+  <item>
+      <title>Deep Dive — Anthropic's Universes Program: The Billion-Dollar Gym</title>
+      <description>Anthropic is spending $1 billion building simulated worlds where AI models learn to act. The Universes team is hiring at $850K. A deep dive into the job listings, industry reporting, and investment math behind the RL environment arms race.</description>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-25-anthropic-universes-program.mp3" length="10884537" type="audio/mpeg"/>
+      <guid isPermaLink="false">deepdive-2026-04-25-anthropic-universes-program</guid>
+      <pubDate>Sat, 25 Apr 2026 09:00:00 -0500</pubDate>
+      <itunes:duration>11:20</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-04-25-anthropic-universes-program.png"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/deepdive-2026-04-25-anthropic-universes-program.txt" type="text/plain"/>
+    </item>
 
   <item>
   <title>Nightcap — Friday, April 24, 2026</title>
