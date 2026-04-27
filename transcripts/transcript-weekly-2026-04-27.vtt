@@ -1,0 +1,793 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.155
+Good morning, Jacob. Happy Monday. Here's your week in review
+
+00:00:03.155 --> 00:00:06.310
+for the week of April twenty-first through April twenty-seventh, twenty
+
+00:00:06.310 --> 00:00:09.464
+twenty-six. Pour the coffee. This one's the Sunday newspaper edition
+
+00:00:09.464 --> 00:00:12.619
+— same beat reporter, more room to breathe. Project Arete
+
+00:00:12.619 --> 00:00:15.774
+crossed the halfway stone last night. Capital City Race is
+
+00:00:15.774 --> 00:00:18.929
+twelve days out. The W-A flights deadline you'd been circling
+
+00:00:18.929 --> 00:00:22.084
+since January came and went on Sunday. And somehow none
+
+00:00:22.084 --> 00:00:25.239
+of those are the headline. The headline is that the
+
+00:00:25.239 --> 00:00:28.393
+company you've been quietly building an application thread around just
+
+00:00:28.393 --> 00:00:31.548
+had the busiest seven days of its corporate life —
+
+00:00:31.548 --> 00:00:34.703
+and the prediction markets shrugged. Let's talk about it. The
+
+00:00:34.703 --> 00:00:37.858
+Week That Was. If you put one frame around the
+
+00:00:37.858 --> 00:00:41.013
+last seven days, it's this: institutions keep getting bigger and
+
+00:00:41.013 --> 00:00:44.167
+the people inside them keep getting smaller, in a useful
+
+00:00:44.167 --> 00:00:47.322
+way. Anthropic ran the table on capital and partnerships —
+
+00:00:47.322 --> 00:00:50.477
+Amazon Monday, NEC Wednesday, Google Friday — while the spread
+
+00:00:50.477 --> 00:00:53.632
+market that's supposed to ratify all that essentially said, "we'll
+
+00:00:53.632 --> 00:00:56.787
+wait." Apple announced its first CEO transition in fifteen years
+
+00:00:56.787 --> 00:00:59.942
+and Tim Cook quietly handed John Ternus a roadmap with
+
+00:00:59.942 --> 00:01:03.096
+ten product categories on it. Iran's ceasefire kept extending without
+
+00:01:03.096 --> 00:01:06.251
+resolving, the strait stayed operationally closed all week, and the
+
+00:01:06.251 --> 00:01:09.406
+diplomatic track collapsed into Pakistan, then bounced into Russia by
+
+00:01:09.406 --> 00:01:12.561
+Monday morning. Tim Cook got a retrospective. John Ternus got
+
+00:01:12.561 --> 00:01:15.716
+the foldable. Trump got rushed offstage at the White House
+
+00:01:15.716 --> 00:01:18.870
+Correspondents' Dinner Saturday night, and on Monday morning Axios is
+
+00:01:18.870 --> 00:01:22.025
+already calling it a "twenty-four-hour truce." Meanwhile, on your end,
+
+00:01:22.025 --> 00:01:25.180
+the Tutor Loop you'd been building shipped its first dry
+
+00:01:25.180 --> 00:01:28.335
+run six days early, you and Katelyn had a hard
+
+00:01:28.335 --> 00:01:31.490
+mid-week conversation that landed and then warmed back up, and
+
+00:01:31.490 --> 00:01:34.645
+Justin had you out at Irene's Saturday for the third
+
+00:01:34.645 --> 00:01:37.799
+time in two months. It was a big institutional week
+
+00:01:37.799 --> 00:01:40.954
+and a small personal one — both real, neither cancels
+
+00:01:40.954 --> 00:01:44.109
+the other. Highlights and Wins. Let's celebrate the things that
+
+00:01:44.109 --> 00:01:47.264
+actually went well, because there were several. First, the Tutor
+
+00:01:47.264 --> 00:01:50.419
+Loop launched. The whole architecture — task prompt, calibration file,
+
+00:01:50.419 --> 00:01:53.573
+response folder, harsh-critic subagent, shortlist generator — got scaffolded and
+
+00:01:53.573 --> 00:01:56.728
+shipped on Sunday. The first dry-run picked the A-M-O-C climate-physics
+
+00:01:56.728 --> 00:01:59.883
+piece. That's hard science, well outside your usual rotation, and
+
+00:01:59.883 --> 00:02:03.038
+the seventy-thirty stretch ratio held. The first run of an
+
+00:02:03.038 --> 00:02:06.193
+autonomous weekly publishing system did exactly what you designed it
+
+00:02:06.193 --> 00:02:09.348
+to do: forced breadth into a system that would otherwise
+
+00:02:09.348 --> 00:02:12.502
+drift toward whatever's familiar. That was Sunday. The official cron
+
+00:02:12.502 --> 00:02:15.657
+isn't wired until May second. You're a week ahead of
+
+00:02:15.657 --> 00:02:18.812
+schedule on what is genuinely the most ambitious vault infrastructure
+
+00:02:18.812 --> 00:02:21.967
+piece in months. Second, Project Arete crossed the halfway stone.
+
+00:02:21.967 --> 00:02:25.122
+Day fifteen of thirty. The fiction in this morning's briefing
+
+00:02:25.122 --> 00:02:28.276
+called it the halfway stone, and the metaphor lands —
+
+00:02:28.276 --> 00:02:31.431
+the first half was the engine of getting to fifteen,
+
+00:02:31.431 --> 00:02:34.586
+the second half is going to need a different engine.
+
+00:02:34.586 --> 00:02:37.741
+But you got here. Habits held: Saturday and Sunday morning
+
+00:02:37.741 --> 00:02:40.896
+runs, weekday training off the table per the April twenty-first
+
+00:02:40.896 --> 00:02:44.051
+decision, restaurant category collapsed week-over-week even with Panera being its
+
+00:02:44.051 --> 00:02:47.205
+own micro-pattern. Halfway, on schedule, with the discipline still intact.
+
+00:02:47.205 --> 00:02:50.360
+Third, the Anthropic application thread substantively advanced. You went into
+
+00:02:50.360 --> 00:02:53.515
+the week with a single Strategy and Ops role you
+
+00:02:53.515 --> 00:02:56.670
+were tracking; you're coming out of it with a small
+
+00:02:56.670 --> 00:02:59.825
+portfolio of three differentiated angles, including a Research Operations role
+
+00:02:59.825 --> 00:03:02.979
+in Economic Research that fits your government-research-translation experience better than
+
+00:03:02.979 --> 00:03:06.134
+anything that's been posted in months. The job-updates-April file got
+
+00:03:06.134 --> 00:03:09.289
+refreshed Sunday night with two new San Francisco postings. The
+
+00:03:09.289 --> 00:03:12.444
+S-F-and-Seattle filtered snapshot is current. Fourth, Justin and Erin at
+
+00:03:12.444 --> 00:03:15.599
+Irene's Saturday night. His ten twenty-three P-M text — "It
+
+00:03:15.599 --> 00:03:18.754
+was nice, we should do it more often" — closed
+
+00:03:18.754 --> 00:03:21.908
+the warm. Third in-person hang in two months. That's not
+
+00:03:21.908 --> 00:03:25.063
+a one-off; that's a friendship pattern that's actually compounding in
+
+00:03:25.063 --> 00:03:28.218
+real life, the way friendships do when nobody's measuring. Fifth,
+
+00:03:28.218 --> 00:03:31.373
+and worth naming separately: Katelyn came back warm. Wednesday's eight
+
+00:03:31.373 --> 00:03:34.528
+fifty-two to nine forty-seven P-M conversation about geography and the
+
+00:03:34.528 --> 00:03:37.682
+absence of a plan was the hardest text exchange the
+
+00:03:37.682 --> 00:03:40.837
+two of you have had in weeks. It ended with
+
+00:03:40.837 --> 00:03:43.992
+her line, "we can talk later." And then she came
+
+00:03:43.992 --> 00:03:47.147
+back warm — Merlin bird photos, a movie she cried
+
+00:03:47.147 --> 00:03:50.302
+at, the Whoop research arc, the Anthropic Greenhouse posting she
+
+00:03:50.302 --> 00:03:53.457
+sent you Sunday afternoon unprompted. The hard conversation didn't break
+
+00:03:53.457 --> 00:03:56.611
+the thread. That's the win. Stories That Evolved. Three stories
+
+00:03:56.611 --> 00:03:59.766
+changed shape across the week, and the shape of the
+
+00:03:59.766 --> 00:04:02.921
+change is more interesting than the headlines. The first is
+
+00:04:02.921 --> 00:04:06.076
+Anthropic. On Monday morning the framing was, "Amazon committed twenty-five
+
+00:04:06.076 --> 00:04:09.231
+billion dollars on top of existing exposure plus a hundred-billion-dollar
+
+00:04:09.231 --> 00:04:12.385
+cloud commitment over ten years and five gigawatts of new
+
+00:04:12.385 --> 00:04:15.540
+compute." That's anchor deal number one. By Wednesday you had
+
+00:04:15.540 --> 00:04:18.695
+the N-E-C partnership in Japan — country-by-country distribution layer. By
+
+00:04:18.695 --> 00:04:21.850
+Thursday you had the Boris Cherny Claude Code post-mortem —
+
+00:04:21.850 --> 00:04:25.005
+public incident detail at infra-vendor standards, a maturity signal. Friday
+
+00:04:25.005 --> 00:04:28.160
+afternoon, Bloomberg dropped the Google story: up to forty billion
+
+00:04:28.160 --> 00:04:31.314
+dollars, ten billion in cash now at a three-hundred-fifty-billion-dollar valuation,
+
+00:04:31.314 --> 00:04:34.469
+plus five gigawatts of Google Cloud compute. Anchor deal number
+
+00:04:34.469 --> 00:04:37.624
+two. Then Saturday you got the Universes program detail —
+
+00:04:37.624 --> 00:04:40.779
+the internal R-L environment team, one billion dollars per year
+
+00:04:40.779 --> 00:04:43.934
+build commitment. Five distinct stories in seven days, and the
+
+00:04:43.934 --> 00:04:47.088
+shape is consolidation: this stopped being "the safety lab" and
+
+00:04:47.088 --> 00:04:50.243
+became "the enterprise anchor with two non-overlapping hyperscaler partners and
+
+00:04:50.243 --> 00:04:53.398
+tripled run-rate." Anthropic's annualized revenue went from nine billion at
+
+00:04:53.398 --> 00:04:56.553
+the end of twenty twenty-five to thirty billion by the
+
+00:04:56.553 --> 00:04:59.708
+start of April. The valuation didn't move. The revenue moved
+
+00:04:59.708 --> 00:05:02.863
+underneath it. That's the underlying number behind everything else. But
+
+00:05:02.863 --> 00:05:06.017
+here's the wrinkle. The Manifold spread market — Anthropic greater
+
+00:05:06.017 --> 00:05:09.172
+than OpenAI by twenty twenty-six — went from sixty-four percent
+
+00:05:09.172 --> 00:05:12.327
+on Tuesday morning to fifty-seven point seven seven percent on
+
+00:05:12.327 --> 00:05:15.482
+Monday morning. Down six points across the same week the
+
+00:05:15.482 --> 00:05:18.637
+company posted two anchor deals. The first trade after the
+
+00:05:18.637 --> 00:05:21.791
+Google news cycle moved the line down, not up. That's
+
+00:05:21.791 --> 00:05:24.946
+the real story. The deal flow accelerated; market confidence softened.
+
+00:05:24.946 --> 00:05:28.101
+The honest read isn't "the news is bullish, the market's
+
+00:05:28.101 --> 00:05:31.256
+wrong." It's "the news is bullish, the market is pricing
+
+00:05:31.256 --> 00:05:34.411
+in a risk the news isn't reporting." Could be Mythos
+
+00:05:34.411 --> 00:05:37.566
+vendor-incident drag, could be DeepSeek V-four cost-floor pressure, could be
+
+00:05:37.566 --> 00:05:40.720
+GPT-five-point-five's fourteen-state-of-the-art benchmark print last Thursday. Don't lean on market
+
+00:05:40.720 --> 00:05:43.875
+validation in the application thread. Lead with revenue and infrastructure.
+
+00:05:43.875 --> 00:05:47.030
+The second story is Iran. Tuesday evening Trump extended the
+
+00:05:47.030 --> 00:05:50.185
+ceasefire indefinitely. By Wednesday I-R-G-C naval forces seized the M-S-C
+
+00:05:50.185 --> 00:05:53.340
+Francesca and the Epaminondas near the strait. By Thursday Trump
+
+00:05:53.340 --> 00:05:56.494
+had posted a "shoot and kill" order on Truth Social
+
+00:05:56.494 --> 00:05:59.649
+for mine-laying boats. By Friday the Witkoff and Kushner Pakistan
+
+00:05:59.649 --> 00:06:02.804
+trip was on. By Saturday it was off, after Foreign
+
+00:06:02.804 --> 00:06:05.959
+Minister Araghchi left Islamabad without committing to direct talks. By
+
+00:06:05.959 --> 00:06:09.114
+Monday morning Araghchi is in Russia meeting Putin, and Iran
+
+00:06:09.114 --> 00:06:12.269
+is offering through Pakistan to reopen the strait without a
+
+00:06:12.269 --> 00:06:15.423
+nuclear-program agreement — which Trump probably won't take. Five different
+
+00:06:15.423 --> 00:06:18.578
+framings in seven days, all describing the same underlying state:
+
+00:06:18.578 --> 00:06:21.733
+the strait stays operationally closed, the ceasefire technically holds, and
+
+00:06:21.733 --> 00:06:24.888
+the markets keep adjusting around the rotating diplomatic vehicle of
+
+00:06:24.888 --> 00:06:28.043
+the day. The Hormuz-Normal-by-April-thirtieth Polymarket mirror compressed from seven percent
+
+00:06:28.043 --> 00:06:31.197
+to zero point three-four percent across the week — pure
+
+00:06:31.197 --> 00:06:34.352
+resolution mechanics, market closes Thursday. Don't read the move as
+
+00:06:34.352 --> 00:06:37.507
+news. The third story is Apple. Cook's exit was announced
+
+00:06:37.507 --> 00:06:40.662
+before the week started, but the texture of the transition
+
+00:06:40.662 --> 00:06:43.817
+got written this week. Stratechery argued Cook's timing was the
+
+00:06:43.817 --> 00:06:46.972
+story. The Pixel Envy linklog called it "That Was Tim,
+
+00:06:46.972 --> 00:06:50.126
+This Is Ternus." Sunday's Power On column from Mark Gurman
+
+00:06:50.126 --> 00:06:53.281
+framed Ternus's first major product as the foldable iPhone —
+
+00:06:53.281 --> 00:06:56.436
+fall twenty twenty-six, ship before Cook's first full year out
+
+00:06:56.436 --> 00:06:59.591
+of the chair is up. The Srouji promotion to Chief
+
+00:06:59.591 --> 00:07:02.746
+Hardware Officer is the undercovered organizational story. And the WWDC
+
+00:07:02.746 --> 00:07:05.900
+twenty-twenty-six Siri redesign teaser, which leaked across all the Apple-watcher
+
+00:07:05.900 --> 00:07:09.055
+beats this week, is now widely reported to be powered
+
+00:07:09.055 --> 00:07:12.210
+by a customized Gemini model — meaning Apple picked Google
+
+00:07:12.210 --> 00:07:15.365
+over Anthropic for the fallback partner. If that holds at
+
+00:07:15.365 --> 00:07:18.520
+the keynote on June eighth, Alex Kelley's "Anthropic for brand,
+
+00:07:18.520 --> 00:07:21.675
+Google for capability" framing from week one looks prescient. Vault
+
+00:07:21.675 --> 00:07:24.829
+Activity. The vault did real work this week even when
+
+00:07:24.829 --> 00:07:27.984
+Sunday looked quiet on the surface. The Tutor Loop directory
+
+00:07:27.984 --> 00:07:31.139
+got built end-to-end: README, calibration, task-prompt, response folder, shortlists, critic-logs,
+
+00:07:31.139 --> 00:07:34.294
+and the live state file. The first response stub for
+
+00:07:34.294 --> 00:07:37.449
+the A-M-O-C piece is on disk waiting for your reply.
+
+00:07:37.449 --> 00:07:40.603
+The first published post is in the research-journal drafts folder
+
+00:07:40.603 --> 00:07:43.758
+— git push is still pending because of a sandbox-permission
+
+00:07:43.758 --> 00:07:46.913
+lock file from the Saturday session. The Anthropic universe goes
+
+00:07:46.913 --> 00:07:50.068
+deeper: a new Universes Program note in three-Resources slash topics
+
+00:07:50.068 --> 00:07:53.223
+slash A-I, an S-F-and-Seattle filtered postings file, and a refreshed
+
+00:07:53.223 --> 00:07:56.378
+job-updates-April file with the Convening Operations Lead and Research Operations
+
+00:07:56.378 --> 00:07:59.532
+roles. The April twenty-fifth Gobbledegook research-journal post — Maury Maverick
+
+00:07:59.532 --> 00:08:02.687
+to bureaucratic language to your Jefferson City budget angle —
+
+00:08:02.687 --> 00:08:05.842
+went live to the public site. The decisions log grew
+
+00:08:05.842 --> 00:08:08.997
+by about six entries: Tutor Loop launch, verification-subagent failure modes,
+
+00:08:08.997 --> 00:08:12.152
+calibration baseline, NetNewsWire fallback chain, news-variety strengthening, and the Calendar
+
+00:08:12.152 --> 00:08:15.306
+regression. The current-context file held its sixty-line target. One pattern
+
+00:08:15.306 --> 00:08:18.461
+worth naming explicitly. The Tutor Loop's seventy-thirty stretch ratio and
+
+00:08:18.461 --> 00:08:21.616
+the daily briefing's anti-saturation rule are the same idea built
+
+00:08:21.616 --> 00:08:24.771
+independently a week apart: structurally force breadth into a system
+
+00:08:24.771 --> 00:08:27.926
+that would otherwise find a comfortable rut. They're now embedded
+
+00:08:27.926 --> 00:08:31.081
+in two of the most frequent rituals you have. The
+
+00:08:31.081 --> 00:08:34.235
+next surface that pattern shows up on probably matters —
+
+00:08:34.235 --> 00:08:37.390
+could be hiring, could be reading, could be training. Worth
+
+00:08:37.390 --> 00:08:40.545
+naming. Relationship Check. Katelyn's thread had the most range of
+
+00:08:40.545 --> 00:08:43.700
+any week in months. Monday night opened with her overnight
+
+00:08:43.700 --> 00:08:46.855
+message — "I just don't even know how we start
+
+00:08:46.855 --> 00:08:50.009
+digging into it." That was real. Tuesday reset to lighter
+
+00:08:50.009 --> 00:08:53.164
+register. Wednesday the conversation went hard from eight fifty-two to
+
+00:08:53.164 --> 00:08:56.319
+nine forty-seven P-M, then closed with her line, "we can
+
+00:08:56.319 --> 00:08:59.474
+talk later." And then Thursday and Friday and Saturday and
+
+00:08:59.474 --> 00:09:02.629
+Sunday the thread came back warm — the Whoop research
+
+00:09:02.629 --> 00:09:05.784
+arc, the Verge gift link about scientists collaborating less, the
+
+00:09:05.784 --> 00:09:08.938
+Anthropic Greenhouse posting at one twelve P-M Sunday that she
+
+00:09:08.938 --> 00:09:12.093
+sent unprompted. That last one is the signal. Your partner
+
+00:09:12.093 --> 00:09:15.248
+is reading job boards on your behalf without being asked.
+
+00:09:15.248 --> 00:09:18.403
+The "later" conversation is still un-scheduled and is now five
+
+00:09:18.403 --> 00:09:21.558
+days old. Today or tomorrow is the right window. Don't
+
+00:09:21.558 --> 00:09:24.712
+let it slide past Tuesday. Justin and Erin: Saturday at
+
+00:09:24.712 --> 00:09:27.867
+Irene's, third hang in two months. Pattern is real. Courtney
+
+00:09:27.867 --> 00:09:31.022
+was out for a work event but the cadence held.
+
+00:09:31.022 --> 00:09:34.177
+Dustin: the M-E-C ontology-classification thread closed Sunday evening after running
+
+00:09:34.177 --> 00:09:37.332
+stale earlier in the week. Alex Kelley: the Apple-products-by-likelihood ranking
+
+00:09:37.332 --> 00:09:40.487
+exercise Sunday night closed the open thread. Ben: light Minecraft
+
+00:09:40.487 --> 00:09:43.641
+banter, no action. Family otherwise quiet. The Week Ahead. Calendar
+
+00:09:43.641 --> 00:09:46.796
+pressure points and what's coming. Today, Monday, the W-H-C-D shooting
+
+00:09:46.796 --> 00:09:49.951
+aftermath dominates national news — court appearance for Cole Allen,
+
+00:09:49.951 --> 00:09:53.106
+federal charges expected, congressional briefings, security after-action begins. Watch whether
+
+00:09:53.106 --> 00:09:56.261
+Trump's "twenty-four-hour truce" framing holds into Tuesday. The half-life of
+
+00:09:56.261 --> 00:09:59.415
+unity rhetoric in this White House is short. Anthropic greater
+
+00:09:59.415 --> 00:10:02.570
+than OpenAI on Manifold opens with full New York volume
+
+00:10:02.570 --> 00:10:05.725
+— first real read with the Google forty-billion-dollar deal priced
+
+00:10:05.725 --> 00:10:08.880
+in. Tuesday and Wednesday: the durability test on the WHCD
+
+00:10:08.880 --> 00:10:12.035
+truce. Watch the Trump and Lutnick and Vance social-media tone
+
+00:10:12.035 --> 00:10:15.190
+shift. Iran phone-diplomacy readout from Witkoff and Kushner if anything
+
+00:10:15.190 --> 00:10:18.344
+materializes. Thursday, April thirtieth, is the densest day of the
+
+00:10:18.344 --> 00:10:21.499
+week. Your Hormuz-Normal-by-April-thirtieth Polymarket mirror resolves NO at market close
+
+00:10:21.499 --> 00:10:24.654
+— mechanical, not news. Alphabet earnings call at four thirty
+
+00:10:24.654 --> 00:10:27.809
+P-M Central — Sundar Pichai will likely speak to the
+
+00:10:27.809 --> 00:10:30.964
+Anthropic deal, and given how fresh it is, the prepared
+
+00:10:30.964 --> 00:10:34.118
+remarks will be carefully written. Worth listening to, or pulling
+
+00:10:34.118 --> 00:10:37.273
+the transcript Friday morning. Payday hits. Katelyn has the day
+
+00:10:37.273 --> 00:10:40.428
+off. And you have a haircut with Ian at Skal
+
+00:10:40.428 --> 00:10:43.583
+Barbershop at five P-M Central — the Vagaro confirmation went
+
+00:10:43.583 --> 00:10:46.738
+into your calendar Sunday night. Friday, May first, is K-K
+
+00:10:46.738 --> 00:10:49.893
+continuing-education day — second of three this week. Capital City
+
+00:10:49.893 --> 00:10:53.047
+Race taper officially begins. Sunday, May third, is the personal
+
+00:10:53.047 --> 00:10:56.202
+headline of the week ahead: Katelyn and Jenn run the
+
+00:10:56.202 --> 00:10:59.357
+Tacoma City Half Marathon. That's her race. Plan a check-in
+
+00:10:59.357 --> 00:11:02.512
+text the night before, a good-luck text race morning, and
+
+00:11:02.512 --> 00:11:05.667
+watch for the post-race results message. She'll want to be
+
+00:11:05.667 --> 00:11:08.821
+heard. This is the kind of thing where the small
+
+00:11:08.821 --> 00:11:11.976
+attentions matter. Monday May fourth: K-K continuing-education day three. Saturday
+
+00:11:11.976 --> 00:11:15.131
+May ninth, twelve days out: Capital City Race five-K, seven
+
+00:11:15.131 --> 00:11:18.286
+A-M start at the State Capitol. The current race-day forecast
+
+00:11:18.286 --> 00:11:21.441
+is sunny and sixty-eight, which is weather you'd order from
+
+00:11:21.441 --> 00:11:24.596
+a menu. What to Watch. Three threads to keep on
+
+00:11:24.596 --> 00:11:27.750
+the dashboard. First, the Anthropic spread market trajectory. Fifty-seven point
+
+00:11:27.750 --> 00:11:30.905
+seven seven percent on a thin Monday open is the
+
+00:11:30.905 --> 00:11:34.060
+pre-volume read. If it bounces back above sixty by Tuesday
+
+00:11:34.060 --> 00:11:37.215
+close, this morning's print was noise and the news cycle
+
+00:11:37.215 --> 00:11:40.370
+is being absorbed. If it stays sub-sixty all week, something
+
+00:11:40.370 --> 00:11:43.524
+structural is dragging that the news isn't reporting — and
+
+00:11:43.524 --> 00:11:46.679
+your application thread should re-weight to lead with revenue and
+
+00:11:46.679 --> 00:11:49.834
+infrastructure rather than market validation. Second, the Apple Siri-Gemini partnership
+
+00:11:49.834 --> 00:11:52.989
+rumor. If the WWDC twenty-twenty-six keynote on June eighth confirms
+
+00:11:52.989 --> 00:11:56.144
+Google as the fallback L-L-M partner, the Anthropic-Apple narrative is
+
+00:11:56.144 --> 00:11:59.299
+functionally over for this product cycle. That's six weeks out.
+
+00:11:59.299 --> 00:12:02.453
+The earlier signal will be Apple's enterprise messaging in the
+
+00:12:02.453 --> 00:12:05.608
+May newsroom posts. Third, the Iran diplomatic vehicle of the
+
+00:12:05.608 --> 00:12:08.763
+week. Pakistan didn't produce a process. Russia is the new
+
+00:12:08.763 --> 00:12:11.918
+venue as of Monday morning. Watch whether Trump's "they can
+
+00:12:11.918 --> 00:12:15.073
+come to us, or they can call us" framing produces
+
+00:12:15.073 --> 00:12:18.227
+an actual phone-diplomacy readout, or whether the "structural blockade with
+
+00:12:18.227 --> 00:12:21.382
+rotating diplomatic theater" pattern just continues. The Trump-announces-blockade-lifted-by-April-thirtieth contract is
+
+00:12:21.382 --> 00:12:24.537
+the cleanest single market for that question; it sat at
+
+00:12:24.537 --> 00:12:27.692
+eight point eight percent Sunday morning and added two points
+
+00:12:27.692 --> 00:12:30.847
+overnight on substantive volume. And one personal-thread item: the W-A
+
+00:12:30.847 --> 00:12:34.002
+flights deadline. Sunday came and went. Either you booked outside
+
+00:12:34.002 --> 00:12:37.156
+of email or the deadline got punted silently. One-line ground-truth
+
+00:12:37.156 --> 00:12:40.311
+check this morning — booked, or new deadline named. Closing.
+
+00:12:40.311 --> 00:12:43.466
+Halfway through Project Arete. Halfway through April. The runner sat
+
+00:12:43.466 --> 00:12:46.621
+down in front of the fifteenth stone in this morning's
+
+00:12:46.621 --> 00:12:49.776
+fiction and could not remember why he had picked the
+
+00:12:49.776 --> 00:12:52.930
+right hand. The first half had been about getting to
+
+00:12:52.930 --> 00:12:56.085
+fifteen. The second half is about something he hasn't named
+
+00:12:56.085 --> 00:12:59.240
+yet. There are some weeks where the question for the
+
+00:12:59.240 --> 00:13:02.395
+week is, "what did you build." There are other weeks
+
+00:13:02.395 --> 00:13:05.550
+where the question is, "what built you." This was probably
+
+00:13:05.550 --> 00:13:08.705
+the second kind. Anthropic got bigger; Apple got handed off;
+
+00:13:08.705 --> 00:13:11.859
+Iran kept rotating; the Correspondents' Dinner reminded everyone that political
+
+00:13:11.859 --> 00:13:15.014
+violence is now a pattern and not an incident; and
+
+00:13:15.014 --> 00:13:18.169
+you, in the middle of all that, had a hard
+
+00:13:18.169 --> 00:13:21.324
+conversation with your partner that didn't break, ran a friend
+
+00:13:21.324 --> 00:13:24.479
+hangout that compounded, shipped a publishing system a week early,
+
+00:13:24.479 --> 00:13:27.633
+and crossed the halfway stone of the project that's supposed
+
+00:13:27.633 --> 00:13:30.788
+to teach you something about deliberate work. The week ahead
+
+00:13:30.788 --> 00:13:33.943
+has a haircut, an earnings call, a half-marathon you're not
+
+00:13:33.943 --> 00:13:37.098
+running, and a five-K you are. Plus a "later" conversation
+
+00:13:37.098 --> 00:13:40.253
+that has waited five days and shouldn't wait seven. Capital
+
+00:13:40.253 --> 00:13:43.408
+City Race: twelve days out. Project Arete: Day fifteen of
+
+00:13:43.408 --> 00:13:46.562
+thirty. Tacoma City Half Marathon: six days out, partner running
+
+00:13:46.562 --> 00:13:49.717
+it. Earnings season for the company you're applying to: Thursday
+
+00:13:49.717 --> 00:13:52.872
+afternoon. Have a good Monday. The stone is warm. Go.

@@ -29,6 +29,64 @@
     <podcast:locked>no</podcast:locked>
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
   <item>
+    <title>Week in Review -- April 27, 2026</title>
+    <description>Weekly newspaper edition — week in review for the week of April 21-27, 2026, plus the week ahead. Anthropic's run on capital and partnerships, Apple's CEO transition, Iran's diplomatic carousel, the WHCD shooting, and the personal threads compounding underneath.
+
+00:00:00 Opening
+00:00:34 The Week That Was
+00:01:41 Highlights & Wins
+00:03:55 Stories That Evolved
+00:07:21 Vault Activity
+00:08:37 Relationship Check
+00:09:42 Week Ahead
+00:11:22 What to Watch
+00:12:39 Closing</description>
+    <content:encoded><![CDATA[<h2>Week in Review: April 21-27, 2026</h2>
+<p>The Sunday newspaper edition. The week the labs got bigger and the markets shrugged.</p>
+
+<h3>Stories That Evolved</h3>
+<ul>
+<li><strong>Anthropic ran the table on capital and partnerships.</strong> Amazon $25B Monday, NEC Wednesday, Boris Cherny Claude Code post-mortem Thursday, Google up to $40B at $350B valuation Friday — and the Anthropic > OpenAI 2026 spread market went down from 64% to 57.77% across the same week. <a href="https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic">Bloomberg →</a> | <a href="https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html">CNBC →</a></li>
+<li><strong>Iran's diplomatic carousel.</strong> Trump extended ceasefire indefinitely Tuesday, IRGC seized two tankers Wednesday, "shoot and kill" order Thursday, Pakistan trip cancelled Saturday. By Monday, Araghchi is in Russia. <a href="https://www.aljazeera.com/news/liveblog/2026/4/27/iran-war-live-araghchi-to-meet-putin-trump-says-tehran-can-call-for-talks">Al Jazeera →</a></li>
+<li><strong>Apple's CEO transition lands and Ternus gets the foldable.</strong> Sunday's Power On framed the foldable iPhone fall 2026 as Ternus's first major product. WWDC 2026 Siri redesign teaser hints at the new Dynamic Island interface. <a href="https://www.macrumors.com/2026/04/19/wwdc-2026-graphic-teases-ios-27-feature/">MacRumors →</a></li>
+</ul>
+
+<h3>Highlights and Wins</h3>
+<ul>
+<li>Tutor Loop launched a week early — first dry-run shipped on the AMOC piece</li>
+<li>Project Arete crossed the halfway stone (Day 15 of 30)</li>
+<li>Anthropic application thread substantively advanced — three differentiated angles now in the portfolio</li>
+<li>Justin / Erin at Irene's Saturday — third in-person hang in two months</li>
+<li>Katelyn came back warm after Wednesday's hard conversation; sent an Anthropic Greenhouse posting Sunday afternoon unprompted</li>
+</ul>
+
+<h3>The Week Ahead</h3>
+<ul>
+<li><strong>Thursday April 30:</strong> Hormuz Apr-30 mirror resolves NO; Alphabet earnings call (Pichai on Anthropic deal); haircut 5pm; payday</li>
+<li><strong>Friday May 1:</strong> Capital City Race taper begins</li>
+<li><strong>Sunday May 3:</strong> Katelyn and Jenn run Tacoma City Half Marathon</li>
+<li><strong>Saturday May 9:</strong> Capital City Race 5K — sunny, 68 forecast</li>
+</ul>
+
+<h3>What to Watch</h3>
+<ul>
+<li>Anthropic > OpenAI 2026 spread trajectory on full Monday volume</li>
+<li>Apple Siri-Gemini partnership rumor (vs. Anthropic) heading into WWDC June 8</li>
+<li>Iran's Russia diplomacy — does it produce a process or just a press cycle</li>
+<li>The "later" conversation with Katelyn — five days un-scheduled and counting</li>
+</ul>
+
+<p><em>Generated autonomously by the weekly-briefing skill. Voice: en-US-GuyNeural (Monday default).</em></p>]]></content:encoded>
+    <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/weekly-briefing-2026-04-27-audio.mp3" length="5404217" type="audio/mpeg"/>
+    <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/episode-art-weekly-2026-04-27.jpg"/>
+    <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-weekly-2026-04-27.vtt" type="text/vtt" language="en"/>
+    <guid isPermaLink="false">weekly-2026-04-27</guid>
+    <pubDate>Mon, 27 Apr 2026 06:44:58 -0500</pubDate>
+    <itunes:duration>13:52</itunes:duration>
+    <itunes:episode>62</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
   <title>Nightcap — Sunday, April 26, 2026</title>
   <description>Evening change-focused briefing — what moved, what landed, one thing worth sitting with. WHCD shooting, Iran markets re-pricing in two directions at once, Bloomberg on Cook's pipeline for Ternus, and Katelyn sends an Anthropic Greenhouse posting unprompted.
 
