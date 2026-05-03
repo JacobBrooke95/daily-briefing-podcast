@@ -1,0 +1,532 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+This is Jacob's Research Journal. Today's deep dive: What "fifty-five
+
+00:00:04.000 --> 00:00:08.000
+percent replicate" actually means. The headline number from the biggest
+
+00:00:08.000 --> 00:00:12.000
+replication study social science has ever run sounds almost reassuring.
+
+00:00:12.000 --> 00:00:16.000
+Fifty-five percent of findings held up. Slightly better than a
+
+00:00:16.000 --> 00:00:20.000
+coin flip. Half the building is still standing. But "fifty-five
+
+00:00:20.000 --> 00:00:24.000
+percent replicate" is, it turns out, the optimistic interpretation. If
+
+00:00:24.000 --> 00:00:28.000
+you look at what happened to the studies that did
+
+00:00:28.000 --> 00:00:32.000
+replicate — not just whether they were statistically significant, but
+
+00:00:32.000 --> 00:00:36.000
+how big the effects were — the picture looks considerably
+
+00:00:36.000 --> 00:00:40.000
+worse. The median effect size in original papers was a
+
+00:00:40.000 --> 00:00:44.000
+Pearson's r of zero-point-two-five. In the replications, it was zero-point-one-zero.
+
+00:00:44.000 --> 00:00:48.000
+That's an eighty-two-point-four percent reduction in shared variance. The researchers
+
+00:00:48.000 --> 00:00:52.000
+ran these replications with median statistical power of ninety-nine-point-six percent,
+
+00:00:52.000 --> 00:00:56.000
+meaning they were essentially guaranteed to detect the original effect
+
+00:00:56.000 --> 00:01:00.000
+if it existed at the original size. What they found
+
+00:01:00.000 --> 00:01:04.000
+instead was a ghost of it. That number deserves more
+
+00:01:04.000 --> 00:01:08.000
+attention than it's getting. The study. In April twenty-twenty-six, Nature
+
+00:01:08.000 --> 00:01:12.000
+published a suite of companion papers reporting the results of
+
+00:01:12.000 --> 00:01:16.000
+a years-long, multi-institution effort to replicate and assess reproducibility across
+
+00:01:16.000 --> 00:01:20.000
+the social and behavioral sciences. The primary replication paper, led
+
+00:01:20.000 --> 00:01:24.000
+by researchers affiliated with dozens of universities, attempted to replicate
+
+00:01:24.000 --> 00:01:28.000
+two hundred and seventy-four specific claims from one hundred and
+
+00:01:28.000 --> 00:01:32.000
+sixty-four papers published between two-thousand-nine and two-thousand-eighteen, drawn from fifty-four
+
+00:01:32.000 --> 00:01:36.000
+journals spanning psychology, economics, sociology, education, and political science. The
+
+00:01:36.000 --> 00:01:40.000
+replications were pre-registered, used original materials wherever available, and were
+
+00:01:40.000 --> 00:01:44.000
+internally peer-reviewed before the results were known. This wasn't a
+
+00:01:44.000 --> 00:01:48.000
+sloppy gotcha exercise — it was as rigorous as large-scale
+
+00:01:48.000 --> 00:01:52.000
+replication gets. The fifty-five-point-one percent figure — that's one hundred
+
+00:01:52.000 --> 00:01:56.000
+and fifty-one of two hundred and seventy-four claims, with a
+
+00:01:56.000 --> 00:02:00.000
+ninety-five percent confidence interval from forty-nine-point-two to sixty-point-nine percent —
+
+00:02:00.000 --> 00:02:04.000
+is the rate at which replications produced a statistically significant
+
+00:02:04.000 --> 00:02:08.000
+result in the same direction as the original. That's one
+
+00:02:08.000 --> 00:02:12.000
+reasonable definition of "replication." But it's the most generous one.
+
+00:02:12.000 --> 00:02:16.000
+By a per-paper measure, accounting for papers with multiple claims,
+
+00:02:16.000 --> 00:02:20.000
+the rate drops to forty-nine-point-three percent. And when you look
+
+00:02:20.000 --> 00:02:24.000
+at effect sizes — how strong the effect is, not
+
+00:02:24.000 --> 00:02:28.000
+just whether it exists — the picture changes completely. Even
+
+00:02:28.000 --> 00:02:32.000
+papers that "replicated" did so at dramatically lower magnitudes. An
+
+00:02:32.000 --> 00:02:36.000
+effect that was supposed to explain six percent of variance
+
+00:02:36.000 --> 00:02:40.000
+in the original study explains one percent in the replication.
+
+00:02:40.000 --> 00:02:44.000
+Statistically significant, but not the same finding. This matters because
+
+00:02:44.000 --> 00:02:48.000
+most of what social-science findings get used for — policy
+
+00:02:48.000 --> 00:02:52.000
+recommendations, media coverage, classroom instruction, clinical practice guidelines — depends
+
+00:02:52.000 --> 00:02:56.000
+on magnitude, not just direction. Knowing that some intervention has
+
+00:02:56.000 --> 00:03:00.000
+an effect on some outcome is almost useless. Knowing how
+
+00:03:00.000 --> 00:03:04.000
+big the effect is, whether it's big enough to matter
+
+00:03:04.000 --> 00:03:08.000
+in the real world, whether it replicates at practical scale
+
+00:03:08.000 --> 00:03:12.000
+— that's what makes a finding actionable. And on that
+
+00:03:12.000 --> 00:03:16.000
+standard, the replication picture is considerably darker than fifty-five percent.
+
+00:03:16.000 --> 00:03:20.000
+The citation paradox. The twenty-twenty-six Nature findings raise a question
+
+00:03:20.000 --> 00:03:24.000
+that researchers had already started to answer before this study
+
+00:03:24.000 --> 00:03:28.000
+was published: what actually happens after a finding fails to
+
+00:03:28.000 --> 00:03:32.000
+replicate? In twenty-twenty-one, researchers Marta Serra-Garcia and Uri Gneezy published
+
+00:03:32.000 --> 00:03:36.000
+a paper in Science Advances with an unsettling finding about
+
+00:03:36.000 --> 00:03:40.000
+citation patterns. They looked at papers that had undergone replication
+
+00:03:40.000 --> 00:03:44.000
+attempts and compared how often papers that replicated got cited
+
+00:03:44.000 --> 00:03:48.000
+versus papers that didn't. The result: nonreplicable publications were cited
+
+00:03:48.000 --> 00:03:52.000
+roughly sixteen times more per year than replicable ones. This
+
+00:03:52.000 --> 00:03:56.000
+difference didn't change after the replication failures were published. More
+
+00:03:56.000 --> 00:04:00.000
+striking: only twelve percent of citations to papers after a
+
+00:04:00.000 --> 00:04:04.000
+failed replication made any reference to the failure. Think about
+
+00:04:04.000 --> 00:04:08.000
+what that means structurally. The replication system is designed to
+
+00:04:08.000 --> 00:04:12.000
+correct the scientific record. When a finding fails to replicate,
+
+00:04:12.000 --> 00:04:16.000
+the theory is that scientists update their beliefs, stop building
+
+00:04:16.000 --> 00:04:20.000
+on that finding, and eventually it fades from the literature.
+
+00:04:20.000 --> 00:04:24.000
+The Serra-Garcia and Gneezy data shows that's not what happens.
+
+00:04:24.000 --> 00:04:28.000
+The record-correction mechanism is almost inert. Failed findings keep accumulating
+
+00:04:28.000 --> 00:04:32.000
+citations, keep getting taught, keep influencing the research questions other
+
+00:04:32.000 --> 00:04:36.000
+scientists ask. The correction is quietly ignored. Why? The incentives
+
+00:04:36.000 --> 00:04:40.000
+are backwards. A surprising, counterintuitive finding that generates massive citations
+
+00:04:40.000 --> 00:04:44.000
+— even if it later fails to replicate — makes
+
+00:04:44.000 --> 00:04:48.000
+a career. The replication paper that kills it generates a
+
+00:04:48.000 --> 00:04:52.000
+fraction of the attention. The journal that publishes the original
+
+00:04:52.000 --> 00:04:56.000
+study benefits from the prestige; the journal that publishes the
+
+00:04:56.000 --> 00:05:00.000
+correction benefits from very little. There's no formal mechanism to
+
+00:05:00.000 --> 00:05:04.000
+demote a high-cited paper because it failed to replicate; it
+
+00:05:04.000 --> 00:05:08.000
+still shows up at the top of Google Scholar, still
+
+00:05:08.000 --> 00:05:12.000
+gets included in meta-analyses, still makes its way into the
+
+00:05:12.000 --> 00:05:16.000
+textbooks. Discipline variation. The twenty-twenty-six Nature papers also show meaningful
+
+00:05:16.000 --> 00:05:20.000
+variation across disciplines, which is analytically interesting because it suggests
+
+00:05:20.000 --> 00:05:24.000
+the problem isn't uniformly distributed — and therefore might have
+
+00:05:24.000 --> 00:05:28.000
+identifiable causes. Education achieved the highest replication rate at approximately
+
+00:05:28.000 --> 00:05:32.000
+sixty-three percent; economics fell to the bottom at roughly forty-three
+
+00:05:32.000 --> 00:05:36.000
+percent, according to coverage of the study. The specific discipline
+
+00:05:36.000 --> 00:05:40.000
+rankings carry uncertainty given the small samples involved; the Nature
+
+00:05:40.000 --> 00:05:44.000
+authors note that some discipline estimates have, quote, high uncertainty.
+
+00:05:44.000 --> 00:05:48.000
+One interpretation: economics has a higher rate of field experiments
+
+00:05:48.000 --> 00:05:52.000
+and natural experiments that are inherently hard to replicate exactly,
+
+00:05:52.000 --> 00:05:56.000
+because the circumstances change. Another interpretation: economics has stronger norms
+
+00:05:56.000 --> 00:06:00.000
+around sharp causal identification than, say, social psychology — which
+
+00:06:00.000 --> 00:06:04.000
+means the claims that make it into high-prestige journals are
+
+00:06:04.000 --> 00:06:08.000
+more often exactly the kind of surprising, counterintuitive treatment effects
+
+00:06:08.000 --> 00:06:12.000
+that are vulnerable to p-hacking and publication bias. The discipline
+
+00:06:12.000 --> 00:06:16.000
+with the most rigorous-seeming methods may have the worst replication
+
+00:06:16.000 --> 00:06:20.000
+problem precisely because the methods provide good cover for over-claiming.
+
+00:06:20.000 --> 00:06:24.000
+There's a companion paper in the same Nature issue on
+
+00:06:24.000 --> 00:06:28.000
+economics and political science specifically, which found eighty-five percent of
+
+00:06:28.000 --> 00:06:32.000
+published claims were computationally reproducible — meaning you can rerun
+
+00:06:32.000 --> 00:06:36.000
+the code and get the same numbers — but only
+
+00:06:36.000 --> 00:06:40.000
+seventy-two percent were statistically robust to reasonable variations in specification.
+
+00:06:40.000 --> 00:06:44.000
+Reproducibility and replicability are different standards. You can reproduce the
+
+00:06:44.000 --> 00:06:48.000
+exact numbers from a published dataset while the underlying claim
+
+00:06:48.000 --> 00:06:52.000
+still doesn't hold up in a new sample. The eighty-five
+
+00:06:52.000 --> 00:06:56.000
+percent figure is often cited as reassuring; it's mostly measuring
+
+00:06:56.000 --> 00:07:00.000
+whether the code runs, not whether the finding is real.
+
+00:07:00.000 --> 00:07:04.000
+Why reform isn't working. The obvious policy response to a
+
+00:07:04.000 --> 00:07:08.000
+replication crisis is open science reform: pre-registration — committing publicly
+
+00:07:08.000 --> 00:07:12.000
+to your hypothesis and analysis plan before running the experiment
+
+00:07:12.000 --> 00:07:16.000
+— data sharing, and registered reports, where journals agree to
+
+00:07:16.000 --> 00:07:20.000
+publish a study before seeing the results. These are good
+
+00:07:20.000 --> 00:07:24.000
+ideas in principle, and they've been spreading through psychology and
+
+00:07:24.000 --> 00:07:28.000
+economics for the better part of a decade. So how's
+
+00:07:28.000 --> 00:07:32.000
+that working? The evidence is mixed, and some of it
+
+00:07:32.000 --> 00:07:36.000
+is actively discouraging. A twenty-twenty-five analysis of articles that earned
+
+00:07:36.000 --> 00:07:40.000
+pre-registration badges at Psychological Science found that eighty-nine percent included
+
+00:07:40.000 --> 00:07:44.000
+undisclosed changes to the original pre-registration plan — modifications to
+
+00:07:44.000 --> 00:07:48.000
+the hypothesis, the variables, the exclusion criteria, or the analytic
+
+00:07:48.000 --> 00:07:52.000
+approach. The badge, meant to signal methodological rigor, was in
+
+00:07:52.000 --> 00:07:56.000
+most cases masking researcher degrees of freedom just as it
+
+00:07:56.000 --> 00:08:00.000
+was being claimed to eliminate them. The reform was being
+
+00:08:00.000 --> 00:08:04.000
+gamed before it had fully arrived. Pre-registration doesn't fail because
+
+00:08:04.000 --> 00:08:08.000
+scientists are dishonest. It fails because there's no credible enforcement
+
+00:08:08.000 --> 00:08:12.000
+mechanism and the underlying incentives — the career reward for
+
+00:08:12.000 --> 00:08:16.000
+a significant finding — haven't changed. If getting a significant
+
+00:08:16.000 --> 00:08:20.000
+result is what gets you tenure and what gets you
+
+00:08:20.000 --> 00:08:24.000
+published in the journals that confer prestige, and if pre-registration
+
+00:08:24.000 --> 00:08:28.000
+only somewhat raises the cost of adjusting the analysis, many
+
+00:08:28.000 --> 00:08:32.000
+researchers will adjust the analysis. The structural problem isn't transparency.
+
+00:08:32.000 --> 00:08:36.000
+It's that the currency of science is novel positive results,
+
+00:08:36.000 --> 00:08:40.000
+and no amount of transparency reform changes what the market
+
+00:08:40.000 --> 00:08:44.000
+is paying for. Registered reports — where journals agree in
+
+00:08:44.000 --> 00:08:48.000
+advance to publish the results regardless of outcome — do
+
+00:08:48.000 --> 00:08:52.000
+substantially better. A twenty-twenty-one analysis found that only forty-four percent
+
+00:08:52.000 --> 00:08:56.000
+of registered report studies confirmed their primary hypothesis, compared to
+
+00:08:56.000 --> 00:09:00.000
+ninety-six percent of conventional psychology publications. That fifty-two-point gap is
+
+00:09:00.000 --> 00:09:04.000
+itself a measure of how much publication bias dominates the
+
+00:09:04.000 --> 00:09:08.000
+conventional literature. What would actually help. A few things appear
+
+00:09:08.000 --> 00:09:12.000
+promising. Results-blind peer review, where reviewers see the methods and
+
+00:09:12.000 --> 00:09:16.000
+data but not the findings before deciding whether to accept
+
+00:09:16.000 --> 00:09:20.000
+the paper, is another intervention with theoretical appeal and limited
+
+00:09:20.000 --> 00:09:24.000
+empirical testing. Citation correction mechanisms — tools that automatically flag
+
+00:09:24.000 --> 00:09:28.000
+high-cited papers with known replication failures in Google Scholar and
+
+00:09:28.000 --> 00:09:32.000
+institutional databases — would help if they existed at scale.
+
+00:09:32.000 --> 00:09:36.000
+The harder problem is that science's incentive structure is set
+
+00:09:36.000 --> 00:09:40.000
+by universities, not journals. Universities make hiring and tenure decisions
+
+00:09:40.000 --> 00:09:44.000
+based on citation counts and journal prestige, both of which
+
+00:09:44.000 --> 00:09:48.000
+currently reward the wrong things. Until those signals change —
+
+00:09:48.000 --> 00:09:52.000
+until a lab that publishes ten rigorous small-effect replications is
+
+00:09:52.000 --> 00:09:56.000
+as valuable on the market as one that publishes one
+
+00:09:56.000 --> 00:10:00.000
+splashy overclocked positive result — the structural incentive to over-claim
+
+00:10:00.000 --> 00:10:04.000
+remains. The number they chose to lead with. The fifty-five
+
+00:10:04.000 --> 00:10:08.000
+percent headline is not a crisis number by accident. It's
+
+00:10:08.000 --> 00:10:12.000
+the right number to announce. It sounds like the glass
+
+00:10:12.000 --> 00:10:16.000
+is half full. It doesn't sound like the crisis is
+
+00:10:16.000 --> 00:10:20.000
+ongoing, like the incentive structure is working against the correction
+
+00:10:20.000 --> 00:10:24.000
+mechanism, like the effect sizes that did replicate came in
+
+00:10:24.000 --> 00:10:28.000
+at about eighteen percent of their original explanatory power. It
+
+00:10:28.000 --> 00:10:32.000
+sounds like a problem that science is working through. The
+
+00:10:32.000 --> 00:10:36.000
+actual picture from the April twenty-twenty-six Nature study is that
+
+00:10:36.000 --> 00:10:40.000
+the underlying incentive structure is largely unchanged. The most visible
+
+00:10:40.000 --> 00:10:44.000
+sign: post-failure citation behavior shows the record-correction mechanism reaching only
+
+00:10:44.000 --> 00:10:48.000
+twelve percent of subsequent scholarship on failed findings. The fields
+
+00:10:48.000 --> 00:10:52.000
+most associated with rigorous causal identification may have the lowest
+
+00:10:52.000 --> 00:10:56.000
+replication rates. And the reforms we've implemented so far are
+
+00:10:56.000 --> 00:11:00.000
+being absorbed by the same incentive structure they were supposed
+
+00:11:00.000 --> 00:11:04.000
+to fix. That's not a reason to distrust social science
+
+00:11:04.000 --> 00:11:08.000
+wholesale — the fifty-five percent that replicated is real, and
+
+00:11:08.000 --> 00:11:12.000
+the broader literature on effect sizes and statistical power has
+
+00:11:12.000 --> 00:11:16.000
+genuinely changed how researchers design studies. But it is a
+
+00:11:16.000 --> 00:11:20.000
+reason to read the next "surprising new study shows X"
+
+00:11:20.000 --> 00:11:24.000
+headline with a different frame: not "this finding probably holds
+
+00:11:24.000 --> 00:11:28.000
+up" but "this finding is surprising enough to have gotten
+
+00:11:28.000 --> 00:11:32.000
+into a top journal, which means it was probably selected
+
+00:11:32.000 --> 00:11:36.000
+for being surprising, which means it faces long odds." That's
+
+00:11:36.000 --> 00:11:40.000
+the "What fifty-five percent replicate actually means" deep dive. Full
+
+00:11:40.000 --> 00:11:44.000
+post and sources at jacobbrooke-ninety-five dot github dot i-o slash
+
+00:11:44.000 --> 00:11:45.600
+jacobs-research-journal. Thanks for listening.

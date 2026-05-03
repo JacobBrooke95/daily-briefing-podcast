@@ -23,12 +23,36 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <copyright>&#xA9; 2026 Jacob Brooke</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 13:00:03 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 01:06:47 -0500</lastBuildDate>
     <podcast:guid>ca4c1a03-0abb-5edc-9a6d-d40c796ecdab</podcast:guid>
     <podcast:medium>podcast</podcast:medium>
     <podcast:locked>no</podcast:locked>
     <podcast:txt purpose="ai-content">This podcast is generated with the assistance of AI (Claude by Anthropic).</podcast:txt>
   <item>
+      <title>Deep Dive -- What 55 Percent Replicate Actually Means</title>
+      <description>The biggest social-science replication project ever run returned a reassuring 55% headline. Effect sizes collapsed from r=0.25 to r=0.10. Post-failure citation behavior reaches only 12% of subsequent scholarship.
+
+Link: https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-05-02-replication-citation-paradox.html
+
+00:00:00 Introduction
+00:00:52 The Study
+00:03:20 The Citation Paradox
+00:05:00 Discipline Variation
+00:06:40 Why Reform Isn't Working
+00:08:40 What Would Actually Help
+00:10:00 The Number They Chose</description>
+      <content:encoded><![CDATA[<p>Effect sizes collapsed from r=0.25 to r=0.10 at 99.6% power. Papers that fail to replicate are cited 16x more per year, and 88% of post-failure citations make no mention of the failure. <a href="https://jacobbrooke95.github.io/jacobs-research-journal/posts/2026-05-02-replication-citation-paradox.html">Read the full post</a></p>]]></content:encoded>
+      <enclosure url="https://jacobbrooke95.github.io/daily-briefing-podcast/episodes/deepdive-2026-05-02-replication-citation-paradox.mp3" length="4473782" type="audio/mpeg"/>
+      <itunes:image href="https://jacobbrooke95.github.io/daily-briefing-podcast/artwork-deepdive-2026-05-02-replication-citation-paradox.jpg"/>
+      <podcast:transcript url="https://jacobbrooke95.github.io/daily-briefing-podcast/transcripts/transcript-deepdive-2026-05-02-replication-citation-paradox.vtt" type="text/vtt" language="en"/>
+      <guid isPermaLink="false">deepdive-2026-05-02-replication-citation-paradox</guid>
+      <pubDate>Sun, 03 May 2026 01:06:47 -0500</pubDate>
+      <itunes:duration>11:36</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
     <title>Week in Review -- April 27, 2026</title>
     <description>Weekly newspaper edition — week in review for the week of April 21-27, 2026, plus the week ahead. Anthropic's run on capital and partnerships, Apple's CEO transition, Iran's diplomatic carousel, the WHCD shooting, and the personal threads compounding underneath.
 
